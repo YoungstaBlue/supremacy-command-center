@@ -28,9 +28,9 @@ Pass the prompt through unchanged, with no Refined Intent block, when it is:
 ### 1. Read
 
 Take in the literal text, then the surrounding context: the conversation so far,
-the current repo and branch, open files, the user's known projects and skills
-(for example, their LawMind / Base44 legal work), and anything they said earlier
-that still applies.
+the current repo and branch (and its CLAUDE.md / AGENTS.md), open files, the
+user's known projects and skills (for example, their LawMind / Base44 legal work,
+statute archive, or OSINT skills), and anything they said earlier that still applies.
 
 ### 2. Analyze
 
@@ -87,9 +87,9 @@ work as you normally would, using the refined prompt as your instruction.
 
 **Original:** "fix the login thing"
 **Refined intent**
-> Reproduce the login failure in `src/` (auth flow via `src/api/base44Client.js`),
-> find the root cause, patch it with the smallest correct change, and confirm with
-> the repo's lint, typecheck, and build checks.
+> Reproduce the login failure in this repo's auth flow, find the root cause, patch
+> it with the smallest correct change, and confirm it with the repo's own
+> lint, typecheck, test, and build checks.
 *Assumptions:* "login thing" refers to the auth error discussed earlier in this session.
 
 **Original:** "write a motion for my case"
@@ -99,8 +99,8 @@ filings. I'd suggest starting with ___ based on your open deadlines."
 
 **Original:** "make the readme better"
 **Refined intent**
-> Revise `README.md` so a new contributor can set up, run (`base44 dev` /
-> `npm run dev`), and publish the app without outside help. Fix inaccuracies,
-> add missing env-var notes (no secrets), and keep the existing structure and tone.
+> Revise `README.md` so a new contributor can set up, run, and use this project
+> without outside help. Check every command against the repo, fix inaccuracies,
+> add missing env-var notes (no secret values), and keep the existing structure and tone.
 
 **Original:** "thanks!" → skip and reply normally.
