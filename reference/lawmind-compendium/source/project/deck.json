@@ -1,0 +1,29 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-09-17T00:00:00Z"},
+  "title": "The LawMind Compendium",
+  "order": [
+    "cover", "toc",
+    "part1-intro", "dict-ac", "dict-di", "dict-jp", "dict-qz",
+    "part2-intro", "encyclopedia", "maxims",
+    "part3-intro", "fed-statutes-1", "fed-statutes-2", "fed-statutes-3", "mo-ucc-statutes",
+    "part4-intro", "cases-al", "cases-mz",
+    "part5-reference-library",
+    "part6-intro", "architecture", "platform-audit", "gap-audit",
+    "closing"
+  ],
+  "sections": {
+    "cover": {"description": "Cover", "start": "cover"},
+    "part1": {"description": "The dictionary volumes, A through Z, defining legal terms of art", "start": "part1-intro"},
+    "part2": {"description": "The encyclopedia and Latin maxims, for deeper doctrinal grounding", "start": "part2-intro"},
+    "part3": {"description": "Federal, Missouri, and UCC statutory text organized for citation", "start": "part3-intro"},
+    "part4": {"description": "Case summaries, A through Z, condensing precedent into working notes", "start": "part4-intro"},
+    "part5": {"description": "The reference library, indexing everything else in one place", "start": "part5-reference-library"},
+    "part6": {"description": "How LawMind itself is built, and where it still falls short", "start": "part6-intro"}
+  },
+  "faces": {
+    "eb-garamond": {"family": "EB Garamond", "href": "https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400..700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"},
+    "ibm-plex-sans": {"family": "IBM Plex Sans", "href": "https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400..700&family=IBM+Plex+Sans:wght@400;500;600&display=swap"}
+  },
+  "designSystems": []
+}

@@ -1,0 +1,592 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Pinned Index</title>
+<style>
+  :root{
+    --paper:#FAF6EC;
+    --paper-raised:#F3EDDC;
+    --ink:#221F1A;
+    --ink-soft:#5B5548;
+    --rule:#D9CDAE;
+    --accent:#8A2E2A;
+    --accent-soft:#8A2E2A1A;
+    --gold:#9C7A2E;
+    --font-display:'Fraunces',Georgia,serif;
+    --font-body:'Source Serif 4',Georgia,serif;
+    --font-mono:'IBM Plex Mono',ui-monospace,monospace;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --paper:#181614;
+      --paper-raised:#221F1B;
+      --ink:#EDE6D6;
+      --ink-soft:#B4AB96;
+      --rule:#3A342A;
+      --accent:#D98A80;
+      --accent-soft:#D98A801A;
+      --gold:#D2B15C;
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper:#181614;
+    --paper-raised:#221F1B;
+    --ink:#EDE6D6;
+    --ink-soft:#B4AB96;
+    --rule:#3A342A;
+    --accent:#D98A80;
+    --accent-soft:#D98A801A;
+    --gold:#D2B15C;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--font-body);
+    padding:0 20px;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;}
+  .wrap{max-width:760px;margin:0 auto;padding-block:48px 80px;}
+
+  header.masthead{
+    border-bottom:3px solid var(--ink);
+    padding-bottom:22px;
+    margin-bottom:20px;
+  }
+  .kicker{
+    font-family:var(--font-mono);
+    font-size:12px;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    color:var(--gold);
+    margin:0 0 10px;
+  }
+  h1{
+    font-family:var(--font-display);
+    font-weight:600;
+    font-size:clamp(34px,7vw,52px);
+    line-height:1.02;
+    margin:0 0 12px;
+    text-wrap:balance;
+    letter-spacing:-0.01em;
+  }
+  .dek{
+    font-size:16px;
+    color:var(--ink-soft);
+    max-width:56ch;
+    margin:0;
+    line-height:1.55;
+  }
+  .stat-row{
+    display:flex;
+    gap:28px;
+    margin-top:20px;
+    flex-wrap:wrap;
+  }
+  .stat{display:flex;flex-direction:column;gap:2px;}
+  .stat b{
+    font-family:var(--font-mono);
+    font-size:20px;
+    font-variant-numeric:tabular-nums;
+  }
+  .stat span{
+    font-size:11px;
+    text-transform:uppercase;
+    letter-spacing:.08em;
+    color:var(--ink-soft);
+  }
+
+  .consolidation-note{
+    margin:20px 0 36px;
+    background:var(--accent-soft);
+    border-left:3px solid var(--accent);
+    border-radius:0 4px 4px 0;
+    padding:14px 18px;
+    font-size:13.5px;
+    color:var(--ink-soft);
+    line-height:1.55;
+  }
+  .consolidation-note b{color:var(--ink);}
+
+  nav.toc{
+    background:var(--paper-raised);
+    border:1px solid var(--rule);
+    border-radius:2px;
+    padding:20px 22px;
+    margin-bottom:44px;
+  }
+  nav.toc .toc-title{
+    font-family:var(--font-mono);
+    font-size:11px;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:var(--ink-soft);
+    margin:0 0 12px;
+  }
+  nav.toc ol{
+    list-style:none;
+    margin:0;
+    padding:0;
+    display:grid;
+    gap:8px;
+  }
+  nav.toc li{
+    display:flex;
+    align-items:baseline;
+    gap:10px;
+    font-size:15px;
+  }
+  nav.toc a{
+    text-decoration:none;
+    display:flex;
+    align-items:baseline;
+    gap:10px;
+    width:100%;
+  }
+  nav.toc .n{
+    font-family:var(--font-mono);
+    color:var(--gold);
+    font-size:13px;
+    flex:0 0 auto;
+  }
+  nav.toc .t{border-bottom:1px dotted var(--rule);flex:1;}
+  nav.toc .c{
+    font-family:var(--font-mono);
+    font-size:12px;
+    color:var(--ink-soft);
+    flex:0 0 auto;
+  }
+
+  section.chapter{margin-bottom:52px;}
+  .chapter-head{
+    display:flex;
+    align-items:baseline;
+    gap:14px;
+    border-bottom:2px solid var(--ink);
+    padding-bottom:10px;
+    margin-bottom:6px;
+  }
+  .chapter-head .roman{
+    font-family:var(--font-mono);
+    font-size:14px;
+    color:var(--gold);
+  }
+  .chapter-head h2{
+    font-family:var(--font-display);
+    font-size:24px;
+    font-weight:600;
+    margin:0;
+    flex:1;
+  }
+  .chapter-note{
+    font-size:13px;
+    color:var(--ink-soft);
+    margin:0 0 18px;
+    line-height:1.5;
+  }
+
+  .entry{
+    display:grid;
+    grid-template-columns:52px 1fr;
+    gap:16px;
+    padding-block:16px;
+    border-bottom:1px solid var(--rule);
+  }
+  .entry:last-child{border-bottom:none;}
+  .entry .vol{
+    font-family:var(--font-mono);
+    font-size:12px;
+    color:var(--ink-soft);
+    padding-top:2px;
+  }
+  .entry .body{min-width:0;}
+  .entry .title-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    gap:12px;
+    flex-wrap:wrap;
+  }
+  .entry a.title{
+    font-family:var(--font-display);
+    font-weight:600;
+    font-size:17px;
+    text-decoration:none;
+    border-bottom:1px solid transparent;
+  }
+  .entry a.title:hover{border-bottom-color:var(--accent);}
+  .entry .count{
+    font-family:var(--font-mono);
+    font-size:11px;
+    color:var(--ink-soft);
+    white-space:nowrap;
+    padding-top:3px;
+  }
+  .entry .desc{
+    font-size:14px;
+    color:var(--ink-soft);
+    line-height:1.5;
+    margin:5px 0 8px;
+  }
+  .entry .sections{
+    font-size:12px;
+    color:var(--ink-soft);
+    line-height:1.6;
+  }
+  .entry .sections .lbl{
+    font-family:var(--font-mono);
+    text-transform:uppercase;
+    letter-spacing:.06em;
+    color:var(--gold);
+    font-size:10px;
+    margin-right:6px;
+  }
+  .badge{
+    display:inline-block;
+    font-family:var(--font-mono);
+    font-size:10px;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+    padding:2px 7px;
+    border-radius:2px;
+    background:var(--accent-soft);
+    color:var(--accent);
+    margin-left:8px;
+  }
+  .badge.new{background:var(--accent);color:var(--paper);}
+
+  footer{
+    border-top:2px solid var(--ink);
+    padding-top:18px;
+    margin-top:8px;
+    font-size:12px;
+    color:var(--ink-soft);
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  footer .fmono{font-family:var(--font-mono);}
+
+  @media (max-width:480px){
+    .entry{grid-template-columns:36px 1fr;}
+    nav.toc .c{display:none;}
+  }
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+<div class="wrap">
+
+  <header class="masthead">
+    <p class="kicker">The Garner Case Files — Compiled Index</p>
+    <h1>Index of Pinned Volumes</h1>
+    <p class="dek">Every reference volume, case tool, statute archive, and debate transcript that used to be pinned separately — now behind one table of contents. Each entry links straight to its live page.</p>
+    <div class="stat-row">
+      <div class="stat"><b>1</b><span>Pinned Artifact — This Hub</span></div>
+      <div class="stat"><b>22</b><span>Volumes Indexed</span></div>
+      <div class="stat"><b>4</b><span>Shelves</span></div>
+      <div class="stat"><b>96,000+</b><span>Reference Entries</span></div>
+      <div class="stat fmono" style="font-family:var(--font-mono);"><b>Sep 24</b><span>Compiled</span></div>
+    </div>
+  </header>
+
+  <p class="consolidation-note"><b>Consolidated Sept 24, 2026.</b> This hub replaces 21 individually pinned artifacts — they're now unpinned but still fully live at the links below. Pin only this page and every volume, tool, and archive stays one click away, across every session.</p>
+
+  <nav class="toc" aria-label="Table of contents">
+    <p class="toc-title">Contents</p>
+    <ol>
+      <li><a href="#shelf-1"><span class="n">I.</span><span class="t">Legal Reference Library</span><span class="c">12 vols · 59,535 entries</span></a></li>
+      <li><a href="#shelf-2"><span class="n">II.</span><span class="t">Case Tools &amp; Operations</span><span class="c">3 apps</span></a></li>
+      <li><a href="#shelf-3"><span class="n">III.</span><span class="t">Statute &amp; Citation Archives</span><span class="c">2 volumes</span></a></li>
+      <li><a href="#shelf-4"><span class="n">IV.</span><span class="t">Venture Debate Transcripts</span><span class="c">4 transcripts</span></a></li>
+    </ol>
+  </nav>
+
+  <!-- SHELF I -->
+  <section class="chapter" id="shelf-1">
+    <div class="chapter-head">
+      <span class="roman">I</span>
+      <h2>Legal Reference Library</h2>
+    </div>
+    <p class="chapter-note">The LawMind AI offline export — dictionary, case-summary, statute, and encyclopedia volumes pulled from Black's Law, Cornell Wex, and the U.S. Code. Start at the hub if you're looking for a specific volume.</p>
+
+    <div class="entry">
+      <div class="vol">HUB</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/VSM13DCS42DoMBRnPRp932" target="_blank" rel="noopener">LawMind Reference Library<span class="badge">Index</span></a>
+          <span class="count">12 vols</span>
+        </div>
+        <p class="desc">The master index for all 12 library volumes plus practice tools, source provenance, and known-defect notes. Link here first.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 1</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/WfqU4uVNiFJh4BZE9fiLm6" target="_blank" rel="noopener">Dictionary A–C</a>
+          <span class="count">7,905 entries</span>
+        </div>
+        <p class="desc">Black's Law (1910/1933/1968), Wex, and house terms, headwords A through C. Carries case-relevance notes on Actus Reus, Assault, Bias, Conversion.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 2</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/GTjkqarjDYTh8VcsJYqt3i" target="_blank" rel="noopener">Dictionary D–I</a>
+          <span class="count">9,144 entries</span>
+        </div>
+        <p class="desc">Same multi-edition dictionary format, headwords D through I.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 3</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/AyuRcUqfUxzecAw6Aoq8et" target="_blank" rel="noopener">Dictionary J–P</a>
+          <span class="count">8,289 entries</span>
+        </div>
+        <p class="desc">Headwords J through P, with a 53-entry appendix of unplaceable headwords.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 4</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/1pJTUVUvj7dnkYhhYRjhr5" target="_blank" rel="noopener">Dictionary Q–Z</a>
+          <span class="count">7,321 entries</span>
+        </div>
+        <p class="desc">Headwords Q through Z, plus a 93-entry appendix of stray numeric/symbol headwords.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 5</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/3CPpV6VLEsKzqRnNj3iukF" target="_blank" rel="noopener">Latin Maxims</a>
+          <span class="count">219 entries</span>
+        </div>
+        <p class="desc">Latin legal terms and maxims — translation, pronunciation, plain-language gloss, and worked example each.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 6</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/SS3tsJvyqUXNCQxhucfZiB" target="_blank" rel="noopener">Encyclopedia</a>
+          <span class="count">1,450 entries</span>
+        </div>
+        <p class="desc">Cornell Wex–derived and house articles, A to Z, each with an "In short" summary.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 7</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/XXTiorXmcmRCBnmKMxHLPd" target="_blank" rel="noopener">Missouri &amp; UCC Statutes</a>
+          <span class="count">1,409 entries</span>
+        </div>
+        <p class="desc">Missouri CSR titles, RSMo, and UCC sections, with a verified full-text block for the five Marion County case statutes.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 8·I</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/H2uWvAUjP8f2yeXgH45zdQ" target="_blank" rel="noopener">Federal Statutes I</a>
+          <span class="count">2,416 entries</span>
+        </div>
+        <p class="desc">CFR and U.S.C. sections in citation order, 1 CFR through 10 U.S.C. § 6264.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 8·II</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/PhEj4efH9JhcmXui35oy5e" target="_blank" rel="noopener">Federal Statutes II</a>
+          <span class="count">2,851 entries</span>
+        </div>
+        <p class="desc">Continues the run, 10 U.S.C. § 6265 through 13 CFR § 107.503.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 8·III</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/5F9pi1TM343tpfwEx55oz1" target="_blank" rel="noopener">Federal Statutes III</a>
+          <span class="count">3,575 entries</span>
+        </div>
+        <p class="desc">Final run, 13 CFR § 107.504 through 15 CFR § 921.40.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 9</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/8xfTaeco1b4VQdFN3wK9qu" target="_blank" rel="noopener">Case Summaries A–L</a>
+          <span class="count">6,930 entries</span>
+        </div>
+        <p class="desc">Missouri and federal case law, A through L — citation, court, year, jurisdiction, holding where stored.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Vol. 10</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/9vuqGv67JcEAp4snfQwEpz" target="_blank" rel="noopener">Case Summaries M–Z</a>
+          <span class="count">8,026 entries</span>
+        </div>
+        <p class="desc">Continues the case-law run, M through Z. Roughly two-thirds are citation-only stubs.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SHELF II -->
+  <section class="chapter" id="shelf-2">
+    <div class="chapter-head">
+      <span class="roman">II</span>
+      <h2>Case Tools &amp; Operations</h2>
+    </div>
+    <p class="chapter-note">Working applications, not reference volumes — where the actual docket, deadlines, and filing pipeline live.</p>
+
+    <div class="entry">
+      <div class="vol">App</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/VLH8bgw2BZzyii6VUs26w4" target="_blank" rel="noopener">Garner Case Tracker<span class="badge new">New Sept 24</span></a>
+          <span class="count">13 matters</span>
+        </div>
+        <p class="desc">Deadline clock and per-matter status board for every active and held case — accomplished work, outstanding tasks with checkable progress, and open questions.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">App</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/W3sH8cLiUnrrVDSbNupe8X" target="_blank" rel="noopener">Case Hub<span class="badge">Live tool</span></a>
+          <span class="count">2 matters seeded</span>
+        </div>
+        <p class="desc">A working pro se case-management app: dashboard, deadline calculator, documents &amp; exhibits, contacts, research vault, and a 12-item filing-template library. Seeded with the Pike County OOP matter and the Marion County criminal matter.</p>
+        <p class="sections"><span class="lbl">Sections</span>Dashboard · Deadlines · Documents · Contacts · Research Vault · Template Library · Chronology · Notes</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">Plan</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/WW85hGu8kwx5JSfAyaqqHp" target="_blank" rel="noopener">GarnerLawFirm Docket Pipeline<span class="badge">Rollout plan</span></a>
+          <span class="count">35 stages · 16 agents</span>
+        </div>
+        <p class="desc">Master rollout plan consolidating six scattered storage locations into one OneDrive hub, plus the case-lifecycle pipeline that runs on top of it — storage reorganization and case operations, gated by six rules that outrank everything else.</p>
+        <p class="sections"><span class="lbl">Sections</span>How this runs · Six gates · Track A: Storage · Track B: Case Ops · Agent roster · What's waiting on you</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SHELF III -->
+  <section class="chapter" id="shelf-3">
+    <div class="chapter-head">
+      <span class="roman">III</span>
+      <h2>Statute &amp; Citation Archives</h2>
+    </div>
+    <p class="chapter-note">The verbatim, hash-checked source text behind the citations used in Tyler's filings — distinct from the library volumes above, which are broader reference sets.</p>
+
+    <div class="entry">
+      <div class="vol">MD-007</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/U2s6nSvToqLjdYCptWwU4p" target="_blank" rel="noopener">Missouri Statutes, Cited Sections<span class="badge">Verified</span></a>
+          <span class="count">15 statutes</span>
+        </div>
+        <p class="desc">The 15 RSMo sections actually cited in filings, reproduced from the Revisor and checked against the citation log — 14 match, 1 flagged (§ 565.056 shows the not-yet-effective amended text).</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">MD-007</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/1BcZCFXBQDepJHXUPzgxUm" target="_blank" rel="noopener">U.S. Code Verbatim Archive<span class="badge">Verified</span></a>
+          <span class="count">7 statutes</span>
+        </div>
+        <p class="desc">Chain-of-custody archive of the seven federal statutes cited across filings — captured from govinfo.gov, SHA-256 hashed, cross-checked against OLRC release 119-102 (7 of 7 match).</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SHELF IV -->
+  <section class="chapter" id="shelf-4">
+    <div class="chapter-head">
+      <span class="roman">IV</span>
+      <h2>Venture Debate Transcripts</h2>
+    </div>
+    <p class="chapter-note">Twenty-rung "Pinnacle Debate" stress tests on outside business ideas — unrelated to the case files, kept here because they were pinned.</p>
+
+    <div class="entry">
+      <div class="vol">01</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/3FD5xR3jxPr8MAoTJVEXgW" target="_blank" rel="noopener">RaiseRight Debate<span class="badge">Conditional go</span></a>
+          <span class="count">20 rungs</span>
+        </div>
+        <p class="desc">A California AB 1482 rent-increase notice generator with a certified-mail upsell. Verdict: conditional — CA-only, attorney rev-share signed first, mail-verification confirmed.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">02</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/NhHrQna3MbBJF4A7bQfCsq" target="_blank" rel="noopener">InkVault Debate<span class="badge">No fund</span></a>
+          <span class="count">20 rungs</span>
+        </div>
+        <p class="desc">A Google Sheets ink-tracker for fountain-pen collectors. Verdict: would not fund.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">03</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/8LRsMrSB9kx3WGbyp1YsAw" target="_blank" rel="noopener">BloomKit Pinnacle<span class="badge">Conditional go</span></a>
+          <span class="count">20 rungs</span>
+        </div>
+        <p class="desc">A licensed 1,000-activity parenting JSON library. Verdict: conditional — fund a 60-day sprint with a day-60 gate.</p>
+      </div>
+    </div>
+
+    <div class="entry">
+      <div class="vol">04</div>
+      <div class="body">
+        <div class="title-row">
+          <a class="title" href="https://claude.ai/artifact/Kp4LYuXL62MRHiuPVAGHbQ" target="_blank" rel="noopener">ServeLoop Pinnacle</a>
+          <span class="count">20 rungs</span>
+        </div>
+        <p class="desc">A Make.com automation-blueprint bundle for HVAC contractors.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <span>Compiled from 22 volumes, tools, and archives · read-only index, links out to each source · this hub is the only pinned artifact</span>
+    <span class="fmono">Rebuild by re-running this compile whenever something new is pinned</span>
+  </footer>
+
+</div>
+
+</body></html>

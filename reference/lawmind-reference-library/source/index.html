@@ -1,0 +1,172 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>LawMind Reference Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Source+Sans+3:wght@400;600&display=swap">
+<style>
+:root{--paper:#F5F5F1;--paper-2:#EBECE6;--paper-3:#E0E2DA;--ink:#1C1F26;--ink-2:#545A66;--ink-3:#7A8090;--rule:#D8DAD2;
+--accent:#8A2E38;--on-accent:#FFFFFF;--link:#2E5A88;--flag-bg:#FBF1D6;--flag-ink:#6A4B00;--flag-rule:#E3C56C;
+--blacks-ink:#5B4636;--blacks-bg:#EFE7DC;--wex-ink:#2E5A88;--wex-bg:#E2EBF4;--house-ink:#3F6B4F;--house-bg:#E3EEE6;--other-ink:#545A66;--other-bg:#E6E7E2;
+--focus:#8A2E38;color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#16181D;--paper-2:#1F2228;--paper-3:#2A2E36;--ink:#E8E8E2;--ink-2:#A6ABB5;--ink-3:#7E8491;--rule:#2D3139;
+--accent:#D97D87;--on-accent:#1A1215;--link:#8FB3DC;--flag-bg:#2B2410;--flag-ink:#EDC86A;--flag-rule:#5C4A17;
+--blacks-ink:#DCC6AF;--blacks-bg:#332A20;--wex-ink:#A6C5E8;--wex-bg:#1F2D3C;--house-ink:#ADD1B7;--house-bg:#1F2E24;--other-ink:#B4B9C2;--other-bg:#262A31;--focus:#D97D87;color-scheme:dark}}
+:root[data-theme="dark"]{--paper:#16181D;--paper-2:#1F2228;--paper-3:#2A2E36;--ink:#E8E8E2;--ink-2:#A6ABB5;--ink-3:#7E8491;--rule:#2D3139;
+--accent:#D97D87;--on-accent:#1A1215;--link:#8FB3DC;--flag-bg:#2B2410;--flag-ink:#EDC86A;--flag-rule:#5C4A17;
+--blacks-ink:#DCC6AF;--blacks-bg:#332A20;--wex-ink:#A6C5E8;--wex-bg:#1F2D3C;--house-ink:#ADD1B7;--house-bg:#1F2E24;--other-ink:#B4B9C2;--other-bg:#262A31;--focus:#D97D87;color-scheme:dark}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Newsreader",Georgia,"Times New Roman",serif;font-size:17px;line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:var(--link)}
+.ui,.bar,.chip,.meta,.ml,.rail,.count,.flag-l,summary,button,input,.eyebrow,.cite,.foot,.stub{font-family:"Source Sans 3","Helvetica Neue",Arial,sans-serif}
+.bar{position:sticky;top:0;z-index:5;background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--rule)}
+.bar-in{max-width:76rem;margin:0 auto;padding:.7rem 1.25rem .55rem;display:grid;grid-template-columns:1fr minmax(14rem,26rem);gap:.6rem 1.5rem;align-items:center}
+.eyebrow{font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);font-weight:600}
+.eyebrow a{color:inherit;text-decoration:none}.eyebrow a:hover{color:var(--accent)}
+h1{font-family:"Newsreader",Georgia,serif;font-weight:500;font-size:1.45rem;line-height:1.15;margin:.05rem 0 0;text-wrap:balance;letter-spacing:-.005em}
+.search{position:relative}
+.search input{width:100%;font-size:.98rem;padding:.55rem .8rem .55rem 2.1rem;border:1px solid var(--rule);border-radius:.45rem;background:var(--paper-2);color:var(--ink);outline:none}
+.search input:focus{border-color:var(--focus);box-shadow:0 0 0 3px color-mix(in srgb,var(--focus) 22%,transparent)}
+.search svg{position:absolute;left:.7rem;top:50%;transform:translateY(-50%);width:1rem;height:1rem;stroke:var(--ink-3);fill:none;stroke-width:2;pointer-events:none}
+.count{grid-column:2;font-size:.8rem;color:var(--ink-2);display:flex;justify-content:space-between;gap:1rem;font-variant-numeric:tabular-nums;margin-top:-.15rem}
+.count label{display:inline-flex;gap:.35rem;align-items:center;cursor:pointer}
+.count input{accent-color:var(--accent);margin:0}
+.rail{grid-column:1/-1;display:flex;gap:.15rem;overflow-x:auto;scrollbar-width:none;padding-bottom:.1rem;margin-top:-.1rem}
+.rail::-webkit-scrollbar{display:none}
+.rail a{text-decoration:none;color:var(--ink-2);font-size:.82rem;font-weight:600;padding:.15rem .48rem;border-radius:.3rem;letter-spacing:.02em}
+.rail a:hover{background:var(--paper-3);color:var(--ink)}
+.rail a.cur{background:var(--accent);color:var(--on-accent)}
+main{max-width:76rem;margin:0 auto;padding:1.25rem 1.25rem 4rem;display:grid;grid-template-columns:minmax(0,46rem);justify-content:center}
+.e{padding:1.05rem 0 1.1rem;border-bottom:1px solid var(--rule);scroll-margin-top:7.5rem}
+.e h2{font-family:"Newsreader",Georgia,serif;font-size:1.32rem;font-weight:600;line-height:1.2;margin:0 0 .45rem;letter-spacing:-.003em;text-wrap:balance;color:var(--ink)}
+.e h2 .cite{font-size:.86rem;font-weight:600;color:var(--accent);letter-spacing:.01em;display:inline-block;margin-right:.35rem;font-variant-numeric:tabular-nums}
+.e h2 .ttl{font-weight:500}
+.e p{margin:.35rem 0 0;max-width:70ch}
+.d{margin:.55rem 0 0;display:grid;grid-template-columns:1fr;gap:.25rem}
+.d p{margin:0}
+.chip{justify-self:start;font-size:.7rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;padding:.14rem .5rem;border-radius:.25rem;line-height:1.35;text-decoration:none;color:var(--other-ink);background:var(--other-bg)}
+.chips{display:flex;flex-wrap:wrap;gap:.3rem}
+.alt{margin:.5rem 0 0;font-size:.95rem}.alt summary{cursor:pointer;color:var(--ink-2);font-size:.82rem}.alt p{color:var(--ink-2)}
+.chip.blacks{color:var(--blacks-ink);background:var(--blacks-bg)}.chip.wex{color:var(--wex-ink);background:var(--wex-bg)}.chip.house{color:var(--house-ink);background:var(--house-bg)}
+a.chip:hover{text-decoration:underline}
+.meta{font-size:.84rem;color:var(--ink-2);margin:.4rem 0 0;line-height:1.45}
+.ml{font-weight:600;color:var(--ink-3);text-transform:uppercase;letter-spacing:.06em;font-size:.68rem;margin-right:.3rem}
+.meta .cite{color:var(--accent);font-weight:600;font-variant-numeric:tabular-nums}
+.flag{margin:.6rem 0 0;padding:.55rem .75rem;border-left:3px solid var(--flag-rule);background:var(--flag-bg);color:var(--flag-ink);border-radius:0 .35rem .35rem 0;font-size:.95rem;max-width:70ch}
+.flag-l{display:block;font-size:.68rem;font-weight:600;letter-spacing:.07em;text-transform:uppercase;margin-bottom:.15rem}
+.stub{color:var(--ink-3);font-style:italic;font-size:.92rem}
+.stubcase h2{font-weight:500;color:var(--ink-2);font-size:1.05rem}
+.e[hidden]{display:none}
+.empty{display:none;padding:2rem 0;color:var(--ink-2);text-align:center}
+.empty.on{display:block}
+.about{margin:2rem 0 0;border:1px solid var(--rule);border-radius:.5rem;background:var(--paper-2);padding:.2rem 1rem}
+.about summary{cursor:pointer;font-weight:600;font-size:.9rem;padding:.6rem 0;color:var(--ink-2)}
+.about summary:hover{color:var(--ink)}
+.about .body{font-size:.92rem;color:var(--ink-2);padding:0 0 .9rem;white-space:pre-line;max-width:72ch}
+.foot{max-width:46rem;margin:0 auto;padding:0 1.25rem 3rem;font-size:.8rem;color:var(--ink-3)}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+@media (max-width:640px){.bar-in{grid-template-columns:1fr}.count{grid-column:1}h1{font-size:1.25rem}body{font-size:16px}}
+@media (prefers-reduced-motion:no-preference){.e{transition:opacity .15s}}
+
+.doc{max-width:46rem;margin:0 auto;padding:2.5rem 1.25rem 4rem}
+.doc h1{font-size:2.15rem;font-weight:500;margin:.2rem 0 .6rem;letter-spacing:-.01em}
+.lede{font-size:1.12rem;color:var(--ink-2);max-width:62ch;margin:0 0 2rem}
+.doc h2{font-family:"Newsreader",Georgia,serif;font-weight:600;font-size:1.35rem;margin:2.4rem 0 .7rem;letter-spacing:-.003em;text-wrap:balance}
+.doc h3{font-family:"Newsreader",Georgia,serif;font-weight:600;font-size:1.08rem;margin:1.4rem 0 .3rem}
+.doc p{max-width:68ch;margin:.55rem 0}
+.doc ul,.doc ol{max-width:68ch;padding-left:1.25rem}
+.doc li{margin:.3rem 0}
+.doc table{border-collapse:collapse;width:100%;font-family:"Source Sans 3","Helvetica Neue",Arial,sans-serif;font-size:.92rem;margin:1rem 0 1.5rem}
+.doc th{text-align:left;font-size:.7rem;letter-spacing:.07em;text-transform:uppercase;color:var(--ink-3);font-weight:600;padding:.45rem .6rem .45rem 0;border-bottom:1px solid var(--ink-3)}
+.doc td{padding:.55rem .6rem .55rem 0;border-bottom:1px solid var(--rule);vertical-align:top}
+.doc td.n{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;padding-right:1rem}
+.doc th.n{text-align:right;padding-right:1rem}
+.doc td a.v{font-family:"Newsreader",Georgia,serif;font-size:1.05rem;font-weight:600;color:var(--ink);text-decoration:none;border-bottom:1px solid var(--rule)}
+.doc td a.v:hover{color:var(--accent);border-color:var(--accent)}
+.doc td .sub{display:block;color:var(--ink-2);font-size:.86rem;margin-top:.15rem;max-width:44ch}
+.tw{overflow-x:auto}
+.pill{display:inline-block;font-family:"Source Sans 3",Arial,sans-serif;font-size:.68rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;padding:.14rem .5rem;border-radius:.25rem;white-space:nowrap}
+.pill.ok{color:var(--house-ink);background:var(--house-bg)}.pill.pend{color:var(--flag-ink);background:var(--flag-bg)}.pill.you{color:var(--accent);background:color-mix(in srgb,var(--accent) 12%,var(--paper))}
+.callout{border-left:3px solid var(--flag-rule);background:var(--flag-bg);color:var(--flag-ink);padding:.7rem 1rem;border-radius:0 .4rem .4rem 0;margin:1rem 0;max-width:68ch}
+.callout p{color:inherit;margin:.3rem 0}
+.doc code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.86em;background:var(--paper-2);padding:.05em .3em;border-radius:.2rem}
+.doc pre{background:var(--paper-2);padding:.8rem 1rem;border-radius:.4rem;overflow-x:auto;font-size:.85rem}
+.doc pre code{background:none;padding:0}
+.doc blockquote{margin:1rem 0;padding:.2rem 0 .2rem 1rem;border-left:3px solid var(--rule);color:var(--ink-2)}
+.doc hr{border:0;border-top:1px solid var(--rule);margin:2rem 0}
+.mini{font-family:"Source Sans 3",Arial,sans-serif;font-size:.8rem;color:var(--ink-3)}
+</style>
+<main class="doc">
+<div class="eyebrow">LawMind AI · offline reference</div>
+
+<h1>LawMind Reference Library</h1>
+<p class="lede">The legal reference library inside LawMind AI, exported into twelve searchable volumes — 59,535 entries across a legal dictionary, Latin maxims, an encyclopedia, statutes and case summaries. Each volume opens on its own page with a search box and a jump rail; nothing here needs the app to be running.</p>
+
+<div class="tw"><table>
+<thead><tr><th class="n">Vol.</th><th>Volume</th><th class="n">Entries</th></tr></thead>
+<tbody><tr><td class="n mini">Volume 1</td><td><a class="v" href="https://claude.ai/code/artifact/f045272e-5e7d-458e-bfff-d6d10bdf72b1">Legal Dictionary A–C</a><span class="sub">Black's Law (1910 · 1933 · 1968), Cornell Wex and LawMind's own entries; same term, every edition, one heading. Carries the Marion County case-relevance notes on Actus Reus, Assault, Bias and Conversion.</span></td><td class="n">7,905</td></tr><tr><td class="n mini">Volume 2</td><td><a class="v" href="https://claude.ai/code/artifact/7d34c462-b3cd-4a66-96bb-68b5b198e4d9">Legal Dictionary D–I</a><span class="sub">Same sources; 1,884 terms carry two or more editions side by side.</span></td><td class="n">9,144</td></tr><tr><td class="n mini">Volume 3</td><td><a class="v" href="https://claude.ai/code/artifact/50d434ea-c634-468f-ab3b-22cb10e3c0d1">Legal Dictionary J–P</a><span class="sub">Same sources; 1,771 multi-edition groups, 53 unplaceable headwords kept in an appendix.</span></td><td class="n">8,289</td></tr><tr><td class="n mini">Volume 4</td><td><a class="v" href="https://claude.ai/code/artifact/069ab711-567f-4951-85f5-f999db464a2e">Legal Dictionary Q–Z</a><span class="sub">Same sources; 1,418 multi-edition groups, 93 unplaceable headwords kept in an appendix.</span></td><td class="n">7,321</td></tr><tr><td class="n mini">Volume 5</td><td><a class="v" href="https://claude.ai/code/artifact/11c98574-a7d2-46d1-81e8-e212a52e53a4">Latin Terms &amp; Maxims</a><span class="sub">219 terms with pronunciation, a plain-language gloss and a worked example where the library has one.</span></td><td class="n">219</td></tr><tr><td class="n mini">Volume 6</td><td><a class="v" href="https://claude.ai/code/artifact/cdf3d82a-dfec-4e96-bea5-edee600501f4">Legal Encyclopedia</a><span class="sub">1,458 articles under 1,451 headings, each with category, jurisdiction and an “In short” summary.</span></td><td class="n">1,450</td></tr><tr><td class="n mini">Volume 7</td><td><a class="v" href="https://claude.ai/code/artifact/f732f0b0-7bd6-4262-95ee-e2fc54e77bbc">Statutes — Missouri &amp; UCC</a><span class="sub">Missouri Constitution, RSMo ch. 1 and ch. 400 (UCC), CSR titles 1–23, municipal ordinances — and the five Marion County case statutes as verified excerpts at the top.</span></td><td class="n">1,409</td></tr><tr><td class="n mini">Volume 8 · Part I of 3</td><td><a class="v" href="https://claude.ai/code/artifact/81d6538b-433f-4be8-99c4-41e60e89c6d3">Federal Statutes &amp; Regulations I</a><span class="sub">CFR and U.S.C. sections, first third by citation order.</span></td><td class="n">2,416</td></tr><tr><td class="n mini">Volume 8 · Part II of 3</td><td><a class="v" href="https://claude.ai/code/artifact/b7c74281-84ea-44a1-a712-36d2429447dd">Federal Statutes &amp; Regulations II</a><span class="sub">Second third.</span></td><td class="n">2,851</td></tr><tr><td class="n mini">Volume 8 · Part III of 3</td><td><a class="v" href="https://claude.ai/code/artifact/225e678d-55b5-439b-aac3-1bbd13f42be2">Federal Statutes &amp; Regulations III</a><span class="sub">Final third.</span></td><td class="n">3,575</td></tr><tr><td class="n mini">Volume 9</td><td><a class="v" href="https://claude.ai/code/artifact/40759427-6495-4468-ab0c-6e7350ce8fe4">Case Summaries A–L</a><span class="sub">Case name, citation, court, year and holding. Records with no stored summary are marked “citation record only”.</span></td><td class="n">6,930</td></tr><tr><td class="n mini">Volume 10</td><td><a class="v" href="https://claude.ai/code/artifact/48501691-cd71-4d80-aab7-aed42d94e793">Case Summaries M–Z</a><span class="sub">As above.</span></td><td class="n">8,026</td></tr></tbody>
+</table></div>
+
+<h2>Practice tools</h2>
+<p><a class="v" href="https://claude.ai/code/artifact/83a5970f-7dfb-4c83-88be-547d8683a4c9">Marion County Case Review</a> — every active and inactive Marion County matter in the file, second edition of 17 September 2026 built on the Case.net reads of 15 September: a docket-confirmed calendar (28 Sept motion hearing for both cases, 2 Oct pre-trial conference, 4 Nov jury trial at 8:00 AM), the matter cards, what changed since the first edition and where it was wrong, the docket entries, a dated chronology, the forty Drive documents with their drafting issues, the seventeen contradictions with their resolutions, a law audit of the drafts, and the ordered list of what to do before 28 September.</p>
+<p><a class="v" href="https://claude.ai/code/artifact/f8b8adbf-e20a-4e2f-a96d-47a29b82a4e3">Motions &amp; Deadlines Deskbook</a> — every motion in Missouri civil, criminal and appellate practice and in the federal courts: what it is, what kind of motion it is, when to use it, the deadline and the rule, each read from the current rule text; three timeline diagrams for the post-judgment and appeal clocks; and a plain-English answer to whether the UCC is civil or criminal, with the Missouri statutes that make bogus UCC filings a felony.</p>
+
+<h2>Read this first</h2>
+<p>This is a faithful picture of the library as it stands, including its defects. It was built read-only: nothing in the live library was altered, merged or deleted to make it. Where the material has a known rough edge, the edge is disclosed on the volume itself rather than smoothed over.</p>
+
+<h3>The dictionary (Volumes 1–4)</h3>
+<p>Each volume was re-read directly from its typeset PDF using the page typography (bold headword, roman definition, italic source line), which pairs every definition with the right headword exactly. Where the same term appears in more than one edition, the editions now sit under one heading, each labeled. About 4,750 headwords whose letters had been split by the original scan (<em>A DM I N I C ULAR EVI D ENCE</em>) were closed back up — only where the closed form matched a clean copy elsewhere in the volume or resolved to real words; letters were never changed. Definition text is verbatim throughout, so character-level scan damage inside definitions remains and is not marked.</p>
+<div class="callout"><p><strong>One entry to treat with care.</strong> Under <em>ASSAULT</em> in Volume 1, the Black's Law text is not an assault definition — the library record holds the text of the neighbouring entry <em>adscriptus</em>, run in during the original import. The Cornell Wex definition under the same heading is correct. About 211 records in A–C show this run-together pattern; each is listed in the volume's grouping log.</p></div>
+
+<h3>Statutes (Volumes 7–8)</h3>
+<p>The Missouri set covers RSMo chapter 1 and chapter 400 only, plus the constitution, the CSR and municipal codes. The other chapters — including 455, 562, 563, 565 and 575 — were not reachable when the export ran: the live library stores some chapter-1 sections up to 257 times over, and the export's 10,000-record ceiling was spent on those duplicates. The five Marion County case statutes are supplied at the top of Volume 7 as excerpts verified against revisor.mo.gov. The federal set (8,844 CFR and U.S.C. sections) is split into three parts to keep each page fast.</p>
+
+<h3>Case summaries (Volumes 9–10)</h3>
+<p>15,021 case records. Two thirds carry no stored summary — the citation, court and year are still there, and each of those entries is marked <em>citation record only</em> so it cannot be mistaken for a real holding. 5,356 entries carry a genuine summary and holding.</p>
+
+<h3>Encyclopedia and Latin (Volumes 5–6)</h3>
+<p>Both were read to exhaustion from the PDF. Encyclopedia paragraph breaks could not be recovered from the print, so some article bodies run together; the text itself is intact. The Latin volume is complete at 219 terms with no damage found.</p>
+
+
+<h3>Duplication</h3>
+<p>Every volume was checked entry by entry after the rebuild: no volume lists the same headword or the same statute citation twice, no dictionary term appears in two dictionary volumes, and no entry repeats a passage of its own text. Where one dictionary term carries the same wording under two editions, the wording is shown once with both edition labels. Where a statute is stored more than once with different text, the fuller text is shown and the other stored copy is tucked under it. Sixty-five case records were merged because they were the same opinion under two captions. What remains and is <em>not</em> duplication: a dictionary definition and an encyclopedia article on the same term are different works and both are kept; and unrelated cases that share a citation are Missouri and federal table decisions reported on the same page, so they stay separate.</p>
+
+
+<h2>Sources &amp; integrations</h2>
+<p>Where the library's content should come from, what each source is authoritative for, and how it plugs in — either as a connector Claude can call directly, or as an API the LawMind app's own researchers pull from. Primary sources are the source of record; mirrors are for reading and cross-checking only.</p>
+<div class="tw"><table>
+<thead><tr><th>Source</th><th>Authoritative for</th><th>Access</th><th>Plugs in as</th></tr></thead>
+<tbody>
+<tr><td><a href="https://revisor.mo.gov/">revisor.mo.gov</a></td><td><strong>Missouri statutes</strong> — official Revisor of Statutes; every section has a version history (<code>OneSection.aspx?section=455.085</code>). Shows future-dated versions by default; pick the version in force on the relevant date.</td><td>Public web, no key. No bulk download.</td><td>LawMind scraper (<code>bulk-scrape-library</code>) — primary Missouri source once its duplicate-check bug is fixed.</td></tr>
+<tr><td><a href="https://codes.findlaw.com/mo/">FindLaw Codes</a> · <a href="https://law.justia.com/codes/missouri/">Justia</a></td><td>Missouri statutes, <em>mirrors</em> — FindLaw current to 1 Jan 2025 (misses the Aug 2025 amendment to § 575.150); Justia shows a 2025 edition. Justia also carries free Missouri and federal case law.</td><td>Public web. Check terms before automating.</td><td>Human cross-check only.</td></tr>
+<tr><td><a href="https://www.courts.mo.gov/casenet/">Case.net</a></td><td><strong>Missouri circuit and appellate dockets</strong> — the source of record for every date, filing and setting in Tyler's state cases. Blocks automated fetches (403 bot-check, not to be circumvented) but loads in the in-app browser pane. Use Case Number Search for a known case; the litigant-name search misses cases.</td><td>Public web, human or in-app browser only.</td><td>Reading; the Marion County Case Review's docket-confirmed marks come from here.</td></tr>
+<tr><td><a href="https://uscode.house.gov/download/download.shtml">uscode.house.gov</a></td><td><strong>United States Code</strong> — the Office of the Law Revision Counsel's official text, current through Pub. L. 119-102 (12 Jul 2026), versioned by release point.</td><td>Bulk USLM XML / XHTML / PDF by title, no key.</td><td>LawMind researcher — pull titles 18, 28, 29, 42 and re-pull when the release point changes.</td></tr>
+<tr><td><a href="https://api.govinfo.gov/docs/">GovInfo API</a></td><td><strong>CFR, Federal Register, federal court opinions, public laws</strong> (collections CFR, FR, USCOURTS, PLAW, BILLS and more). Search is a POST with <code>offsetMark</code> paging; <code>published</code> and <code>collections</code> endpoints return only what changed in a window.</td><td>Free api.data.gov key (govinfo.gov/api-signup); 36,000 requests/hour. The shared DEMO_KEY is rate-limited to uselessness.</td><td>LawMind researchers (<code>scrape-govinfo-*</code>, the <code>govinfo_cfr</code> cursor) — key already stored as the app's <code>govinfo</code> secret; confirm it is set.</td></tr>
+<tr><td><a href="https://github.com/LibraryOfCongress/api.congress.gov">Congress.gov API</a></td><td>Bills, amendments, public laws, committee reports, congressional record — <em>legislative history</em>, not the codified law.</td><td>Same api.data.gov key; 5,000 requests/hour; base <code>api.congress.gov/v3/</code>.</td><td>Optional LawMind researcher for tracking a federal bill or a law's history.</td></tr>
+<tr><td><a href="https://www.courtlistener.com/">CourtListener</a> (REST v4) · <a href="https://wiki.free.law/c/courtlistener/help/api/mcp/using-the-courtlistener-mcp-in-claude-chatgpt-and-other-ai-assistants">CourtListener MCP</a></td><td><strong>Case law, dockets, RECAP filings, citation networks, citation verification</strong>, judges, oral arguments. The 11.9-million-record Caselaw Access Project ingest already in the library came from here. RECAP is federal only — a zero result says nothing about a Missouri state case.</td><td>Free account; API token for REST. The MCP server at <code>mcp.courtlistener.com</code> uses OAuth and is in the claude.ai connector directory (Settings → Customize → Browse).</td><td>Both: LawMind's docket sync (<code>sync-court-dockets</code>) and, once added, a Claude connector for verifying citations directly in a session.</td></tr>
+<tr><td><a href="https://www.supremecourt.gov/">supremecourt.gov</a></td><td>Supreme Court opinions, orders, dockets and the Rules of the Court (current edition adopted 17 Feb 2026, effective 16 Mar 2026).</td><td>Public web.</td><td>Deskbook source for the certiorari clock; reading.</td></tr>
+<tr><td><a href="https://www.ca8.uscourts.gov/">ca8.uscourts.gov</a> · ecf.ca8.uscourts.gov</td><td>Eighth Circuit opinions (public search by case, party, judge, date, full text) and local rules. ECF is the filing system — PACER login — where a federal appeal from Missouri is actually filed.</td><td>Opinions public; ECF needs PACER.</td><td>Reading; filing.</td></tr>
+<tr><td><a href="https://docs.perplexity.ai/docs/getting-started/integrations/mcp-server">Perplexity MCP</a></td><td>Web research assistant (<code>perplexity_search</code>, <code>perplexity_ask</code>, <code>perplexity_research</code>, <code>perplexity_reason</code>) — a way to find leads, <strong>not a source of authority</strong>. Anything it returns gets verified against a primary source above before it is cited; the app's citation guard exists because AI-generated citations have drawn sanctions in Missouri.</td><td>Remote <code>api.perplexity.ai/mcp</code> with a Perplexity API key; usage-billed.</td><td>Optional Claude connector.</td></tr>
+<tr><td>Descrybe Legal Engine · Legal Data Hunter · Courtroom5</td><td>Already-connected research and deadline tools (case law with quote verification; multi-jurisdiction statutes; deadline calculator).</td><td>Connectors; Descrybe currently needs re-authorizing.</td><td>Claude connectors.</td></tr>
+</tbody></table></div>
+
+<h2>Where the live library stands</h2>
+<p>The library this guide comes from lives in the LawMind AI app. Work done on it alongside this guide, and what is still open:</p>
+<div class="tw"><table>
+<thead><tr><th>Item</th><th>State</th><th>Detail</th></tr></thead>
+<tbody>
+<tr><td>Sync watchdog</td><td><span class="pill ok">Fixed</span></td><td>Recoveries now require a real heartbeat from the recovered job; nothing freezes permanently; hourly back-off instead of alert storms. Verified on live runs.</td></tr>
+<tr><td>Library scraper, docket sync, backups, echo orchestrator</td><td><span class="pill ok">Fixed</span></td><td>Each runs inside an 80-second budget and resumes where it stopped instead of timing out. Six of seven monitored jobs healthy.</td></tr>
+<tr><td>Statute duplication</td><td><span class="pill pend">Pending</span></td><td>Root cause found: the scraper's “already have it?” check can only see 10,000 records, so it re-creates everything past that every hour. One-line fix plus a de-duplication pass, waiting on app access.</td></tr>
+<tr><td>Dictionary headword repair</td><td><span class="pill pend">Pending</span></td><td>The ~4,750 headword reconstructions made for this guide are logged with record IDs and can be written back to the library as a repair — not a deletion — pass.</td></tr>
+<tr><td>SuperAgent sync</td><td><span class="pill you">Needs Tyler</span></td><td>Returns 502 on every attempt: verify <code>SUPERAGENT_API_KEY</code> and <code>SUPERAGENT_ID</code> in the app's secrets panel. It will heal itself once the secret is right.</td></tr>
+<tr><td>CaseNet monitor threshold</td><td><span class="pill pend">Pending</span></td><td>Set <code>threshold_minutes</code> to 1440 so a once-daily job stops reading as stalled for 23 hours a day.</td></tr>
+<tr><td>Five build proposals</td><td><span class="pill you">Needs Tyler</span></td><td>Logged in the app's ToolRequest queue as <em>ai_scoped</em>, led by a citation-guard corpus health monitor. Nothing is built until approved.</td></tr>
+</tbody></table></div>
+
+<h2>Companion material</h2>
+<p>The same twelve volumes exist as PDFs (8,861 pages) and as Markdown files, delivered in the conversation alongside the per-volume grouping logs (every merge and headword reconstruction, with record IDs), the list of records excluded for scan damage, and the Marion County case-linkage log. The research behind the pipeline repair and the roadmap is its own page: <a href="https://claude.ai/code/artifact/1a7d00a4-e368-4067-ab2d-0df34b740f4e">LawMind Architecture Deep Dive</a>.</p>
+
+<p class="mini">Compiled 3 September 2026 from Base44 app 6a53429210c1ce40398a53a8; dictionary, Latin and encyclopedia volumes rebuilt and all volumes de-duplicated 9 September 2026; Practice tools updated 17 September 2026. Read-only snapshot — verify anything load-bearing against the official source before relying on it in a filing.</p>
+
+</main>
+
+</body></html>

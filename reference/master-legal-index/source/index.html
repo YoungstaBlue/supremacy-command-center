@@ -1,0 +1,473 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Master Legal Index</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
+<style>
+/* Layout: sticky top bar (search, filters, theme), left contents rail on wide screens, index rows grouped by section */
+:root{
+  --bg:#f4f6f9; --panel:#ffffff; --fg:#1a2230; --mute:#586377; --line:#d8dee8; --line-soft:#e8ecf2;
+  --accent:#1f4f7b; --accent-soft:#e2ecf6; --mo:#1b6a58; --mo-soft:#dff0eb; --fed:#1f4f7b; --fed-soft:#e2ecf6;
+  --warn:#8f5a00; --warn-soft:#faf0d8; --crit:#a3261f; --crit-soft:#fae3e1; --ok:#1b6a3a; --ok-soft:#e0f2e7;
+  --serif:"Newsreader",Georgia,"Times New Roman",serif; --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f141c; --panel:#161d28; --fg:#e4e9f1; --mute:#93a0b5; --line:#293344; --line-soft:#212a38;
+  --accent:#8bb7e3; --accent-soft:#1c2c40; --mo:#6cc5ad; --mo-soft:#173229; --fed:#8bb7e3; --fed-soft:#1c2c40;
+  --warn:#e2b45c; --warn-soft:#332a14; --crit:#f08a82; --crit-soft:#391c1a; --ok:#78c896; --ok-soft:#173222; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f141c; --panel:#161d28; --fg:#e4e9f1; --mute:#93a0b5; --line:#293344; --line-soft:#212a38;
+  --accent:#8bb7e3; --accent-soft:#1c2c40; --mo:#6cc5ad; --mo-soft:#173229; --fed:#8bb7e3; --fed-soft:#1c2c40;
+  --warn:#e2b45c; --warn-soft:#332a14; --crit:#f08a82; --crit-soft:#391c1a; --ok:#78c896; --ok-soft:#173222; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px;line-height:1.5;padding-inline:16px;padding-block:0}
+*{box-sizing:border-box}
+a{color:var(--accent)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1180px;margin-inline:auto}
+header.top{padding-block:28px 18px;border-bottom:1px solid var(--line)}
+.kicker{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
+h1{font-family:var(--serif);font-weight:600;font-size:clamp(30px,5vw,46px);line-height:1.08;margin:6px 0 8px;text-wrap:balance;letter-spacing:-.01em}
+.sub{color:var(--mute);max-width:70ch;margin:0}
+.banner{margin-top:16px;padding:10px 14px;border:1px solid var(--line);border-left:3px solid var(--warn);background:var(--warn-soft);border-radius:4px;font-size:13.5px;max-width:90ch}
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding-block:10px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.bar input[type=search]{flex:1 1 240px;min-width:0;font:inherit;padding:8px 12px;border:1px solid var(--line);border-radius:4px;background:var(--panel);color:var(--fg)}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip,.themebtn{font:inherit;font-size:13px;padding:6px 12px;border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:999px;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+.themebtn{border-radius:4px}
+.status{font-family:var(--mono);font-size:12px;color:var(--mute)}
+.layout{display:grid;grid-template-columns:1fr;gap:28px;padding-block:22px 80px}
+@media(min-width:960px){.layout{grid-template-columns:230px minmax(0,1fr)}}
+nav.toc{font-size:13.5px}
+nav.toc details{border:1px solid var(--line);border-radius:4px;background:var(--panel)}
+nav.toc summary{padding:9px 12px;cursor:pointer;font-weight:600}
+nav.toc ol{list-style:none;margin:0;padding:4px 0 8px}
+nav.toc a{display:flex;justify-content:space-between;gap:8px;padding:5px 12px;text-decoration:none;color:var(--fg)}
+nav.toc a:hover{background:var(--accent-soft)}
+nav.toc .n{font-family:var(--mono);color:var(--mute);font-size:12px}
+@media(min-width:960px){nav.toc{position:sticky;top:calc(64px + env(safe-area-inset-top,0px));align-self:start;max-height:calc(100vh - 90px);overflow:auto}
+ nav.toc details{border:0;background:transparent}nav.toc summary{display:none}}
+main{min-width:0;display:flex;flex-direction:column;gap:38px}
+section{min-width:0;scroll-margin-top:80px}
+section>h2{font-family:var(--serif);font-weight:600;font-size:26px;margin:0 0 4px;display:flex;flex-wrap:wrap;align-items:baseline;gap:10px;text-wrap:balance}
+section>h2 .cnt{font-family:var(--mono);font-size:12px;color:var(--mute);font-weight:400}
+.intro{color:var(--mute);margin:0 0 14px;max-width:75ch}
+.rows{border-top:1px solid var(--line)}
+.entry{display:grid;grid-template-columns:minmax(0,210px) minmax(0,1fr);gap:4px 20px;padding:11px 0;border-bottom:1px solid var(--line-soft)}
+@media(max-width:640px){.entry{grid-template-columns:1fr}}
+.entry .k{font-family:var(--mono);font-size:13px;color:var(--accent);overflow-wrap:anywhere}
+.entry .t{font-weight:600}
+.entry .d{color:var(--fg);opacity:.86;margin-top:2px;overflow-wrap:anywhere}
+.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.tag{font-family:var(--mono);font-size:11px;letter-spacing:.04em;padding:1px 7px;border-radius:3px;border:1px solid var(--line);color:var(--mute)}
+.tag.MO{background:var(--mo-soft);color:var(--mo);border-color:transparent}
+.tag.FED{background:var(--fed-soft);color:var(--fed);border-color:transparent}
+.tag.BOTH{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+.tag.chk{background:var(--warn-soft);color:var(--warn);border-color:transparent}
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:4px;background:var(--panel)}
+table{border-collapse:collapse;width:100%;min-width:640px;font-size:14px}
+th{text-align:left;font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--mute);padding:9px 12px;border-bottom:1px solid var(--line);background:var(--bg);white-space:nowrap}
+td{padding:9px 12px;border-bottom:1px solid var(--line-soft);vertical-align:top;overflow-wrap:anywhere}
+tr:last-child td{border-bottom:0}
+td.mono,.mono{font-family:var(--mono);font-size:13px}
+td.nw{white-space:nowrap}
+.pill{display:inline-block;font-family:var(--mono);font-size:11px;padding:1px 8px;border-radius:999px;background:var(--line-soft);color:var(--mute);white-space:nowrap}
+.pill.crit{background:var(--crit-soft);color:var(--crit)}.pill.warn{background:var(--warn-soft);color:var(--warn)}.pill.ok{background:var(--ok-soft);color:var(--ok)}.pill.info{background:var(--accent-soft);color:var(--accent)}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,420px),1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:16px;min-width:0;display:flex;flex-direction:column;gap:10px}
+.card h3{font-family:var(--serif);font-size:19px;margin:0;line-height:1.25;text-wrap:balance}
+.card .no{font-family:var(--mono);font-size:12.5px;color:var(--accent)}
+.card .meta{display:flex;flex-wrap:wrap;gap:6px}
+.card p{margin:0;overflow-wrap:anywhere}
+.card dl{margin:0;display:grid;grid-template-columns:minmax(0,110px) minmax(0,1fr);gap:4px 12px;font-size:13.5px}
+.card dt{color:var(--mute);font-family:var(--mono);font-size:11.5px;text-transform:uppercase;letter-spacing:.05em;padding-top:2px}
+.card dd{margin:0;overflow-wrap:anywhere}
+ul.plain{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+ul.plain li{padding:10px 0;border-bottom:1px solid var(--line-soft);display:flex;gap:12px;flex-wrap:wrap;align-items:baseline}
+ul.plain li .b{flex:1 1 320px;min-width:0;overflow-wrap:anywhere}
+.prose p{max-width:75ch;margin:0 0 10px}
+.empty{padding:30px 0;color:var(--mute);text-align:center}
+footer{border-top:1px solid var(--line);padding-block:18px 40px;color:var(--mute);font-size:13px}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+
+</style>
+<div id="app"></div>
+<script>
+function h(tag,attrs){
+  const e=document.createElement(tag);
+  for(const [k,v] of Object.entries(attrs||{})){ if(v==null||v===false)continue; if(k==='class')e.className=v; else e.setAttribute(k,v); }
+  for(const c of Array.prototype.slice.call(arguments,2).flat(3)){ if(c==null||c===false)continue; e.append(c.nodeType?c:document.createTextNode(String(c))); }
+  return e;
+}
+const tagEl=(t,cls)=>h('span',{class:'tag '+(cls||t)},t);
+const pill=(t,cls)=>h('span',{class:'pill '+(cls||'')},t);
+
+function renderItem(sec,it){
+  if(sec.type==='entries'){
+    const tags=[]; if(it.j)tags.push(tagEl(it.j==='MO'?'MO':it.j==='FED'?'FED':'MO+FED',it.j));
+    (it.tags||[]).forEach(t=>tags.push(tagEl(t,'')));
+    if(it.chk)tags.push(tagEl('check subsection','chk'));
+    const li=h('div',{class:'entry','data-j':it.j||''},
+      h('div',{class:'k'},it.k),
+      h('div',{},h('div',{class:'t'},it.t),it.d&&h('div',{class:'d'},it.d),tags.length&&h('div',{class:'tags'},tags)));
+    return li;
+  }
+  if(sec.type==='cards'){
+    const dl=h('dl',{});
+    (it.fields||[]).forEach(f=>{dl.append(h('dt',{},f[0]),h('dd',{},f[1]))});
+    return h('article',{class:'card'},
+      h('div',{class:'no'},it.no),
+      h('h3',{},it.title),
+      h('div',{class:'meta'},(it.pills||[]).map(p=>pill(p[0],p[1]))),
+      it.sum&&h('p',{},it.sum),dl);
+  }
+  if(sec.type==='list'){
+    return h('li',{},it.pill&&pill(it.pill[0],it.pill[1]),it.tag&&h('span',{class:'mono'},it.tag),h('span',{class:'b'},it.text));
+  }
+  if(sec.type==='table'){
+    const tr=h('tr',{});
+    sec.cols.forEach(c=>{const v=c.f?c.f(it):it[c.key];tr.append(h('td',{class:(c.mono?'mono ':'')+(c.nw?'nw':'')},v))});
+    return tr;
+  }
+}
+
+function renderBook(cfg){
+  const app=document.getElementById('app'); const wrap=h('div',{class:'wrap'}); app.append(wrap);
+  wrap.append(h('header',{class:'top'},h('div',{class:'kicker'},cfg.kicker),h('h1',{},cfg.title),h('p',{class:'sub'},cfg.subtitle),h('div',{class:'banner'},cfg.banner)));
+  const search=h('input',{type:'search',id:'q',placeholder:cfg.placeholder||'Search this book','aria-label':'Search this book'});
+  const status=h('span',{class:'status',id:'st'});
+  const themeBtn=h('button',{class:'themebtn',type:'button',id:'theme'},'Theme: system');
+  const chips=h('div',{class:'chips'});
+  let jf='';
+  (cfg.chips||[]).forEach((c,i)=>{const b=h('button',{class:'chip',type:'button','aria-pressed':i===0?'true':'false'},c[0]);b.onclick=()=>{jf=c[1];[...chips.children].forEach(x=>x.setAttribute('aria-pressed',x===b?'true':'false'));apply()};chips.append(b)});
+  wrap.append(h('div',{class:'bar'},search,chips,status,themeBtn));
+  const toc=h('ol',{}); const main=h('main',{});
+  wrap.append(h('div',{class:'layout'},h('nav',{class:'toc','aria-label':'Contents'},h('details',{open:'open'},h('summary',{},'Contents'),toc)),main));
+  const secEls=[];
+  cfg.sections.forEach(sec=>{
+    const cnt=h('span',{class:'cnt'});
+    const s=h('section',{id:sec.id},h('h2',{},sec.title,cnt));
+    if(sec.intro)s.append(h('p',{class:'intro'},sec.intro));
+    let items=[];
+    if(sec.type==='prose'){ const d=h('div',{class:'prose'}); sec.paras.forEach(p=>d.append(h('p',{},p))); s.append(d); }
+    else if(sec.type==='table'){
+      const tb=h('tbody',{}); const rows=sec.items.map(it=>{const r=renderItem(sec,it);r.dataset.text=JSON.stringify(it,(k,v)=>typeof v==='function'?undefined:v).toLowerCase()+' '+sec.cols.map(c=>c.f?String((c.f(it).textContent!==undefined?c.f(it).textContent:c.f(it))):'').join(' ').toLowerCase();tb.append(r);return r});
+      s.append(h('div',{class:'tablewrap'},h('table',{},h('thead',{},h('tr',{},sec.cols.map(c=>h('th',{},c.h)))),tb))); items=rows;
+    } else {
+      const box=h(sec.type==='cards'?'div':sec.type==='list'?'ul':'div',{class:sec.type==='cards'?'cards':sec.type==='list'?'plain':'rows'});
+      items=sec.items.map(it=>{const r=renderItem(sec,it);r.dataset.text=JSON.stringify(it).toLowerCase();box.append(r);return r});
+      s.append(box);
+    }
+    s._items=items; s._cnt=cnt; s._n=items.length; secEls.push(s); main.append(s);
+    toc.append(h('li',{},h('a',{href:'#'+sec.id},h('span',{},sec.title),h('span',{class:'n'},items.length||''))));
+  });
+  const none=h('div',{class:'empty',hidden:'hidden'},'No entries match. Clear the search or filter.'); main.append(none);
+  wrap.append(h('footer',{},cfg.footer));
+  function apply(){
+    const q=search.value.trim().toLowerCase(); let total=0,shown=0;
+    secEls.forEach(s=>{
+      let vis=0; s._items.forEach(r=>{
+        const okq=!q||r.dataset.text.includes(q); const okj=!jf||!r.dataset.j||r.dataset.j===jf||r.dataset.j==='BOTH'&&true;
+        const ok=okq&&okj; r.hidden=!ok; if(ok)vis++; });
+      total+=s._n; shown+=vis;
+      s._cnt.textContent=s._n?(vis===s._n?s._n+' entries':vis+' of '+s._n):'';
+      s.hidden=s._n>0&&vis===0&&(q||jf);
+    });
+    status.textContent=(q||jf)?shown+' of '+total+' shown':total+' entries';
+    none.hidden=!((q||jf)&&shown===0);
+  }
+  search.addEventListener('input',apply); apply();
+  const modes=['system','light','dark'];
+  function setTheme(m){ const r=document.documentElement; if(m==='system')r.removeAttribute('data-theme'); else r.setAttribute('data-theme',m); themeBtn.textContent='Theme: '+m; try{localStorage.setItem('bk-theme',m)}catch(e){} themeBtn.dataset.m=m; }
+  let cur='system'; try{cur=localStorage.getItem('bk-theme')||'system'}catch(e){}
+  setTheme(modes.includes(cur)?cur:'system');
+  themeBtn.onclick=()=>setTheme(modes[(modes.indexOf(themeBtn.dataset.m)+1)%3]);
+}
+
+const E=(j,k,t,d,chk)=>({j,k,t,d,chk});
+const MASTER={
+kicker:'Reference Volume I',
+title:'Master Legal Index',
+subtitle:'Missouri and federal rules, statutes, claim elements, landmark cases, deadlines and terms for a pro se litigant. Built as a first edition; sections marked "check subsection" need the exact subdivision confirmed against the current text.',
+banner:'Legal information, not legal advice. Rule numbers, statute sections, case citations and deadlines here are a working index. Confirm each against the official current text (Missouri Supreme Court Rules, Revised Statutes of Missouri, U.S. Code, Federal Rules, and the court’s local rules) before you rely on it or file it.',
+placeholder:'Search rules, statutes, cases, terms (e.g. 55.25, default, Monell)',
+chips:[['All',''],['Missouri','MO'],['Federal','FED']],
+footer:'First edition, compiled 2026-09-29. Companion volume: Garner Case Index. Volume II ties this reference to each pending matter.',
+sections:[
+{id:'goal',type:'prose',title:'Standing Goal and Research Standard',
+ paras:['Goal: precise precision and the best result in each court case. Everything in this volume is held to that standard.',
+ 'Source order: official current text in force on the relevant date, then annotated statutes, then verified opinion text, then secondary sources. Case-file notes are leads, never authority.',
+ 'Citator standard: confirm that each case exists, the quote, the pin cite, the parallel cite, and its later history and treatment. Say so whenever only existence and cited-by counts could be checked.',
+ 'Form standard: start from the court\u2019s own forms, Missouri Approved Instructions, federal AO forms and local-rule formatting, and list every deviation.',
+ 'Also check: local rules, rule and session-law effective dates, weekend and holiday roll-over, and consistency between matters.']},
+{id:'courts',type:'table',title:'Court map',intro:'Where the two systems put a case, and where an appeal goes.',
+ cols:[{h:'Level',key:'l'},{h:'Missouri',key:'m'},{h:'Federal',key:'f'}],
+ items:[
+ {l:'Limited / local',m:'Municipal division (ordinance violations)',f:'Magistrate judge (by consent or referral)'},
+ {l:'Trial court',m:'Associate Circuit Division (misdemeanors, small claims, most family matters in some counties) and Circuit Division (felonies, civil over the associate limit, equity) within a numbered judicial circuit. Pike is the 45th Circuit; Marion and Ralls are in the 10th.',f:'U.S. District Court. Missouri has an Eastern District (St. Louis; Hannibal-area counties are in the Eastern District) and a Western District.'},
+ {l:'First appeal',m:'Court of Appeals: Eastern (St. Louis), Western (Kansas City), Southern (Springfield) Districts',f:'U.S. Court of Appeals for the Eighth Circuit'},
+ {l:'Highest court',m:'Supreme Court of Missouri (transfer, and direct appeals in limited categories)',f:'Supreme Court of the United States (certiorari)'},
+ {l:'Administrative',m:'Missouri Commission on Human Rights (MCHR)',f:'EEOC, DOJ Civil Rights Division'}]},
+
+{id:'mo-civ',type:'entries',title:'Missouri Rules of Civil Procedure',intro:'Supreme Court Rules, cited as "Rule NN.NN". Filing, service, discovery, judgment and appeal rules most used by a self-represented civil party.',
+ items:[
+ E('MO','Rule 41.01','Applicability','Scope of the civil rules and how they apply across circuit and associate divisions.',true),
+ E('MO','Rule 43.01','Service and filing of pleadings after the original','Service of later papers by mail or e-filing system, certificate of service, and filing with the court.'),
+ E('MO','Rule 44.01','Computation of time','How to count days, weekends and holidays, and added days for mail service.'),
+ E('MO','Rule 44.01(e)','Additional time after service by mail','Check current text for whether extra days apply when the paper is served through the e-filing system.',true),
+ E('MO','Rule 51.05','Change of judge as of right','Motion to change judge without cause; timing runs from service or from the judge’s designation. Strict deadline.',true),
+ E('MO','Rule 51.06','Change of judge for cause','Verified application stating grounds.',true),
+ E('MO','Rule 52.01 - 52.04','Parties: capacity, joinder, substitution','Who may sue, necessary and permissive joinder.',true),
+ E('MO','Rule 53.01 - 53.04','Commencement of action and summons','Filing the petition starts the action; summons issues and service follows.',true),
+ E('MO','Rule 54.01 - 54.20','Process, service, return of service','Who may serve, methods (personal, leave at abode, registered agent, mail waiver), proof by return. Read the return to fix the date service was made.',true),
+ E('MO','Rule 55.03','Signing of pleadings','Signature certifies good-faith basis; sanctions for improper filings.'),
+ E('MO','Rule 55.04','Claims for relief','Content of a petition: short plain statement, jurisdictional facts, demand for relief.',true),
+ E('MO','Rule 55.08','Affirmative defenses','Defenses a defendant must plead affirmatively (statute of limitations, release, waiver and the rest).'),
+ E('MO','Rule 55.15','Fraud and mistake pleaded with particularity','Circumstances constituting fraud must be stated specifically.',true),
+ E('MO','Rule 55.25(a)','Time to answer','Defendant answers within 30 days after service of the summons and petition.'),
+ E('MO','Rule 55.27','Defenses and objections; motion to dismiss','How defenses are raised by motion or answer, what is waived, failure to state a claim, improper venue.'),
+ E('MO','Rule 55.33','Amended pleadings','Amend once as of right before a responsive pleading is served; afterward by leave or consent.',true),
+ E('MO','Rule 56.01','Discovery: scope and limits','What is discoverable, protective orders, supplementation.'),
+ E('MO','Rule 57.01','Interrogatories to parties','Written questions; answers due within 30 days after service (45 days for a defendant served with the petition).',true),
+ E('MO','Rule 57.03','Depositions upon oral examination','Notice, place, recording, use.',true),
+ E('MO','Rule 58.01','Production of documents and things','Requests for production and entry on land; response period parallels interrogatories.',true),
+ E('MO','Rule 59.01','Requests for admission','Matter is admitted unless answered or objected to within the response period. Serious consequence for a missed deadline.'),
+ E('MO','Rule 61.01','Failure to make discovery; sanctions','Motion to compel and sanctions.'),
+ E('MO','Rule 65.01','Subpoenas',null,true),
+ E('MO','Rule 67.01','Voluntary dismissal','Dismissal without prejudice by notice before evidence is heard; effect of a second dismissal.',true),
+ E('MO','Rule 74.01','Judgments and entry of judgment',null,true),
+ E('MO','Rule 74.04','Summary judgment','Motion, statement of uncontroverted material facts, responsive statement with record cites.'),
+ E('MO','Rule 74.05','Default judgment','Two-step: interlocutory order of default, then judgment on proof of damages. Motion to set aside for good cause.'),
+ E('MO','Rule 74.06','Relief from judgment or order','Grounds and time limits for setting aside a judgment.'),
+ E('MO','Rule 75.01','Trial court control over judgment','Court keeps control for 30 days after entry.'),
+ E('MO','Rule 78.04','Motion for new trial or to amend judgment','Filed within 30 days after entry of judgment.'),
+ E('MO','Rule 81.04','Notice of appeal: time','File no later than 10 days after the judgment becomes final.'),
+ E('MO','Rule 81.05','When judgment becomes final','Generally 30 days after entry if no timely after-trial motion; if one is filed, later.'),
+ E('MO','Rule 81.09','Docket fee; record to appellate court',null,true),
+ E('MO','Rule 81.12','Record on appeal; transcript','Contents of the legal file and transcript; audio recordings do not satisfy the transcript requirement by themselves.',true),
+ E('MO','Rule 81.19','Filing the record on appeal','Record due 90 days after the notice of appeal unless extended. Extension motion must be filed before the deadline.'),
+ E('MO','Rule 83.02 - 83.04','Transfer to the Supreme Court','Application for transfer after Court of Appeals decision.',true),
+ E('MO','Rule 84.04','Contents of appellant’s brief','Jurisdictional statement, statement of facts with record cites, points relied on in the required form, argument, standard of review. Noncompliance can waive the point.'),
+ E('MO','Rule 84.05(a)','Time to file briefs','Appellant’s brief due 60 days after the record is filed; respondent 30 days after that.'),
+ E('MO','Rule 84.13','Appellate review of trial errors; plain error','Preserved versus unpreserved error; plain error requires manifest injustice.',true),
+ E('MO','Rule 92.02','Injunctions and restraining orders',null,true),
+ E('MO','Rule 98.01 - 98.07','Special rules for child custody and related cases',null,true)]},
+
+{id:'mo-crim',type:'entries',title:'Missouri Criminal Rules and Procedure',intro:'Rules governing charging, discovery, trial and post-trial for misdemeanors and felonies. Section headings are the rule blocks; confirm each subdivision.',
+ items:[
+ E('MO','Rules 21 - 23','Commencement of prosecution; complaint, information, indictment','Charging instruments and amendment before and during trial.',true),
+ E('MO','Rule 22','Preliminary hearing; probable cause',null,true),
+ E('MO','Rule 24.01 - 24.04','Arraignment and pleas','Not-guilty plea, waiver of counsel in writing, effect of plea.',true),
+ E('MO','Rule 24.06','Change of judge in criminal cases',null,true),
+ E('MO','Rule 25.03','Disclosure by the state','Witness names and statements, defendant’s statements, exhibits, exculpatory evidence on request.',true),
+ E('MO','Rule 25.04','Disclosure by the defendant',null,true),
+ E('MO','Rule 25.10','Subpoenas duces tecum in criminal cases',null,true),
+ E('MO','Rule 26','Trial: jury selection, evidence, instructions','Challenges for cause, peremptory strikes, instructions conference.',true),
+ E('MO','Rule 27.02 - 27.04','Motions; suppression practice','Motion to suppress must be timely; ruling before trial.',true),
+ E('MO','Rule 27.40','Speedy trial computation (as cited in the case file)','Case file cites Rule 27.40(b) for speedy trial dating. Confirm rule number before relying on it.',true),
+ E('MO','Rule 28','Judgment and sentencing',null,true),
+ E('MO','Rule 29.11','Motion for new trial in criminal case','Filed within a short window after verdict.',true),
+ E('MO','Rule 30.01','Appeals in criminal cases','Appeal from judgment after sentence.',true),
+ E('MO','Rule 37','Practice in ordinance and municipal cases',null,true),
+ E('MO','Rule 24.035 / 29.15','Post-conviction relief','Felony plea and trial post-conviction motions. Strict short filing deadlines.',true)]},
+
+{id:'mo-stat',type:'entries',title:'Revised Statutes of Missouri (RSMo)',intro:'Grouped by subject. "RSMo §" is omitted from the left column.',
+ items:[
+ E('MO','§ 455.010','Adult abuse definitions (chapter 455)','Definitions of abuse, stalking, harassment, household and family, petitioner and respondent.'),
+ E('MO','§ 455.020','Petition for order of protection','Who may file, what to allege, ex parte order.',true),
+ E('MO','§ 455.040','Full order of protection; duration and renewal','Hearing standards, one-year to two-year terms, renewal procedure. Renewal requires reasonable notice to the respondent (see subsections on renewal).',true),
+ E('MO','§ 455.085','Violation of an order of protection','Criminal offense; class A misdemeanor for a first violation, felony for repeat. Requires a valid order and knowledge of it.',true),
+ E('MO','§ 565.056','Assault, fourth degree','Class A misdemeanor (and class C for certain subdivisions).',true),
+ E('MO','§ 575.150','Resisting or interfering with arrest','Class A misdemeanor; distinct from resisting a stop or detention, check subdivision.',true),
+ E('MO','§ 569.080','Tampering in the first degree','Motor vehicle tampering; class D felony as charged in the Ralls matter.',true),
+ E('MO','§ 570.030','Stealing','Property offenses; value thresholds.',true),
+ E('MO','§ 590.080','POST Commission discipline','Grounds to discipline a licensed peace officer.',true),
+ E('MO','§ 494.480','Peremptory challenges','Number of strikes by offense class.',true),
+ E('MO','§ 508.010','Venue in civil actions','Where a civil action may be brought; tort and residence rules; time to rule on venue motions.',true),
+ E('MO','§ 516.100','Accrual of a cause of action','When the limitation period begins.'),
+ E('MO','§ 516.120','Five-year limitation','Contract-based claims, fraud, injury to property, trespass, conversion; also borrowed for § 1983 personal-injury claims in Missouri.',true),
+ E('MO','§ 516.140','Two-year limitation','Libel, slander, assault, battery, false imprisonment.'),
+ E('MO','§ 213.055','MHRA unlawful employment practices','Discrimination because of disability, race, sex, and other protected classes.',true),
+ E('MO','§ 213.075','MHRA complaint filing period','Charge to the MCHR within 180 days of the alleged act.'),
+ E('MO','§ 213.111','MHRA right to sue','Suit within 90 days after the right-to-sue notice.',true),
+ E('MO','§ 407.020','Merchandising Practices Act (MMPA) prohibited acts','Deception, fraud, misrepresentation in connection with a sale or advertisement of merchandise.'),
+ E('MO','§ 407.025','MMPA private civil action','Purchase or lease of merchandise for personal, family or household purposes is required.',true),
+ E('MO','§ 210.826','Paternity action: when brought',null,true),
+ E('MO','§ 210.834','Genetic testing in paternity',null,true),
+ E('MO','§ 304.156','Towing and storage: notice obligations for tow operators','Notice and release requirements cited in the Heartland matter.',true),
+ E('MO','§ 610.140','Expungement of certain criminal records','Petition for expungement, eligibility and exclusions, waiting periods.',true),
+ E('MO','§ 610.122 - 610.126','Closure of arrest records after no charge, dismissal or acquittal',null,true),
+ E('MO','§ 610.010 et seq.','Sunshine Law (open records and meetings)','Request public records; custodian responds within three business days; fees; remedies.',true),
+ E('MO','§ 491 et seq.','Witnesses and evidence (chapter 491)',null,true)]},
+
+{id:'fed-rules',type:'entries',title:'Federal Rules of Civil Procedure',intro:'FRCP, cited "Fed. R. Civ. P. N". Local rules of the Eastern District of Missouri add page limits, meet-and-confer duties and e-filing details.',
+ items:[
+ E('FED','Rule 3','Commencing an action','Filing a complaint begins the action.'),
+ E('FED','Rule 4','Summons and service','Who serves, 90 days to serve, waiver of service, service on entities.'),
+ E('FED','Rule 5','Serving and filing pleadings and other papers','Certificate of service and e-filing.'),
+ E('FED','Rule 6','Computing and extending time','Count every day; last day rules; added time after mail service.'),
+ E('FED','Rule 8','General rules of pleading','Short and plain statement of the claim and grounds for jurisdiction.'),
+ E('FED','Rule 9(b)','Fraud pleaded with particularity',null),
+ E('FED','Rule 10','Form of pleadings','Caption, numbered paragraphs, separate counts.'),
+ E('FED','Rule 11','Signing pleadings; sanctions','Representations to the court; 21-day safe harbor.'),
+ E('FED','Rule 12(a)','Time to serve a responsive pleading','21 days after service; 60 days if service was waived.'),
+ E('FED','Rule 12(b)','Motion to dismiss defenses','Jurisdiction, venue, process, service, failure to state a claim.'),
+ E('FED','Rule 12(c) / 12(f)','Judgment on the pleadings; motion to strike',null),
+ E('FED','Rule 15','Amended and supplemental pleadings','Once as of course within 21 days after service or after a responsive pleading or Rule 12 motion; then leave or consent.'),
+ E('FED','Rule 16','Pretrial conferences; scheduling',null),
+ E('FED','Rule 18 - 21','Joinder of claims and parties',null),
+ E('FED','Rule 26','Discovery: scope, initial disclosures, meet and confer','Proportionality, privilege log, expert disclosures.'),
+ E('FED','Rule 30, 31','Depositions',null),
+ E('FED','Rule 33','Interrogatories','25 including subparts; 30 days to answer.'),
+ E('FED','Rule 34','Requests for production','30 days to respond.'),
+ E('FED','Rule 36','Requests for admission','Deemed admitted if not answered in 30 days.'),
+ E('FED','Rule 37','Failure to make disclosures or cooperate in discovery','Motion to compel and sanctions.'),
+ E('FED','Rule 38','Jury demand','Demand within 14 days after the last pleading directed to the issue.'),
+ E('FED','Rule 41','Dismissal of actions',null),
+ E('FED','Rule 45','Subpoenas',null),
+ E('FED','Rule 54(b)','Judgment on multiple claims or parties',null),
+ E('FED','Rule 55','Default; default judgment','Clerk’s entry of default, then default judgment.'),
+ E('FED','Rule 56','Summary judgment','Movant shows no genuine dispute of material fact; local rule statement of facts.'),
+ E('FED','Rule 58, 59, 60','Entry of judgment; new trial or amend (28 days); relief from judgment',null),
+ E('FED','Rule 65','Injunctions and restraining orders',null),
+ E('FED','Rule 72','Magistrate judges: objections',null)]},
+
+{id:'fed-stat',type:'entries',title:'Federal Statutes and Regulations',
+ items:[
+ E('FED','42 U.S.C. § 1983','Civil action for deprivation of rights','Claim against a person acting under color of state law for a constitutional violation.'),
+ E('FED','42 U.S.C. § 1988','Attorney’s fees in civil rights cases','Prevailing party fees; not generally recoverable by a pro se non-attorney.',true),
+ E('FED','28 U.S.C. § 1915','Proceedings in forma pauperis','Fee waiver; screening of the complaint; different rules for prisoners.'),
+ E('FED','28 U.S.C. § 1331','Federal question jurisdiction',null),
+ E('FED','28 U.S.C. § 1332','Diversity jurisdiction','Complete diversity and amount in controversy over $75,000.'),
+ E('FED','28 U.S.C. § 1367','Supplemental jurisdiction',null),
+ E('FED','28 U.S.C. § 1391','Venue',null),
+ E('FED','28 U.S.C. § 1738','Full faith and credit to state judgments (preclusion)',null,true),
+ E('FED','42 U.S.C. § 12101 et seq.','Americans with Disabilities Act','Title I (employment) requires a timely EEOC charge and right-to-sue notice.'),
+ E('FED','42 U.S.C. § 2000e-5(e)(1)','Timing of EEOC charge','180 days, or 300 days in a state with a fair-employment agency.'),
+ E('FED','29 U.S.C. § 2601 et seq.','Family and Medical Leave Act','Leave entitlement, interference and retaliation.'),
+ E('FED','29 U.S.C. § 2615','FMLA prohibited acts','Interference with rights; retaliation for exercising them.',true),
+ E('FED','29 U.S.C. § 2617(c)','FMLA limitations','Two years from the violation; three years if willful.'),
+ E('FED','34 U.S.C. § 12601','Pattern or practice by law enforcement','Enforcement by the Attorney General; no private right of action.'),
+ E('FED','18 U.S.C. § 242','Deprivation of rights under color of law (criminal)','Prosecuted by the U.S. Attorney; no private civil claim.',true),
+ E('FED','5 U.S.C. § 552','Freedom of Information Act','For federal agencies only.'),
+ E('FED','29 C.F.R. Part 825','FMLA regulations',null),
+ E('FED','29 C.F.R. Part 1630','ADA Title I regulations',null)]},
+
+{id:'const',type:'entries',title:'Constitutional Provisions',
+ items:[
+ E('FED','U.S. Const. amend. I','Speech, press, assembly, petition','Also protects petitioning the government, including complaints to officials.'),
+ E('FED','U.S. Const. amend. IV','Unreasonable searches and seizures','Stops, arrests, warrants, probable cause, false arrest and unlawful detention claims.'),
+ E('FED','U.S. Const. amend. V','Self-incrimination, due process (federal), double jeopardy',null),
+ E('FED','U.S. Const. amend. VI','Rights of the accused','Speedy public trial, jury, confrontation, compulsory process, counsel.'),
+ E('FED','U.S. Const. amend. VII','Jury in civil cases (federal)',null),
+ E('FED','U.S. Const. amend. XIV, § 1','Due process and equal protection against the states','Notice and opportunity to be heard before deprivation.'),
+ E('MO','Mo. Const. art. I, § 10','Due process of law',null,true),
+ E('MO','Mo. Const. art. I, § 15','Searches and seizures',null,true),
+ E('MO','Mo. Const. art. I, § 18(a)','Rights of accused in criminal prosecutions',null,true),
+ E('MO','Mo. Const. art. I, § 22(a)','Right to trial by jury',null,true)]},
+
+{id:'claims',type:'entries',title:'Claim and Defense Element Finder',intro:'Elements as generally stated in Missouri and federal law. Use these as a checklist, then pull the controlling case and the Missouri Approved Instructions (MAI) for the exact form.',
+ items:[
+ E('MO','Conversion','Elements','(1) plaintiff owned or had the right to possess the property; (2) defendant took possession with intent to exercise control inconsistent with the owner’s rights; (3) owner deprived of the right to possess. Demand and refusal may be needed when possession was initially lawful.',true),
+ E('MO','Negligence','Elements','Duty, breach, causation, damages.'),
+ E('MO','Bailment','Elements','Delivery of personal property for a purpose, acceptance, understanding that it be returned or disposed of as directed. Failure to return or wrongful release can support conversion or breach.',true),
+ E('MO','Fraud (Missouri)','Nine elements','Representation; falsity; materiality; speaker’s knowledge of falsity; intent that it be acted on; hearer’s ignorance of falsity; reliance; right to rely; proximate injury. Plead with particularity (Rule 55.15).',true),
+ E('MO','Civil conspiracy','Elements','Two or more persons; an unlawful objective or lawful objective by unlawful means; meeting of the minds; an overt act (tort) in furtherance; damages. Conspiracy is not a standalone tort without an underlying wrong.',true),
+ E('MO','Unjust enrichment','Elements','Benefit conferred by plaintiff; defendant appreciated it; defendant accepted and retained it under circumstances that make retention unjust.',true),
+ E('MO','MMPA','Elements','Purchase or lease of merchandise primarily for personal, family or household purposes; unlawful practice under § 407.020; ascertainable loss of money or property as a result. No purchase from the defendant is a common problem.',true),
+ E('MO','Defamation / false report','Elements','Publication; of a defamatory statement; that identifies the plaintiff; false; made with the required fault; damage to reputation. Statements to police may carry a qualified privilege defeated by malice or falsity known to the speaker.',true),
+ E('MO','False imprisonment','Elements','Detention or restraint against the person’s will; without legal justification. Two-year limitation under § 516.140.',true),
+ E('MO','Malicious prosecution','Elements','Earlier proceeding commenced against plaintiff; instigated by defendant; terminated in plaintiff’s favor; no probable cause; malice; damages.',true),
+ E('MO','Intrusion upon seclusion','Elements','Intentional intrusion into a private matter or place where the plaintiff has a reasonable expectation of privacy, highly offensive to a reasonable person.',true),
+ E('FED','§ 1983 false arrest / unlawful seizure','Elements','Person acting under color of state law; seizure without probable cause (or without reasonable suspicion for a stop). Qualified immunity is the main defense.'),
+ E('FED','§ 1983 municipal liability (Monell)','Elements','Constitutional violation caused by an official policy, widespread custom, or decision of a final policymaker. No respondeat superior.'),
+ E('FED','ADA Title I discrimination','Elements','Disability; qualified for the job with or without accommodation; adverse action because of the disability. Timely EEOC charge is a prerequisite.',true),
+ E('FED','FMLA interference','Elements','Eligible employee; covered employer; entitled to leave; gave notice; employer denied or interfered with benefits.',true),
+ E('FED','FMLA retaliation','Elements','Protected activity; adverse action; causal connection.',true),
+ E('MO','MHRA discrimination','Elements','Protected class or disability; adverse action; the protected trait was a contributing factor (Missouri standard is more plaintiff-friendly than the federal one). Charge to MCHR within 180 days.',true),
+ E('MO','Order of protection: sufficiency of evidence','Standard','Petitioner proves abuse or stalking by a preponderance of the evidence; appellate review under Murphy v. Carron.',true)]},
+
+{id:'fed-cases',type:'entries',title:'Federal Case Law',intro:'Supreme Court decisions by topic. Full citation in the left column; confirm before citing.',
+ items:[
+ E('FED','Haines v. Kerner, 404 U.S. 519 (1972)','Pro se pleadings','Held to less stringent standards than formal pleadings drafted by lawyers.'),
+ E('FED','Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)','Plausibility pleading','Complaint needs enough facts to state a claim that is plausible on its face.'),
+ E('FED','Ashcroft v. Iqbal, 556 U.S. 662 (2009)','Plausibility; supervisory liability','Conclusions are not entitled to the assumption of truth; each official is liable for his own conduct.'),
+ E('FED','Celotex Corp. v. Catrett, 477 U.S. 317 (1986)','Summary judgment','Movant’s burden when the nonmovant bears the burden of proof at trial.'),
+ E('FED','Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986)','Summary judgment','Genuine dispute standard.'),
+ E('FED','Heck v. Humphrey, 512 U.S. 477 (1994)','§ 1983 and pending or existing convictions','A damages claim that would imply invalidity of a conviction does not accrue until the conviction is reversed, expunged or otherwise invalidated.'),
+ E('FED','Wallace v. Kato, 549 U.S. 384 (2007)','Accrual of false-arrest claims','Claim accrues when detention becomes pursuant to legal process; Heck rule for anticipated convictions.'),
+ E('FED','Monell v. Department of Social Services, 436 U.S. 658 (1978)','Municipal liability','Local governments liable under § 1983 for policy or custom, not respondeat superior.'),
+ E('FED','Pembaur v. City of Cincinnati, 475 U.S. 469 (1986)','Final policymaker','A single decision by a final policymaker can be municipal policy.'),
+ E('FED','Imbler v. Pachtman, 424 U.S. 409 (1976)','Prosecutorial immunity','Absolute immunity for prosecutorial acts in initiating and presenting the state’s case.'),
+ E('FED','Franks v. Delaware, 438 U.S. 154 (1978)','False statements in a warrant affidavit','Hearing when a deliberate or reckless falsehood was necessary to probable cause.'),
+ E('FED','Terry v. Ohio, 392 U.S. 1 (1968)','Investigative stops','Reasonable, articulable suspicion of criminal activity.'),
+ E('FED','Rodriguez v. United States, 575 U.S. 348 (2015)','Length of a traffic stop','A stop may not be prolonged beyond the time needed for the traffic mission absent reasonable suspicion.'),
+ E('FED','Whren v. United States, 517 U.S. 806 (1996)','Pretextual stops','Objective probable cause for a traffic violation makes the stop reasonable.'),
+ E('FED','Brady v. Maryland, 373 U.S. 83 (1963)','Disclosure of favorable evidence','Suppression of material exculpatory evidence violates due process.'),
+ E('FED','Barker v. Wingo, 407 U.S. 514 (1972)','Speedy trial','Four-factor test: length of delay, reason, assertion of the right, prejudice.'),
+ E('FED','Faretta v. California, 422 U.S. 806 (1975)','Self-representation','Right to proceed pro se on a knowing and intelligent waiver of counsel.'),
+ E('FED','Mathews v. Eldridge, 424 U.S. 319 (1976)','Procedural due process','Balancing test for the process due.'),
+ E('FED','Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306 (1950)','Notice','Notice must be reasonably calculated to apprise interested parties.'),
+ E('FED','Younger v. Harris, 401 U.S. 37 (1971)','Abstention','Federal courts abstain from enjoining ongoing state criminal prosecutions.'),
+ E('FED','Rooker-Feldman doctrine (Rooker v. Fidelity Trust, 263 U.S. 413 (1923); D.C. Court of Appeals v. Feldman, 460 U.S. 462 (1983))','No federal review of state-court judgments','Losing state-court party cannot seek review of the judgment in a federal district court.'),
+ E('FED','New York Times Co. v. Sullivan, 376 U.S. 254 (1964)','Defamation of public officials','Actual malice standard.'),
+ E('FED','Miranda v. Arizona, 384 U.S. 436 (1966)','Custodial interrogation warnings',null)]},
+
+{id:'mo-cases',type:'entries',title:'Missouri Case Law',intro:'Only entries with a citation in the source material or in settled Missouri practice. Add more from the case-law library as they are verified.',
+ items:[
+ E('MO','Murphy v. Carron, 536 S.W.2d 30 (Mo. banc 1976)','Standard of review in court-tried cases','Affirm unless no substantial evidence, against the weight of the evidence, or erroneous declaration or application of law.'),
+ E('MO','Sofka v. Thal, 662 S.W.2d 502 (Mo. banc 1983)','Invasion of privacy: intrusion upon seclusion',null,true),
+ E('MO','Nazeri v. Missouri Valley College, 860 S.W.2d 303 (Mo. banc 1993)','Intentional infliction of emotional distress','Claim is a gap-filler; not available when the conduct fits another tort.',true),
+ E('MO','Rucker v. K-Mart (as cited in the case file)','Qualified privilege for reports to police','Citation not in the file; pull the full citation before use.',true)]},
+
+{id:'deadlines',type:'table',title:'Deadline Quick Reference',intro:'Common time limits from the rules above. Always recompute from the actual service or filing date and check for tolling and extensions.',
+ cols:[{h:'Event',key:'e'},{h:'Missouri',key:'m'},{h:'Federal',key:'f'}],
+ items:[
+ {e:'Answer to complaint',m:'30 days after service (Rule 55.25(a))',f:'21 days after service; 60 if waived (Rule 12(a))'},
+ {e:'Written discovery responses',m:'30 days; 45 for a defendant served with the petition (Rules 57.01, 58.01, 59.01)',f:'30 days (Rules 33, 34, 36)'},
+ {e:'Amend pleading as of right',m:'Before responsive pleading served (Rule 55.33)',f:'21 days after service or after responsive pleading / Rule 12 motion (Rule 15)'},
+ {e:'Summary judgment',m:'Rule 74.04',f:'Rule 56 and local rule'},
+ {e:'New trial / amend judgment',m:'30 days after entry (Rule 78.04)',f:'28 days after entry (Rule 59)'},
+ {e:'Notice of appeal',m:'10 days after judgment is final (Rule 81.04); final 30 days after entry absent post-trial motion',f:'30 days after entry (Fed. R. App. P. 4(a)(1)(A)); 60 if the U.S. is a party'},
+ {e:'Record on appeal',m:'90 days after notice of appeal (Rule 81.19)',f:'14 days to order transcript (FRAP 10(b))'},
+ {e:'Appellant’s brief',m:'60 days after record filed (Rule 84.05(a))',f:'40 days after record filed (FRAP 31)'},
+ {e:'Employment charge',m:'180 days to MCHR (§ 213.075)',f:'180 days, or 300 days to EEOC (§ 2000e-5(e)(1))'},
+ {e:'Suit after right-to-sue',m:'90 days (§ 213.111)',f:'90 days after EEOC notice'},
+ {e:'Libel, slander, false imprisonment',m:'2 years (§ 516.140)',f:'§ 1983 borrows the state personal-injury period; Missouri uses 5 years (§ 516.120)'},
+ {e:'Conversion, fraud, property injury',m:'5 years (§ 516.120)',f:'n/a'},
+ {e:'FMLA',m:'n/a',f:'2 years; 3 years if willful (29 U.S.C. § 2617(c))'},
+ {e:'Missouri Sunshine request response',m:'3 business days (§ 610.023)',f:'FOIA 20 working days (agencies only)'}]},
+
+{id:'glossary',type:'entries',title:'Glossary',
+ items:[
+ E('','Affirmative defense','','A defense that admits the claim but avoids liability (limitations, release, privilege). Must be pleaded.'),
+ E('','Bailment','','Delivery of personal property to another for a limited purpose with the duty to return or dispose of it as directed.'),
+ E('','Change of judge','','Missouri procedure to replace the assigned judge, by right (Rule 51.05) or for cause.'),
+ E('','Consent judgment','','Judgment entered on the parties’ agreement; appealability differs from a contested judgment.'),
+ E('','Conversion','','Unauthorized assumption of ownership over another’s personal property.'),
+ E('','Default (interlocutory order of default)','','Court entry that a party failed to plead or defend; judgment follows after proof.'),
+ E('','Deemed admitted','','Matters in a request for admission treated as true after a missed deadline.'),
+ E('','En banc / banc','','The full Missouri Supreme Court.'),
+ E('','Heck bar','','Bar on § 1983 damages that would undermine a standing conviction.'),
+ E('','In forma pauperis (IFP)','','Permission to proceed without paying court fees.'),
+ E('','Interlocutory','','Not final; an interim order.'),
+ E('','Monell claim','','Section 1983 claim against a local government based on its own policy or custom.'),
+ E('','Motion in limine','','Pretrial request to exclude or limit evidence.'),
+ E('','Nolle prosequi / dismissal without prejudice','','Prosecutor drops charges; refiling may be allowed within limits.'),
+ E('','Qualified immunity','','Officials are immune from damages unless they violated clearly established law.'),
+ E('','Qualified privilege','','Defense to defamation for good-faith statements to those with a duty or interest; lost by malice.'),
+ E('','Return of service','','Sworn proof of who served whom, how, and when.'),
+ E('','Respondeat superior','','Employer liability for an employee’s acts; not available under § 1983.'),
+ E('','Statute of limitations','','Deadline to file. Tolling can pause it.'),
+ E('','Tolling','','Legal pause of a limitation period.'),
+ E('','Writ of prohibition / mandamus','','Extraordinary writs to control a lower court or compel a duty.'),
+ E('','Sunshine request','','Missouri public records request under chapter 610.'),
+ E('','Case.net','','Missouri Courts online docket system; some case types are login-gated.')]},
+
+{id:'prose',type:'prose',title:'How to Use This Book',
+ paras:['Start in the Element Finder when you know the claim. Start in the rule blocks when you have a deadline. Start in Case Law when you need authority for a motion or a brief.','Filter by Missouri or Federal at the top. Many matters cross both systems, so the default is both.','Each entry flagged "check subsection" needs the exact subdivision confirmed. Rule numbers change; the official text controls.','Volume II, the Garner Case Index, maps every pending matter to the entries here.']}
+]};
+
+MASTER.sections.unshift(MASTER.sections.pop());
+renderBook(MASTER);
+</script>
+
+</body></html>

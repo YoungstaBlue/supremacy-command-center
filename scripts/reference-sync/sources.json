@@ -1,0 +1,203 @@
+{
+  "_comment": "Claude artifacts that make up the reference library. `kind` selects the converter in build.py. `files` lists published paths to fetch besides index.html. Fetch each artifact with the Claude Code Artifact tool (action read, path/paths, out_dir = snapshots/<slug>) and then run build.py.",
+  "sources": [
+    {
+      "slug": "pinned-index",
+      "title": "Pinned Index",
+      "url": "https://claude.ai/artifact/DcLcETGacVTGCMALwawUGF",
+      "kind": "html",
+      "shelf": "Hubs and indexes",
+      "note": "Compiled table of contents for every pinned volume, tool and archive."
+    },
+    {
+      "slug": "lawmind-reference-library",
+      "title": "LawMind Reference Library",
+      "url": "https://claude.ai/artifact/VSM13DCS42DoMBRnPRp932",
+      "kind": "html",
+      "shelf": "Hubs and indexes",
+      "note": "Master index for the twelve LawMind volumes, with provenance and known-defect notes."
+    },
+    {
+      "slug": "master-legal-index",
+      "title": "Master Legal Index",
+      "url": "https://claude.ai/artifact/LM4doubHgswPPA8U4jFwFh",
+      "kind": "jsdata",
+      "shelf": "Hubs and indexes",
+      "note": "Reference Volume I: Missouri and federal rules, statutes, claim elements, landmark cases, deadlines and terms."
+    },
+    {
+      "slug": "lawmind-compendium",
+      "title": "The LawMind Compendium",
+      "url": "https://claude.ai/artifact/KbFR8VxXTgxyK8FpGXE5Ma",
+      "kind": "slides",
+      "shelf": "Hubs and indexes",
+      "files": ["project/deck.json", "project/slides/*.html"],
+      "note": "Slide deck tying the dictionaries, encyclopedia, statutes, case summaries and audits together."
+    },
+    {
+      "slug": "missouri-law-library-ingestion-map",
+      "title": "Missouri Law Library — Ingestion Map",
+      "url": "https://claude.ai/artifact/5hPcFHoerc9wu8s8GDtCu1",
+      "kind": "docs",
+      "shelf": "Hubs and indexes",
+      "docs_project": "26083ce8-d498-4d56-b9a3-dfe33e13232c",
+      "docs_node": "6eae884d-aa61",
+      "note": "Claude Doc: where every Missouri and federal source stands, gaps, and the ingestion order."
+    },
+
+    {
+      "slug": "dictionary-a-c",
+      "title": "LawMind Dictionary A–C",
+      "url": "https://claude.ai/artifact/WfqU4uVNiFJh4BZE9fiLm6",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 1"
+    },
+    {
+      "slug": "dictionary-d-i",
+      "title": "LawMind Dictionary D–I",
+      "url": "https://claude.ai/artifact/GTjkqarjDYTh8VcsJYqt3i",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 2"
+    },
+    {
+      "slug": "dictionary-j-p",
+      "title": "LawMind Dictionary J–P",
+      "url": "https://claude.ai/artifact/AyuRcUqfUxzecAw6Aoq8et",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 3"
+    },
+    {
+      "slug": "dictionary-q-z",
+      "title": "LawMind Dictionary Q–Z",
+      "url": "https://claude.ai/artifact/1pJTUVUvj7dnkYhhYRjhr5",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 4"
+    },
+    {
+      "slug": "latin-maxims",
+      "title": "LawMind Latin Maxims",
+      "url": "https://claude.ai/artifact/3CPpV6VLEsKzqRnNj3iukF",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 5"
+    },
+    {
+      "slug": "encyclopedia",
+      "title": "LawMind Encyclopedia",
+      "url": "https://claude.ai/artifact/SS3tsJvyqUXNCQxhucfZiB",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 6"
+    },
+    {
+      "slug": "missouri-ucc-statutes",
+      "title": "LawMind Missouri & UCC Statutes",
+      "url": "https://claude.ai/artifact/XXTiorXmcmRCBnmKMxHLPd",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 7"
+    },
+    {
+      "slug": "federal-statutes-1",
+      "title": "LawMind Federal Statutes I",
+      "url": "https://claude.ai/artifact/H2uWvAUjP8f2yeXgH45zdQ",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 8·I"
+    },
+    {
+      "slug": "federal-statutes-2",
+      "title": "LawMind Federal Statutes II",
+      "url": "https://claude.ai/artifact/PhEj4efH9JhcmXui35oy5e",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 8·II"
+    },
+    {
+      "slug": "federal-statutes-3",
+      "title": "LawMind Federal Statutes III",
+      "url": "https://claude.ai/artifact/5F9pi1TM343tpfwEx55oz1",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 8·III"
+    },
+    {
+      "slug": "case-summaries-a-l",
+      "title": "LawMind Case Summaries A–L",
+      "url": "https://claude.ai/artifact/8xfTaeco1b4VQdFN3wK9qu",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 9"
+    },
+    {
+      "slug": "case-summaries-m-z",
+      "title": "LawMind Case Summaries M–Z",
+      "url": "https://claude.ai/artifact/9vuqGv67JcEAp4snfQwEpz",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 10"
+    },
+
+    {
+      "slug": "missouri-law-library",
+      "title": "Missouri Law Library",
+      "url": "https://claude.ai/artifact/VDHKvXbCV8VG68xufvh8vL",
+      "kind": "rsmo",
+      "shelf": "Missouri primary law",
+      "files": ["data/index.json", "data/constitution.json", "data/t/*.json"],
+      "note": "Every RSMo section and every Missouri Constitution section as captured from revisor.mo.gov."
+    },
+    {
+      "slug": "annotated-statute-book",
+      "title": "Annotated Statute Book",
+      "url": "https://claude.ai/artifact/WTDztHyYz9nnPM73GDNutW",
+      "kind": "jsonblock",
+      "shelf": "Missouri primary law",
+      "note": "Reference Volume III: statutes and rules the cases turn on, interpreting cases, definitions, encyclopedia, Latin, deadlines."
+    },
+    {
+      "slug": "statute-shelf",
+      "title": "The Statute Shelf",
+      "url": "https://claude.ai/artifact/KgpnZbDueKbwyx8JY8xvkA",
+      "kind": "jsdata",
+      "shelf": "Missouri primary law",
+      "note": "Five books: Missouri statutes, legal dictionary, thesaurus, Latin phrasebook, RSMo chapter catalog."
+    },
+    {
+      "slug": "missouri-statute-browser",
+      "title": "Missouri Statute Browser",
+      "url": "https://claude.ai/artifact/MrUhWNjSgPV7AqMzbwUjAn",
+      "kind": "jsdata",
+      "shelf": "Missouri primary law",
+      "note": "Full-text statutes cited across the matters, with revisor.mo.gov links."
+    },
+    {
+      "slug": "missouri-statutes-cited",
+      "title": "Missouri Statutes, Cited Sections",
+      "url": "https://claude.ai/artifact/U2s6nSvToqLjdYCptWwU4p",
+      "kind": "html",
+      "shelf": "Missouri primary law",
+      "note": "Master Doc 007, Missouri part: the fifteen RSMo sections cited in filings, checked against the citation log."
+    },
+    {
+      "slug": "us-code-verbatim",
+      "title": "U.S. Code Verbatim Archive",
+      "url": "https://claude.ai/artifact/1BcZCFXBQDepJHXUPzgxUm",
+      "kind": "html",
+      "shelf": "Federal primary law",
+      "note": "Master Doc 007, federal part: seven federal statutes captured from two official publishers and hashed."
+    },
+    {
+      "slug": "legal-terms-glossary",
+      "title": "Legal Terms Glossary",
+      "url": "https://claude.ai/artifact/S2zZ3h9Kj1iahnREptHKMt",
+      "kind": "jsdata",
+      "shelf": "Glossaries",
+      "note": "Statutory and plain-English definitions of the key terms across the matters."
+    }
+  ]
+}

@@ -1,0 +1,1591 @@
+{
+ "MASTER": {
+  "kicker": "Reference Volume I",
+  "title": "Master Legal Index",
+  "subtitle": "Missouri and federal rules, statutes, claim elements, landmark cases, deadlines and terms for a pro se litigant. Built as a first edition; sections marked \"check subsection\" need the exact subdivision confirmed against the current text.",
+  "banner": "Legal information, not legal advice. Rule numbers, statute sections, case citations and deadlines here are a working index. Confirm each against the official current text (Missouri Supreme Court Rules, Revised Statutes of Missouri, U.S. Code, Federal Rules, and the court’s local rules) before you rely on it or file it.",
+  "placeholder": "Search rules, statutes, cases, terms (e.g. 55.25, default, Monell)",
+  "chips": [
+   [
+    "All",
+    ""
+   ],
+   [
+    "Missouri",
+    "MO"
+   ],
+   [
+    "Federal",
+    "FED"
+   ]
+  ],
+  "footer": "First edition, compiled 2026-09-29. Companion volume: Garner Case Index. Volume II ties this reference to each pending matter.",
+  "sections": [
+   {
+    "id": "prose",
+    "type": "prose",
+    "title": "How to Use This Book",
+    "paras": [
+     "Start in the Element Finder when you know the claim. Start in the rule blocks when you have a deadline. Start in Case Law when you need authority for a motion or a brief.",
+     "Filter by Missouri or Federal at the top. Many matters cross both systems, so the default is both.",
+     "Each entry flagged \"check subsection\" needs the exact subdivision confirmed. Rule numbers change; the official text controls.",
+     "Volume II, the Garner Case Index, maps every pending matter to the entries here."
+    ]
+   },
+   {
+    "id": "goal",
+    "type": "prose",
+    "title": "Standing Goal and Research Standard",
+    "paras": [
+     "Goal: precise precision and the best result in each court case. Everything in this volume is held to that standard.",
+     "Source order: official current text in force on the relevant date, then annotated statutes, then verified opinion text, then secondary sources. Case-file notes are leads, never authority.",
+     "Citator standard: confirm that each case exists, the quote, the pin cite, the parallel cite, and its later history and treatment. Say so whenever only existence and cited-by counts could be checked.",
+     "Form standard: start from the court’s own forms, Missouri Approved Instructions, federal AO forms and local-rule formatting, and list every deviation.",
+     "Also check: local rules, rule and session-law effective dates, weekend and holiday roll-over, and consistency between matters."
+    ]
+   },
+   {
+    "id": "courts",
+    "type": "table",
+    "title": "Court map",
+    "intro": "Where the two systems put a case, and where an appeal goes.",
+    "cols": [
+     {
+      "h": "Level",
+      "key": "l"
+     },
+     {
+      "h": "Missouri",
+      "key": "m"
+     },
+     {
+      "h": "Federal",
+      "key": "f"
+     }
+    ],
+    "items": [
+     {
+      "l": "Limited / local",
+      "m": "Municipal division (ordinance violations)",
+      "f": "Magistrate judge (by consent or referral)"
+     },
+     {
+      "l": "Trial court",
+      "m": "Associate Circuit Division (misdemeanors, small claims, most family matters in some counties) and Circuit Division (felonies, civil over the associate limit, equity) within a numbered judicial circuit. Pike is the 45th Circuit; Marion and Ralls are in the 10th.",
+      "f": "U.S. District Court. Missouri has an Eastern District (St. Louis; Hannibal-area counties are in the Eastern District) and a Western District."
+     },
+     {
+      "l": "First appeal",
+      "m": "Court of Appeals: Eastern (St. Louis), Western (Kansas City), Southern (Springfield) Districts",
+      "f": "U.S. Court of Appeals for the Eighth Circuit"
+     },
+     {
+      "l": "Highest court",
+      "m": "Supreme Court of Missouri (transfer, and direct appeals in limited categories)",
+      "f": "Supreme Court of the United States (certiorari)"
+     },
+     {
+      "l": "Administrative",
+      "m": "Missouri Commission on Human Rights (MCHR)",
+      "f": "EEOC, DOJ Civil Rights Division"
+     }
+    ]
+   },
+   {
+    "id": "mo-civ",
+    "type": "entries",
+    "title": "Missouri Rules of Civil Procedure",
+    "intro": "Supreme Court Rules, cited as \"Rule NN.NN\". Filing, service, discovery, judgment and appeal rules most used by a self-represented civil party.",
+    "items": [
+     {
+      "j": "MO",
+      "k": "Rule 41.01",
+      "t": "Applicability",
+      "d": "Scope of the civil rules and how they apply across circuit and associate divisions.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 43.01",
+      "t": "Service and filing of pleadings after the original",
+      "d": "Service of later papers by mail or e-filing system, certificate of service, and filing with the court."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 44.01",
+      "t": "Computation of time",
+      "d": "How to count days, weekends and holidays, and added days for mail service."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 44.01(e)",
+      "t": "Additional time after service by mail",
+      "d": "Check current text for whether extra days apply when the paper is served through the e-filing system.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 51.05",
+      "t": "Change of judge as of right",
+      "d": "Motion to change judge without cause; timing runs from service or from the judge’s designation. Strict deadline.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 51.06",
+      "t": "Change of judge for cause",
+      "d": "Verified application stating grounds.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 52.01 - 52.04",
+      "t": "Parties: capacity, joinder, substitution",
+      "d": "Who may sue, necessary and permissive joinder.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 53.01 - 53.04",
+      "t": "Commencement of action and summons",
+      "d": "Filing the petition starts the action; summons issues and service follows.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 54.01 - 54.20",
+      "t": "Process, service, return of service",
+      "d": "Who may serve, methods (personal, leave at abode, registered agent, mail waiver), proof by return. Read the return to fix the date service was made.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 55.03",
+      "t": "Signing of pleadings",
+      "d": "Signature certifies good-faith basis; sanctions for improper filings."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 55.04",
+      "t": "Claims for relief",
+      "d": "Content of a petition: short plain statement, jurisdictional facts, demand for relief.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 55.08",
+      "t": "Affirmative defenses",
+      "d": "Defenses a defendant must plead affirmatively (statute of limitations, release, waiver and the rest)."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 55.15",
+      "t": "Fraud and mistake pleaded with particularity",
+      "d": "Circumstances constituting fraud must be stated specifically.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 55.25(a)",
+      "t": "Time to answer",
+      "d": "Defendant answers within 30 days after service of the summons and petition."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 55.27",
+      "t": "Defenses and objections; motion to dismiss",
+      "d": "How defenses are raised by motion or answer, what is waived, failure to state a claim, improper venue."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 55.33",
+      "t": "Amended pleadings",
+      "d": "Amend once as of right before a responsive pleading is served; afterward by leave or consent.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 56.01",
+      "t": "Discovery: scope and limits",
+      "d": "What is discoverable, protective orders, supplementation."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 57.01",
+      "t": "Interrogatories to parties",
+      "d": "Written questions; answers due within 30 days after service (45 days for a defendant served with the petition).",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 57.03",
+      "t": "Depositions upon oral examination",
+      "d": "Notice, place, recording, use.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 58.01",
+      "t": "Production of documents and things",
+      "d": "Requests for production and entry on land; response period parallels interrogatories.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 59.01",
+      "t": "Requests for admission",
+      "d": "Matter is admitted unless answered or objected to within the response period. Serious consequence for a missed deadline."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 61.01",
+      "t": "Failure to make discovery; sanctions",
+      "d": "Motion to compel and sanctions."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 65.01",
+      "t": "Subpoenas",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 67.01",
+      "t": "Voluntary dismissal",
+      "d": "Dismissal without prejudice by notice before evidence is heard; effect of a second dismissal.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 74.01",
+      "t": "Judgments and entry of judgment",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 74.04",
+      "t": "Summary judgment",
+      "d": "Motion, statement of uncontroverted material facts, responsive statement with record cites."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 74.05",
+      "t": "Default judgment",
+      "d": "Two-step: interlocutory order of default, then judgment on proof of damages. Motion to set aside for good cause."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 74.06",
+      "t": "Relief from judgment or order",
+      "d": "Grounds and time limits for setting aside a judgment."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 75.01",
+      "t": "Trial court control over judgment",
+      "d": "Court keeps control for 30 days after entry."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 78.04",
+      "t": "Motion for new trial or to amend judgment",
+      "d": "Filed within 30 days after entry of judgment."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 81.04",
+      "t": "Notice of appeal: time",
+      "d": "File no later than 10 days after the judgment becomes final."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 81.05",
+      "t": "When judgment becomes final",
+      "d": "Generally 30 days after entry if no timely after-trial motion; if one is filed, later."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 81.09",
+      "t": "Docket fee; record to appellate court",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 81.12",
+      "t": "Record on appeal; transcript",
+      "d": "Contents of the legal file and transcript; audio recordings do not satisfy the transcript requirement by themselves.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 81.19",
+      "t": "Filing the record on appeal",
+      "d": "Record due 90 days after the notice of appeal unless extended. Extension motion must be filed before the deadline."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 83.02 - 83.04",
+      "t": "Transfer to the Supreme Court",
+      "d": "Application for transfer after Court of Appeals decision.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 84.04",
+      "t": "Contents of appellant’s brief",
+      "d": "Jurisdictional statement, statement of facts with record cites, points relied on in the required form, argument, standard of review. Noncompliance can waive the point."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 84.05(a)",
+      "t": "Time to file briefs",
+      "d": "Appellant’s brief due 60 days after the record is filed; respondent 30 days after that."
+     },
+     {
+      "j": "MO",
+      "k": "Rule 84.13",
+      "t": "Appellate review of trial errors; plain error",
+      "d": "Preserved versus unpreserved error; plain error requires manifest injustice.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 92.02",
+      "t": "Injunctions and restraining orders",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 98.01 - 98.07",
+      "t": "Special rules for child custody and related cases",
+      "d": null,
+      "chk": true
+     }
+    ]
+   },
+   {
+    "id": "mo-crim",
+    "type": "entries",
+    "title": "Missouri Criminal Rules and Procedure",
+    "intro": "Rules governing charging, discovery, trial and post-trial for misdemeanors and felonies. Section headings are the rule blocks; confirm each subdivision.",
+    "items": [
+     {
+      "j": "MO",
+      "k": "Rules 21 - 23",
+      "t": "Commencement of prosecution; complaint, information, indictment",
+      "d": "Charging instruments and amendment before and during trial.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 22",
+      "t": "Preliminary hearing; probable cause",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 24.01 - 24.04",
+      "t": "Arraignment and pleas",
+      "d": "Not-guilty plea, waiver of counsel in writing, effect of plea.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 24.06",
+      "t": "Change of judge in criminal cases",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 25.03",
+      "t": "Disclosure by the state",
+      "d": "Witness names and statements, defendant’s statements, exhibits, exculpatory evidence on request.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 25.04",
+      "t": "Disclosure by the defendant",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 25.10",
+      "t": "Subpoenas duces tecum in criminal cases",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 26",
+      "t": "Trial: jury selection, evidence, instructions",
+      "d": "Challenges for cause, peremptory strikes, instructions conference.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 27.02 - 27.04",
+      "t": "Motions; suppression practice",
+      "d": "Motion to suppress must be timely; ruling before trial.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 27.40",
+      "t": "Speedy trial computation (as cited in the case file)",
+      "d": "Case file cites Rule 27.40(b) for speedy trial dating. Confirm rule number before relying on it.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 28",
+      "t": "Judgment and sentencing",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 29.11",
+      "t": "Motion for new trial in criminal case",
+      "d": "Filed within a short window after verdict.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 30.01",
+      "t": "Appeals in criminal cases",
+      "d": "Appeal from judgment after sentence.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 37",
+      "t": "Practice in ordinance and municipal cases",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rule 24.035 / 29.15",
+      "t": "Post-conviction relief",
+      "d": "Felony plea and trial post-conviction motions. Strict short filing deadlines.",
+      "chk": true
+     }
+    ]
+   },
+   {
+    "id": "mo-stat",
+    "type": "entries",
+    "title": "Revised Statutes of Missouri (RSMo)",
+    "intro": "Grouped by subject. \"RSMo §\" is omitted from the left column.",
+    "items": [
+     {
+      "j": "MO",
+      "k": "§ 455.010",
+      "t": "Adult abuse definitions (chapter 455)",
+      "d": "Definitions of abuse, stalking, harassment, household and family, petitioner and respondent."
+     },
+     {
+      "j": "MO",
+      "k": "§ 455.020",
+      "t": "Petition for order of protection",
+      "d": "Who may file, what to allege, ex parte order.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 455.040",
+      "t": "Full order of protection; duration and renewal",
+      "d": "Hearing standards, one-year to two-year terms, renewal procedure. Renewal requires reasonable notice to the respondent (see subsections on renewal).",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 455.085",
+      "t": "Violation of an order of protection",
+      "d": "Criminal offense; class A misdemeanor for a first violation, felony for repeat. Requires a valid order and knowledge of it.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 565.056",
+      "t": "Assault, fourth degree",
+      "d": "Class A misdemeanor (and class C for certain subdivisions).",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 575.150",
+      "t": "Resisting or interfering with arrest",
+      "d": "Class A misdemeanor; distinct from resisting a stop or detention, check subdivision.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 569.080",
+      "t": "Tampering in the first degree",
+      "d": "Motor vehicle tampering; class D felony as charged in the Ralls matter.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 570.030",
+      "t": "Stealing",
+      "d": "Property offenses; value thresholds.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 590.080",
+      "t": "POST Commission discipline",
+      "d": "Grounds to discipline a licensed peace officer.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 494.480",
+      "t": "Peremptory challenges",
+      "d": "Number of strikes by offense class.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 508.010",
+      "t": "Venue in civil actions",
+      "d": "Where a civil action may be brought; tort and residence rules; time to rule on venue motions.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 516.100",
+      "t": "Accrual of a cause of action",
+      "d": "When the limitation period begins."
+     },
+     {
+      "j": "MO",
+      "k": "§ 516.120",
+      "t": "Five-year limitation",
+      "d": "Contract-based claims, fraud, injury to property, trespass, conversion; also borrowed for § 1983 personal-injury claims in Missouri.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 516.140",
+      "t": "Two-year limitation",
+      "d": "Libel, slander, assault, battery, false imprisonment."
+     },
+     {
+      "j": "MO",
+      "k": "§ 213.055",
+      "t": "MHRA unlawful employment practices",
+      "d": "Discrimination because of disability, race, sex, and other protected classes.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 213.075",
+      "t": "MHRA complaint filing period",
+      "d": "Charge to the MCHR within 180 days of the alleged act."
+     },
+     {
+      "j": "MO",
+      "k": "§ 213.111",
+      "t": "MHRA right to sue",
+      "d": "Suit within 90 days after the right-to-sue notice.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 407.020",
+      "t": "Merchandising Practices Act (MMPA) prohibited acts",
+      "d": "Deception, fraud, misrepresentation in connection with a sale or advertisement of merchandise."
+     },
+     {
+      "j": "MO",
+      "k": "§ 407.025",
+      "t": "MMPA private civil action",
+      "d": "Purchase or lease of merchandise for personal, family or household purposes is required.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 210.826",
+      "t": "Paternity action: when brought",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 210.834",
+      "t": "Genetic testing in paternity",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 304.156",
+      "t": "Towing and storage: notice obligations for tow operators",
+      "d": "Notice and release requirements cited in the Heartland matter.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 610.140",
+      "t": "Expungement of certain criminal records",
+      "d": "Petition for expungement, eligibility and exclusions, waiting periods.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 610.122 - 610.126",
+      "t": "Closure of arrest records after no charge, dismissal or acquittal",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 610.010 et seq.",
+      "t": "Sunshine Law (open records and meetings)",
+      "d": "Request public records; custodian responds within three business days; fees; remedies.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "§ 491 et seq.",
+      "t": "Witnesses and evidence (chapter 491)",
+      "d": null,
+      "chk": true
+     }
+    ]
+   },
+   {
+    "id": "fed-rules",
+    "type": "entries",
+    "title": "Federal Rules of Civil Procedure",
+    "intro": "FRCP, cited \"Fed. R. Civ. P. N\". Local rules of the Eastern District of Missouri add page limits, meet-and-confer duties and e-filing details.",
+    "items": [
+     {
+      "j": "FED",
+      "k": "Rule 3",
+      "t": "Commencing an action",
+      "d": "Filing a complaint begins the action."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 4",
+      "t": "Summons and service",
+      "d": "Who serves, 90 days to serve, waiver of service, service on entities."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 5",
+      "t": "Serving and filing pleadings and other papers",
+      "d": "Certificate of service and e-filing."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 6",
+      "t": "Computing and extending time",
+      "d": "Count every day; last day rules; added time after mail service."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 8",
+      "t": "General rules of pleading",
+      "d": "Short and plain statement of the claim and grounds for jurisdiction."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 9(b)",
+      "t": "Fraud pleaded with particularity",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 10",
+      "t": "Form of pleadings",
+      "d": "Caption, numbered paragraphs, separate counts."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 11",
+      "t": "Signing pleadings; sanctions",
+      "d": "Representations to the court; 21-day safe harbor."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 12(a)",
+      "t": "Time to serve a responsive pleading",
+      "d": "21 days after service; 60 days if service was waived."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 12(b)",
+      "t": "Motion to dismiss defenses",
+      "d": "Jurisdiction, venue, process, service, failure to state a claim."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 12(c) / 12(f)",
+      "t": "Judgment on the pleadings; motion to strike",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 15",
+      "t": "Amended and supplemental pleadings",
+      "d": "Once as of course within 21 days after service or after a responsive pleading or Rule 12 motion; then leave or consent."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 16",
+      "t": "Pretrial conferences; scheduling",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 18 - 21",
+      "t": "Joinder of claims and parties",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 26",
+      "t": "Discovery: scope, initial disclosures, meet and confer",
+      "d": "Proportionality, privilege log, expert disclosures."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 30, 31",
+      "t": "Depositions",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 33",
+      "t": "Interrogatories",
+      "d": "25 including subparts; 30 days to answer."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 34",
+      "t": "Requests for production",
+      "d": "30 days to respond."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 36",
+      "t": "Requests for admission",
+      "d": "Deemed admitted if not answered in 30 days."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 37",
+      "t": "Failure to make disclosures or cooperate in discovery",
+      "d": "Motion to compel and sanctions."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 38",
+      "t": "Jury demand",
+      "d": "Demand within 14 days after the last pleading directed to the issue."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 41",
+      "t": "Dismissal of actions",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 45",
+      "t": "Subpoenas",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 54(b)",
+      "t": "Judgment on multiple claims or parties",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 55",
+      "t": "Default; default judgment",
+      "d": "Clerk’s entry of default, then default judgment."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 56",
+      "t": "Summary judgment",
+      "d": "Movant shows no genuine dispute of material fact; local rule statement of facts."
+     },
+     {
+      "j": "FED",
+      "k": "Rule 58, 59, 60",
+      "t": "Entry of judgment; new trial or amend (28 days); relief from judgment",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 65",
+      "t": "Injunctions and restraining orders",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "Rule 72",
+      "t": "Magistrate judges: objections",
+      "d": null
+     }
+    ]
+   },
+   {
+    "id": "fed-stat",
+    "type": "entries",
+    "title": "Federal Statutes and Regulations",
+    "items": [
+     {
+      "j": "FED",
+      "k": "42 U.S.C. § 1983",
+      "t": "Civil action for deprivation of rights",
+      "d": "Claim against a person acting under color of state law for a constitutional violation."
+     },
+     {
+      "j": "FED",
+      "k": "42 U.S.C. § 1988",
+      "t": "Attorney’s fees in civil rights cases",
+      "d": "Prevailing party fees; not generally recoverable by a pro se non-attorney.",
+      "chk": true
+     },
+     {
+      "j": "FED",
+      "k": "28 U.S.C. § 1915",
+      "t": "Proceedings in forma pauperis",
+      "d": "Fee waiver; screening of the complaint; different rules for prisoners."
+     },
+     {
+      "j": "FED",
+      "k": "28 U.S.C. § 1331",
+      "t": "Federal question jurisdiction",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "28 U.S.C. § 1332",
+      "t": "Diversity jurisdiction",
+      "d": "Complete diversity and amount in controversy over $75,000."
+     },
+     {
+      "j": "FED",
+      "k": "28 U.S.C. § 1367",
+      "t": "Supplemental jurisdiction",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "28 U.S.C. § 1391",
+      "t": "Venue",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "28 U.S.C. § 1738",
+      "t": "Full faith and credit to state judgments (preclusion)",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "FED",
+      "k": "42 U.S.C. § 12101 et seq.",
+      "t": "Americans with Disabilities Act",
+      "d": "Title I (employment) requires a timely EEOC charge and right-to-sue notice."
+     },
+     {
+      "j": "FED",
+      "k": "42 U.S.C. § 2000e-5(e)(1)",
+      "t": "Timing of EEOC charge",
+      "d": "180 days, or 300 days in a state with a fair-employment agency."
+     },
+     {
+      "j": "FED",
+      "k": "29 U.S.C. § 2601 et seq.",
+      "t": "Family and Medical Leave Act",
+      "d": "Leave entitlement, interference and retaliation."
+     },
+     {
+      "j": "FED",
+      "k": "29 U.S.C. § 2615",
+      "t": "FMLA prohibited acts",
+      "d": "Interference with rights; retaliation for exercising them.",
+      "chk": true
+     },
+     {
+      "j": "FED",
+      "k": "29 U.S.C. § 2617(c)",
+      "t": "FMLA limitations",
+      "d": "Two years from the violation; three years if willful."
+     },
+     {
+      "j": "FED",
+      "k": "34 U.S.C. § 12601",
+      "t": "Pattern or practice by law enforcement",
+      "d": "Enforcement by the Attorney General; no private right of action."
+     },
+     {
+      "j": "FED",
+      "k": "18 U.S.C. § 242",
+      "t": "Deprivation of rights under color of law (criminal)",
+      "d": "Prosecuted by the U.S. Attorney; no private civil claim.",
+      "chk": true
+     },
+     {
+      "j": "FED",
+      "k": "5 U.S.C. § 552",
+      "t": "Freedom of Information Act",
+      "d": "For federal agencies only."
+     },
+     {
+      "j": "FED",
+      "k": "29 C.F.R. Part 825",
+      "t": "FMLA regulations",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "29 C.F.R. Part 1630",
+      "t": "ADA Title I regulations",
+      "d": null
+     }
+    ]
+   },
+   {
+    "id": "const",
+    "type": "entries",
+    "title": "Constitutional Provisions",
+    "items": [
+     {
+      "j": "FED",
+      "k": "U.S. Const. amend. I",
+      "t": "Speech, press, assembly, petition",
+      "d": "Also protects petitioning the government, including complaints to officials."
+     },
+     {
+      "j": "FED",
+      "k": "U.S. Const. amend. IV",
+      "t": "Unreasonable searches and seizures",
+      "d": "Stops, arrests, warrants, probable cause, false arrest and unlawful detention claims."
+     },
+     {
+      "j": "FED",
+      "k": "U.S. Const. amend. V",
+      "t": "Self-incrimination, due process (federal), double jeopardy",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "U.S. Const. amend. VI",
+      "t": "Rights of the accused",
+      "d": "Speedy public trial, jury, confrontation, compulsory process, counsel."
+     },
+     {
+      "j": "FED",
+      "k": "U.S. Const. amend. VII",
+      "t": "Jury in civil cases (federal)",
+      "d": null
+     },
+     {
+      "j": "FED",
+      "k": "U.S. Const. amend. XIV, § 1",
+      "t": "Due process and equal protection against the states",
+      "d": "Notice and opportunity to be heard before deprivation."
+     },
+     {
+      "j": "MO",
+      "k": "Mo. Const. art. I, § 10",
+      "t": "Due process of law",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Mo. Const. art. I, § 15",
+      "t": "Searches and seizures",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Mo. Const. art. I, § 18(a)",
+      "t": "Rights of accused in criminal prosecutions",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Mo. Const. art. I, § 22(a)",
+      "t": "Right to trial by jury",
+      "d": null,
+      "chk": true
+     }
+    ]
+   },
+   {
+    "id": "claims",
+    "type": "entries",
+    "title": "Claim and Defense Element Finder",
+    "intro": "Elements as generally stated in Missouri and federal law. Use these as a checklist, then pull the controlling case and the Missouri Approved Instructions (MAI) for the exact form.",
+    "items": [
+     {
+      "j": "MO",
+      "k": "Conversion",
+      "t": "Elements",
+      "d": "(1) plaintiff owned or had the right to possess the property; (2) defendant took possession with intent to exercise control inconsistent with the owner’s rights; (3) owner deprived of the right to possess. Demand and refusal may be needed when possession was initially lawful.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Negligence",
+      "t": "Elements",
+      "d": "Duty, breach, causation, damages."
+     },
+     {
+      "j": "MO",
+      "k": "Bailment",
+      "t": "Elements",
+      "d": "Delivery of personal property for a purpose, acceptance, understanding that it be returned or disposed of as directed. Failure to return or wrongful release can support conversion or breach.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Fraud (Missouri)",
+      "t": "Nine elements",
+      "d": "Representation; falsity; materiality; speaker’s knowledge of falsity; intent that it be acted on; hearer’s ignorance of falsity; reliance; right to rely; proximate injury. Plead with particularity (Rule 55.15).",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Civil conspiracy",
+      "t": "Elements",
+      "d": "Two or more persons; an unlawful objective or lawful objective by unlawful means; meeting of the minds; an overt act (tort) in furtherance; damages. Conspiracy is not a standalone tort without an underlying wrong.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Unjust enrichment",
+      "t": "Elements",
+      "d": "Benefit conferred by plaintiff; defendant appreciated it; defendant accepted and retained it under circumstances that make retention unjust.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "MMPA",
+      "t": "Elements",
+      "d": "Purchase or lease of merchandise primarily for personal, family or household purposes; unlawful practice under § 407.020; ascertainable loss of money or property as a result. No purchase from the defendant is a common problem.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Defamation / false report",
+      "t": "Elements",
+      "d": "Publication; of a defamatory statement; that identifies the plaintiff; false; made with the required fault; damage to reputation. Statements to police may carry a qualified privilege defeated by malice or falsity known to the speaker.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "False imprisonment",
+      "t": "Elements",
+      "d": "Detention or restraint against the person’s will; without legal justification. Two-year limitation under § 516.140.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Malicious prosecution",
+      "t": "Elements",
+      "d": "Earlier proceeding commenced against plaintiff; instigated by defendant; terminated in plaintiff’s favor; no probable cause; malice; damages.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Intrusion upon seclusion",
+      "t": "Elements",
+      "d": "Intentional intrusion into a private matter or place where the plaintiff has a reasonable expectation of privacy, highly offensive to a reasonable person.",
+      "chk": true
+     },
+     {
+      "j": "FED",
+      "k": "§ 1983 false arrest / unlawful seizure",
+      "t": "Elements",
+      "d": "Person acting under color of state law; seizure without probable cause (or without reasonable suspicion for a stop). Qualified immunity is the main defense."
+     },
+     {
+      "j": "FED",
+      "k": "§ 1983 municipal liability (Monell)",
+      "t": "Elements",
+      "d": "Constitutional violation caused by an official policy, widespread custom, or decision of a final policymaker. No respondeat superior."
+     },
+     {
+      "j": "FED",
+      "k": "ADA Title I discrimination",
+      "t": "Elements",
+      "d": "Disability; qualified for the job with or without accommodation; adverse action because of the disability. Timely EEOC charge is a prerequisite.",
+      "chk": true
+     },
+     {
+      "j": "FED",
+      "k": "FMLA interference",
+      "t": "Elements",
+      "d": "Eligible employee; covered employer; entitled to leave; gave notice; employer denied or interfered with benefits.",
+      "chk": true
+     },
+     {
+      "j": "FED",
+      "k": "FMLA retaliation",
+      "t": "Elements",
+      "d": "Protected activity; adverse action; causal connection.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "MHRA discrimination",
+      "t": "Elements",
+      "d": "Protected class or disability; adverse action; the protected trait was a contributing factor (Missouri standard is more plaintiff-friendly than the federal one). Charge to MCHR within 180 days.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Order of protection: sufficiency of evidence",
+      "t": "Standard",
+      "d": "Petitioner proves abuse or stalking by a preponderance of the evidence; appellate review under Murphy v. Carron.",
+      "chk": true
+     }
+    ]
+   },
+   {
+    "id": "fed-cases",
+    "type": "entries",
+    "title": "Federal Case Law",
+    "intro": "Supreme Court decisions by topic. Full citation in the left column; confirm before citing.",
+    "items": [
+     {
+      "j": "FED",
+      "k": "Haines v. Kerner, 404 U.S. 519 (1972)",
+      "t": "Pro se pleadings",
+      "d": "Held to less stringent standards than formal pleadings drafted by lawyers."
+     },
+     {
+      "j": "FED",
+      "k": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007)",
+      "t": "Plausibility pleading",
+      "d": "Complaint needs enough facts to state a claim that is plausible on its face."
+     },
+     {
+      "j": "FED",
+      "k": "Ashcroft v. Iqbal, 556 U.S. 662 (2009)",
+      "t": "Plausibility; supervisory liability",
+      "d": "Conclusions are not entitled to the assumption of truth; each official is liable for his own conduct."
+     },
+     {
+      "j": "FED",
+      "k": "Celotex Corp. v. Catrett, 477 U.S. 317 (1986)",
+      "t": "Summary judgment",
+      "d": "Movant’s burden when the nonmovant bears the burden of proof at trial."
+     },
+     {
+      "j": "FED",
+      "k": "Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986)",
+      "t": "Summary judgment",
+      "d": "Genuine dispute standard."
+     },
+     {
+      "j": "FED",
+      "k": "Heck v. Humphrey, 512 U.S. 477 (1994)",
+      "t": "§ 1983 and pending or existing convictions",
+      "d": "A damages claim that would imply invalidity of a conviction does not accrue until the conviction is reversed, expunged or otherwise invalidated."
+     },
+     {
+      "j": "FED",
+      "k": "Wallace v. Kato, 549 U.S. 384 (2007)",
+      "t": "Accrual of false-arrest claims",
+      "d": "Claim accrues when detention becomes pursuant to legal process; Heck rule for anticipated convictions."
+     },
+     {
+      "j": "FED",
+      "k": "Monell v. Department of Social Services, 436 U.S. 658 (1978)",
+      "t": "Municipal liability",
+      "d": "Local governments liable under § 1983 for policy or custom, not respondeat superior."
+     },
+     {
+      "j": "FED",
+      "k": "Pembaur v. City of Cincinnati, 475 U.S. 469 (1986)",
+      "t": "Final policymaker",
+      "d": "A single decision by a final policymaker can be municipal policy."
+     },
+     {
+      "j": "FED",
+      "k": "Imbler v. Pachtman, 424 U.S. 409 (1976)",
+      "t": "Prosecutorial immunity",
+      "d": "Absolute immunity for prosecutorial acts in initiating and presenting the state’s case."
+     },
+     {
+      "j": "FED",
+      "k": "Franks v. Delaware, 438 U.S. 154 (1978)",
+      "t": "False statements in a warrant affidavit",
+      "d": "Hearing when a deliberate or reckless falsehood was necessary to probable cause."
+     },
+     {
+      "j": "FED",
+      "k": "Terry v. Ohio, 392 U.S. 1 (1968)",
+      "t": "Investigative stops",
+      "d": "Reasonable, articulable suspicion of criminal activity."
+     },
+     {
+      "j": "FED",
+      "k": "Rodriguez v. United States, 575 U.S. 348 (2015)",
+      "t": "Length of a traffic stop",
+      "d": "A stop may not be prolonged beyond the time needed for the traffic mission absent reasonable suspicion."
+     },
+     {
+      "j": "FED",
+      "k": "Whren v. United States, 517 U.S. 806 (1996)",
+      "t": "Pretextual stops",
+      "d": "Objective probable cause for a traffic violation makes the stop reasonable."
+     },
+     {
+      "j": "FED",
+      "k": "Brady v. Maryland, 373 U.S. 83 (1963)",
+      "t": "Disclosure of favorable evidence",
+      "d": "Suppression of material exculpatory evidence violates due process."
+     },
+     {
+      "j": "FED",
+      "k": "Barker v. Wingo, 407 U.S. 514 (1972)",
+      "t": "Speedy trial",
+      "d": "Four-factor test: length of delay, reason, assertion of the right, prejudice."
+     },
+     {
+      "j": "FED",
+      "k": "Faretta v. California, 422 U.S. 806 (1975)",
+      "t": "Self-representation",
+      "d": "Right to proceed pro se on a knowing and intelligent waiver of counsel."
+     },
+     {
+      "j": "FED",
+      "k": "Mathews v. Eldridge, 424 U.S. 319 (1976)",
+      "t": "Procedural due process",
+      "d": "Balancing test for the process due."
+     },
+     {
+      "j": "FED",
+      "k": "Mullane v. Central Hanover Bank & Trust Co., 339 U.S. 306 (1950)",
+      "t": "Notice",
+      "d": "Notice must be reasonably calculated to apprise interested parties."
+     },
+     {
+      "j": "FED",
+      "k": "Younger v. Harris, 401 U.S. 37 (1971)",
+      "t": "Abstention",
+      "d": "Federal courts abstain from enjoining ongoing state criminal prosecutions."
+     },
+     {
+      "j": "FED",
+      "k": "Rooker-Feldman doctrine (Rooker v. Fidelity Trust, 263 U.S. 413 (1923); D.C. Court of Appeals v. Feldman, 460 U.S. 462 (1983))",
+      "t": "No federal review of state-court judgments",
+      "d": "Losing state-court party cannot seek review of the judgment in a federal district court."
+     },
+     {
+      "j": "FED",
+      "k": "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)",
+      "t": "Defamation of public officials",
+      "d": "Actual malice standard."
+     },
+     {
+      "j": "FED",
+      "k": "Miranda v. Arizona, 384 U.S. 436 (1966)",
+      "t": "Custodial interrogation warnings",
+      "d": null
+     }
+    ]
+   },
+   {
+    "id": "mo-cases",
+    "type": "entries",
+    "title": "Missouri Case Law",
+    "intro": "Only entries with a citation in the source material or in settled Missouri practice. Add more from the case-law library as they are verified.",
+    "items": [
+     {
+      "j": "MO",
+      "k": "Murphy v. Carron, 536 S.W.2d 30 (Mo. banc 1976)",
+      "t": "Standard of review in court-tried cases",
+      "d": "Affirm unless no substantial evidence, against the weight of the evidence, or erroneous declaration or application of law."
+     },
+     {
+      "j": "MO",
+      "k": "Sofka v. Thal, 662 S.W.2d 502 (Mo. banc 1983)",
+      "t": "Invasion of privacy: intrusion upon seclusion",
+      "d": null,
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Nazeri v. Missouri Valley College, 860 S.W.2d 303 (Mo. banc 1993)",
+      "t": "Intentional infliction of emotional distress",
+      "d": "Claim is a gap-filler; not available when the conduct fits another tort.",
+      "chk": true
+     },
+     {
+      "j": "MO",
+      "k": "Rucker v. K-Mart (as cited in the case file)",
+      "t": "Qualified privilege for reports to police",
+      "d": "Citation not in the file; pull the full citation before use.",
+      "chk": true
+     }
+    ]
+   },
+   {
+    "id": "deadlines",
+    "type": "table",
+    "title": "Deadline Quick Reference",
+    "intro": "Common time limits from the rules above. Always recompute from the actual service or filing date and check for tolling and extensions.",
+    "cols": [
+     {
+      "h": "Event",
+      "key": "e"
+     },
+     {
+      "h": "Missouri",
+      "key": "m"
+     },
+     {
+      "h": "Federal",
+      "key": "f"
+     }
+    ],
+    "items": [
+     {
+      "e": "Answer to complaint",
+      "m": "30 days after service (Rule 55.25(a))",
+      "f": "21 days after service; 60 if waived (Rule 12(a))"
+     },
+     {
+      "e": "Written discovery responses",
+      "m": "30 days; 45 for a defendant served with the petition (Rules 57.01, 58.01, 59.01)",
+      "f": "30 days (Rules 33, 34, 36)"
+     },
+     {
+      "e": "Amend pleading as of right",
+      "m": "Before responsive pleading served (Rule 55.33)",
+      "f": "21 days after service or after responsive pleading / Rule 12 motion (Rule 15)"
+     },
+     {
+      "e": "Summary judgment",
+      "m": "Rule 74.04",
+      "f": "Rule 56 and local rule"
+     },
+     {
+      "e": "New trial / amend judgment",
+      "m": "30 days after entry (Rule 78.04)",
+      "f": "28 days after entry (Rule 59)"
+     },
+     {
+      "e": "Notice of appeal",
+      "m": "10 days after judgment is final (Rule 81.04); final 30 days after entry absent post-trial motion",
+      "f": "30 days after entry (Fed. R. App. P. 4(a)(1)(A)); 60 if the U.S. is a party"
+     },
+     {
+      "e": "Record on appeal",
+      "m": "90 days after notice of appeal (Rule 81.19)",
+      "f": "14 days to order transcript (FRAP 10(b))"
+     },
+     {
+      "e": "Appellant’s brief",
+      "m": "60 days after record filed (Rule 84.05(a))",
+      "f": "40 days after record filed (FRAP 31)"
+     },
+     {
+      "e": "Employment charge",
+      "m": "180 days to MCHR (§ 213.075)",
+      "f": "180 days, or 300 days to EEOC (§ 2000e-5(e)(1))"
+     },
+     {
+      "e": "Suit after right-to-sue",
+      "m": "90 days (§ 213.111)",
+      "f": "90 days after EEOC notice"
+     },
+     {
+      "e": "Libel, slander, false imprisonment",
+      "m": "2 years (§ 516.140)",
+      "f": "§ 1983 borrows the state personal-injury period; Missouri uses 5 years (§ 516.120)"
+     },
+     {
+      "e": "Conversion, fraud, property injury",
+      "m": "5 years (§ 516.120)",
+      "f": "n/a"
+     },
+     {
+      "e": "FMLA",
+      "m": "n/a",
+      "f": "2 years; 3 years if willful (29 U.S.C. § 2617(c))"
+     },
+     {
+      "e": "Missouri Sunshine request response",
+      "m": "3 business days (§ 610.023)",
+      "f": "FOIA 20 working days (agencies only)"
+     }
+    ]
+   },
+   {
+    "id": "glossary",
+    "type": "entries",
+    "title": "Glossary",
+    "items": [
+     {
+      "j": "",
+      "k": "Affirmative defense",
+      "t": "",
+      "d": "A defense that admits the claim but avoids liability (limitations, release, privilege). Must be pleaded."
+     },
+     {
+      "j": "",
+      "k": "Bailment",
+      "t": "",
+      "d": "Delivery of personal property to another for a limited purpose with the duty to return or dispose of it as directed."
+     },
+     {
+      "j": "",
+      "k": "Change of judge",
+      "t": "",
+      "d": "Missouri procedure to replace the assigned judge, by right (Rule 51.05) or for cause."
+     },
+     {
+      "j": "",
+      "k": "Consent judgment",
+      "t": "",
+      "d": "Judgment entered on the parties’ agreement; appealability differs from a contested judgment."
+     },
+     {
+      "j": "",
+      "k": "Conversion",
+      "t": "",
+      "d": "Unauthorized assumption of ownership over another’s personal property."
+     },
+     {
+      "j": "",
+      "k": "Default (interlocutory order of default)",
+      "t": "",
+      "d": "Court entry that a party failed to plead or defend; judgment follows after proof."
+     },
+     {
+      "j": "",
+      "k": "Deemed admitted",
+      "t": "",
+      "d": "Matters in a request for admission treated as true after a missed deadline."
+     },
+     {
+      "j": "",
+      "k": "En banc / banc",
+      "t": "",
+      "d": "The full Missouri Supreme Court."
+     },
+     {
+      "j": "",
+      "k": "Heck bar",
+      "t": "",
+      "d": "Bar on § 1983 damages that would undermine a standing conviction."
+     },
+     {
+      "j": "",
+      "k": "In forma pauperis (IFP)",
+      "t": "",
+      "d": "Permission to proceed without paying court fees."
+     },
+     {
+      "j": "",
+      "k": "Interlocutory",
+      "t": "",
+      "d": "Not final; an interim order."
+     },
+     {
+      "j": "",
+      "k": "Monell claim",
+      "t": "",
+      "d": "Section 1983 claim against a local government based on its own policy or custom."
+     },
+     {
+      "j": "",
+      "k": "Motion in limine",
+      "t": "",
+      "d": "Pretrial request to exclude or limit evidence."
+     },
+     {
+      "j": "",
+      "k": "Nolle prosequi / dismissal without prejudice",
+      "t": "",
+      "d": "Prosecutor drops charges; refiling may be allowed within limits."
+     },
+     {
+      "j": "",
+      "k": "Qualified immunity",
+      "t": "",
+      "d": "Officials are immune from damages unless they violated clearly established law."
+     },
+     {
+      "j": "",
+      "k": "Qualified privilege",
+      "t": "",
+      "d": "Defense to defamation for good-faith statements to those with a duty or interest; lost by malice."
+     },
+     {
+      "j": "",
+      "k": "Return of service",
+      "t": "",
+      "d": "Sworn proof of who served whom, how, and when."
+     },
+     {
+      "j": "",
+      "k": "Respondeat superior",
+      "t": "",
+      "d": "Employer liability for an employee’s acts; not available under § 1983."
+     },
+     {
+      "j": "",
+      "k": "Statute of limitations",
+      "t": "",
+      "d": "Deadline to file. Tolling can pause it."
+     },
+     {
+      "j": "",
+      "k": "Tolling",
+      "t": "",
+      "d": "Legal pause of a limitation period."
+     },
+     {
+      "j": "",
+      "k": "Writ of prohibition / mandamus",
+      "t": "",
+      "d": "Extraordinary writs to control a lower court or compel a duty."
+     },
+     {
+      "j": "",
+      "k": "Sunshine request",
+      "t": "",
+      "d": "Missouri public records request under chapter 610."
+     },
+     {
+      "j": "",
+      "k": "Case.net",
+      "t": "",
+      "d": "Missouri Courts online docket system; some case types are login-gated."
+     }
+    ]
+   }
+  ]
+ }
+}

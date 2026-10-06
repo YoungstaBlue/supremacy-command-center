@@ -1,0 +1,1138 @@
+# Title III — Legislative Branch
+
+Source: https://claude.ai/artifact/VDHKvXbCV8VG68xufvh8vL (`data/t/III.json`). Verify any section against revisor.mo.gov before citing.
+
+## Chapter 18 — Energy Compact
+
+### 18.060 Southern states energy compact.
+
+The Southern States Energy Compact is enacted into law and entered into by this state as a party, and is of full force and effect between the state and any other states joining therein in accordance with the terms of the compact, which said compact is substantially as follows:
+(1) POLICY AND PURPOSE.—The party states recognize that the proper employment and conservation of energy and employment of energy-related facilities, materials and products within the context of a responsible regard for the environment, can assist substantially in the industrialization of the south and the development of a balanced economy for the region. They also recognize that optimum benefit from an acquisition of energy resources and facilities requires systematic encouragement, guidance and assistance from the party states on a cooperative basis. It is the policy of the party states to undertake such cooperation on a continuing basis; it is the purpose of this compact to provide the instruments and framework for such a cooperative effort to improve the economy of the south and contribute to the individual and community well-being of the people of this region.
+(2) BOARD.—
+(a) There is hereby created an agency of the party states to be known as the southern states energy board (hereinafter called the board). The board shall be composed of three members from each party state designated or appointed in accordance with the law of the state which they represent* and serving and subject to removal in accordance with such law. Any member of the board may provide for the discharge of his duties and the performance of his functions thereon (either for the duration of his membership or for any less period of time) by a deputy or assistant, if the laws of his state make specific provision therefor. The federal government may be represented without vote if provision is made by federal law for such representation.
+(b) Each party state shall be entitled to one vote on the board, to be determined by majority vote of the members from the party state present and voting on any question. No action of the board shall be binding unless taken at a meeting at which a majority of all party states are represented and unless a majority of the total number of votes are cast in favor thereof.
+(c) The board shall have a seal.
+(d) The board shall elect annually, from among its members, a chairman, a vice chairman, and a treasurer. The board shall appoint an executive director who shall serve at its pleasure and who shall also act as secretary, and who, together with the treasurer, shall be bonded in such amounts as the board may require.
+(e) The executive director, with approval of the board, shall appoint and remove or discharge such personnel as may be necessary for the performance of the board's functions irrespective of the civil service, personnel or other merit system laws of any of the party states.
+(f) The board may establish and maintain, independently or in conjunction with any one or more of the party states, a suitable retirement system for its full-time employees. Employees of the board shall be eligible for Social Security coverage in respect of old age and survivors' insurance, provided that the board takes such steps as may be necessary pursuant to federal law to participate in such program of insurance as a governmental agency or unit. The board may establish and maintain or participate in such additional programs of employee benefits as may be appropriate.
+(g) The board may borrow, accept or contract for the services of personnel from any state or the United States or any subdivision or agency thereof, from any interstate agency, or from any institution, person, firm or corporation.
+(h) The board may accept for any of its purposes and functions under this compact any and all donations, and grants of money, equipment, supplies, materials and services (conditional or otherwise) from any state or the United States or from any institution, person, firm or corporation, and may receive, utilize and dispose of the same.
+(i) The board may establish and maintain such facilities as may be necessary for the transacting of its business. The board may acquire, hold and convey real and personal property and any interest therein.
+(j) The board shall adopt by-laws, rules and regulations for the conduct of its business, and shall have the power to amend and rescind these by-laws, rules and regulations. The board shall publish its by-laws, rules and regulations in convenient form and shall also file a copy of any amendment thereto with the appropriate agency or officer in each of the party states.
+(k) The board annually shall make to the governor of each party state a report covering the activities of the board for the preceding year, and embodying such recommendations as may have been adopted by the board, which report shall be transmitted to the legislature of said state. The board may issue such additional reports as it may deem desirable.
+(3) FINANCES.—
+(a) The board shall submit to the executive head or designated officer or officers of each state a budget of its estimated expenditures for such period as may be required by the laws of that jurisdiction for presentation to the legislature thereof.
+(b) Each of the board's budgets of estimated expenditures shall contain specific recommendations of the amount or amounts to be appropriated by each of the party states. One-half of the total amount of each budget of estimated expenditures shall be apportioned among the party states in equal shares; one quarter of each such budget shall be apportioned among the party states in accordance with the ratio of their populations to the total population of the entire group of party states based on the latest official decennial census; and one quarter of each such budget shall be apportioned among the party states on the basis of the relative average per capita income of the inhabitants in each of the party states based on the latest computations published by the federal census-taking agency. Subject to appropriation by their respective legislatures, the board shall be provided with such funds by each of the party states as are necessary to provide the means of establishing and maintaining facilities, a staff of personnel, and such activities as may be necessary to fulfill the powers and duties imposed upon and entrusted to the board.
+(c) The board may meet any of its obligations in whole or in part with funds available to it under subsection (2)(h), provided that the board takes specific action setting aside such funds prior to the incurring of any obligation to be met in whole or in part in this manner. Except where the board makes use of funds available to it under subsection (2)(h), the board shall not incur any obligation prior to the allotment of funds by the party jurisdiction adequate to meet the same.
+(d) The board shall keep accurate accounts of all receipts and disbursements. The receipts and disbursements of the board shall be subject to the audit and accounting procedures established under its by-laws. However, all receipts and disbursements of funds handled by the board shall be audited yearly by a qualified public accountant and the report of the audit shall be included in and become part of the annual report of the board.
+(e) The accounts of the board shall be open at any reasonable time for inspection.
+(4) ADVISORY COMMITTEES.—The board may establish such advisory and technical committees as it may deem necessary, membership on which to include but not to be limited to private citizens, expert and lay personnel, representatives of industry, labor, commerce, agriculture, civic associations, medicine, education, voluntary health agencies and officials of local, state and federal government, and may cooperate with and use the services of any such committees and the organizations which they represent in furthering any of its activities under this compact.
+(5) POWERS.—The board shall have the power to:
+(a) Ascertain and analyze on a continuing basis the position of the south with respect to energy, energy-related industries, and environmental concerns.
+(b) Encourage the development, conservation and responsible use of energy and energy-related facilities, installations and products as part of a balanced economy and healthy environment.
+(c) Collect, correlate and disseminate information relating to civilian uses of energy and energy-related materials and products.
+(d) Conduct, or cooperate in conducting, programs of training for state and local personnel engaged in any aspects of
+1. Energy, environment, and application of energy, environmental, and related concerns to industry, medicine or education or the promotion or regulation thereof.
+2. The formulation or administration of measures designed to promote safety in any matter related to the development, use or disposal of energy and energy-related materials, products, installations or wastes.
+(e) Organize and conduct, or assist and cooperate in organizing and conducting, demonstrations of energy product, material or equipment use and disposal and of proper techniques or processes for the application of energy resources to the civilian economy or general welfare.
+(f) Undertake such nonregulatory functions with respect to sources of radiation as may promote the economic development and general welfare of the region.
+(g) Study industrial, health, safety and other standards, laws, codes, rules, regulations and administrative practices in or related to energy and environmental fields.
+(h) Recommend such changes in, or amendments or additions to the laws, codes, rules, regulations, administrative procedures and practices or ordinances of the party states in any of the fields of its interest and competence as in its judgment may be appropriate. Any such recommendation shall be made in the case of Florida, through the Florida nuclear commission.
+(i) Prepare, publish and distribute (with or without charge), such reports, bulletins, newsletters or other material as it deems appropriate.
+(j) Cooperate with the United States Department of Energy or any agency successor thereto, any other officer or agency of the United States, and any other governmental unit or agency or officer thereof, and with any private persons or agencies in any of the fields of its interest.
+(k) Act as licensee of the United States government or any party state with respect to the conduct of any research activity requiring such license and operate such research facility or undertake any program pursuant thereto.
+(l) Ascertain from time to time such methods, practices, circumstances and conditions as may bring about the prevention and control of energy and environmental incidents in the area comprising the party states to coordinate the nuclear environmental, and other energy-related incident prevention and control plans and the work relating thereto of the appropriate agencies of the party states and to facilitate the rendering of aid by the party states to each other in coping with energy and environmental incidents. The board may formulate and, in accordance with need from time to time, revise a regional plan or regional plans for coping with energy and environmental incidents within the territory of the party states as a whole or within any subregion or subregions of the geographic areas covered by this compact.
+(6) SUPPLEMENTARY AGREEMENTS.—
+(a) To the extent that the board has not undertaken an activity or project which would be within its power under the provisions of this compact, any two or more of the party states (acting by their duly constituted administrative officials) may enter into supplementary agreements for the undertaking and continuance of such an activity or project. Any such agreement shall specify its purpose or purposes, its duration and the procedure for termination thereof or withdrawal therefrom, the method of financing and allocating the costs of the activity or project and such other matters as may be necessary or appropriate. No such supplementary agreement entered into pursuant to this act shall become effective prior to its submission to and approval by the board. The board shall give such approval unless it finds that the supplementary agreement or activity or project contemplated thereby is inconsistent with the provisions of this compact or a program or activity conducted by or participated in by the board.
+(b) Unless all of the party states participate in a supplementary agreement, any costs thereof shall be borne separately by the states party thereto. However, the board may administer or otherwise assist in the operation of any supplementary agreement.
+(c) No party to a supplementary agreement entered into pursuant to this act shall be relieved thereby of any obligation or duty assumed by said party state under or pursuant to this compact, except that timely and proper performance of such obligation or duty by means of the supplementary agreement may be offered as performance pursuant to the compact.
+(7) OTHER LAWS AND REGULATIONS.—Nothing in this compact shall be construed to:
+(a) Permit or require any person or other entity to avoid or refuse compliance with any law, rule, regulation, order or ordinance of a party state or subdivision thereof now or hereafter made, enacted or in force.
+(b) Limit, diminish or otherwise impair jurisdiction exercised by the United States Department of Energy, any agency successor thereto, or any other federal department, agency or officer pursuant to and in conformity with any valid and operative act of Congress.
+(c) Alter the relations between the respective internal responsibilities of the government of a party state and its subdivisions.
+(d) Permit or authorize the board to exercise any regulatory authority or to own or operate any nuclear reactor for the generation of electric energy; nor shall the board own or operate any facility or installation for industrial or commercial purposes.
+(8) ELIGIBLE PARTIES, ENTRY INTO FORCE AND WITHDRAWAL.—
+(a) Any or all of the states of Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Missouri, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, West Virginia, the Commonwealth of Puerto Rico, and the United States Virgin Islands shall be eligible to become party to this compact.
+(b) As to any eligible party state, this compact shall become effective when its legislature shall have enacted the same into law; provided that it shall not become initially effective until enacted into law by seven states.
+(c) Any party state may withdraw from this compact by enacting a statute repealing the same, but no such withdrawal shall become effective until the governor of the withdrawing state shall have sent formal notice in writing to the governor of each other party state informing said governors of the action of the legislature in repealing the compact and declaring an intention to withdraw.
+(9) SEVERABILITY AND CONSTRUCTION.—The provisions of this compact and of any supplementary agreement entered into hereunder shall be severable and if any phrase, clause, sentence or provision of this compact or such supplementary agreement is declared to be contrary to the constitution of any participating state or of the United States or the applicability thereof to any government, agency, person or circumstance is held invalid, the validity of the remainder of this compact or such supplementary agreement and the applicability thereof to any government, agency, person or circumstance shall not be affected thereby. If this compact or any supplementary agreement entered into hereunder shall be held contrary to the constitution of any state participating therein, the compact or such supplementary agreement shall remain in full force and effect as to the remaining states and in full force and effect as to the state affected as to all severable matters. The provisions of this compact and of any supplementary agreement entered into pursuant hereto shall be liberally construed to effectuate the purposes thereof.
+
+*Effective 8/28/1992 · (L. 1965 p. 515 § 324.060, A.L. 1992 S.B. 563)
+*Words "he represents" appear in original rolls.*
+
+### 18.065 Southern states energy board members, appointment, expenses.
+
+The three members of the southern states energy board from the state of Missouri shall be the governor or his designee, one member of the senate appointed by the president pro tem of the senate, and one member of the house of representatives appointed by the speaker of the house of representatives. Any necessary expenses associated therewith shall be paid out of the funds appropriated to the respective appointing authority.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 574)*
+
+### 18.070 Supplemental agreements dependent upon appropriations — state agencies to cooperate with board.
+
+1. Any supplementary agreement entered into under paragraph (6) of the compact in section 18.060 requiring the expenditure of funds shall not become effective as to Missouri until the required funds are appropriated by the legislature.
+2. The department, agencies and officers of this state and its subdivisions are authorized to cooperate with the board in the furtherance of any of its activities pursuant to the compact, provided such proposed activities have been made known to, and have the approval of the governor.
+
+*Effective 8/28/1995 · (L. 1965 p. 515 § 324.070, A.L. 1992 S.B. 563, A.L. 1995 H.B. 574)*
+
+## Chapter 21 — General Assembly
+
+### 21.010 Meeting of the general assembly.
+
+The general assembly shall meet on the first Wednesday after the first Monday in January in the year 1971, and on the corresponding day in January every year thereafter; and at twelve o'clock of the day fixed by law for the convening of the legislature in odd-numbered years, the secretary of state, or, in case of his death, absence or inability to act, some other person designated by the governor shall call the house of representatives together and preside over its deliberations until a temporary organization is effected.
+
+*Effective 8/28/1974 · (RSMo 1939 § 12852, A.L. 1957 p. 595, A.L. 1974 S.B. 569)
+Prior revisions: 1929 § 11226; 1919 § 7101; 1909 § 8100*
+
+### 21.020 Joint meeting of senate and house, where held.
+
+If by the laws or constitution of this state, a joint meeting of the senate and house of representatives is required, they shall assemble, with their clerks, on the day and at the hour agreed on for that purpose, in the hall of the house of representatives.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12879, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11254; 1919 § 7137; 1909 § 8133*
+
+### 21.030 What officer shall preside — contempt — rules.
+
+When assembled, the president of the senate shall preside, and the meeting shall be governed by the standing rules adopted for that purpose by the concurrence of both houses; they may punish any person, other than a member, for disorderly or contemptuous behavior in their presence, by fine and imprisonment, in the manner and to the extent either house may punish for like conduct before them by the constitution of this state.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12880, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11255; 1919 § 7138; 1909 § 8134
+CROSS REFERENCES:
+General assembly, powers and duties, appointment of officers, Const. Art. III § 18
+Lieutenant governor, ex officio president of senate, Const. Art. IV § 10
+Signing of bills by presiding officers, Const. Art. III § 30
+Tie vote for office, how decided, 115.517*
+
+### 21.040 Members of either house may be punished for contempt.
+
+Any member of either house who is guilty of disorderly behavior in the presence of a joint meeting may be punished by the house of which he is a member, in the same manner as if the offense were committed in the presence of the house.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12881, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11256; 1919 § 7139; 1909 § 8135
+CROSS REFERENCE:
+Powers of general assembly, Const. Art. III § 18*
+
+### 21.050 Presiding officer may order detention of person disturbing meeting.
+
+If any person, whether a member or not, is guilty of any disorder in the presence of either house, or a committee of the whole of either house, or in joint meeting of both houses, while in session, the presiding officer of the house or joint meeting, or chairman of the committee of the whole, may order the person into custody; and the sergeant at arms or the doorkeeper shall immediately take the person into custody and detain him until the further order of the house, joint meeting or the house to which the committee of the whole belongs.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12882, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11257; 1919 § 7140; 1909 § 8136
+CROSS REFERENCE:
+Powers of general assembly to punish for contempt, Const. Art. III § 18*
+
+### 21.060 Majority necessary to a choice in elections.
+
+In all elections made by either house, or by joint vote of both houses, the vote of a majority of the members present is necessary to a choice. When an election is by joint vote, the president of the senate shall grant the person elected a certificate, which, in all cases where a commission is required, is sufficient to authorize the granting of a commission.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12889, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11264; 1919 § 7146; 1909 § 8142*
+
+### 21.070 Qualifications of senators.
+
+Each senator shall be thirty years of age, and next before the day of his election shall have been a voter of the state for three years and a resident of the district which he is chosen to represent for one year, if such district shall have been so long established, and if not then of the district or districts from which the same shall have been taken.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12853, A.L. 1945 p. 1119, A.L. 1957 p. 595, A.L. 1978 H.B. 971)
+Prior revisions: 1929 § 11227; 1919 § 7102; 1909 § 8101
+CROSS REFERENCE:
+Senators, qualifications of, Const. Art III § 6*
+
+### 21.080 Qualifications of representatives.
+
+Each representative shall be twenty-four years of age, and next before the day of his election shall have been a voter for two years and a resident of the county or district which he is chosen to represent for one year, if such county or district shall have been so long established, and if not then of the county or district from which the same shall have been taken.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12854, A.L. 1945 p. 1119, A.L. 1957 p. 595, A.L. 1978 H.B. 971)
+Prior revisions: 1929 § 11228; 1919 § 7103; 1909 § 8102
+CROSS REFERENCE:
+Representatives, qualifications of, Const. Art. III § 4*
+
+### 21.090 Vacancy, how filled.
+
+If any member elected to either house of the general assembly resigns in the recess thereof, he shall address and transmit his resignation, in writing, to the governor; and when any member resigns during any session, he shall address his resignation, in writing, to the presiding officer of the house of which he is a member, which shall be entered on the journal; in which case, and in all cases of vacancies happening, or being declared, during any session of the general assembly, by death, expulsion or otherwise, the presiding officer of the house in which the vacancy happens shall immediately notify the governor thereof.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12858, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11233; 1919 § 7108; 1909 § 8107*
+
+### 21.110 Governor shall issue writs of election, when.
+
+If the governor receives any resignation or notice of vacancy, or if he is satisfied of the death of any member of either house, during the recess, he shall, without delay, issue a writ of election to supply the vacancy.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12859, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11234; 1919 § 7109; 1909 § 8108
+CROSS REFERENCE:
+Writs of election to fill vacancies, Const. Art. III § 14*
+
+### 21.120 Writs of election, how directed.
+
+If any vacancy happens in the senate, for a district composed of more than one county, the writ of election shall be directed to the election authority of the county first named in the report establishing the district; and if the vacancy happens in a senatorial district, which has been divided or altered after the general election next preceding the occurrence of the vacancy, the writ of election shall be directed to the election authority of the county first named in the old district and if any vacancy happens in either house, for any county which has been divided after the general election next preceding the occurrence of the vacancy, the writ of election shall be directed to the election authority of the old county.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12860, A.L. 1957 p. 595, A.L. 1978 H.B. 971)
+Prior revisions: 1929 § 11235; 1919 § 7110; 1909 § 8109*
+
+### 21.130 Duty of election authority on receipt of writ.
+
+The election authority to whom any writ of election is delivered shall cause the election to supply the vacancy to be held within the limits composing the county or district at the time of the next preceding general election, and shall issue its proclamation or notice for holding the election accordingly, and transmit a copy thereof, together with a copy of the writ, to* the election authority of each of the counties within which any part of the old county or district lies, who shall cause copies of the notice to be put up, and the election to be held accordingly, in the parts of their respective counties as composed a part of the old county or district for which the election is to be held, at the last preceding general election; and the returns shall be made and the certificate of election granted in all things as if no division had taken place.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12861, A.L. 1957 p. 595, A.L. 1978 H.B. 971)
+Prior revisions: 1929 § 11236; 1919 § 7111; 1909 § 8110
+*Word "to" does not appear in original rolls.
+CROSS REFERENCE:
+Notice of election, 115.127*
+
+### 21.140 Compensation of members — additional compensation of officers — mileage allowance.
+
+Each senator and representative shall receive from the treasury an annual salary of eighteen thousand seventy-eight dollars plus any salary adjustment provided pursuant to section 105.005. The speaker of the house and the president pro tem of the senate shall each receive as additional annual compensation the amount of two thousand five hundred dollars, and the speaker pro tem of the house and the majority and minority floor leaders of the house and senate shall each receive as additional annual compensation the amount of one thousand five hundred dollars. Upon certification by the president and secretary of the senate and by the speaker and clerk of the house of representatives as to the respective members thereof, the commissioner of administration shall audit and the state treasurer shall pay such compensation. Senators and representatives shall receive, weekly, a mileage allowance as provided by law for state employees, in going to their place of meeting in Jefferson City from their place of residence, and returning from their place of meeting in Jefferson City to their place of residence while the legislature is in session, on the most usual route, if the senator or representative does travel to Jefferson City during that week.
+
+*Effective 1/1/1985 · (L. 1945 p. 1124 § 1, A.L. 1957 p. 595, A.L. 1961 Ex. Sess. H.B. 1 p. 723, A.L. 1967 p. 95, A.L. 1973 H.B. 616, A.L. 1977 H.B. 519, A.L. 1980 H.B. 1266, A.L. 1984 S.B. 528)
+Effective 1-01-85
+Revisor's Note: Salary adjustment index is printed, as required by § 105.005, in Appendix E.*
+
+### 21.145 Member's daily expense allowance — when paid.
+
+Each senator or representative shall be reimbursed from the state treasury for actual and necessary expenses in an amount equal to eighty percent of the federal per diem established by the Internal Revenue Service for Jefferson City for each day on which the journal of the senate or house, respectively, shows the presence of such senator or representative. Upon certification by the president and secretary of the senate and by the speaker and chief clerk of the house of representatives as to the respective members thereof, the commissioner of administration shall approve and the state treasurer shall pay monthly such expense allowance.
+
+*Effective 8/28/1999 · (L. 1973 H.B. 616, A.L. 1977 S.B. 372, A.L. 1997 S.B. 299, A.L. 1999 H.B. 368)*
+
+### 21.150 Legislative employees — compensation, how set — rejection of rates by legislature, effect of.
+
+1. Within five days after September 28, 1973, and on December fifteenth of each even-numbered year thereafter, the accounts committee of the house of representatives and the accounts committee of the senate shall establish rates of pay for secretary and assistant secretary of the senate, the chief clerk and assistant chief clerk of the house, the engrossing clerks, enrolling clerks, reading clerks, chaplains, sergeants-at-arms, doorkeepers, and all other stenographic, clerical or administrative and technical employees of both houses. Such rates of pay shall be the same as the established rate of pay for persons employed under the direction and established policies of the personnel division of the office of administration for comparable duties. Such rates of pay shall not be established until the accounts committee has examined the rates of pay for the various categories then in effect within the personnel division of the office of administration. Such rates of pay shall become effective for those employees, initially, on September 28, 1973, and on the fifteenth day of January of each odd-numbered year thereafter unless a majority of both houses shall by concurrent resolution reject such rates of pay, initially, within ten legislative days after September 28, 1973, or by the January fifteenth next following each establishment thereafter. If rejected the new rates of pay shall not be paid and the rates of pay last recommended by the personnel division shall be continued as if a new rate had not been set until a different rate is established as provided in this section.
+2. If the rates of pay initially set as provided in this section are rejected, the secretary of the senate and the chief clerk of the house of representatives shall each receive not to exceed fifteen dollars per day compensation for his services during a session of the general assembly. The assistant secretary, assistant chief clerk, the engrossing clerks*, enrolling clerks, reading clerks, chaplains, sergeants-at-arms, doorkeepers, and for all other stenographic, clerical or administrative and technical employees of both houses shall not exceed fourteen dollars per day.
+
+*Effective 8/28/1973 · (RSMo 1939 §§ 12863, 12864, A.L. 1943 p. 631, A.L. 1945 p. 1116, A.L. 1949 p. 319, A.L. 1953 p. 551, A.L. 1957 p. 595, A.L. 1959 H.B. 57, A.L. 1961 p. 478, A.L. 1967 p. 96, A.L. 1973 S.B. 161)
+Prior revisions: 1929 §§ 11238, 11239; 1919 §§ 7113, 7114; 1909 §§ 8112, 8113
+*Word "clerk" appears in original rolls.*
+
+### 21.155 Legislative employees, number, how determined.
+
+1. The accounts committee of the senate and the accounts committee of the house of representatives shall each, on January fifteenth of each year, set the total number of employees for their respective houses, taking into account the rates of pay set as provided in section 21.150 and the appropriations made therefor.
+2. During any session of a general assembly, each representative may employ one stenographer or secretary, and the remainder of the officers and employees of the house of representatives, except the elective officers thereof, shall be selected or appointed by the members of the majority party of the house of representatives.
+3. During any session of a general assembly, each senator may employ one stenographer or secretary, and the accounts committee of the senate, as provided in this section, may employ and assign such other employees as may be necessary for the operation of the senate.
+4. The senate and house of representatives may each continue in employment at their regular salaries, such number of efficient employees of each body after any adjournment of a regular session or sine die adjournment of the general assembly as may be necessary for operation of their respective houses. All employees assigned to individual members of the general assembly or to committees shall be divided between the majority and minority parties in proportion to the number of members of each party in the respective bodies.
+
+*Effective 8/28/2022 · (L. 1973 S.B. 161, A.L. 2022 H.B. 1600)*
+
+### 21.160 Legislative furniture and equipment, how inventoried — employment of custodians authorized.
+
+The senate accounts committee and house accounts committee shall cause all legislative furniture and equipment in their respective custody to be marked so that it can be identified for inventory and to protect the furniture and equipment. Each committee shall maintain an inventory of all furniture and equipment and may employ necessary custodians and janitors to keep their respective legislative quarters, furniture and equipment in good condition.
+
+*Effective 8/28/1977 · (L. 1977 S.B. 419 § 3)*
+
+### 21.170 Expense of serving process — witnesses' fees.
+
+The sergeant at arms or other officer of each house of the general assembly is entitled to receive his actual expenses incurred in the service of all writs and process. Each witness attending either house, or a committee thereof, or a joint meeting of both houses, being summoned, shall have the same fees and traveling allowance as are allowed by law to witnesses for their attendance before circuit courts of this state, to be paid as other costs.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12866, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11241; 1919 § 7116; 1909 § 8115*
+
+### 21.180 No allowance, except per diem.
+
+No allowance or emolument for any purpose shall be paid to any officer, agent, servant or employee of either house of the general assembly, or of any committee thereof, except the per diem provided by law.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12867, A. 1949 H.B. 2156, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11242; 1919 § 7117; 1909 § 8116*
+
+### 21.183 Freshman tour of state institutions by newly elected members — expenses.
+
+1. The chairman of the senate appropriations committee and house budget committee shall arrange for and supervise a schedule for the personal visitation and inspection of state-supported institutions by persons elected to membership in the general assembly for the first time.
+2. The schedule of visits and inspection of state institutions by newly elected senators shall be arranged for and supervised by the chairman of the senate appropriations committee and those for newly elected members of the house of representatives by the chairman of the house budget committee.
+3. The staff of the committee on legislative research shall furnish to the chairmen of the respective appropriations and budget committees such research, secretarial and clerical assistance as they require and such staff personnel as may be requested to accompany the members on trips of inspection to the several state institutions.
+4. All persons making these visits and inspections as provided in this section are entitled to reimbursement for the actual and necessary expenses incurred to be paid out of the senate or house contingent funds, as the case may be.
+
+*Effective 8/28/2000 · (L. 1957 p. 612 § 1, A.L. 2000 H.B. 1376)*
+
+### 21.187 Freshman tour, attendance of members at legislative conference for new members — expenses, how paid.
+
+In addition to the reimbursement of expenses allowed by section 21.183, all members of the general assembly may be reimbursed for necessary and actual expenses incurred in attending any legislative conference held for the benefit and instruction of newly elected members of the general assembly which may be sponsored by the university of Missouri or by the general assembly or any agency thereof, or under the joint sponsorship of the university and the general assembly or an agency thereof. The expenses of senators and representatives, as provided herein, shall be paid out of the contingent funds of the senate and house, respectively.
+
+*Effective 8/28/1957 · (L. 1957 p. 612 § 2)*
+
+### 21.200 Expenses of visiting committees.
+
+No member of any committee shall be allowed any pay by the committee on accounts or by resolution for visiting any institution or place, except actual necessary expenses incurred in the discharge of his duties on the committee, which amount shall be certified by the chairman of the visiting committee before allowance.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12869, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11244; 1919 § 7119; 1909 § 8118*
+
+### 21.210 Allowance of accounts.
+
+When any member, officer or employee of either house presents his account for his compensation, and the same is allowed, according to the rules of the house to which he belongs, a certificate shall be granted, specifying the amount and on what account, and directing that the same be paid out of appropriations made for the pay of the general assembly. The certificate, in the case of a member or officer of the senate, shall be signed by the president and attested by the secretary; and, in case of a member or officer of the house of representatives, it shall be signed by the speaker and attested by the chief clerk; and, upon the presentation of the certificate to the commissioner of administration, a warrant on the treasurer for the amount shall be issued.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12870, A. 1949 S.B. 1006, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11245; 1919 § 7128; 1909 § 8124*
+
+### 21.220 Expenses paid out of what fund.
+
+All costs and expenses of proceedings, including the necessary expenses of any officer in executing any writ or process of either house or of a joint meeting, and all witness fees, shall be paid:
+(1) By the party charged, if so adjudged, and payment may be enforced by execution; or
+(2) Out of the contingent fund of the house in which the proceedings are held; or
+(3) In case of a joint meeting out of the contingent funds of both houses as the houses by concurrent resolution provide.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12871, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11246; 1919 § 7129; 1909 § 8125*
+
+### 21.230 Contingent expenses, how controlled.
+
+Each house shall control its own contingent expenses; and when any accounts properly chargeable to the house of representatives are adjusted and allowed according to the rules of that house a certificate shall be granted, signed by the speaker and attested by the chief clerk; and when any account or demand for contingent expenses of the senate is allowed according to the rules of that house a certificate shall be granted, signed by the president and attested by the secretary.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12872, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11247; 1919 § 7130; 1909 § 8126*
+
+### 21.232 Printing, other services for house of representatives — costs how paid — disposition of balance.
+
+1. The house of representatives shall establish a revolving fund which shall be funded annually by appropriation, and which shall receive funds paid or transferred to the house of representatives for printing, duplicating, surplus property, refunds from vendors, personal reimbursements, or any other service for which there is a fee charged by the house of representatives. The state treasurer shall be custodian of the fund and shall make disbursements from the fund for those things authorized by the house of representatives accounts committee as provided by rules of the house of representatives and as appropriated by the general assembly and expended as provided in section 21.230.
+2. An unexpended balance in the fund at the end of the biennium not exceeding five thousand dollars is exempt from the provisions of section 33.080 relating to transfer of unexpended balances to the ordinary revenue fund.
+
+*Effective 8/28/1982 · (L. 1979 H.B. 601 §§ 1, 2, A.L. 1982 S.B. 833)*
+
+### 21.235 Printing, other services for the senate — costs how paid — disposition of balance.
+
+1. The senate shall establish a revolving fund which shall be funded annually by appropriation and which shall receive funds paid or transferred to the senate for printing, duplicating, postage, computer services, surplus property, refunds from vendors, personal reimbursements, or any other goods or services for which there is a fee charged by the senate. The state treasurer shall be custodian of the fund and shall make disbursements from the fund for those things authorized by the senate committee on accounts, assignments and clerical force as provided by rules of the senate and as appropriated by the general assembly and expended as provided in section 21.230.
+2. An unexpended balance in the fund at the end of the biennium not exceeding five thousand dollars is exempt from the provisions of section 33.080 relating to the transfer of unexpended balances to the ordinary revenue fund.
+
+*Effective 8/28/1982 · (L. 1982 S.B. 833 § 1)*
+
+### 21.240 Joint expenses, how controlled.
+
+All joint expenses shall be controlled by their concurrent vote and shall be ascertained and adjusted according to their joint rules, and a certificate shall be issued, signed by the president and countersigned by the secretary of the senate, which specifies the amount due, on what account and the fund out of which it is to be paid. On the delivery of the certificate to the commissioner of administration, a warrant shall issue as in case of other demands against the state.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12873, A. 1949 S.B. 1006, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11248; 1919 § 7131; 1909 § 8127*
+
+### 21.250 Statutes, how authenticated when passed over veto, effective, when.
+
+When a bill that has passed both houses of the general assembly is returned by the governor without his signature, and with objections thereto, and upon a reconsideration, passes both houses by the constitutional majority, it shall be authenticated as having become a law, by a certificate endorsed thereon, or attached thereto, in the following form:
+This bill having been returned by the governor, with his objections thereto and, after reconsideration, having passed both houses by the constitutional majority, it has become a law, this ______ day of ______
+­­
+­
+
+*Effective 8/28/2003 · (RSMo 1939 § 657, A.L. 1957 p. 595, A.L. 2003 S.B. 143)
+Prior revisions: 1929 § 657; 1919 § 7060; 1909 § 8059
+CROSS REFERENCE:
+Veto, procedure after, Const. Art. III § 32*
+
+### 21.260 Appropriations to be itemized.
+
+Appropriations for the operation and maintenance of departments shall be separately itemized; and separate appropriations shall be made for each item of extraordinary operation and maintenance expenditure and for each major capital expenditure. Every appropriation law shall distinctly specify the amount and purpose of the appropriation without reference to any other law to fix the amount or purpose.
+
+*Effective 8/28/1957 · (RSMo 1939 § 10902, A.L. 1945 p. 1428 § 55, A.L. 1957 p. 595)
+CROSS REFERENCES:
+Appropriations, limitations on, Const. Art. IV § 23
+Appropriations, order of, Const. Art. III § 36
+Governor's budget, limitation on power of appropriation Const. Art. III § 36*
+
+### 21.270 Governor to return bills when general assembly recesses for more than fifteen and less than thirty days.
+
+When the general assembly recesses for more than fifteen days and less than thirty days all bills and joint resolutions passed by both houses and presented to the governor for consideration shall be returned within fifteen days after presentation to the office of the secretary of the senate or chief clerk of the house, according to the origin of the bill or joint resolution, with his approval or reasons for disapproval. The office of the secretary of the senate and the office of the chief clerk of the house shall be kept open during the period of recess to receive any bills and joint resolutions from the governor. The secretary of the senate or chief clerk of the house shall present all bills and joint resolutions received from the governor to the house of origin when the house convenes in session after the recess.
+
+*Effective 8/28/1957 · (L. 1945 p. 1118 § 1, A.L. 1957 p. 595)
+CROSS REFERENCES:
+Procedure on failure of governor to return bill, Const. Art. III § 31
+Return of bills, during session, upon recess of more than 30 days and upon adjournment, Const. Art. III § 31*
+
+### 21.280 Local laws, how passed.
+
+No local or special law shall be passed by the legislature of Missouri, unless notice of the intention to apply therefor is published as provided in section 21.290.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12874, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11249; 1919 § 7132; 1909 § 8128
+CROSS REFERENCES:
+Local and special laws, indirect enactment, repeal, Const. Art. III § 41
+Local and special laws, limitations on passage, Const. Art. III § 40*
+
+### 21.290 Notice.
+
+Notice of intention to apply for the enactment of local or special laws shall be published in each county or incorporated city or town to be affected by the local or special law, by advertisement in some newspaper, if one is published in the county or incorporated city or town, and if there is no newspaper published in the county or incorporated city or town, by posting ten written or printed handbills in ten public places in the county or incorporated city or town, one of which shall be posted on the courthouse door.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12875, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11250; 1919 § 7133; 1909 § 8129
+CROSS REFERENCE:
+Local or special laws, published notice of before introduction, Const. Art. III § 42*
+
+### 21.300 By whom signed, where published.
+
+The notice shall state the substance of the contemplated law, shall be signed by ten householders of the county or incorporated city or town where the notice is published and shall be inserted in four separate publications of the newspaper. The first insertion shall be at least thirty days prior to the introduction of the contemplated bill. Notice given by handbills shall be posted at least thirty days prior to the introduction of the contemplated bill and notice shall be recited in the bill, according to its tenor.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12876, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11251; 1919 § 7134; 1909 § 8130*
+
+### 21.310 Proof of publication.
+
+The proof of the publication of the notice shall be made by the affidavit of the publisher of the newspaper in which the notice is published, to which shall be attached a copy of the notice. The proof of notice published by handbills shall be made by the affidavit of some person who signed the notice to which shall be attached a copy of the notice.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12877, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11252; 1919 § 7135; 1909 § 8131
+CROSS REFERENCE:
+Proof of publication filed with general assembly, Const. Art. III § 42*
+
+### 21.320 Notice to be attached to bill.
+
+A copy of the notice required by this chapter, duly authenticated and proved as set forth in section 21.310, shall be attached to the bill before its introduction and shall be once read in the senate and house of representatives before the bill is put upon its passage.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12878, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11253; 1919 § 7136; 1909 § 8132*
+
+### 21.330 Mechanical roll call for house authorized.
+
+The vote of the members of the house of representatives may be taken and recorded by mechanical means in all cases where a vote by roll call is required by the constitution or ordered by members of the house.
+
+*Effective 8/28/1957 · (L. 1947 V. I p. 368 § 1, A.L. 1957 p. 595)
+CROSS REFERENCE:
+Legislative journals--demand for yeas and nays--manner and record of vote, Const. Art. III § 26*
+
+### 21.340 Requirements for mechanical roll call.
+
+The mechanical equipment installed and used for the purpose of taking and recording the votes of the members of the house shall be so constructed as to employ and use a roll call sheet, arranged in four separate columns, and to show in the first column, by perforation opposite their respective names, the names of the members voting yea; in the second column, by perforation opposite their respective names, the names of the members voting nay; in the third column, by perforation opposite their respective names, the names of the members voting present; and in the fourth column, by perforation opposite their respective names, the names of the members absent, and to show a printed total of the number recorded, by perforation, in each of the columns. The mechanical equipment shall provide for the use of readily obtainable roll call sheets, and for the immediate substitution of the names of new members elected to fill vacancies in the original membership.
+
+*Effective 8/28/1957 · (L. 1947 V. I p. 368 § 2, A.L. 1957 p. 595)*
+
+### 21.350 Visual record board required.
+
+There shall be installed as a part of the mechanical equipment visual record boards, in positions in the house chamber that enable all members of the house, and persons present in the house galleries, to see how each member of the house voted on any question upon which the vote was taken by means of the mechanical equipment. The visual record boards shall show the name of each member of the house present and voting and how each member voted whether yea, nay or present.
+
+*Effective 8/28/1957 · (L. 1947 V. I p. 368 § 3, A.L. 1957 p. 595)*
+
+### 21.360 Voting for another member — penalty.
+
+Any member of the house of representatives who through the medium of any voting station, records the vote of another member, or who authorizes another member, or other person, to record his vote, and any person, other than a member of the house, who through the medium of a voting station, records the vote of any member is guilty of a felony, and upon conviction shall be punished by imprisonment in the penitentiary for a term of not less than three nor more than ten years.
+
+*Effective 8/28/1957 · (L. 1947 V. I p. 368 § 5, A.L. 1957 p. 595)*
+
+### 21.370 Oaths, by whom administered.
+
+The president of the senate and the speaker of the house of representatives may administer all oaths and affirmations to the officers of their respective houses, to swear in the members of their respective houses, after first having taken the oath of office prescribed by law themselves; and the president of the senate, speaker of the house of representatives, the chairman of the committee of the whole, or the chairman of any standing, select or special committee of either house, may administer oaths and affirmations to witnesses in any case under their examination.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12890, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11265; 1919 § 7147; 1909 § 8143
+CROSS REFERENCE:
+Oath of office of members of assembly — form — effect of refusal to take oath and conviction of violation, Const. Art. III § 15*
+
+### 21.380 Depositions.
+
+In cases not otherwise provided for by law, depositions may be taken and read in either house, or before a committee thereof, or before both houses in joint meeting, in all cases where the taking and reading depositions would be allowed in any case pending before any court of law.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12885, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11260; 1919 § 7142; 1909 § 8138*
+
+### 21.390 Presiding officer may issue commission to take depositions.
+
+When necessary, the presiding officer of the house in which they are required, or of a joint meeting, may issue commissions to take such depositions as a court at law; and the proceedings, in taking and returning depositions, shall be the same as are prescribed by law for taking depositions to be read in any court of law.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12886, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11261; 1919 § 7143; 1909 § 8139*
+
+### 21.400 Subpoenas shall be issued — attested, how.
+
+Subpoenas for witnesses and the production of records shall be issued at the request of any member of the senate or the house of representatives, or the party accused, or any member of any committee; and all process awarded by the senate or house of representatives, and subpoenas and other process for witnesses whose attendance is required by either the senate or the house, or before any committee, shall be under the hand of the president pro tem, or the speaker and attested by the secretary or chief clerk, as the case may be, and shall be executed by the sergeant at arms of such house, or by a special messenger appointed for that purpose.
+
+*Effective 8/28/2011 · (RSMo 1939 § 12888, A.L. 1957 p. 595, A.L. 2011 S.B. 68)
+Prior revisions: 1929 § 11263; 1919 § 7145; 1909 § 8141*
+
+### 21.410 Writs and process may be issued.
+
+Each house, or both houses in joint meeting, may cause to be issued necessary writs and process to summon and compel any person charged with any offense, whereof they have jurisdiction, to appear before them or any committee, and carry into execution their orders and sentences, and to summon and compel the attendance of witnesses in as full a manner as any court of law, and with like effect.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12887, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11262; 1919 § 7144; 1909 § 8140*
+
+### 21.420 Lobbyists not to go upon the floor of the house or senate — penalty.
+
+It is unlawful for any person employed for a pecuniary consideration to act as legislative counsel or legislative agent for any person, corporation or association, to go upon the floor of either house of the legislature, reserved for the members while in session, except upon the invitation of the house. Any person violating the provisions of this section is punishable by imprisonment in the county jail not less than ten days nor more than twelve months, and by a fine of not less than one hundred dollars nor more than five hundred dollars.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12883, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11258; 1919 § 7155; 1909 § 8151*
+
+### 21.430 Disturbance of committee, how punished.
+
+If any person, whether a member or not, disturbs the proceedings of any committee of either house, or is guilty of disorder in their presence, the house appointing the committee may punish the person as if the like offense were committed in the presence of the house; and if the disorder or offense is committed before a joint committee of both houses, the president of the senate shall issue process, and both houses in joint meeting proceed thereon.
+
+*Effective 8/28/1957 · (RSMo 1939 § 12884, A.L. 1957 p. 595)
+Prior revisions: 1929 § 11259; 1919 § 7141; 1909 § 8137*
+
+### 21.487 Public institutions of higher education funding formula, joint committee to develop and implement.
+
+The joint committee on education shall develop a comprehensive funding formula for Missouri public institutions of higher education by December 31, 2013. The general assembly shall implement a funding formula beginning in fiscal year 2015.
+
+*Effective 5/30/2012 · (L. 2012 H.B. 1731 § 2)
+Effective 5-30-12
+CROSS REFERENCE:
+Nonseverability clause, 313.836*
+
+### 21.505 Reimbursement of political subdivisions for loss of tax on certain goods, how computed — duties of director of revenue and of state tax commission.
+
+The state tax commission shall certify the assessed valuation of all household goods, furniture, wearing apparel and articles of personal adornment for the calendar year 1973 for each county and each political subdivision therein to the director of revenue of the state of Missouri. The director of revenue shall apply the valuation so certified to the rate of personal property tax levied for the calendar year 1973 in each such political subdivision and shall certify the result of this calculation to the house and senate appropriations committees of the Missouri general assembly. The general assembly shall annually thereafter use the same 1973 results of the calculation by the director of revenue as the basis for the appropriation of money from general revenue to the various political subdivisions for approximate reimbursement of revenue lost because of the exemption from taxation of household goods, furniture, wearing apparel and articles of personal use and adornment.
+
+*Effective 8/28/1984 · (L. 1974 S.B. 333 § 2, A.L. 1984 H.B. 1087)*
+
+### 21.520 Reports of receipts and expenditures required, when, to whom — restrictions on certain expenditures.
+
+Beginning July 1, 1978, all departments of state government and each government entity operating programs for which appropriations are made shall provide the oversight division of the committee on legislative research and the appropriations committees of the house and senate with the following information on a monthly basis: Expenditures by account number assigned by the office of administration, division of accounting, in the chart of accounts and index for fiscal year 1979 appropriations and each fiscal year thereafter; federal fund expenditures by grant and purpose together with the public law number authorizing such expenditures and the grant identifier number; notification of termination of any federal grant and disposition of any employees employed under such grant. In the event state funds are appropriated for purposes for which a federal grant is anticipated and the grant is not made, such state funds may not be used for other purposes. In the event federal funds are terminated during federal fiscal year 1979 and each fiscal year thereafter, state funds appropriated to match such federal funds may not be used for other purposes and the state funds shall lapse if not used for their designated purpose.
+
+*Effective 7/1/1978 · (L. 1978 H.B. 1218 § 4)
+Effective 7-01-78*
+
+### 21.525 Institutions of higher education to report.
+
+Notwithstanding the provisions of sections 21.520, 21.525, and 33.543, 33.546, 33.563, nothing contained herein, except provisions of section 21.520 above, shall be construed to apply to institutions of higher education in this state.
+
+*Effective 7/1/1978 · (L. 1978 H.B. 1218 § 5)
+Effective 7-01-78*
+
+### 21.527 Contracts or leases of facilities by state agencies or state institutions of higher education to be first approved by general assembly.
+
+No department of state government or state institution of higher education supported in whole or in part by appropriations made by the general assembly shall contract for the lease or use any facility financed in whole or in part by revenue bonds issued by the health and educational facilities authority of the state of Missouri, as authorized by the provisions of chapter 360, or no board of regents or board of governors of any state college or university shall enter into any agreement as authorized by the provisions of section 177.088, the debt service of which is secured by a pledge of future appropriations to be made by the general assembly, until the project or facility and the total cost thereof, including furnishings and equipment, has been approved by the general assembly, any other provision of law to the contrary notwithstanding.
+
+*Effective 8/28/1989 · (L. 1989 H.B. 493 § 1)*
+
+### 21.550 Definition.
+
+The phrase "state and local public employee retirement systems", as used in sections 21.550 to 21.564*, unless a different meaning is plainly required by the context, shall mean: any retirement system established by the state of Missouri or any political subdivision or instrumentality of the state for the purpose of providing retirement plan benefits for elected or appointed public officials or employees of the state of Missouri or any political subdivision of the state.
+
+*Effective 8/28/1983 · (L. 1983 S.B. 393 § A)
+*Section 21.564 was repealed by H.B. 1882, 2014.*
+
+### 21.553 Joint committee on public retirement established — membership — terms.
+
+1. There is established a permanent joint committee of the general assembly to be known as the "Joint Committee on Public Employee Retirement" to be comprised of six members of the senate and six members of the house of representatives. The senate members shall be appointed by the president pro tem of the senate and the house members shall be appointed by the speaker of the house. The appointment of members shall continue during their term of office as members of the general assembly or until a successor has been duly appointed to fill their place when their term of office as members of the general assembly has expired.
+2. No political party shall be represented on the committee by more than three members from the senate nor by more than three members from the house.
+
+*Effective 8/28/1983 · (L. 1983 S.B. 393 § 1)*
+
+### 21.555 Meeting of committee — quorum — officers, qualifications, expenses and per diem.
+
+1. The joint committee on public employee retirement shall meet within ten days after its creation and organize by selecting a chairman and a vice chairman, one of whom shall be a member of the senate and the other a member of the house of representatives.
+2. The committee shall regularly meet at least quarterly.
+3. A majority of the members of the committee shall constitute a quorum.
+4. The members of the committee shall serve without compensation but shall be reimbursed for actual and necessary expenses incurred in the performance of their official duties.
+
+*Effective 8/28/1985 · (L. 1983 S.B. 393 § 2, A.L. 1985 H.B. 695)*
+
+### 21.557 Personnel and actuarial assistance authorized — compensation, how paid.
+
+The committee may employ such personnel and actuarial assistance as it deems necessary to carry out its duties and prepare required reports. The compensation of such personnel and the expenses of the committee shall be paid from moneys appropriated to the committee or from the joint contingent fund as approved.
+
+*Effective 8/28/2014 · (L. 1983 S.B. 393 § 3, A.L. 2014 H.B. 1882)*
+
+### 21.559 Powers and duties of joint committee.
+
+The committee shall:
+(1) Make a continuing study and analysis of all state and local government retirement systems;
+(2) Devise a standard reporting system to obtain data on each public employee retirement system that will provide information on each system's financial and actuarial status at least biennially;
+(3) Determine from its study and analysis the need for changes in statutory law;
+(4) Make any other recommendation to the general assembly necessary to provide adequate retirement benefits to state and local government employees within the ability of taxpayers to support their future costs.
+
+*Effective 8/28/1985 · (L. 1983 S.B. 393 § 4, A.L. 1985 H.B. 695)*
+
+### 21.561 Retirement systems, state and local to cooperate.
+
+1. All state and local public employee retirement systems shall cooperate with and assist the committee in the performance of its duties and shall make available all books, records and information requested.
+2. If any state or local public employee retirement system does not comply with the committee's request for books, records, or information, or does not cooperate and assist the committee as provided in subsection 1 of this section, then the committee may request the staff or board members of any state or local public employee retirement system to testify before the committee regarding noncompliance with this section.
+3. The committee may subpoena witnesses, take testimony under oath, and compel the production of records.
+
+*Effective 8/28/2014 · (L. 1983 S.B. 393 § 5, A.L. 2014 H.B. 1882)*
+
+### 21.562 Cost-of-living increases in pension benefits or other increases in payments beyond prior year, notice of to committee, when — evidence of actuarial soundness, when.
+
+1. All state or local public employee retirement systems shall notify the committee within seven calendar days when the governing body thereof which determines the amount and type of plan benefits to be paid takes final action providing any new or additional payments beyond the plan provisions of the prior plan year of periodic cost-of-living increases in pension and retirement benefits for its retired officers and employees and spouses of deceased officers and employees.
+2. If so requested at any time by the committee, any state or local public employee retirement system providing such periodic cost-of-living increases shall provide satisfactory evidence of its actuarial soundness.
+
+*Effective 8/28/2014 · (L. 1985 H.B. 695, A.L. 2014 H.B. 1882)*
+
+### 21.563 Report, contents — submitted when.
+
+The committee shall compile a full report of its activities for submission to the general assembly. The report shall be submitted not later than the annual first quarterly meeting of the joint committee on public employee retirement each year in which the general assembly convenes in regular session and shall include any recommendations which the committee may have for legislative action, as well as any recommendations to retirement system boards of management. The report shall also include an analysis and statement of the manner in which statutory provisions relating to public employee retirement programs are being executed.
+
+*Effective 8/28/2014 · (L. 1983 S.B. 393 § 6, A.L. 2014 H.B. 1882)*
+
+### 21.600 Definitions.
+
+As used in sections 21.600 to 21.620, unless the context clearly indicates otherwise, the following terms mean:
+(1) "Bill", proposed legislation drafted in the form of an act or joint resolution for introduction into either the house of representatives or the senate of the general assembly of Missouri;
+(2) "Filing period", that period of time commencing on December first next preceding the opening day of the annual session for which the bill is filed and continuing up to but not including the opening day;
+(3) "Opening day", the first Wednesday after the first Monday in January of each year as fixed by the Missouri constitution for the convening of regular sessions of the general assembly.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 156 § 1)*
+
+### 21.605 Senate bills, how filed — immediate printing — what rules apply.
+
+A member or a member-elect of the senate may file a bill by mail or in person, according to appropriate rules of the senate, with the secretary of the senate at any time during the filing period. Upon receiving a bill filed during the filing period preceding a regular session of the general assembly in an odd-numbered year, the secretary of the senate shall immediately have the bill printed and made available according to the rules and practices of the general assembly next preceding that for which the bill is filed and those bills received during the filing period preceding a regular session in an even-numbered year shall be printed and made available according to the then effective rules of that general assembly.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 156 § 2)*
+
+### 21.610 House bills, how filed — immediate printing — what rules apply.
+
+A member or member-elect of the house of representatives may file a bill by mail or in person, according to appropriate rules of the house of representatives, with the clerk of the house at any time during the filing period. Upon receiving a bill filed during the filing period preceding a regular session of the general assembly in odd-numbered years, the clerk of the house shall immediately have the bill printed and made available according to the rules and practices of the general assembly next preceding that for which the bill is filed and those bills received during the filing period preceding a regular session in an even-numbered year shall be printed and made available according to the then effective rules of that general assembly.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 156 § 3)*
+
+### 21.615 Automatic introduction of filed bills.
+
+Bills filed during the filing period with the secretary of the senate or clerk of the house shall be automatically introduced on the opening day of that session of the general assembly which next succeeds the last day of the filing period in which the bills were filed.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 156 § 4)*
+
+### 21.620 Expenses, how paid.
+
+The expenses of filing and printing of bills pursuant to sections 21.600 to 21.620 shall be paid out of the regular appropriation made to each house for the printing of bills and approved according to the rules or practices of the senate or house of representatives, as the case may be.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 156 § 5)*
+
+### 21.750 Firearms legislation preemption by general assembly, exceptions — limitation on civil recovery against firearms or ammunitions manufacturers, when, exception.
+
+1. The general assembly hereby occupies and preempts the entire field of legislation touching in any way firearms, components, ammunition and supplies to the complete exclusion of any order, ordinance or regulation by any political subdivision of this state. Any existing or future orders, ordinances or regulations in this field are hereby and shall be null and void except as provided in subsection 3 of this section.
+2. No county, city, town, village, municipality, or other political subdivision of this state shall adopt any order, ordinance or regulation concerning in any way the sale, purchase, purchase delay, transfer, ownership, use, keeping, possession, bearing, transportation, licensing, permit, registration, taxation other than sales and compensating use taxes or other controls on firearms, components, ammunition, and supplies except as provided in subsection 3 of this section.
+3. (1) Except as provided in subdivision (2) of this subsection, nothing contained in this section shall prohibit any ordinance of any political subdivision which conforms exactly with any of the provisions of sections 571.010 to 571.070, with appropriate penalty provisions, or which regulates the open carrying of firearms readily capable of lethal use or the discharge of firearms within a jurisdiction, provided such ordinance complies with the provisions of section 252.243. No ordinance shall be construed to preclude the use of a firearm in the defense of person or property, subject to the provisions of chapter 563.
+(2) In any jurisdiction in which the open carrying of firearms is prohibited by ordinance, the open carrying of firearms shall not be prohibited in accordance with the following:
+(a) Any person with a valid concealed carry endorsement or permit who is open carrying a firearm shall be required to have a valid concealed carry endorsement or permit from this state, or a permit from another state that is recognized by this state, in his or her possession at all times;
+(b) Any person open carrying a firearm in such jurisdiction shall display his or her concealed carry endorsement or permit upon demand of a law enforcement officer;
+(c) In the absence of any reasonable and articulable suspicion of criminal activity, no person carrying a concealed or unconcealed firearm shall be disarmed or physically restrained by a law enforcement officer unless under arrest; and
+(d) Any person who violates this subdivision shall be subject to the penalty provided in section 571.121.
+4. The lawful design, marketing, manufacture, distribution, or sale of firearms or ammunition to the public is not an abnormally dangerous activity and does not constitute a public or private nuisance.
+5. No county, city, town, village or any other political subdivision nor the state shall bring suit or have any right to recover against any firearms or ammunition manufacturer, trade association or dealer for damages, abatement or injunctive relief resulting from or relating to the lawful design, manufacture, marketing, distribution, or sale of firearms or ammunition to the public. This subsection shall apply to any suit pending as of October 12, 2003, as well as any suit which may be brought in the future. Provided, however, that nothing in this section shall restrict the rights of individual citizens to recover for injury or death caused by the negligent or defective design or manufacture of firearms or ammunition.
+6. Nothing in this section shall prevent the state, a county, city, town, village or any other political subdivision from bringing an action against a firearms or ammunition manufacturer or dealer for breach of contract or warranty as to firearms or ammunition purchased by the state or such political subdivision.
+
+*Effective 8/28/2014 · (L. 1984 H.B. 928 § 1, A.L. 2003 S.B. 13, A.L. 2007 S.B. 225, A.L. 2014 S.B. 656)
+*Effective 10-10-14, see § 21.250. S.B. 656 was vetoed July 14, 2014. The veto was overridden on September 10, 2014.*
+
+### 21.771 Joint committee established, members, duties, meetings — expiration date.
+
+1. There is established a joint committee of the general assembly to be known as the "Joint Committee on Child Abuse and Neglect" to be composed of seven members of the senate and seven members of the house of representatives. The senate members of the joint committee shall be appointed by the president pro tem and minority floor leader of the senate and the house members shall be appointed by the speaker and minority floor leader of the house of representatives. The appointment of each member shall continue during the member's term of office as a member of the general assembly or until a successor has been appointed to fill the member's place. No party shall be represented by more than four members from the house of representatives nor more than four members from the senate. A majority of the committee shall constitute a quorum, but the concurrence of a majority of the members shall be required for the determination of any matter within the committee's duties.
+2. The joint committee shall:
+(1) Make a continuing study and analysis of the state child abuse and neglect reporting and investigation system;
+(2) Devise a plan for improving the structured decision making regarding the removal of a child from a home;
+(3) Determine the additional personnel and resources necessary to adequately protect the children of this state and improve their welfare and the welfare of families;
+(4) Address the need for additional foster care homes and to improve the quality of care provided to abused and neglected children in the custody of the state;
+(5) Determine from its study and analysis the need for changes in statutory law;
+(6) Make any other recommendation to the general assembly necessary to provide adequate protections for the children of our state; and
+(7) Make recommendations on how to improve abuse and neglect proceedings including examining the role of the judge, children's division, the juvenile officer, the guardian ad litem, and the foster parents.
+3. The joint committee shall meet within thirty days after its creation and organize by selecting a chairperson and a vice chairperson, one of whom shall be a member of the senate and the other a member of the house of representatives. The chairperson shall alternate between members of the house and senate every two years after the committee's organization.
+4. The committee shall meet at least quarterly. The committee may meet at locations other than Jefferson City when the committee deems it necessary.
+5. The committee shall be staffed by legislative personnel as is deemed necessary to assist the committee in the performance of its duties.
+6. The members of the committee shall serve without compensation but shall be entitled to reimbursement for actual and necessary expenses incurred in the performance of their official duties.
+7. It shall be the duty of the committee to compile a full report of its activities for submission to the general assembly. The report shall be submitted not later than the fifteenth of January of each year in which the general assembly convenes in regular session and shall include any recommendations which the committee may have for legislative action as well as any recommendations for administrative or procedural changes in the internal management or organization of state or local government agencies and departments. Copies of the report containing such recommendations shall be sent to the appropriate directors of state or local government agencies or departments included in the report.
+8. The provisions of this section shall expire on January 15, 2023.
+
+*Effective 8/28/2017 · (L. 2012 S.B. 628 merged with S.B. 636, A.L. 2014 H.B. 1092 merged with S.B. 869, A.L. 2017 S.B. 160)
+Expires 1-15-23*
+
+### 21.782 Joint committee on eating disorders established, members, duties, report.
+
+1. There is hereby established a joint committee of the general assembly, which shall be known as the "Joint Committee on Eating Disorders", which shall be composed of three members of the senate, three members of the house of representatives, and three members appointed by the governor. The senate members of the committee shall be appointed by the president pro tempore of the senate and the house members by the speaker of the house of representatives. There shall be at least one member from the minority party of the senate and at least one member from the minority party of the house of representatives. The governor shall appoint three members, with at least one member representing the insurance industry and at least one member representing an eating disorder advocacy group.
+2. The committee shall select a chairperson and a vice-chairperson, one of whom shall be a member of the senate and one a member of the house of representatives. A majority of the members shall constitute a quorum. Meetings of the committee may be called at such time and place as the chairperson or chairperson designate.
+3. The committee shall:
+(1) Review issues pertaining to the regulation of insurance and other matters impacting the lives of those diagnosed with an eating disorder by taking public testimony from interested parties;
+(2) Consider and review the actuarial analysis conducted under section 376.1192*; and
+(3) Make recommendations to the general assembly for legislative action.
+4. By December 31, 2014, the committee shall provide a report to the members of the general assembly and the governor. The report shall include recommendations for legislation pertaining to the regulation of insurance and other matters impacting the lives of those diagnosed with an eating disorder.
+
+*Effective 8/28/2014 · (L. 2014 S.B. 754 § 2)
+*Section 376.1192 was repealed by S.B. 975 & 1024 Revision, 2018.*
+
+### 21.790 Task force established, members — duties — report.
+
+1. There is hereby established the "Task Force on Substance Abuse Prevention and Treatment". The task force shall be composed of six members from the house of representatives, six members from the senate, and four members appointed by the governor. The senate members of the task force shall be appointed by the president pro tempore of the senate and the house members by the speaker of the house of representatives. There shall be at least two members from the minority party of the senate and at least two members from the minority party of the house of representatives. The members appointed by the governor shall include one member from the health care industry, one member who is a first responder or law enforcement officer, one member who is a member of the judiciary or a prosecuting attorney, and one member representing a substance abuse prevention advocacy group.
+2. The task force shall select a chairperson and a vice-chairperson, one of whom shall be a member of the senate and one a member of the house of representatives. A majority of the members shall constitute a quorum. The task force shall meet at least once during each legislative session and at all other times as the chairperson may designate.
+3. The task force shall:
+(1) Conduct hearings on current and estimated future drug and substance use and abuse within the state;
+(2) Explore solutions to substance abuse issues; and
+(3) Draft or modify legislation as necessary to effectuate the goals of finding and funding education and treatment solutions to curb drug and substance use and abuse.
+4. The task force may make reasonable requests for staff assistance from the research and appropriations staffs of the senate and house of representatives and the joint committee on legislative research. In the performance of its duties, the task force may request assistance or information from all branches of government and state departments, agencies, boards, commissions, and offices.
+5. The task force shall report annually to the general assembly and the governor. The report shall include recommendations for legislation pertaining to substance abuse prevention and treatment.
+
+*Effective 8/28/2019 · (L. 2019 S.B. 514)*
+
+### 21.795 Joint committee on transportation oversight, members, quorum — report, when, contents — meetings, examination of reports, records required to be submitted.
+
+1. There is established a permanent joint committee of the general assembly to be known as the "Joint Committee on Transportation Oversight" to be composed of seven members of the standing transportation committees of both the senate and the house of representatives and three nonvoting ex officio members. Of the fourteen members to be appointed to the joint committee, the seven senate members of the joint committee shall be appointed by the president pro tem of the senate and minority leader of the senate and the seven house members shall be appointed by the speaker of the house of representatives and the minority floor leader of the house of representatives. The seven senate members shall be composed, as nearly as may be, of majority and minority party members in the same proportion as the number of majority and minority party members in the senate bears to the total membership of the senate. No major party shall be represented by more than four members from the house of representatives. The ex officio members shall be the state auditor, the director of the oversight division of the committee on legislative research, and the commissioner of the office of administration or the designee of such auditor, director or commissioner. The joint committee shall be chaired jointly by both chairs of the senate and house transportation committees. A majority of the committee shall constitute a quorum, but the concurrence of a majority of the members, other than the ex officio members, shall be required for the determination of any matter within the committee's duties.
+2. The department of transportation shall submit a written report prior to December thirty-first of each year to the governor and the lieutenant governor. The report shall be posted to the department's internet website so that general assembly members may elect to access a copy of the report electronically. The written report shall contain the following:
+(1) A comprehensive financial report of all funds for the preceding state fiscal year which shall include a report by independent certified public accountants, selected by the commissioner of the office of administration, attesting that the financial statements present fairly the financial position of the department in conformity with generally accepted government accounting principles;
+(2) A copy of the department's most current and annual publication titled "Citizen's Guide to Transportation Funding in Missouri";
+(3) A copy of the department's most current and annual publication titled "Financial Snapshot - An appendix to the Citizen's Guide to Transportation Funding in Missouri";
+(4) A copy of the department's most current and annual publication titled "MoDOT Results: Accountability. Innovation. Efficiency.".
+3. Prior to February fifteenth of each year, the committee shall hold an annual meeting and call before its members, officials or employees of the state highways and transportation commission or department of transportation, as determined by the committee, for the sole purpose of receiving and examining the report required pursuant to subsection 2 of this section. The committee shall not have the power to modify projects or priorities of the state highways and transportation commission or department of transportation. The committee may make recommendations to the state highways and transportation commission or the department of transportation. Disposition of those recommendations shall be reported by the commission or the department to the joint committee on transportation oversight.
+4. In addition to the annual meeting required by subsection 3 of this section, the committee shall meet two times each year. The co-chairs of the committee shall establish an agenda for each meeting that may include, but not be limited to, the following items to be discussed with the committee members throughout the year during the scheduled meeting:
+(1) Presentation of a prioritized plan for all modes of transportation;
+(2) Discussion of department efficiencies and expenditure of cost-savings within the department;
+(3) Presentation of a status report on department of transportation revenues and expenditures, including a detailed summary of projects funded by new state revenue as provided in paragraph (a)* of subdivision (1) of subsection 2 of this section; and
+(4) Implementation of any actions as may be deemed necessary by the committee as authorized by law. The co-chairs of the committee may call special meetings of the committee with ten days' notice to the members of the committee, the director of the department of transportation, and the department of transportation.
+5. The committee shall also review all applications for the development of specialty plates submitted to it by the department of revenue. The committee shall approve such application by a majority vote. The committee shall approve any application unless the committee receives:
+(1) A signed petition from five house members or two senators that they are opposed to the approval of the proposed license plate and the reason for such opposition;
+(2) Notification that the organization seeking authorization to establish a new specialty license plate has not met all the requirements of section 301.3150;
+(3) A proposed new specialty license plate containing objectionable language or design;
+(4) A proposed license plate not meeting the requirements of any reason promulgated by rule.
+­­
+­
+6. The committee shall submit records of its meetings to the secretary of the senate and the chief clerk of the house of representatives in accordance with sections 610.020 and 610.023.
+
+*Effective 8/28/2018 · (L. 1998 H.B. 1681 & 1342 merged with S.B. 883, A.L. 2003 H.B. 668, A.L. 2004 S.B. 1233, et al., A.L. 2009 H.B. 683 merged with H.B. 752, A.L. 2012 H.B. 1402, A.L. 2018 S.B. 881)
+*Paragraph (a) was repealed by S.B. 881, 2018.*
+
+### 21.805 Joint committee on the life sciences established, members, appointment, duties, meetings, report.
+
+1. There is hereby established a joint committee of the general assembly to be known as the "Joint Committee on the Life Sciences" to be composed of seven members of the senate and seven members of the house of representatives. The senate members of the joint committee shall be appointed by the president pro tem and the minority floor leader of the senate, and the house members of the joint committee shall be appointed by the speaker and the minority floor leader of the house of representatives. The appointment of each member shall continue during the member's term of office or until a successor has been appointed to fill the member's place when his or her term of office as a member of the general assembly has expired. No party shall be represented by more than four members from the house of representatives or more than four members from the senate. A majority of the joint committee shall constitute a quorum, but the concurrence of a majority of the members shall be required for the determination of any matter within the joint committee's duties.
+2. The joint committee shall be charged with making recommendations to the full general assembly in the following areas:
+(1) Legislative implementation of Missouri's strategic plan for life sciences, or successor plans;
+(2) Executive branch actions and policies necessary to nurture and support life sciences research and commercialization;
+(3) State investments necessary to nurture and support life sciences research and commercialization;
+(4) Changes necessary in Missouri's tax system to nurture and support life sciences research and commercialization;
+(5) Laws and policies necessary to eliminate barriers to life sciences research and commercialization and to encourage the start-up of new life sciences companies in Missouri;
+(6) Laws and policies necessary to encourage the retention and recruitment of existing life sciences companies in Missouri;
+(7) Laws and policies necessary to encourage the recruitment of expert life scientists to Missouri;
+(8) Coordination of Missouri's existing scientific resources, including Missouri's colleges and universities; and
+(9) Any other legislative action necessary to nurture and support life sciences research and commercialization in Missouri.
+3. The joint committee shall meet within thirty days after its creation and organize by selecting a chairperson and vice chairperson, one of whom shall be a member of the senate and the other a member of the house of representatives. The chairpersonship shall alternate between members of the house and senate every two years after the joint committee's organization.
+4. The joint committee shall meet at least quarterly and may meet at locations other than Jefferson City when the joint committee deems it necessary.
+5. The joint committee shall be staffed by legislative personnel as is deemed necessary to assist the joint committee in the performance of its duties.
+6. The members of the joint committee shall serve without compensation but shall be reimbursed for actual and necessary expenses incurred in the performance of their official duties.
+7. The joint committee shall compile a full report of its activities for submission to the general assembly. The report shall be submitted not later than the fifteenth of January of each year in which the general assembly convenes in regular session and shall include any recommendations which the joint committee may have for legislative action as well as any recommendations for administrative or procedural changes in the internal management or organization of state government agencies and departments. Copies of the report containing such recommendations shall be sent to the appropriate directors of state departments and agencies included in the report.
+8. All state departments, agencies, boards, and commissions shall cooperate with and assist the joint committee in the performance of its duties and shall make available all information requested.
+
+*Effective 8/28/2003 · (L. 2003 H.B. 465 merged with S.B. 511)
+CROSS REFERENCE:
+Life sciences research trust fund established, 196.1100*
+
+### 21.810 Joint committee on tax policy established, members, appointment, duties.
+
+1. There is established a permanent joint committee of the general assembly to be known as the "Joint Committee on Tax Policy" which shall be composed of five members of the senate, appointed by the president pro tem of the senate, and five members of the house of representatives, appointed by the speaker of the house of representatives. A majority of the members of the committee shall constitute a quorum. The members shall annually select one of the members to be the chair and one of the members to be the vice chair. The speaker of the house of representatives and the president pro tem of the senate shall appoint the respective majority members. The minority leader of the house and the minority leader of the senate shall appoint the respective minority members. The members shall receive no additional compensation, but shall be reimbursed for actual and necessary expenses incurred by them in the performance of their duties. No major party shall be represented on the committee by more than three members from the senate nor by more than three members from the house. The committee is authorized to meet and act year round and to employ the necessary personnel within the limits of appropriations. The staff of the committee on legislative research, house research, and senate research shall provide necessary clerical, research, fiscal, and legal services to the committee, as the committee may request.
+2. It shall be the duty of the committee:
+(1) To make a continuing study and analysis of the current and proposed tax policy of this state as it relates to:
+(a) Fairness and equity;
+(b) True economic impact;
+(c) Burden on individuals and businesses;
+(d) Effectiveness of tax expenditures;
+(e) Impact on political subdivisions of this state;
+(f) Agreements and contracts with the federal government, other states and territories, political subdivisions, and private entities relating to the collection and administration of state and local taxes and fees;
+(g) Compliance with the state and United States Constitution and federal and international law; and
+(h) The effects of interstate commerce;
+(2) To make a continuing study and review of the department of revenue, the department of economic development, the state tax commission, and any other state agency, commission, or state executive office responsible for the administration of tax policies;
+(3) To study the effects of the coupling or decoupling with the federal income tax code as it relates to the state income tax;
+(4) To make recommendations, as and when the committee deems fit, to the general assembly for legislative action or to report findings and to the departments, commissions, and offices for administrative or procedural changes;
+(5) To study the effects of a sales tax holiday; and
+(6) To examine and assess the public benefit of any tax credit program that is the subject of an audit by the state auditor pursuant to section 620.1300 and provide a report to the general assembly and the governor with the committee's findings and recommendations, if any, regarding such tax credit program within six months of receiving the audit report.
+3. All state departments, commissions, and offices responsible for the administration of tax policies shall cooperate with and assist the committee in the performance of its duties and shall make available all books, records and information requested, except individually identifiable information regarding a specific taxpayer. The committee may also consult with public and private universities and academies, public and private organizations, and private citizens in the performance of its duties. The committee may contract with public and private entities, within the limits of appropriation, for analysis and study of current or proposed changes to state and local tax policy. The committee shall have the power to subpoena witnesses, take testimony under oath, compel the attendance of witnesses, the giving of testimony and the production of records.
+
+*Effective 8/28/2004 · (L. 2003 H.B. 600 merged with S.B. 11, A.L. 2004 S.B. 1099)*
+
+### 21.820 Joint committee on government accountability established, members, duties, meetings, staff, report.
+
+1. There is established a joint committee of the general assembly to be known as the "Joint Committee on Government Accountability" to be composed of seven members of the senate and seven members of the house of representatives. The senate members of the joint committee shall be appointed by the president pro tem and minority floor leader of the senate and the house members shall be appointed by the speaker and minority floor leader of the house of representatives. Each member shall be appointed for a term of two years or until a successor has been appointed to fill the member's place when his or her term has expired. Members may be reappointed to the joint committee. No party shall be represented by more than four members from the house of representatives nor more than four members from the senate. A majority of the committee shall constitute a quorum, but the concurrence of a majority of the members shall be required for the determination of any matter within the committee's duties.
+2. The joint committee shall:
+(1) Make a continuing study and analysis of inefficiencies, fraud and misconduct in state government;
+(2) Determine the appropriate method of obtaining data on each entity of state government that will provide relevant information at least biennially for the identification of potential and actual inefficiencies in each state entity's function, duties, and performance;
+(3) Determine from its study and analysis the need for changes in statutory law, rules, or policies; and
+(4) Make any other recommendation to the general assembly necessary to reduce inefficiencies in state government;
+(5) Identify and acknowledge government agencies and officials who perform functions in an efficient and effective manner.
+3. The joint committee shall meet within thirty days after its creation and organize by selecting a chairperson and a vice chairperson, one of whom shall be a member of the senate and the other a member of the house of representatives. The chairperson shall alternate between members of the house and senate every two years after the committee's organization.
+4. The committee shall meet at least four times a year. The committee may meet at locations other than Jefferson City when the committee deems it necessary.
+5. The committee shall be staffed by legislative personnel as is deemed necessary to assist the committee in the performance of its duties.
+6. The members of the committee shall serve without compensation but shall be entitled to reimbursement from the joint contingent fund for actual and necessary expenses incurred in the performance of their official duties.
+7. It shall be the duty of the committee to compile a full report of its activities for submission to the general assembly. The report shall be submitted not later than the fifteenth of January of each year in which the general assembly convenes in regular session and shall include any recommendations which the committee may have for legislative action as well as any recommendations for administrative or procedural changes in the internal management or organization of state government agencies and departments. Copies of the report containing such recommendations shall be sent to the appropriate directors of state or local government agencies or departments included in the report.
+
+*Effective 8/28/2004 · (L. 2004 H.B. 1599)*
+
+### 21.851 Joint committee established, members, duties — report — expiration date.
+
+1. There is hereby established a joint committee of the general assembly, which shall be known as the "Joint Committee on Disaster Preparedness and Awareness" and shall be composed of the following members:
+(1) Three members of the senate to be appointed by the president pro tempore of the senate;
+(2) Two members of the senate to be appointed by the minority floor leader of the senate;
+(3) Three members of the house of representatives to be appointed by the speaker of the house of representatives;
+(4) Two members of the house of representatives to be appointed by the minority floor leader of the house of representatives;
+(5) The director of the department of public safety, or his or her designee;
+(6) The director of the department of agriculture, or his or her designee; and
+(7) The adjutant general of the state, or his or her designee.
+2. A majority of the members of the committee shall constitute a quorum, but the concurrence of a majority of the members shall be required for the determination of any matter within the committee's duties.
+3. The joint committee shall make a continuous study and investigation into issues relating to disaster preparedness and awareness including, but not limited to, the following areas:
+(1) Natural and manmade disasters;
+(2) State and local preparedness for floods;
+(3) State and local preparedness for tornados, blizzards, and other severe storms;
+(4) Food and energy resiliency;
+(5) Cybersecurity;
+(6) The budget reserve fund established under Article IV, Section 27(a) of the Missouri Constitution;
+(7) The protection of vulnerable populations in intermediate care facilities and skilled nursing facilities as those terms are defined in section 198.006; and
+(8) Premises that have been previously contaminated with radioactive material.
+4. The joint committee shall compile a full report of its activities for submission to the general assembly. The report shall be submitted not later than January first of even-numbered years and may include any recommendations which the committee may have for legislative action. The report may also include an analysis and statement of the manner in which statutory provisions relating to disaster preparedness and awareness are being executed.
+5. The joint committee may employ such personnel as it deems necessary to carry out the duties imposed by this section, within the limits of any appropriation for such purpose.
+6. The members of the committee shall serve without compensation, but any actual and necessary expenses incurred in the performance of the committee's official duties by the joint committee, its members, and any staff assigned to the committee shall be paid from the joint contingent fund.
+7. This section shall expire on December 31, 2022.
+
+*Effective 8/28/2018 · (L. 2018 H.B. 1355)
+Expires 12-31-22*
+
+### 21.880 Joint committee established, members, meetings, duties, report — permanent subcommittee on the Missouri criminal code — staff assistance — compensation.
+
+1. There is hereby established a permanent joint committee of the general assembly, which shall be known as the "Joint Committee on the Justice System" and shall be composed of the following members:
+(1) The chairs of the senate and house committees on the judiciary;
+(2) The ranking minority members of the senate and house committees on the judiciary;
+(3) Two members of the senate appointed by the president pro tempore of the senate, one of whom shall be a member of the senate committee on appropriations;
+(4) The chair of the house committee with jurisdiction over matters relating to criminal laws, law enforcement, and public safety;
+(5) The chair of the house committee with jurisdiction over matters relating to state correctional institutions;
+(6) A member of the senate appointed by the minority floor leader of the senate;
+(7) A member of the house of representatives appointed by the minority floor leader of the house of representatives;
+(8) Three nonvoting ex officio members who shall be the chief justice of the Missouri supreme court, the state auditor, and the attorney general, or their designees.
+2. No more than three members from each house shall be of the same political party.
+3. The joint committee shall meet within thirty days after its creation and organize by selecting a chair and vice chair, one of whom shall be the senate judiciary chair and one of whom shall be the house judiciary chair. The positions of chair and vice chair shall alternate every two years thereafter between the senate and house. After its organization, the committee shall meet regularly, at least twice a year, at such time and place as the chair designates, including locations other than Jefferson City. A majority of the members of the committee shall constitute a quorum, but the concurrence of a majority of the members, other than the ex officio members, shall be required for the determination of any matter within the committee's duties.
+4. In order to promote the effective administration of justice and public safety, it shall be the duty of the joint committee to:
+(1) Review and monitor:
+(a) The state's justice system;
+(b) The state's criminal laws, law enforcement, and public safety;
+(c) The state's correctional institutions and penal and correctional issues; and
+(d) All state government efforts related to terrorism, bioterrorism, and homeland security;
+(2) Receive reports from the judicial branch, state or local government agencies or departments, and any entities attached to them for administrative purposes;
+(3) Conduct an ongoing study and analysis of the state's justice system and related issues;
+(4) Determine the need for changes in statutory law, rules, policies, or procedures;
+(5) Make any recommendations to the general assembly for legislative action; and
+(6) Perform other duties authorized by concurrent resolution of the general assembly.
+5. By January 15, 2016, and every year thereafter, it shall be the duty of the joint committee to file with the general assembly a report of its activities, along with any findings or recommendations the committee may have for legislative action.
+6. The joint committee shall establish a permanent subcommittee on the Missouri criminal code, which shall conduct and supervise a continuing program of revision designed to maintain the cohesiveness, consistency, and effectiveness of the criminal laws of the state. In connection with this program, the committee may select an advisory committee on the Missouri criminal code, composed of a representative of the Missouri supreme court, a representative of the office of the attorney general, and other individuals known to be interested in the improvement of the state's criminal laws, and may authorize the payment of any actual and necessary expenses incurred by such members while attending meetings with the committee or the subcommittee on the Missouri criminal code. The subcommittee on the Missouri criminal code shall present to the general assembly in each tenth year such criminal code revision bills as it finds appropriate to accomplish its purpose.
+7. The joint committee may make reasonable requests for staff assistance from the research and appropriations staffs of the senate and house and the joint committee on legislative research, and may employ such personnel as it deems necessary to carry out the duties imposed by this section, within the limits of any appropriation for such purpose. In the performance of its duties, the committee may request assistance or information from all branches of government and state departments, agencies, boards, commissions, and offices.
+8. The members of the committee shall serve without compensation, but any actual and necessary expenses incurred in the performance of the committee's official duties by the joint committee, its members, and any staff assigned to the committee shall be paid from the joint contingent fund.
+
+*Effective 8/28/2014 · (L. 2014 H.B. 1231 merged with S.B. 621)*
+
+### 21.900 Committee established, members, appointment, meetings — research, report — dissolution of committee, when.
+
+1. There is established a joint committee of the general assembly to be known as the "Joint Committee on Agriculture" to be comprised of five members of the senate, five members of the house of representatives, the director of the department of agriculture or his or her designee, and the director of the department of natural resources or his or her designee. The senate members shall be appointed by the president pro tempore and minority floor leader of the senate and the house members shall be appointed by the speaker and minority floor leader of the house of representatives. No party shall be represented by more than three members from the senate nor more than three members from the house. A majority of the members of the committee shall constitute a quorum.
+2. The joint committee on agriculture shall meet within thirty days after its creation and organize by selecting two cochairs, one of whom shall be a member of the senate and the other a member of the house of representatives.
+3. The committee shall meet at the call of either cochair or upon request of any member and shall hear public testimony on the items set forth in subsection 6 of this section.
+4. The committee shall be staffed by legislative personnel as is deemed necessary to assist the committee in the performance of its duties.
+5. The members of the committee shall serve without compensation, but any actual and necessary expenses incurred in the performance of the committee's official duties by the joint committee, its members, and any staff assigned to the committee shall be paid from the joint contingent fund, except for members of the committee who are not members of the general assembly.
+6. The committee shall conduct research on the following:
+(1) The economic impact of Missouri's agricultural industry in the state, including its contribution to state and local tax revenues;
+(2) The industry's ongoing efforts to improve environmental stewardship while improving the economic sustainability of Missouri agriculture;
+(3) The creation of incentives to encourage members of the agricultural industry to adopt best practices to scientifically address Missouri's carbon footprint; and
+(4) Missouri residents' views on agricultural issues via public testimony.
+7. The committee shall compile a full report of its activities for submission to the general assembly. The first report shall be submitted not later than January 15, 2021, and not later than the fifteenth of January of each year in which the general assembly convenes in regular session and shall include any recommendations which the joint committee may have for legislative action as well as any recommendations for administrative or procedural changes in the internal management or organization of state government agencies and departments. Copies of the report containing such recommendations shall be sent to the appropriate directors of state departments and agencies included in the report.
+8. The department of agriculture and the department of natural resources shall cooperate with and assist the committee in the performance of its duties and shall make available all public records and information requested.
+9. The committee shall dissolve on January 15, 2024.
+
+*Effective 8/28/2019 · (L. 2019 S.B. 391)*
+
+### 21.915 Joint committee on rural economic development — members — duties — report.
+
+1. There is established a permanent joint committee of the general assembly to be known as the "Joint Committee on Rural Economic Development" which shall be composed of five members of the senate, no more than three of which shall be from the majority party, appointed by the president pro tempore of the senate, and five members of the house of representatives, no more than three of which shall be from the majority party, appointed by the speaker of the house of representatives. A majority of the members of the committee shall constitute a quorum. The members shall annually select one of the members to be the chair and one of the members to be the vice chair. The speaker of the house of representatives and the president pro tempore of the senate shall appoint the respective majority members. The minority leader of the house of representatives and the minority leader of the senate shall appoint the respective minority members. The members shall receive no additional compensation, but shall be reimbursed for actual and necessary expenses incurred by them in the performance of their duties. No major party shall be represented on the committee by more than three members from the senate nor by more than three members from the house of representatives. The committee is authorized to meet and act year round and to employ the necessary personnel within the limits of appropriations. The staff of the committee on legislative research, house research, and senate research shall provide necessary clerical, research, fiscal, and legal services to the committee, as the committee may request.
+2. It shall be the duty of the committee to:
+(1) Examine any trending population declines throughout rural counties in Missouri utilizing data from the last previous decennial census of the United States, including identifying any anomalous rural areas that saw population increases;
+(2) Identify economic opportunities for third class counties, including identifying viable industries for rural areas of the state and businesses that are relocating from other states;
+(3) Monitor the deployment and adoption of broadband internet in rural areas of the state;
+(4) Examine the issue of restricted access to quality health care and insurance in rural areas of the state;
+(5) Identify the need for and development of expanded learning opportunities in rural areas, including workforce development, skilled labor training, and online training;
+(6) Examine infrastructure issues in rural areas in the state, including opportunities to mitigate geographical isolation and a review of transportation development plans to embolden economic vitality in rural areas of the state;
+(7) Identify key contributors and solutions to poverty and unemployment trends in rural areas of the state;
+(8) Develop policies to maximize existing state programs, including existing economic development tax credit programs and tourism programs; and
+(9) Identify and examine any other issues that the committee determines to be affecting rural areas of the state.
+3. The committee may compile a full report of its activities for submission to the general assembly, which shall include any recommendations which the committee may have for legislative action as well as any recommendations for administrative or procedural changes in the internal management or organization of state government agencies and departments. Copies of the report containing such recommendations shall be sent to the appropriate directors of state departments and agencies included in the report.
+4. All state departments, commissions, and offices shall cooperate with and assist the committee in the performance of its duties and shall make available all books, records, and information requested.
+
+*Effective 8/28/2022 · (L. 2022 S.B. 672)*
+
+### 21.930 Fund created, certain general revenue collections to be deposited, use of moneys — certain refunds to be paid in full, when.
+
+1. There is hereby created in the state treasury the "Surplus Revenue Fund", which shall consist of money collected under subsection 2 of this section. The state treasurer shall be custodian of the fund. In accordance with sections 30.170 and 30.180, the state treasurer may approve disbursements. Notwithstanding the provisions of section 33.080 to the contrary, any moneys remaining in the fund at the end of the biennium shall not revert to the credit of the general revenue fund. The state treasurer shall invest moneys in the fund in the same manner as other funds are invested. Any interest and moneys earned on such investments shall be credited to the fund.
+2. If, during the two-year fiscal period beginning July 1, 2013, and ending June 30, 2015, Missouri general revenue collections net of refunds exceed sixteen billion eight hundred thirty-four million dollars, the state treasurer shall deposit from moneys that otherwise would have been deposited into the general revenue fund an amount not to exceed two hundred fifteen million dollars. Moneys in the surplus revenue fund shall be subject to appropriation by the general assembly.
+3. Notwithstanding any other provision of law to the contrary, refunds owed to Missouri taxpayers for the two-year fiscal period beginning July 1, 2013, and ending June 30, 2015, shall be paid in full on or before June 30, 2015.
+
+*Effective 8/28/2014 · (L. 2014 H.B. 2077)*
+
+### 21.950 Article V convention, selection and participation of Missouri commissioners — recommended commissioner instructions.
+
+1. When a convention is called to propose amendments to the United States Constitution pursuant to Article V of the United States Constitution, the selection and participation of commissioners from Missouri to such convention shall be governed by this section.
+2. (1) Missouri shall have a number of commissioners equal to the number of congressional districts in the state at the time with one commissioner from each congressional district and a number of alternate commissioners equal to the number of congressional districts in the state at the time with one alternate commissioner from each congressional district.
+(2) Commissioners and alternates shall be residents of the state of Missouri and shall otherwise meet the same qualifications necessary to hold office in the Missouri house of representatives. Commissioners and alternates may include persons holding public office, subject to further limits described below, except that no person shall be eligible who is:
+(a) A member of the United States House of Representatives or Senate;
+(b) An employee of the United States;
+(c) An employee or other representative of a contractor with the United States; or
+(d) An elected official holding a statewide office.
+­­
+­
+(3) The house of representatives and senate shall select, by adoption of a concurrent resolution, the commissioners and alternates who meet the eligibility requirements described in this section and who are submitted to the house of representatives and the senate by the joint legislative committee as provided in subsection 4 of this section. Of the commissioners, at least one-third shall not be sitting members of the general assembly. Of the alternate commissioners, at least one-third shall not be sitting members of the general assembly.
+(4) A majority of the commissioners shall constitute a quorum for all decisions made by the delegation, and no commissioner may give his or her vote by proxy or otherwise to any other commissioner. The commissioners shall select a chair to administer the work of the commissioners.
+3. (1) Each commissioner and alternate shall, by oath or affirmation as a condition of participating in the convention, agree to faithfully and impartially discharge all the duties incumbent upon a commissioner, including the duty to abide by instructions established by concurrent resolution of the general assembly for participation in the convention and the duty to act only within the scope of the general assembly's application for the convention if Missouri applied for the convention in which the commissioners are participating. Each commissioner and alternate shall further agree to immediately notify the joint legislative committee if he or she believes that any Missouri commissioner or alternate has violated his or her oath or instructions while participating in the convention.
+(2) Prior to the Article V convention, the general assembly shall consider recommended commissioner instructions presented to it by the joint legislative committee as discussed further in subsection 4 of this section and shall by concurrent resolution provide duly approved instructions to the commissioners and alternates regarding the scope of matters the commissioners may consider and vote on at the convention, including rules of procedure and proposed amendments. Such instructions may be changed by the general assembly prior to or during the convention. These instructions shall include, but shall not be limited to:
+(a) An instruction that the commissioners shall not support any voting rule other than the rule whereby each state exercises one vote; and
+(b) An instruction that on all voting matters at the convention, the decision of a simple majority of the Missouri commissioners shall constitute a single vote for the state of Missouri.
+(3) Any vote cast by a commissioner or alternate at an Article V convention that is outside the scope of any of the following is an unauthorized vote and is therefore void:
+(a) The instructions established by any concurrent resolution adopted under this section; or
+(b) Any limits identified in the Missouri general assembly's application for the convention.
+4. (1) After or near the time an Article V convention is called, a joint legislative committee shall be duly authorized by the general assembly for the purposes described in this section. The joint legislative committee shall be comprised of five members of the senate appointed by the president pro tempore of the senate, with three members from the majority party and two members from the minority party, and five members of the house of representatives appointed by the speaker of the house of representatives, with three members from the majority party and two members from the minority party, and shall have the initial task of recommending eligible commissioners to the house of representatives and the senate for consideration of appointment as commissioners. The joint legislative committee shall submit at least three persons from each congressional district who are eligible, as provided in this section, to serve as commissioners and at least three different persons from each congressional district who are eligible, as provided in this section, to serve as alternate commissioners. The house of representatives and the senate shall select a commissioner and alternate commissioner from each congressional district from the names submitted by the joint legislative committee. The joint legislative committee shall also be charged with presenting recommended commissioner instructions to the full general assembly for consideration leading to a concurrent resolution as discussed in subdivision (2) of subsection 3 of this section. Such commissioner instructions shall define the scope of matters the commissioners may consider and vote on at the Article V convention, including rules of procedure and proposed amendments as discussed more fully in subsection 3 of this section. All recommendations that secure a simple majority vote of the members present shall be deemed approved recommended commissioner instructions to be submitted to the full general assembly for its consideration.
+(2) After commissioners have been selected, the joint legislative committee may recall any commissioner and revoke such commissioner's authority. However, the joint legislative committee shall recall and revoke the authority only in the event the commissioner casts or attempts to cast an unauthorized vote as described in this section. The joint legislative committee shall also appoint one of the selected alternates to take the place of a commissioner so recalled. The joint legislative committee shall promptly investigate any notice that a commissioner or alternate has cast an unauthorized vote or otherwise exceeded the scope of the general assembly's application for the convention or the general assembly's instructions to the commissioners. The joint legislative committee shall act to ensure that the commissioners remain faithful to the terms of the convention application and the general assembly's instructions. Before or during the Article V convention, the joint legislative committee may advise the commissioners on questions that arise regarding the scope of the convention and the legislative instructions to commissioners.
+(3) By concurrent resolution, the general assembly may change or supersede any action of the joint legislative committee or recall commissioners or alternates to the convention, or appoint new commissioners or alternates.
+(4) The joint legislative committee shall be authorized to conduct its business via telephone or by electronic communication.
+5. If the provisions of this section conflict with the rules or procedures established by the Article V convention, the general assembly may, by concurrent resolution, conform these provisions to such rules or procedures.
+
+*Effective 8/28/2026 · (L. 2026 S.B. 1119)*
+
+## Chapter 23 — Committee on Legislative Research
+
+### 23.010 Establishing a committee on legislative research — members — appointment — discharge.
+
+A permanent joint committee of the general assembly known as the "Committee on Legislative Research", to be comprised of the chairman of the senate appropriations committee, the president pro tempore of the senate, two members from the majority party of the senate, the senate minority floor leader, and one member from the minority party of the senate, the chairman of the house budget committee, the speaker of the house of representatives, two members of the majority party of the house of representatives, the minority floor leader of the house of representatives, and one member from the minority party of the house of representatives, is established and its offices are in the capitol building, Jefferson City, Missouri. The senate majority members of the committee shall be appointed by the president pro tempore of the senate, the senate minority member shall be appointed by the senate minority floor leader, the house majority members shall be appointed by the speaker of the house, and the house minority members shall be appointed by the house minority floor leader. Appointment of each member shall continue during his term of office as a member of the general assembly, or until a successor is appointed to fill the place of any committee member whose term of office has expired.
+
+*Effective 8/28/2026 · (RSMo 1939 § 14737, A.L. 1943 p. 632, A.L. 1945 p. 1136, A.L. 1957 p. 595, A.L. 1984 H.B. 1087, A.L. 2026 S.B. 1470)*
+
+### 23.020 Duties of committee.
+
+The committee shall perform the following services for the members of the general assembly:
+(1) Provide a research and reference service on legislative problems;
+(2) Upon written request, make investigation into legislative and governmental institutions of this state or other states to aid the general assembly;
+(3) Upon written request, assist and cooperate with any interim legislative committee or commission created by the general assembly;
+(4) Upon request of the joint committee, draft or aid in drafting revision bills under section 23.045, and any resolutions and amendments directly related to any revision bill or the duties and functions of the joint committee on legislative research, and render any other service in connection therewith for any member of the general assembly.
+
+*Effective 8/28/2026 · (L. 1943 p. 632 § 14743A, A.L. 1957 p. 595, A.L. 2026 S.B. 1470)
+CROSS REFERENCE:
+Revision of statutes, duties of committee, Chap. 3*
+
+### 23.030 Legislative library — reference service.
+
+The legislative library room located on the third floor of the capitol building and in a northerly position between the senate chamber and the house chamber is set aside as a legislative library quarters under the direction and control of the committee on legislative research. Out of an appropriation made for that purpose, the committee on legislative research shall maintain a reference service which shall be available to the general assembly and the public. This service may include the following specific functions:
+(1) Maintain a legislative library and purchase for the library any printed or written reference material relating to problems of the state or political subdivisions as would in the judgment of the committee aid the members of the general assembly;
+(2) Secure and file copies of all bills, resolutions, amendments, memorials, reports of committees, journals and other documents printed by order of either house of the general assembly; and collect, catalogue and index material as soon as practicable after it has been printed;
+(3) Keep an index or digest of the action on each bill, resolution, and memorial by either body of the general assembly and the governor, the digest to be printed and distributed at intervals the committee deems practicable.
+
+*Effective 8/28/1957 · (RSMo 1939 § 14743, A.L. 1943 p. 632, A.L. 1957 p. 595)*
+
+### 23.040 Service concerning bills.
+
+From the time the general assembly of the state convenes until it is adjourned finally, the committee on legislative research, through its representatives, shall give consideration to and service concerning any bill before the general assembly requested by any member of the senate or the house of representatives or any committee of the general assembly having the bills before it for consideration. This service shall continue after adjournment and during any recess or vacation.
+
+*Effective 8/28/2026 · (RSMo 1939 § 14745, A.L. 1943 p. 632, A.L. 1957 p. 595, A.L. 2026 S.B. 1470)*
+
+### 23.045 Revision bill, content.
+
+Any bill denominated as a revision bill by the committee shall contain only that subject matter approved by the committee and additional material may not be amended thereto, unless needed as a technical correction.
+
+*Effective 5/28/1992 · (L. 1992 H.B. 1849 § 2)
+Effective 5-28-92*
+
+### 23.050 Committee empowered to obtain information concerning state departments and institutions — assemble information and make report.
+
+1. The committee shall obtain information upon the needs, organization, functioning, efficiency and financial status of any department of state government or of any institution or agency which is supported in whole or in part by revenue of the state; collect and assemble information concerning the revenue of the state and the tax resources of the state and upon questions of statewide interest which may reasonably become subjects of legislative action or of legislative consideration; make available such information as is requested by any member or member-elect of the general assembly, provided that personally identifiable information may be excluded in accordance with applicable law.
+2. The committee shall compile a report of its activities and a detailed account of its expenditures for submission to the general assembly, which report shall be completed at least thirty days prior to the convening of each regular session of the general assembly. The report shall be delivered to each member of the present and forthcoming general assembly and a copy of the report shall be submitted to each state elective officer. The report shall include any recommendations for legislative action as well as any recommendations which the committee desires to make concerning the efficient and economical operation of the state government.
+
+*Effective 8/28/2026 · (L. 1943 p. 632 § 14745A, A.L. 1957 p. 595, A.L. 2026 S.B. 1470)*
+
+### 23.060 Legislative library, material available to whom — procuring information from other state agencies.
+
+The material, including books and other publications of the research library maintained by the committee, is available to the members of the general assembly. All officers of the state, all departments, commissions and bureaus of the state, and all persons connected therewith, the University of Missouri, the public colleges and universities, and all agencies of the state which are supported in whole or in part by state funds shall give the committee, or its duly authorized representatives, complete access to their records and full information and all reasonable assistance in any matter of research or investigation which, in the judgment of the committee, requires recourse to them or to data within their knowledge or control; but this section does not compel the disclosure of any records or information which is declared to be privileged or confidential by any other law of this state, unless the committee is specifically authorized to procure the information by a concurrent resolution adopted by the general assembly.
+
+*Effective 8/28/2026 · (RSMo 1939 § 14744, A.L. 1943 p. 632, A.L. 1957 p. 595, A.L. 1988 S.B. 519, A.L. 2026 S.B. 1470)*
+
+### 23.070 Committee on legislative research, officers, how selected — director, duties of — meetings, when held, quorum, number required for.
+
+The committee on legislative research shall meet within thirty days after the convening of each general assembly and organize by selecting a chairperson and vice chairperson, one of whom shall be a member of the senate and one of whom shall be a member of the house of representatives. The chairpersonship and vice chairpersonship shall alternate between members of the senate and house every two years. The director shall serve as secretary to the committee on legislative research. Unless otherwise directed by the committee, the director shall keep the records of the committee and be subject to the jurisdiction and order of the committee during the vacation or recess of the general assembly. The regular meeting place of the committee shall be in Jefferson City, Missouri, and after its inception and organization it shall regularly meet at least twice a year. A majority of the members of the committee shall constitute a quorum and a majority of a quorum may act for the entire committee. Special meetings of the committee may be called at such time and place within the state as the chairperson thereof designates.
+
+*Effective 8/28/2026 · (RSMo 1939 § 14738, A.L. 1943 p. 632, A.L. 1945 p. 1126, A.L. 1957 p. 595, p. 614, A.L. 1977 S.B. 419, A.L. 1984 H.B. 1087, A.L. 1985 S.B. 354, A.L. 2026 S.B. 1470)*
+
+### 23.080 Director of committee on legislative research — how employed, compensation, qualifications — staff — oversight division supervision — library expenditures authorized.
+
+1. The committee may regularly employ and fix the compensation of a director of research who is competent to assume administration of the necessary activities of the committee under the direction of the committee. The committee may also employ other attorneys, research assistants, clerks and other persons as it deems necessary within the limits of the appropriation made therefor to carry out the provisions of this chapter or to provide assistance for the members and committees of the general assembly. Except for those employees assigned to the oversight division, all employees of the committee shall be under the supervision of the director of research, and he or she shall, as directed by the committee, assign and supervise all work projects of those employees and keep all necessary personnel records for those employees and others of the committee if so directed. All employees of the oversight division shall be under the supervision of the director of the oversight division.
+2. The committee may provide necessary legal reports and other publications to be kept in the library of the committee and pay for same out of any appropriations made to the committee. The secretary of state and the revisor of statutes shall furnish the librarian, without charge, the number of Missouri statutes and session laws as is desired by the committee to enable it to exchange the statutes and session laws for those of other states.
+
+*Effective 8/28/2026 · (RSMo 1939 § 14746, A.L. 1943 p. 632, A.L. 1957 p. 595, A.L. 1977 S.B. 419, A.L. 1985 S.B. 354, A.L. 2026 S.B. 1470)*
+
+### 23.090 Legislative library and other space under control of committee on legislative research.
+
+The committee on legislative research has charge and control of the legislative library and all other space within the capitol assigned to it, including the oversight division.
+
+*Effective 8/28/2026 · (RSMo 1939 § 14739, A.L. 1943 p. 632, A.L. 1957 p. 595, A.L. 1977 S.B. 419, A.L. 2026 S.B. 1470)*
+
+### 23.140 Fiscal notes required for legislation — exceptions — contents — interference with staff prohibited — changes in fiscal notes, hearings, procedure — cooperation of agencies — post-implementation fiscal note prepared, when.
+
+1. Legislation, with the exception of appropriation bills, introduced into either house of the general assembly shall, before being acted upon, be submitted to the oversight division of the committee on legislative research for the preparation of a fiscal note. The staff of the oversight division shall prepare a fiscal note, examining the items contained in subsection 2 and such additional items as may be provided either by joint rule of the house and senate or by resolution adopted by the committee or the oversight subcommittee.
+2. The fiscal note shall state:
+(1) The cost of the proposed legislation to the state for the next two fiscal years;
+(2) Whether or not the proposed legislation will establish a program or agency that will duplicate an existing program or agency;
+(3) Whether or not there is a federal mandate for the program or agency;
+(4) Whether or not the proposed program or agency will have significant direct fiscal impact upon any political subdivision of the state;
+(5) Whether or not any new physical facilities will be required; and
+(6) Whether or not the proposed legislation will have an economic impact on small businesses. For the purpose of this subdivision "small business" means a corporation, partnership, sole proprietorship or other business entity, including its affiliates, that:
+(a) Is independently owned and operated; and
+(b) Employs fifty or fewer full-time employees.
+3. The fiscal note for a bill shall accompany the bill throughout its course of passage. No member of the general assembly, lobbyist or persons other than oversight division staff members shall participate in the preparation of any fiscal note unless the communication is in writing, with a duplicate to be filed with the fiscal note or unless requested for information by the fiscal analyst preparing the note. Violations of this provision shall be reported to the chairman of the legislative research committee and subject the fiscal note and proposed bill to subcommittee review. Once a fiscal note has been signed and approved by the director of the oversight division, the note shall not be changed or revised without prior approval of the chairman of the legislative research committee, except to reflect changes made in the bill it accompanies, or to correct patent typographical, clerical or drafting errors that do not involve changes of substance, nor shall substitution be made therefor. Appeals to revise, change or to substitute a fiscal note shall be made in writing by a member of the general assembly to the chairman of the legislative research committee and a hearing before the committee or subcommittee shall be granted as soon as possible. Any member of the general assembly, upon presentation of new or additional material, may, within three legislative days after the hearing on the request to revise, change or substitute a fiscal note, request one rehearing before the full committee to further consider the requested change. The subcommittee, if satisfied that new or additional material has been presented, may recommend such rehearing to the full committee, and the rehearing shall be held as soon as possible thereafter.
+4. The director of the division, hereinafter provided for, or the director's designees, shall seek information and advice from the affected department, division or agency of state government and shall call upon the research staffs of the house of representatives and of the senate, and upon the staffs of the house and senate appropriations committees for assistance in carrying out fiscal notes and evaluations of programs selected by the committee, during the interim, and each staff shall supply such information or advice as it deems appropriate in response to the inquiry. The state auditor shall, upon request, cooperate and provide assistance in the conduct of audits and the preparation of reports made in connection therewith. The state auditor may, upon the request of the director or his or her designee, cooperate and provide assistance in the preparation of fiscal notes.
+5. The staff of the oversight division shall prepare a post-implementation fiscal note for any legislation that has been enacted and fully implemented for two years. All requirements and obligations with respect to the preparation of fiscal notes elsewhere in law shall apply to post-implementation fiscal notes. The express purpose of a post-implementation fiscal note shall be to compare the estimate of the fiscal note relating to the final enacted version of the legislation to the actual experience after the legislation was implemented. To the extent reporting must be implemented at the time of enactment of the legislation by any department, division, or agency of state government in order to comply with the requirements of the eventual post-implementation fiscal note, such reporting shall occur at the time of enactment.
+
+*Effective 8/28/2026 · (L. 1984 H.B. 1087, A.L. 1985 S.B. 354, A.L. 1996 H.B. 1123, A.L. 2012 H.B. 1029, A.L. 2026 S.B. 1470)*
+
+### 23.150 Oversight division organized, duties — oversight director and staff employed, qualifications.
+
+1. The committee on legislative research shall organize an oversight division to prepare fiscal notes and to conduct program evaluations, including program evaluations involving budget transparency and accountability.
+2. Within the limits of the appropriations made for this division, the committee may regularly employ and fix the compensation of the director of the oversight division and other personnel as it deems necessary. The director shall be qualified by training and experience to conduct such evaluations, and he or she shall be directly responsible for those activities. The director of the oversight division, with the consent of the joint committee, may employ personnel necessary to carry out the duties prescribed in this chapter. Persons employed to work in the oversight division shall be professional persons possessing a wide knowledge and demonstrated expertise in governmental programming and financial planning, in conducting program review evaluations and analytic studies, and of federal, state, and local government budgetary processes, laws and regulations of the state of Missouri.
+
+*Effective 8/28/2026 · (L. 1984 H.B. 1087, A.L. 1985 S.B. 354, A.L. 2012 H.B. 1029, A.L. 2026 S.B. 1470)
+CROSS REFERENCE:
+Federal mandate auditor, director of oversight to serve, duties, 33.825 to 33.829*
+
+### 23.153 Record kept by staff member on persons initiating inquiries or attempting to influence content of fiscal note — penalty.
+
+1. As part of the preparation of any fiscal note for any proposed piece of legislation, the staff member of the oversight division assigned to prepare that note shall maintain a log, which shall be a public record as defined in chapter 610. That log shall contain a record of any contact initiated by any other person who either inquires regarding the content of the fiscal note or who attempts to influence the preparation of the fiscal note. The log shall contain, at a minimum, the name and position of the person initiating the contact, the time and date of the contact, the number of the fiscal note and the number of the proposed piece of legislation, and a narrative summary of the comments made by the person who initiated the contact.
+2. Violation of the provisions of this section is a class A misdemeanor.
+
+*Effective 8/28/1984 · (L. 1984 H.B. 1087)*
+
+### 23.156 Oath required, oversight division employees — violation, penalty.
+
+1. Every employee of the oversight division of the joint committee on legislative research shall, before entering upon his or her duties, take and file in the offices of the secretary of the senate and the chief clerk of the house of representatives an oath:
+(1) To support the constitution of the state, to faithfully demean himself or herself in office;
+(2) To not disclose to any unauthorized person any information furnished by any state department, state agency, political subdivision, or instrumentality of the state; and
+(3) To not accept as presents or emoluments any pay, directly or indirectly, for the discharge of any act in the line of his or her duty other than the remuneration fixed and accorded to the employee by law.
+2. For any violation of his or her oath of office or of any duty imposed upon him or her by this section, any employee shall be guilty of a class A misdemeanor.
+
+*Effective 8/28/2010 · (L. 2010 H.B. 1868 merged with H.B. 2226, et al.)*
+
+### 23.180 Powers of committee.
+
+The committee may:
+(1) Subpoena and examine witnesses by subpoena issued under the hand of the speaker of the house or the president pro tem of the senate and may require the appearance of any person and the production of any paper or document in the same manner;
+(2) Cause witnesses appearing before the committee or its staff to give testimony under oath;
+(3) Require that testimony given or a record of the proceedings of any hearing be recorded by an official court reporter or other competent person, under oath, in writing or by electronic, magnetic, or mechanical sound or video recording devices. Any such transcript or record, when certified by the reporter or recorder, shall be prima facie a correct statement of the testimony or proceedings.
+
+*Effective 8/28/2012 · (L. 1984 H.B. 1087, A.L. 2012 H.B. 1029)*
+
+### 23.190 Recommendations made to agency — response procedure for agency — evaluation reports, distribution, charge for public — review of agency in one year, report.
+
+1. In making program evaluations the division shall make recommendations and suggestions, in writing, to the personnel of the agency being evaluated. Such personnel shall be given an opportunity to respond, in writing, to those recommendations and suggestions. Thereafter, as soon as practicable after completion of the evaluation, the committee shall issue a public report of the evaluation. The report shall contain recommendations for changes in practices and policies as well as recommendations for changes in statutes and regulations, and shall contain the response of the agency involved. Each report shall be a public record and shall be signed by the committee chair. Each report shall be presented to the governor and the agency involved. Copies may be made available to members of the general assembly and to the general public. The committee may charge a fee to recover publication costs for copies made available to the general public.
+2. One year after completion of each evaluation, the oversight division shall review the operations of the agency evaluated to determine whether or not there has been substantial compliance with the recommendations contained in the report, and if not, a further review shall be conducted at the end of another year. In each instance a further report shall be made and distributed in the same manner as an initial report is made and distributed.
+
+*Effective 8/28/2012 · (L. 1984 H.B. 1087, A.L. 2012 H.B. 1029)*
+
+### 23.195 Register of all state bonds and evidence of indebtedness — content of register — report by division to general assembly, when, purpose — copies delivered to whom — all state agencies and state auditor to furnish information.
+
+1. The oversight division of the committee on legislative research shall maintain a register of all state bonds or other evidences of indebtedness of all state agencies and of entities of the state given authority by law to incur indebtedness, whether or not the indebtedness is a liability of the state, including lease purchase agreements of at least ten thousand dollars for personal property which have been issued or entered into by the state of Missouri or by any state agency, authority or institution. Indebtedness compiled in the register shall include but not be limited to that incurred by the third state building fund, the higher education loan authority, the agriculture and small business revenue authority, the health and education facilities authority, the Missouri economic development commission, the environmental and energy resources improvement authority, the state-supported educational institutions of higher learning, the bi-state development authority, the several interstate bridge authorities, and any metro transportation districts. The register shall contain all the details concerning the issuance and retirement of such bonds or other evidence of indebtedness, including, but not limited to, the date of issuance and maturity, the name of the issuing state agency, terms and costs of any lease purchase agreement if applicable, the rate of interest, the manner of redemption, the purpose for which issued, and, if retired, the date and manner of retirement.
+2. The oversight division shall report on the total bonded and other indebtedness including lease purchase agreements of this state and its various agencies, entities, and institutions to the individual members of the general assembly on or before January fifteenth of each year. Copies of the report shall also be delivered to the governor, state auditor, state treasurer, and the state librarian. Copies shall be made available to other interested parties. Such report shall contain sufficient data and information to enable the members of the general assembly to determine the amount of indebtedness outstanding for each purpose for which bonded and other indebtedness has been incurred and the total amount of money which will be necessary to fully repay all principal and interest due on such bonded or other indebtedness or to fulfill the terms of any lease purchase agreement; including, but not limited to, a summary of all pertinent information contained in the register required by subsection 1 of this section.
+3. Inclusion of any indebtedness in this register shall not be construed that the indebtedness is, or is not, state indebtedness.
+4. The state auditor and each state agency and entity shall cooperate fully with the oversight division in collecting information for this register, and shall provide information as requested for inclusion therein.
+
+*Effective 8/28/2026 · (L. 1989 H.B. 493 § 2, A.L. 1995 H.B. 574, A.L. 2026 S.B. 1470)*
+
+### 23.205 Annual report by committee on laws which expire, sunset, terminate or become ineffective in two years.
+
+The joint committee on legislative research shall file a report with the general assembly by January third of each year which provides a detailed listing of all statutes which expire, sunset, terminate, or otherwise become ineffective by their own provisions within the next two years.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 548)*
+
+### 23.250 Title.
+
+Sections 23.250 to 23.298 shall be known and may be cited as the "Missouri Sunset Act".
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.253 New programs to sunset, when — definitions — reauthorized programs, effect of — review of programs, when.
+
+1. As used in sections 23.250 to 23.298, the following terms mean:
+(1) "Agency", any department, division, or agency of the state responsible for the administration of a program;
+(2) "Committee", the committee on legislative research established in Section 35, Article III, Constitution of Missouri and section 23.010;
+(3) "Program", a distinct and coherent set of activities authorized by the general assembly through the legislative process intended to affect a clearly definable target group, problem, or issue and which can be appropriated through the budget process or nonappropriated, as in the case of tax credits;
+(4) "Sunset", the termination of legislative authorization of a program.
+2. After August 28, 2003, any new program authorized by the general assembly shall sunset not more than six years after its effective date unless reauthorized by an act of the general assembly. No funds may be expended on a program after its authorization has terminated. Legislation passed after August 28, 2003, shall indicate whether it contains a program subject to the Missouri sunset act. Any such program shall have a sunset clause clearly indicating the date of termination without reauthorization.
+3. Any program reauthorized by the general assembly pursuant to this section shall include a provision specifying that the program shall sunset at a date not more than twelve years from the effective date of the program's reauthorization.
+4. Any program to which money was appropriated prior to August 28, 2003, may at any time be subject to review of the committee by a majority vote of its members for the purpose of recommending to the general assembly its continuation or sunset. The committee shall conduct public hearings concerning but not limited to the application to the program of the criteria provided in section 23.268, and shall issue a report pursuant to subsection 1 of section 23.271. The committee may recommend to the general assembly by a majority vote of its members that a program under review, to which money was appropriated prior to August 28, 2003, be sunset, continued, or reorganized. The committee shall submit such recommendation to all members of the general assembly within thirty calendar days of the vote in which such recommendation is made.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.256 Information to be reported by agencies to joint committee on legislative research, when.
+
+Before October thirtieth of the second calendar year prior to the year in which a state program subject to sections 23.250 to 23.298 is scheduled to sunset, the agency shall report to the committee:
+(1) Information regarding the application to the program of the criteria in section 23.268; and
+(2) Any other information that the agency considers appropriate or that is requested by the committee.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.259 Sunsetting of programs, duties of the committee.
+
+1. Before September first of the calendar year prior to the year in which a program subject to sections 23.250 to 23.298 is scheduled to sunset, the committee shall:
+(1) Review and take action necessary to verify the reports submitted by the agency pursuant to section 23.256;
+(2) Consult with the budget committee of the house of representatives, the appropriations committee of the senate, the office of budget and planning, the state auditor, and the state treasurer on the application to the agency of the criteria provided in section 23.268; and
+(3) Conduct a performance evaluation of the program based on the criteria provided in section 23.268 and prepare a written report.
+2. The written report prepared by the committee pursuant to subdivision (3) of subsection 1 of this section shall be deemed a public record.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.265 Report to general assembly on sunsetting programs, content — presentation by oversight division.
+
+1. At the beginning of each regular session of the general assembly, the committee shall present to the general assembly and the governor a report on the programs scheduled to be sunset.
+2. In the report, the committee shall include:
+(1) Its specific findings regarding each of the criteria prescribed by section 23.268;
+(2) Its recommendations based on the matters prescribed by section 23.271; and
+(3) Any other information the committee deems necessary for a complete evaluation of the program.
+3. The director of the oversight division shall present such reports to the house budget committee and the senate appropriations committee at such time as requested by the chairs of such committees.
+
+*Effective 8/28/2012 · (L. 2003 S.B. 299 & 40, A.L. 2012 H.B. 1029)*
+
+### 23.268 Criteria considered by committee.
+
+The committee and its staff shall consider the following criteria in determining whether a public need exists for the continuation of a program, or for the performance of the functions of the program:
+(1) The efficiency with which the program operates;
+(2) An identification of the objectives intended for the program and the problem or need that the program was intended to address, the extent to which the objectives have been achieved, and any activities of the agency in addition to those granted by statute and the authority for such activities;
+(3) An assessment of less restrictive or alternative methods of performing any rule or regulation that the agency performs that could adequately protect the public;
+(4) The extent to which the jurisdiction of the agency and the programs administered by the agency overlap or duplicate those of other agencies and the extent to which the programs administered by the agency can be consolidated with the programs of other state agencies;
+(5) Whether the agency has recommended to the general assembly statutory changes calculated to be of benefit to the public rather than to an occupation, business, or institution that the agency regulates;
+(6) The promptness and effectiveness with which the agency disposes of complaints concerning persons affected by the program;
+(7) The extent to which the agency has encouraged participation by the public in making rules and decisions as opposed to participation solely by those it regulates and the extent to which the public participation has resulted in rules compatible with the objectives of the program;
+(8) The extent to which the agency has complied with applicable requirements of:
+(a) An agency of the United States or this state regarding equality of employment opportunity and the rights and privacy of individuals; and
+(b) State law and applicable rules of any state agency regarding purchasing goals and programs for historically underutilized businesses;
+(9) The extent to which changes are necessary in the enabling statutes of the program so that the agency can adequately comply with the criteria established in this section;
+(10) The extent to which the agency issues and enforces rules relating to potential conflicts of interest of its employees;
+(11) The extent to which the agency complies with chapter 610 and follows records management practices that enable the agency to respond efficiently to requests for public information; and
+(12) The effect of federal intervention or loss of federal funds if the program is sunset.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.271 Program reports, content — portions of report to be submitted to state auditor.
+
+1. In its report on a program, the committee shall:
+(1) Make recommendations on the sunset, continuation, or reorganization of each affected program and on the need for the performance of the functions of the program;
+(2) Make recommendations on the consolidation, transfer, or reorganization of programs within state agencies not under review when the programs duplicate functions performed in programs under review;
+(3) Recommend appropriation levels for each program for which sunset or reorganization is recommended pursuant to subdivision (1) or (2) of this subsection; and
+(4) Include drafts of legislation necessary to carry out the committee's recommendations pursuant to subdivisions (1) and (2) of this subsection.
+2. On the date the committee presents its report to the general assembly pursuant to section 23.265, the committee shall present to the state auditor the committee's recommendations that do not require a statutory change to be put into effect. The state auditor shall examine the recommendations and shall prepare, as part of the next scheduled audit of the program, a report on the manner in which the agency has implemented the recommendations.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.274 Exemption for certain agencies, when.
+
+1. In the two-year period preceding the date scheduled for the sunset of a program pursuant to sections 23.250 to 23.298, the committee may exempt certain agencies from the requirements of sections 23.250 to 23.298 relating to staff reports, hearings, and evaluations.
+2. The committee shall only exempt programs that have been inactive for a period of two years preceding the date the program is scheduled to sunset.
+3. The committee's action in exempting programs pursuant to this section shall be done by an affirmative record vote of all members of the committee.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.277 Monitoring of legislation during session.
+
+During each regular or special session of the general assembly, the staff of the committee shall monitor legislation affecting programs that have undergone sunset review and shall periodically report to the members of the committee on proposed changes which would modify prior recommendations of the committee.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.280 Sunset act not to prohibit certain activities of the general assembly.
+
+Sections 23.250 to 23.298 shall not prohibit the general assembly from:
+(1) Terminating a program at a date earlier than that provided in sections 23.250 to 23.298; or
+(2) Considering any other legislation relative to a program subject to sections 23.250 to 23.298.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.283 Sunset program to continue until when, procedures for terminated programs.
+
+1. A program that is sunset may continue in existence until September first of the following year to conclude its business. Unless the law provides otherwise, sunset does not reduce or otherwise limit the powers and authority of the agency during the concluding year. A program is terminated and shall cease all activities at the expiration of the one-year period. Unless the law provides otherwise, all rules adopted by the state agency shall expire at the expiration of the one-year period.
+2. Any unobligated and unexpended appropriations of a sunset program lapse on September first of the year after sunset.
+3. Except as provided by subsection 5 of this section or as otherwise provided by law, all moneys in a dedicated fund of a program that sunsets on September first of the year after sunset shall be transferred to the credit of the general revenue fund. Any law or portion of a law dedicating the moneys to a specific fund of a program that sunsets shall become void on September first of the year after sunset.
+4. Unless the governor designates an appropriate state agency as prescribed in subsection 5 of this section, property and records in the custody of an agency administering a sunset program on September first of the year after sunset shall be transferred to the office of administration. If the governor designates an appropriate state agency, the property and records shall be transferred to the designated state agency.
+5. In recognition of the state's continuing obligation to pay bonded indebtedness and all other obligations, including lease, contract, and other written obligations, incurred by a program pursuant to sections 23.250 to 23.298, sections 23.250 to 23.298 shall not impair or impede payment of bonded indebtedness and all other obligations, including lease, contract, and other written obligations, in accordance with their terms. If an agency has outstanding bonded indebtedness or other outstanding obligations for a sunset program, including lease, contract, or other written obligations, the bonds and all other such obligations remain valid and enforceable in accordance with their terms and subject to all applicable terms and conditions of the laws and proceedings authorizing the bonds and all other such obligations. The governor shall designate an appropriate state agency to continue to carry out all covenants contained in the bonds and all other such obligations, and the proceedings authorizing them, including the issuance of bonds, and the performance of all other such obligations to complete the construction of projects or the performance of other such obligations. The designated state agency shall provide payment from the sources of payment of the bonds in accordance with the terms of the bonds and shall provide payment from the sources of payment from all other such obligations in accordance with their terms, whether from taxes, revenues, or otherwise, until the bonds and interest on the bonds are paid in full and are performed and paid in full. If the proceedings so provide, all funds established by law or proceedings authorizing the bonds or authorizing other such obligations shall remain with the state treasurer or previously designated trustees. If the proceedings do not provide that the funds remain with the state treasurer or previously designated trustees, the funds shall be transferred to the designated state agency.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.292 State agencies and officers to provide assistance to committee, when.
+
+1. The committee may request the assistance of state agencies and officers to assist in gathering information pursuant to the committee objective.
+2. In carrying out its functions pursuant to sections 23.250 to 23.298, the committee or its designated staff member may inspect the records, documents, and files of any state agency.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
+
+### 23.295 Office of workforce development to assist displaced employees.
+
+If an employee is displaced because a program is sunset, reorganized, or continued, the state agency and the office of workforce development in the department of higher education and workforce development shall make a reasonable effort to relocate the displaced employee.
+
+*Effective 8/28/2026 · (L. 2003 S.B. 299 & 40, A.L. 2026 S.B. 890)*
+
+### 23.298 Rights and duties not affected by sunsetting of programs.
+
+Except as otherwise expressly provided, sunset of a program does not affect the rights and duties that matured, penalties incurred or imposed, civil or criminal liabilities that arose, or proceedings initiated before the effective date of the sunset.
+
+*Effective 8/28/2003 · (L. 2003 S.B. 299 & 40)*
