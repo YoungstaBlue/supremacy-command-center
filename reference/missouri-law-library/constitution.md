@@ -1,0 +1,5145 @@
+# Missouri Constitution (1945, as amended)
+
+Source: https://claude.ai/artifact/VDHKvXbCV8VG68xufvh8vL (`data/constitution.json`). Verify against revisor.mo.gov before citing.
+
+## Article I — Bill of Rights
+
+### Section 1 Source of political power — origin, basis and aim of government.
+
+That all political power is vested in and derived from the people; that all government of right originates from the people, is founded upon their will only, and is instituted solely for the good of the whole.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 1.*
+
+### Section 2 Promotion of general welfare — natural rights of persons — equality under the law — purpose of government.
+
+That all constitutional government is intended to promote the general welfare of the people; that all persons have a natural right to life, liberty, the pursuit of happiness and the enjoyment of the gains of their own industry; that all persons are created equal and are entitled to equal rights and opportunity under the law; that to give security to these things is the principal office of government, and that when government does not confer this security, it fails in its chief design.
+
+> (1952) Equal protection provision does not require change of venue or right to disqualify judge in a criminal contempt case. Osborne v. Purdome (Mo.), 250 S.W.2d 159.
+
+> (1955) Section 556.285 which makes person convicted more than three times of larceny guilty of grand larceny on conviction of a subsequent larceny held valid against challenger based on the due process, equal protection and ex post facto provisions of the constitution. State v. King (Mo.), 275 S.W.2d 310.
+
+> (1960) Act providing for the licensing of persons engaging in the business of selling checks, drafts and money orders but excluding persons the major portion of whose business consisted of sale of merchandise, held to be arbitrary and a special law and therefore void under the federal and state constitutional provisions. Petit v. Field (Mo.), 341 S.W.2d 106.
+
+> (1962) Act prohibiting discriminatory practices in the sale of milk and prohibiting its sale at less than cost held not violative of the equal rights and due process provisions of the constitution. Borden Company v. Thomason (Mo.), 353 S.W.2d 735.
+
+> (1962) Statute dividing state into congressional districts upheld against charge that because of the unequal apportionment the influence of individual's vote was not equal to that of voters in other districts, thus depriving him of equal protection of laws. Preisler v. Hearnes (Mo.), 362 S.W.2d 552.
+
+> (1964) Sunday sales law upheld against charge that it was unconstitutional as being a special law, containing unreasonable, arbitrary and discriminatory classifications in violation of plaintiff's right to equal rights and opportunities under the law; and depriving plaintiffs of liberty and property without due process of law. GEM Stores Inc. v. O'Brien (Mo.), 374 S.W.2d 109.
+
+> (1964) Where taxable property lying within the boundaries of a county library district was incorporated by annexation into the boundaries of a city which had a tax supported free public library, held that the property was subject to the taxing power of both districts and such interpretation did not violate Article X, § 3, and Article I, §§ 2, 10, 26 and 28 of Missouri Constitution, St. Louis County Library District v. Hopkins (Mo.), 375 S.W.2d 71.
+
+> (1964) Picketing of funeral home which was in part for the purpose of preventing owners from personally doing any embalming in their own business was for an unlawful purpose. Baue v. Embalmers Federal Labor Union No. 21301 (Mo.), 376 S.W.2d 230.
+
+> (1964) Validity of city ordinance requiring licensing of television and radio servicemen upheld against charges that it violated due process and equal protection clauses of state and federal constitutions and the "special law" prohibition of the state constitution. McClellan v. Kansas City (Mo.), 379 S.W.2d 500.
+
+> (1964) Failure to furnish defendant in prosecution for first degree robbery with free depositions was not a violation of his constitutional rights. State v. Aubuchon (Mo.), 381 S.W.2d 807.
+
+> (1974) Held that classification of marijuana with more dangerous drugs is not violative of equal protection or due process. State v. Burrow (Mo.), 514 S.W.2d 585.
+
+> (1978) Provision that all persons shall have "the enjoyment of the gains of their own industry" does not prohibit inclusion of compulsory union membership provision in collective bargaining agreement. Independent Stave Company v. Higdon (Mo.), 572 S.W.2d 424.
+
+> (1990) Where retirement benefits from private nongovernmental employment were subject to income tax and retirement benefits from governmental employment was exempt, tax scheme did not violate principles of equal protection; the legislature's classification of governmental and nongovernmental employees' retirement benefits has a rational basis. Schnorbus v. Director of Revenue, 790 S.W.2d 241 (Mo. banc).
+
+> (1994) Section 36.150, RSMo, does not violate constitution, where state had legitimate interest in maintaining public confidence in impartial civil service by prohibiting merit employees from being candidates for any partisan political office. Asher v. Lombardi, 877 S.W.2d 628 (Mo. banc).
+
+> (2021) House Bill 1413 enacted in 2018 held to violate section guaranteeing equal protection; bill's exemption of public safety labor organizations lacked rational basis by treating similarly situated labor organizations differently. Missouri National Education Association v. Missouri Department of Labor and Industrial Relations, 623 S.W3d 585 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 4.*
+
+### Section 3 Powers of the people over internal affairs, constitution and form of government.
+
+That the people of this state have the inherent, sole and exclusive right to regulate the internal government and police thereof, and to alter and abolish their constitution and form of government whenever they may deem it necessary to their safety and happiness, provided such change be not repugnant to the Constitution of the United States.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 2.*
+
+### Section 4 Independence of Missouri — submission of certain amendments to Constitution of the United States.
+
+That Missouri is a free and independent state, subject only to the Constitution of the United States; that all proposed amendments to the Constitution of the United States qualifying or affecting the individual liberties of the people or which in any wise may impair the right of local self-government belonging to the people of this state, should be submitted to conventions of the people.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 3.*
+
+### Section 5 Religious freedom — liberty of conscience and belief — limitations — right to pray — academic religious freedoms and prayer.
+
+That all men and women have a natural and indefeasible right to worship Almighty God according to the dictates of their own consciences; that no human authority can control or interfere with the rights of conscience; that no person shall, on account of his or her religious persuasion or belief, be rendered ineligible to any public office or trust or profit in this state, be disqualified from testifying or serving as a juror, or be molested in his or her person or estate; that to secure a citizen's right to acknowledge Almighty God according to the dictates of his or her own conscience, neither the state nor any of its political subdivisions shall establish any official religion, nor shall a citizen's right to pray or express his or her religious beliefs be infringed; that the state shall not coerce any person to participate in any prayer or other religious activity, but shall ensure that any person shall have the right to pray individually or corporately in a private or public setting so long as such prayer does not result in disturbance of the peace or disruption of a public meeting or assembly; that citizens as well as elected officials and employees of the state of Missouri and its political subdivisions shall have the right to pray on government premises and public property so long as such prayers abide within the same parameters placed upon any other free speech under similar circumstances; that the General Assembly and the governing bodies of political subdivisions may extend to ministers, clergypersons, and other individuals the privilege to offer invocations or other prayers at meetings or sessions of the General Assembly or governing bodies; that students may express their beliefs about religion in written and oral assignments free from discrimination based on the religious content of their work; that no student shall be compelled to perform or participate in academic assignments or educational presentations that violate his or her religious beliefs; that the state shall ensure public school students their right to free exercise of religious expression without interference, as long as such prayer or other expression is private and voluntary, whether individually or corporately, and in a manner that is not disruptive and as long as such prayers or expressions abide within the same parameters placed upon any other free speech under similar circumstances; and, to emphasize the right to free exercise of religious expression, that all free public schools receiving state appropriations shall display, in a conspicuous and legible manner, the text of the Bill of Rights of the Constitution of the United States; but this section shall not be construed to expand the rights of prisoners in state or local custody beyond those afforded by the laws of the United States, excuse acts of licentiousness, nor to justify practices inconsistent with the good order, peace or safety of the state, or with the rights of others.
+
+> (1953) Evidence reviewed and held to establish that schools taught by nuns of religious order were not in fact free public schools and therefore not entitled to support from public funds. Berghorn v. Reorganized School Dist. No. 8, 364 Mo. 121, 260 S.W.2d 573.
+
+> (1973) Payment of taxes by parent who sends his children to religiously oriented schools does not interfere with his constitutional right to select such a school for his children. McDonough v. Aylward (Mo.), 500 S.W.2d 721.
+
+> (1976) Denial to members of a religious society of whom only one was a priest and the others were laymen who did not have the religious ministry as a primary and regular vocation, of an occupancy permit to occupy an existing residence as their home in an area zoned single family residential was not a denial of their constitutional rights under the freedom-of-worship and due process clauses of the Missouri Constitution. Association for Educational Development v. Hayward (Mo.), 533 S.W.2d 579.
+
+*06 Sep 2012 · Source: Const. of 1875, Art. II, § 5 (Amended August 7, 2012).*
+
+### Section 6 Practice and support of religion not compulsory — contracts therefor enforceable.
+
+That no person can be compelled to erect, support or attend any place or system of worship, or to maintain or support any priest, minister, preacher or teacher of any sect, church, creed or denomination of religion; but if any person shall voluntarily make a contract for any such object, he shall be held to the performance of the same.
+
+> (1974) Held, that portion of § 170.051 requiring public school boards to provide textbooks to teachers in private schools violates Art. I, § 6, of the const. of Mo. which prohibits the "support" of any "teacher of any sect". The provision requiring textbooks to be provided to pupils attending private schools violates Art. IX, § 8, of the const. of Mo. which prohibits payment from a public fund in aid of any religious creed, church or sectarian purpose. Paster v. Tussey (Mo.), 512 S.W.2d 97.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 6.*
+
+### Section 7 Public aid for religious purposes — preferences and discriminations on religious grounds.
+
+That no money shall ever be taken from the public treasury, directly or indirectly, in aid of any church, sect or denomination of religion, or in aid of any priest, preacher, minister or teacher thereof, as such; and that no preference shall be given to nor any discrimination made against any church, sect or creed of religion, or any form of religious faith or worship.
+
+> (1961) Where property acquired by land clearance for redevelopment authority of city was conveyed to university controlled by religious denomination pursuant to a plan adopted by the city in slum clearance project, and where the only bid received was from the university, there was no subsidy of religion from public funds in the absence of showing of fraud or arbitrary action. Kintzele v. City of St. Louis (Mo.), 347 S.W.2d 695.
+
+> (1973) The provisions of the state constitution not withstanding, educationally deprived children attending nonpublic schools are entitled to receive allocation of federal funds for programs of special services comparable in quality, scope and opportunity to children in public schools. Barrera v. Wheeler (CA Mo.), 475 F.2d 1338.
+
+> (1974) Held, that portion of § 170.051 requiring public school boards to provide textbooks to teachers in private schools violates Art. I, § 6, of the const. of Mo. which prohibits the "support" of any "teacher of any sect". The provision requiring textbooks to be provided to pupils attending private schools violates Art. IX, § 8, of the const. of Mo. which prohibits payment from a public fund in aid of any religious creed, church or sectarian purpose. Paster v. Tussey (M0.), 512 S.W.2d 97.
+
+> (1978) Held, that no judicial officer may determine child custody, based on approval or disapproval of the beliefs, doctrines or tenets of the religion of either parent or their interpretation thereof. Waits v. Waits (Mo.), 567 S.W.2d 326.
+
+> (2017) A Missouri department program that denied a government grant to a religious school solely because of its religious character, while providing grants to similarly situated nonreligious groups, violated the freedom of religion guaranteed by the Free Exercise Clause of the First Amendment to the United States Constitution. Trinity Lutheran Church of Columbia, Inc. v. Comer, 582 U.S. 449 (2017).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 7.*
+
+### Section 8 Freedom of speech — evidence of truth in defamation actions — province of jury.
+
+That no law shall be passed impairing the freedom of speech, no matter by what means communicated: that every person shall be free to say, write or publish, or otherwise communicate whatever he will on any subject, being responsible for all abuses of that liberty; and that in all suits and prosecutions for libel or slander the truth thereof may be given in evidence; and in suits and prosecutions for libel the jury, under the direction of the court, shall determine the law and the facts.
+
+> (1951) Where employees at election under federal law had rejected union as their representative, picketing of employer for purpose of coercing employer to recognize such union was unlawful and consequently not within protection of free speech provisions. Kincaid-Webber Motor Co. v. Quinn, 362 Mo. 375, 241 S.W.2d 886.
+
+> (1952) Picketing, for the purpose of coercing employer to sign contract recognizing as exclusive collective bargaining agent a labor organization of which only small minority of employees of such employer were members, was for an unlawful purpose under federal statute and therefore could be restrained without violating free speech guarantees of constitution. Katz Drug Co. v. Kavner (Mo.), 249 S.W.2d 166.
+
+> (1955) Petition in libel action is subject to motion to dismiss but the function of the court is limited to a determination of whether the alleged libelous matter set forth in petition is capable of defamatory meaning. Coots v. Payton, 365 Mo. 180, 280 S.W.2d 47.
+
+> (1955) Where evidence disclosed no reasonable objective of peaceful picketing other than to cause the employer to violate its employees' rights by coercing them into union membership it was unlawful and would be enjoined. Bellerive Country Club v. McVey, 365 Mo. 477, 284 S.W.2d 492.
+
+> (1956) Where one union was certified by federal authorities as bargaining representative of employees, another union, its officers and a newspaper publisher, who circulated pamphlets stating that members of the second union were not employed by the employer and urging the public not to purchase the employer's products for the purpose of preventing the sale of such products were engaging in an unlawful boycott and such circulation may be enjoined. Adams Dairy, Inc. v. Burke (Mo.), 293 S.W.2d 281.
+
+> (1961) City ordinance denouncing the offense of selling, attempting to sell, or possessing with the intent to sell, obscene literature held unconstitutional because it did not require proof of knowledge of the person so possessing or selling such matter as an element of the offense. City of St. Louis v. Williams (Mo.), 343 S.W.2d 16. Reversed, 367 U.S. 717, 81 S. Ct. 1708. (See also Mo. L. Rev., Vol. XXVI, p. 501 for note.)
+
+> (1964) It is proper for the court to instruct the jury to the general effect that even though the court has instructed them on the question of libel or no libel the constitution gives them the right to determine the law and the facts on that issue. Dyer v. Globe-Democrat Publishing Co. (Mo.), 378 S.W.2d 570.
+
+> (1969) Public employer could not lay off or reduce pay of municipal employees to intimidate them for joining labor organization. State ex rel. Missey v. City of Cabool (Mo.), 441 S.W.2d 35.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 14.*
+
+### Section 9 Rights of peaceable assembly and petition.
+
+That the people have the right peaceably to assemble for their common good, and to apply to those invested with the powers of government for redress of grievances by petition or remonstrance.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 29.*
+
+### Section 10 Due process of law.
+
+That no person shall be deprived of life, liberty or property without due process of law.
+
+> In General: (1951) Provisions of 1875 constitution requiring unanimous consent of stockholders for issuance of preferred stock did not create vested right in stockholder so that action of corporation created before adoption of corporation code in 1943 and before adoption of 1945 constitution, which accepted corporation code under § 351.025, in issuing preferred stock on vote of three-fourths of stockholders, was not violative of due process provisions of constitution. Midland Truck Lines v. Atwood, 362 Mo. 397, 241 S.W.2d 903.
+
+> In General: (1952) Consent of the state to be sued cannot be implied from this section. Kleban v. Morris, 363 Mo. 7, 247 S.W.2d 832.
+
+> In General: (1953) Earnings tax imposed by city of St. Louis under statutory authority held not violative of the due process and uniform tax provisions of the constitution. Walters v. City of St. Louis, 364 Mo. 56, 259 S.W.2d 377.
+
+> In General: (1953) Since constitutional guarantees of sections 10 and 22, Article I of the Constitution are for protection against governmental action, and not applicable to acts of individuals as between themselves, contention that labor union's action denied such rights to one of its members does not raise a constitutional question so as to give supreme court jurisdiction of cause. Junkins v. Local Union No. 6313, etc. (Mo.), 263 S.W.2d 337.
+
+> In General: (1954) Land Clearance for Redevelopment Law (RSMo, § 99.300 et seq.) does not contravene this provision of the Constitution. State on Inf. Dalton v. Land Clearance for Redev. Auth., 364 Mo. 974, 270 S.W.2d 44.
+
+> In General: (1957) The Uniform Support of Dependents' Law is not violative of the due process or retrospective law provisions of the constitution. Ivey v. Ayers (Mo.), 301 S.W.2d 790.
+
+> In General: (1958) Where on review court of appeals set aside suspension of real estate dealer's license for violation of specific statutory provisions but remanded case to commission for the assessment of penalty for violation of another provision, further notice and hearing were unnecessary before penalty was assessed either under due process requirement or under administrative procedure law. Dittmeier v. Missouri Real Estate Comm. (Mo.), 316 S.W.2d 1; Cert. den. 358 U.S. 941, 79 S.Ct. 347.
+
+> In General: (1958) Daughter adopted by testator's daughter in 1909 held to be entitled to share in distribution of remainder of trust estate to "lineal descendants" of testator under will executed in 1927 and where remainder vested in 1955 and such ruling did not render acts passed subsequent to testator's death and prior to vesting of remainder which qualified adopted daughter as lineal descendant violative of §§ 10 and 13 of Art. I of the Constitution. Commerce Trust Co. v. Weed (Mo.), 318 S.W.2d 289.
+
+> In General: (1959) Juvenile Code 1957 sustained against contention that it is so vague, indefinite and uncertain as to make unascertainable the standards of conduct required and is thereby violative of the due process provision of the constitution. Minor Children of F.B. v. Caruthers (A.), 323 S.W.2d 397.
+
+> In General: (1959) Exclusion of work done for levee and drainage districts from operation of Prevailing Wage Act held not unreasonable classification or special law. City of Joplin v. Industrial Comm. (Mo.), 329 S.W.2d 687.
+
+> In General: (1960) Where bridge over railroad right-of-way was constructed under agreement between land developer and railroad, then accepted as part of a county road and finally included within a city, the Public Service Commission could order its reconstruction and apportion the costs thereof between the railroad and city without taking property without due process. State ex rel. C.B. & Q. RR Co. v. Public Serv. Comm. (Mo.), 334 S.W.2d 54.
+
+> In General: (1960) Since liquor business does not stand on same plane as other commercial activities and is not lawful except as authorized by statute, statute which does not require a hearing before refusal to renew license for liquor business held valid. Pinzino v. Supervisor of Liquor Control (Mo.), 334 S.W.2d 20.
+
+> In General: (1961) Provision of use tax law exempting use of merchandise not readily obtainable in Missouri held void for indefiniteness and uncertainty. Missouri Pacific RR Co. v. Morris (Mo.), 345 S.W.2d 52.
+
+> In General: (1961) The striking of the defendant's pleadings in a divorce action because of his failure to pay alimony pendente lite and suit money held to be denial of due process of law. Richman v. Richman (Mo.), 350 S.W.2d 733.
+
+> In General: (1961) Ordinance adopted by county operating under a constitutional charter which required the fluoridation of the water supply to be used throughout the county held not violative of the fourteenth amendment to the United States Constitution or this due process provision. Readey v. St. Louis County Water Company (Mo.), 352 S.W.2d 622.
+
+> In General: (1962) City zoning ordinance adopted under §§ 89.010 to 89.140 held valid as against contention that it constituted an unwarranted delegation of legislative discretion to an administrative board without sufficient standards or guides. Porporis v. City of Warson Woods (Mo.), 352 S.W.2d 605.
+
+> In General: (1962) Ordinance of the City of St. Louis which required any real estate agent when placing a "For Sale" sign on any real estate to indicate on the sign the zoning area in which the property was located held valid. City of St. Louis v. Green (Mo.), 353 S.W.2d 606.
+
+> In General: (1962) Act prohibiting discriminatory practices in the sale of milk and prohibiting its sale at less than cost held not violative of the equal rights and due process provisions of the constitution. Borden Company v. Thomason (Mo.), 353 S.W.2d 735.
+
+> In General: (1963) Provision excepting "provisions or other articles of immediate necessity" from Sunday sales prohibition held to render the statute so vague and indefinite that it is incapable of rational enforcement and therefore void. Harvey v. Priest (Mo.), 366 S.W.2d 324.
+
+> In General: (1963) Proviso of § 155.050 providing for apportionment of assessed valuation of aircraft of airlines to city owning and operating an airport outside its corporate limits in which airlines had arrivals and departures, and city's attempted levy of tangible personal property taxes on such apportioned valuation were invalid and void as violation of due process clauses of state and federal constitutions. American Airlines, Inc. v. City of St.Louis (Mo.), 368 S.W.2d 161.
+
+> In General: (1963) Refusal to rezone vacant tract classified as residential to commercial was unreasonable and arbitrary and infringed plaintiff's rights under due process clause where maintenance of residential zoning bore no substantial relationship to public health, safety, morals or general welfare and where property was three times more valuable as commercial property and was not suited to residential development in view of adjacent commercial development and traffic conditions. Huttig v. City of Richmond Heights (Mo.), 372 S.W.2d 833.
+
+> In General: (1964) Sunday sales law upheld against charge that it was unconstitutional as being a special law, containing unreasonable, arbitrary and discriminatory classifications in violation of plantiffs' right to equal rights and opportunities under the law; and depriving plaintiffs of liberty of property without due process of law. GEM Stores, Inc. v. O'Brien (Mo.), 374 S.W.2d 109.
+
+> In General: (1964) Where taxable property lying within the boundaries of a county library district was incorporated by annexation into the boundaries of a city which had a tax supported free public library, held that the property was subject to the taxing power of both districts and such interpretation did not violate Article X, § 3, and Article I, §§ 2, 10, 26 and 28 of the Missouri Constitution. St. Louis County Library District v. Hopkins (Mo.), 375 S.W.2d 71.
+
+> In General: (1964) Picketing of funeral home which was in part for the purpose of preventing owners from personally doing any embalming in their own business was for an unlawful purpose. Baue v. Embalmers Federal Labor Union No. 21301 (Mo.), 376 S.W.2d 230.
+
+> In General: (1964) Constitutionality of Sunday Sales Act upheld against the charge that it is so vague and indefinite that citizens cannot ascertain or be informed of its meaning contrary to the due process provision of Art. I, § 10 of the Constitution, and in violation of the right of a person accused in a criminal proceeding to demand the nature and cause of the accusation against him as provided by Art. I, § 18(a) of the constitution. State ex rel. Eagleton v. McQueen (Mo.), 378 S.W.2d 449.
+
+> In General: (1964) Supreme Court did not have jurisdiction of appeal from Public Service Commission's order directing railroad to cancel tariff item on theory of issue requiring construction of due process clause of constitution where actual question was whether or not the commission exceeded its statutory authority. State ex rel. Missouri-Kansas-Texas Railroad Company v. Public Service Commission (Mo.), 378 S.W.2d 459.
+
+> In General: (1964) Validity of city ordinance requiring licensing of television and radio servicemen upheld against charges that it violated due process and equal protection clauses of state and federal constitutions and the "special law" prohibition of the state constitution. McClellan v. Kansas City (Mo.), 379 S.W.2d 500.
+
+> In General: (1966) Fact that same agency, State Board of Registration for Healing Arts, both prosecuted and decided the case does not by itself deprive appellant of right of due process of law. Rose v. State Board of Registration for Healing Arts (Mo.), 397 S.W.2d 570.
+
+> In General: (1966) When the legislative body of a city chooses to delegate to itself the discretionary power to enforce its special permit regulation, it acts administratively in passing on applications for such permits and is thus enforcing the legislation previously enacted; and such discretion must be circumscribed by sufficient standards to require it to be reasonably, not arbitrarily, exercised. State v. City of Winchester (Mo.), 400 S.W.2d 47.
+
+> In General: (1972) City ordinance which prohibited minors, with certain exceptions, entering premises where liquor was sold by the drink except those premises where sales of prepared meals and food totalled 50% of the gross income during the three calendar months upheld against charge that it was unconstitutional in that it unreasonably classified licensed establishments on a basis that had no relation to any evil sought to be controlled. Waldrop v. Burge (Mo.), 476 S.W.2d 537.
+
+> In General: (1972) The right of a party-litigant to depose witnesses is an absolute right and act of trial court in divorce action in quashing defendant's deposition subpoenas because he was delinquent in paying pendente lite allowances was error as it deprived him of that right and substantially limited the range of his defense. Norkunas v. Norkunas (A.), 480 S.W.2d 92.
+
+> In General: (1973) Ordinance making registered owner liable for improper parking of vehicle does not result in failure of due process. City of Kansas City v. Herty Corp. (Mo.), 499 S.W.2d 449.
+
+> In General: (1974) Held that classification of marijuana with more dangerous drugs is not violative of equal protection or due process. State v. Burrow (Mo.), 514 S.W.2d 585.
+
+> In General: (1976) Delay between commission of the offense of carrying a concealed weapon and defendant's arrest thereon or filing of information did not abridge defendant's right to speedy trial, nor did it violate his right of due process since no prejudice was demonstrated by the delay. State v. Odzark (A.), 532 S.W.2d 45.
+
+> In General: (1976) Issuance of a repossessed title by director of revenue pursuant to § 301.215, to secured creditor who had repossessed automobile by self help under power granted in security agreement did not constitute significant participation by state such as to come within legal definition of "state action", thus due process was not involved and statute was not unconstitutional. Smith v. Spradling (Mo.), 532 S.W.2d 202.
+
+> In General: (1976) Denial to members of a religious society of whom only one was a priest and the others were laymen who did not have the religious ministry as a primary and regular vocation, of an occupancy permit to occupy an existing residence as their home in an area zoned single family residential was not a denial of their constitutional rights under the freedom-of-worship and due process clauses of the Missouri Constitution. Association for Educational Development v. Hayward (Mo.), 533 S.W.2d 579.
+
+> In General: (2001) Statute of limitations in real property inverse condemnation cases cannot be shorter than that required for entity with power of eminent domain to obtain a prescriptive easement on the property, which is ten years. Shade v. Missouri Highway and Transportation Commission, 69 S.W.3d 503 (Mo.App. W.D.).
+
+> Police Power: (1952) Zoning ordinance prohibiting construction of residences on tracts of not less than three acres and forbidding institutional use except by special permit, where same is necessary to conform to general zoning plan, is not invalid. Flora Realty & Inv. Co. v. City of Ladue, 362 Mo. 1025, 246 S.W.2d 771.
+
+> Police Power: (1952) Procedure under § 375.560 taking over insurance company by superintendent because of cessation of business held not violative of due process provision of constitution. Leggett v. Gen. Indem. Exch., 363 Mo. 273, 250 S.W.2d 710.
+
+> Police Power: (1954) Order of state Public Service Commission that railroad company contribute to installation of and maintain flashing light signal at grade crossing found hazardous by such commission does not deprive company of property without due process. State ex rel. Wabash Railroad Co. v. Public Service Comm. (Mo.), 273 S.W.2d 334.
+
+> Police Power: (1957) City ordinance prohibiting sale of intoxicating liquors by wholesaler when retailer was delinquent in his accounts to any wholesaler held not violative of due process. Passler v. Johnson (Mo.), 304 S.W.2d 903.
+
+> Police Power: (1958) Contention that statute providing for apportionment of costs of construction, maintenance and operation of crossing was violative of the due process clauses of the state and federal constitution held without merit. State ex rel. State Highway Comm. v. Conrad (Mo.), 310 S.W.2d 871.
+
+> Police Power: (1958) Zoning of area as local business district and restricting use of owner's property as supper club was not violation of this section as classification was reasonable when considered as part of comprehensive zoning plan of the city and when, in the district itself, there were thirty-five residences and only three or four nonconforming uses. Downing v. City of Joplin (Mo.), 312 S.W.2d 81.
+
+> Police Power: (1959) City ordinance regulating the installation and repair of warm air furnaces held not to leave board with uncontrolled discretion as to licensing or to deny due process. Ross v. City of Kansas City (Mo.), 328 S.W.2d 610.
+
+> Notice: (1954) Act authorizing hospitalization of mentally ill person (Laws 1953, p. 647) on application of third person and certification of two physicians and also authorizing officer to take such person into custody and to deliver him to hospital without notice and opportunity to be heard denies due process. State ex rel. Fuller v. Mullinax, 364 Mo. 858, 269 S.W.2d 72.
+
+> Notice: (1954) Insofar as paragraph 3 of § 537.020 provides for proceedings against personal representative of deceased nonresident without adequate notice to him it denies due process. Harris v. Bates (Mo.), 270 S.W.2d 763.
+
+> Notice: (1957) Service of process by publication in class proceedings to escheat unclaimed excess insurance premiums in registry of court met statutory requirements and did not violate due process by not specifically advising defendants to file answer. State v. Goodbar (Mo.), 297 S.W.2d 525.
+
+> Notice: (1957) Where after a number of continuance cases was peremptorily set for trial on specified date, and plaintiff's attorney withdrew before that date, due process required that other attorneys could appear for plaintiff on the date peremptorily set without agreeing to immediate trial. Dismissal for failure to prosecute in such circumstances held improper. Magerstadt v. LaForge (Mo.), 303 S.W.2d 130.
+
+> Notice: (1958) The provision of § 506.210 authorizing service upon the executor or administrator of a deceased nonresident does not violate the due process provisions of the state or federal constitutions. Brooks v. National Bank of Topeka, 251 F.2d 37.
+
+> Notice: (1958) Section 506.210, amended in 1955, held not violative of due process provisions in conferring jurisdiction on Missouri courts over administrators and executors of estates of nonresidents. State ex rel. Sullivan v. Cross (Mo.), 314 S.W.2d 889.
+
+> Notice: (1979) Notice of foreclosure authorized by municipal land reutilization law through publication, and a letter to last known property owner of record is not violative of due process. Collector of Revenue of the City of St. Louis v. Parcels of Land Encumbered with Delinquent Tax Liens (Mo.), 585 S.W.2d 486.
+
+> Judicial Proceedings: (1956) Prohibition in the Supreme Court is governed by the general law on the subject rather than by the civil code. Where writ was directed to judge of multiple judge circuit who made order which would result in excess of jurisdiction it bound all judges of such circuit and afforded due process. State ex rel. Siegel v. Strother, 365 Mo. 861, 289 S.W.2d 73.
+
+> Judicial Proceedings: (1959) Where attorney who was retained by defendant in criminal case subsequently became prosecuting attorney, and as such opposed continuance of case sought by defendant and prepared instructions in case tried by assistant, the conviction of defendant would be set aside as prejudicial. State v. Burns (Mo.), 322 S.W.2d 736.
+
+> Judicial Proceedings: (1952) Due process does not require change of venue or right to disqualify judge in a criminal contempt case. Osborne v. Purdome (Mo.), 250 S.W.2d 159.
+
+> Judicial Proceedings: (1953) Where defendant of low-level intelligence confessed guilt under circumstances indicating that confession was coerced by inspired fear, a promise of protection and daily interrogation over long period of detention, use of confession in his trial was violative of due process clause of constitution. State v. Bradford (Mo.), 262 S.W.2d 584.
+
+> Judicial Proceedings: (1955) Section 556.285, which makes person convicted more than three times of larceny guilty of grand larceny on conviction of a subsequent larceny held valid against challenger based on the due process, equal protection and ex post facto provisions of the constitution. State v. King (Mo.), 275 S.W.2d 310.
+
+> Judicial Proceedings: (1955) Supreme Court Rule No. 27.26 is similar to § 2255, 28 U.S.C.A., and, in accordance with judicial construction of that section, a motion alleging that individual was convicted by perjured testimony knowingly procured by the prosecution, stated facts showing denial of due process and, therefore, sufficient to require hearing. State v. Eaton (Mo.), 280 S.W.2d 63.
+
+> Judicial Proceedings: (1960) In prosecution for rape where defendant entered into an agreement approved by the court by which he was to be relieved of being tried on two other rape charges by accepting the decision of his counsel not to appeal from his conviction on the charge tried, he had no valid claim of lack of due process or equal protection of the laws. State v. Johnson (Mo.), 336 S.W.2d 668.
+
+> Judicial Proceedings: (1961) Where search warrants for obscene matter were in the language of the statute, specified no publications and left to the individual judgment of the police officer the selection of what he regarded as obscene publications, they failed to provide due process and were invalid. Marcus v. Search Warrants of Property, etc., 367 U.S. 717, 81 S.Ct. 1708.
+
+> Judicial Proceedings: (1964) Failure to furnish defendant in prosecution for first degree robbery with free depositions was not a violation of his constitutional rights. State v. Aubuchon (Mo.), 381 S.W.2d 807.
+
+> Judicial Proceedings: (1964) Refusal by court to require production of police report and statement made to warrant officer by police officer was not abuse of discretion and violation of defendant's constitutional rights where there was no showing that report or statement was of such nature that without it defendant's trial would be fundamentally unfair. State v. Aubuchon (Mo.), 381 S.W.2d 807.
+
+> Judicial Proceedings: (1964) Failure to appoint counsel to represent defendant at preliminary examination where he pleaded not guilty held not to deprive him of due process of law nor equal protection of the law. State v. Phelps (Mo.), 384 S.W.2d 616.
+
+> Judicial Proceedings: (1966) As there is no constitutional requirement that there be a transcript of the testimony in a preliminary hearing, nor even a constitutional requirement that a preliminary hearing be held, defendant had no constitutional right to have a transcript of preliminary hearing. State v. Maxwell (Mo.), 400 S.W.2d 156.
+
+> Judicial Proceedings: (1966) Defendant in criminal case has no constitutional right to examine the police record, if any, of complaining witness. State v. Maxwell (Mo.), 400 S.W.2d 156.
+
+> Judicial Proceedings: (1967) Court's compelling defendant of limited education to go on trial for felony without counsel immediately upon the withdrawal without notice of his employed counsel resulted in a denial of due process of law. State v. Martin (Mo.), 411 S.W.2d 215.
+
+> Judicial Proceedings: (1967) If one confession statement or admission is simply part of one continuous process in which several confessions are obtained, all are invalid. State v. Linder (Mo.), 412 S.W.2d 412.
+
+> Judicial Proceedings: (1971) Where police station identification, following warning, occurred within 45 minutes after purse snatching and on-scene identification, following warning, and nothing took place at police station that had not already occurred at on-scene identification, the in-court identification could not be found to have been tainted by illegal extrajudicial identification at police station. State v. Grayson (Mo.), 467 S.W.2d 891.
+
+> Judicial Proceedings: (1972) There was no denial of due process based on alleged unfairness of one-to-one confrontation between accused and identifying witness shortly after commission of crime where identification was not used at trial; nor was there denial of due process based on police station lineups without the suspect being informed that their purpose was possible identification or that he was entitled to have counsel present or without obtaining a waiver of his right to counsel when lineups occurred shortly after crime and long before information was filed. Robinson v. State (Mo.), 482 S.W.2d 492.
+
+> Judicial Proceedings: (1973) Defendant denied due process when sole prosecution witness had answered in effect that he had received no inducement to testify when in fact murder charge against him had been dismissed immediately prior to trial. State v. McClain (Mo.), 498 S.W.2d 798.
+
+> Regulation: (1967) The Public Service Commission is without power to order a telephone company to provide services in an area in which it has not offered, proffered or undertaken to provide service because such compulsion would be tantamount to an appropriation of the telephone company's property to a public service to which it has not dedicated such property, a taking of private property for public use without just compensation. State v. Public Service Commission (Mo.), 416 S.W.2d 109.
+
+> Regulation: (1967) Attempt by public service commission to order a telephone company to provide services in an area which it has not offered, proffered or undertaken to serve is tantamount to an appropriation of private property for public use without just compensation. State v. Public Service Commission (Mo.), 416 S.W.2d 109.
+
+> Personal Rights: (1968) Held that use of jury forms with variance in type, size, and style for guilty form and not guilty form did not constitute a comment on the evidence or a denial of due process or equal protection. State v. Dennison (Mo.), 428 S.W.2d 573.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 30.
+Criminal Prosecutions*
+
+### Section 11 Imprisonment for debt.
+
+That no person shall be imprisoned for debt, except for nonpayment of fines and penalties imposed by law.
+
+> (1951) Section 462.430, authorizing attachment for contempt for failure to surrender assets to estate, held not unconstitutional as against contention it authorizes imprisonment for debt. Zeitinger v. Mitchell (Mo.), 244 S.W.2d 91.
+
+> (1976) Held that imprisonment for contempt is proper remedy for failure to comply with court order for maintenance and child support when person disobeying order has intentionally placed himself in a position which made compliance impossible. State ex rel. Stanhope v. Pratt overruling Coughlin v. Ehlert, 39 Mo. 285 (1866). State ex rel. Stanhope v. Pratt (Mo.), 533 S.W.2d 567.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 16.*
+
+### Section 12 Habeas corpus.
+
+That the privilege of the writ of habeas corpus shall never be suspended.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 26.*
+
+### Section 13 Ex post facto laws — impairment of contracts — irrevocable privileges.
+
+That no ex post facto law, nor law impairing the obligation of contracts, or retrospective in its operation, or making any irrevocable grant of special privileges or immunities, can be enacted.
+
+> (1953) Relation between Public School Retirement System of St. Louis and its members is contractual and § 169.515 of 1953 Act (H.B. 164) which required transfer of certain funds thereof to special fund to be used in making contributions to Federal Old Age and Survivors Insurance System for certain members thereof, held invalid as impairing the obligations of contract. Dictum: Section 169.510 of 1953 Act also void for same reason. State ex rel. Phillip v. Public School Retirement System, 364 Mo. 395, 262 S.W.2d 569.
+
+> (1955) Section 556.285 which makes person convicted more than three times of larceny guilty of grand larceny on conviction of a subsequent larceny held valid against challenge based on the due process, equal protection and ex post facto provisions of the constitution. State v. King (Mo.), 275 S.W.2d 310.
+
+> (1956) Where attorney's contract with insurance superintendent contemplated his payment out of funds recovered by litigation contrary to statute for payment of such compensation, a statute authorizing escheat of such recovered funds was, therefore, not violative of obligation of contract. Jacobs v. Leggett (Mo.), 295 S.W.2d 825.
+
+> (1956) Provision authorizing pledge of on-street parking meter receipts for payment of revenue bonds issued to enable city to acquire off-street parking facilities held constitutional. Petition of City of Liberty (Mo.), 296 S.W.2d 117.
+
+> (1958) Where definition of "habitual violator of traffic laws" authorizing suspension of driver's license was changed so as to include one convicted four times in two years rather than those convicted five times in one year, it applied to one convicted three times before the change was made and one time thereafter, and was not retrospective in violation of the constitution. Barbieri v. Morris (Mo.), 315 S.W.2d 711.
+
+> (1958) Daughter adopted by testator's daughter in 1909 held to be entitled to share in distribution of remainder of trust estate to "lineal descendants" of testator under will executed in 1927 and where remainder which qualified adopted daughter as lineal descendant violative of § 10 and 13 of Art. I of the Constitution. Commerce Trust Co. v. Weed (Mo.), 318 S.W.2d 289.
+
+> (1960) Provision of 1959 act authorizing the judge of the court to fix the punishment rather than a jury, upon establishment of prior offenses, held not to violate provision of Constitution prohibiting ex post facto laws. State v. Morton (Mo.), 338 S.W.2d 858.
+
+> (1961) The rule of immunity of charities from suits for torts held not to be an irrevocable grant of special privileges or immunities for the reason that the grant of privileges prohibited are those granted to individuals and not to charities as a class. Schulte v. Missionaries of LaSalette Corp. of Mo. (Mo.), 352 S.W.2d 636.
+
+> (1961) Fact that habitual criminal act was amended in 1959 would not make it inapplicable to an act committed prior to the effective date of that act or make it an ex post facto law within the meaning of the constitution. State v. Donnell (Mo.), 351 S.W.2d 775.
+
+> (1962) Increase of benefits to previously retired members of State Employees Retirement System held void as an impairment of contract as to members not yet retired and as being retrospective as it affects retired members. State v. Missouri State Employees Retirement System (Mo.), 362 S.W.2d 571.
+
+> (1971) Mandamus lay, under subsection 3 of § 206.120, to compel county court judges to dissolve a hospital district established in 1963 where no successful election on proposition to borrow money for any purpose had been conducted in the district within five years from its establishment although action was begun less than five years after the effective date of subsection 3 of § 206.120. State ex rel. Meyer v. Cobb (Mo.), 467 S.W.2d 854.
+
+> (1986) Application of §§ 610.100 to 610.120, RSMo, to records kept before September 28, 1973, does not violate ban on ex post facto or retroactive law. Martin v. Schmalz, 713 S.W.2d 22 (Mo.App. 1986).
+
+> (1993) Expiration of statutes of limitation for tort actions created vested right in favor of defendants to be free from suit; therefore, to extent that § 537.046, RSMo, authorizes causes of action that would have been barred under statutes of limitation in effect prior to effective date of § 537.600, RSMo, statute contravenes constitutional prohibition against retrospective laws. Doe v. Roman Catholic Diocese, 862 S.W.2d 338 (Mo. en banc).
+
+> (2013) Constitutional prohibition against enacting a law retrospective in its operation applies only to laws affecting civil rights and remedies and does not apply to criminal statutes. State v. Honeycutt, 421 S.W.3d 410 (Mo.banc).
+
+> (2023) City's passage of ordinance which had effect of immediately extinguishing taxpayer's preexisting right to seek an earnings tax refund, in the absence of a reasonable opportunity to file refund request after effective date of new ordinance, violated bar against retroactive legislation. Huebert v. City of Kansas City, 666 S.W.3d 289 (Mo.App.W.D).
+
+*27 Feb 1945 · Source: Const. of 1875, Art II, § 15.*
+
+### Section 14 Open courts — certain remedies — justice without sale, denial or delay.
+
+That the courts of justice shall be open to every person, and certain remedy afforded for every injury to person, property or character, and that right and justice shall be administered without sale, denial or delay.
+
+> (1954) This section is not applicable to authorize action against charitable institution for tort of its servant even though liability insurance is carried by the institution. Kreuger v. Schmiechen, 364 Mo. 568, 264 S.W.2d 311.
+
+> (1956) Where service of summons was had in the state on president of defendant, a foreign corporation which was not doing business in this state, the court had no right to assume jurisdiction over the defendant, and the constitutional provision had no application. Collar v. Peninsular Gas Co. (Mo.), 295 S.W.2d 88.
+
+> (1958) Validity of doctrine of forum non conveniens discussed and held not to apply to tort action brought by resident of Wyandotte County, Kansas, against resident of Johnson County, Kansas, in Kansas City, Missouri, since there was no clear showing of inconvenience of forum nor that the ends of justice required it. Loftus v. Lee (Mo.), 308 S.W.2d 654.
+
+> (1964) Failure to furnish defendant in prosecution for first degree robbery with free depositions was not a violation of his constitutional rights. State v. Aubuchon (Mo.), 381 S.W.2d 807.
+
+> (1964) Failure to appoint counsel to represent defendant at preliminary examination where he pleaded not guilty held not to deprive him of due process of law nor equal protection of the law. State v. Phelps (Mo.), 384 S.W.2d 616.
+
+> (1979) Held, chapter 538 violates Art. I, § 14 of the constitution of Missouri and must be held invalid for that reason. State ex rel. Cardinal Glennon Memorial Hospital for Children v. Gaertner (Mo.), 583 S.W.2d 107.
+
+> (1993) Criminal prosecution for statements made in civil pleading does not violate constitution. Right of access to courts does not include right to make death threats in pleadings. Alexander v. State, 864 S.W.2d 354 (Mo. App. W.D.).
+
+> (2000) Provisions of Missouri's dram shop law (section 537.053, RSMo) that impose liability only upon conviction of sale of liquor to a person under age or to an obviously intoxicated person are an unconstitutional violation of the state's open courts provision, because access to the courts is conditioned upon a prosecutor's decision to bring the case. Kilmer v. Mun, 17 S.W.3d 545 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II § 10.*
+
+### Section 15 Unreasonable search and seizure prohibited — contents and basis of warrants.
+
+That the people shall be secure in their persons, papers, homes, effects, and electronic communications and data, from unreasonable searches and seizures; and no warrant to search any place, or seize any person or thing, or access electronic data or communication, shall issue without describing the place to be searched, or the person or thing to be seized, or the data or communication to be accessed, as nearly as may be; nor without probable cause, supported by written oath or affirmation.
+
+> (1951) Application for and acceptance of license as transporter of intoxicating liquor under § 311.420 constitutes waiver of right to object to inspection of cargo by enforcement officers. State v. Ward, 361 Mo. 1236, 239 S.W.2d 313.
+
+> (1952) Where there was no evidence that defendants had committed crime, that officers had any suspicion that they had committed felony nor that officers had warrants for arrest of defendants, their arrest was illegal and subsequent search of defendant's automobile in which two guns were found was an unreasonable search and seizure prohibited by § 15, Art. I of the constitution. State v. Cuezze (Mo.), 249 S.W.2d 373.
+
+> (1952) Whether relevant and competent evidence was obtained by unlawful search or seizure will not be determined unless defendant previously moved for suppression of such evidence or possibly where he was surprised by its introduction. State v. O'Brien (Mo.), 252 S.W.2d 357.
+
+> (1953) Where incriminating letter which was strongly corroborative of state witness' testimony was found in unlawful search of appellant's house its admission in evidence over objection and after motion to suppress held error and not harmless as merely cumulative. State v. Clark (Mo.), 259 S.W.2d 813.
+
+> (1953) If party to action for forfeiture does not establish that he is the owner of or has an interest in seized whiskey he cannot question the legality of the search and seizure. State v. Rodgers, 364 Mo. 247, S.W.2d 736.
+
+> (1953) Subpoena issued by court at request of prosecuting attorney, requiring production of records before grand jury and returnable at time grand jury was not in session and at time when matters affected by such records were not under grand jury investigation, was void both under the statutes and constitution of this state. State ex rel. Burke v. Scott, 364 Mo. 420, 263 S.W.2d 614.
+
+> (1954) Where police officers heard shots and saw defendant place unidentified object in his pocket and then flee, their search of him after overtaking him and finding loaded revolver from which one shot had been fired in his pocket was not unreasonable. State v. Charles (Mo.), 268 S.W.2d 830.
+
+> (1954) Where defendant in prosecution for illegal sale of liquor failed to object to introduction of whiskey in evidence on grounds of unlawful search and seizure, the objection was waived even though motion to suppress the whiskey had been filed and overruled. State v. Egan (A.), 272 S.W.2d 719.
+
+> (1954) Where customer placed groceries and illegally purchased whiskey in his car which was parked on driveway of grocery store, a search of his car cannot be objected to by store owner on prosecution for illegal sale of liquor. State v. Egan (A.), 272 S.W.2d 719.
+
+> (1955) Where police watched house for half hour, saw persons enter a room therein and through tear in window shade saw defendant and others with policy book and other paraphernalia and when defendant and another were arrested policy result drawings were taken from him, search and seizure not violative of constitutional provisions as to search and seizure or as to self-incrimination. State v. Hardy (Mo.), 276 S.W.2d 90.
+
+> (1955) Where defendant voluntarily testifying, admitted possession of stolen property, she could not complain of prior denial of motion to suppress evidence and admission of evidence obtained by allegedly illegal search. State v. Bray (A.), 278 S.W.2d 49.
+
+> (1955) Testimony of witnesses who accompanied police officers on unlawful search and testimony of others identifying articles seized in such search held inadmissible in prosecution for receiving stolen property. State v. Hunt (Mo.), 280 S.W.2d 37.
+
+> (1955) Where highway patrol officer stopped car because lighted firecrackers were being thrown from windows, and observed suspicious merchandise in the car, there was no search. State v. Harre (Mo.), 280 S.W.2d 41.
+
+> (1956) Police officers, dispatched to investigate report that burglar alarm in store building was sounding, arrested individuals in truck which was being operated at high speed at night and which turned on its lights on approaching city limits. Arrest of operator held lawful and search of vehicle held proper. State v. Brown (Mo.), 291 S.W.2d 615.
+
+> (1956) Where person in control of automobile consented to its search, a passenger in the automobile who was arrested with such person could not object to a search of the auto or of wardrobe bag found in the auto. State v. Green (Mo.), 292 S.W.2d 283.
+
+> (1958) Where officer was authorized to arrest a person on suspicion after seeing loaded rifle in back seat of car, a search of the car was lawful and stolen property therein found held admissible. State v. Cantrell (Mo.), 310 S.W.2d 866.
+
+> (1958) In prosecution for narcotic violation, on motion to suppress evidence on ground evidence was obtained by unlawful arrest and search, trial court had discretion to require or not to require arresting officer to disclose name of person who gave him information on which arrest was based. State v. Edwards (Mo.), 317 S.W.2d 441.
+
+> (1960) Where policeman had stopped car and arrested driver for running red light and through window saw rifles and guns partially covered with blankets and noticed rear end of automobile sagging and asked driver to unlock trunk disclosing merchandise, there was no unreasonable search and seizure and such items were admissible in evidence in burglary prosecution. State v. Mallory (Mo.), 336 S.W.2d 383; Cert. den. 364 U.S. 852, 81 S.Ct. 99, 5 L.Ed.2d 75.
+
+> (1960) Where defendant was issued a certificate of occupancy by the department of public safety of the city for occupancy of property to be used as a rooming house and where the defendant applied for permit to operate a rooming house and was actually operating a rooming house, his refusal to permit the inspection of the premises by city inspector constituted resisting officers. The ordinance authorizing the inspection did not constitute unreasonable search and seizure nor did it require self-incrimination. City of St. Louis v. Evans (Mo.), 337 S.W.2d 948.
+
+> (1961) Where police and firemen lawfully entered building after fire, their search of the premises was lawful and not unreasonable. State v. Cohn (Mo.), 347 S.W.2d 691.
+
+> (1961) Accused could not complain of alleged unlawful search of vehicle which was owned by his codefendant. State v. Martin (Mo.), 347 S.W.2d 680.
+
+> (1962) Neither the federal nor state constitution nor any of our statutes requires the magistrate to appoint counsel for the accused in a preliminary examination and accordingly the failure of the record to show such appointment is not ground for setting aside a subsequent conviction based upon an information in the circuit court during the trial of which appellant had counsel. State v. Turner (Mo.), 353 S.W.2d 602.
+
+> (1962) Where officer late at night arrested individual for speeding and driving without lights and upon such arrest discovered a metal cash box containing checks payable to an insurance company in the car it was not unlawful thereafter for the officer to search the trunk of the car where he found certain adding machines and calculating machines stolen from an insurance company. State v. Camper (Mo.), 353 S.W.2d 676.
+
+> (1962) Where the defendant on trial for the sale of narcotics testified on direct examination that after he was arrested the contents of his stomach were removed and also that the police officers kept the contents and checked it, it was not error for the court to permit the prosecution then to show the results of the check which was to the effect that heroin was found in the defendant's stomach. State v. Odom (Mo.), 353 S.W.2d 708.
+
+> (1962) Evidence sufficient to establish that officers had, prior to arrest of defendant, reasonable cause to suspect defendant was guilty of first degree robbery by means of dangerous and deadly weapon and search of closet opening off room in residence where defendant was arrested was reasonable. State v. Redding (Mo.), 357 S.W.2d 103.
+
+> (1962) Policeman who heard burglar alarm go off in dry goods store about 8:00 p.m. and found front door locked and defendant standing inside framework of open rear door had reasonable ground to believe defendant had committed or attempted to commit a felony. Arrest and search of defendant's person was lawful and apparatus for use of narcotic drugs found on defendant were properly admitted in prosecution for possession of apparatus for unauthorized use of narcotic drugs. State v. Davenport (Mo.), 360 S.W.2d 710.
+
+> (1963) Where officers returned the day following defendant's arrest to search the premises a second time, the second search was not an incident of the arrest and was illegal and admission of defendant's shirt, seized during second search, over defendant's objection was reversible error. State v. Sprout (Mo.), 365 S.W.2d 572.
+
+> (1964) Defendant's constitutional rights were not violated by seizure by police of articles lying on dresser in plain sight in motel room where officers obtained key from person in charge of motel, defendant was in flight at the time and there was no showing or contention that motel room was defendant's abode. State v. Enberg (Mo.), 377 S.W.2d 282.
+
+> (1964) Search of defendant's automobile without warrant after it was taken to the police department garage following defendant's arrest in motel was too remote in time or place to have been made as incidental to arrest and evidence obtained as result of search was inadmissible. State v. Edmondson (Mo.), 379 S.W.2d 486.
+
+> (1964) Evidence obtained from search of premises where defendant's mother resided was properly admitted since constitutional guarantee is a personal one and affords no protection from search to a person who is not the owner of or in possession of the premises and where defendant was not present at time search was made. State v. Anderson (Mo.), 384 S.W.2d 591.
+
+> (1967) Where defendant was arrested at scene of accident for driving while intoxicated and taken to police station, search made an hour and a half later at police headquarters was incident to arrest and was not unreasonable. State v. Darabcsek (Mo.), 412 S.W.2d 97.
+
+> (1968) Search warrant describing premises to be searched as 310 North Hocker was defective when premises actually searched were at 314 North Hocker. Front yard of premises was within "curtilage" and even though evidence seized was in plain sight it was still subject to suppression in view of improper search warrant. State v. Buchanan (Mo.), 432 S.W.2d 342.
+
+> (1971) Where defendant had entered plea of guilty to charge of operating vehicle without consent of owner, contention of defendant in proceeding under court rule 27.26 that trial court should have set aside conviction because based upon unlawful arrest, illegal search, and a confession obtained without presence of counsel was properly overruled since no contention was made that alleged preliminary defects induced the plea of guilty and voluntary plea of guilty precluded relief on such grounds. Rew v. State (Mo.), 472 S.W.2d 611.
+
+> (1971) Search of farmhouse kitchen not unreasonable when upon arrest of appellant and other boys present they were lined up against kitchen wall, personally searched, then a search of the kitchen only was conducted. Items received in evidence were found in the kitchen where they were either in plain view or on appellant's person, and officers had seen one of the boys throw something behind stove so it was reasonable to move stove to discover evidence. State v. Erwin (Mo.), 473 S.W.2d 394.
+
+> (1972) Admissions contained in letter written while defendant was in jail awaiting trial were not obtained by unconstitutional search because defendant knew his letters would be read by jailers prior to mailing under jail security regulations. State v. Johnson (Mo.), 476 S.W.2d 516.
+
+> (1972) Where officer was on his way to burglary and stopped to look in car parked in vicinity and was later informed by radio that items of general description of those he saw in plain sight through car window were taken in the burglary and burglars had not been apprehended, officer had probable cause to search car without search warrant. State v. Brown (Mo.), 476 S.W.2d 519.
+
+> (1972) State was not obligated to hold a lineup prior to preliminary hearing and fact that eye witnesses to robbery saw defendant when they appeared at preliminary hearing which defendant waived was not so unnecessarily suggestive and conducive to irreparable mistaken identification that his motion to suppress their in-court identification should have been sustained. State v. Hazelhorst (Mo.), 476 S.W.2d 543.
+
+> (1972) Where officer while shining flashlight on sticker on windshield of car to obtain city license number for citation for illegal parking saw hand-rolled cigarette on front seat of car which he believed to contain marijuana and arrested defendant for possession thereof, search of vehicle and defendant, who was standing outside of car, subsequent to arrest and seizure of marijuana revealed thereby was legal. State v. Hawkins (Mo.), 482 S.W.2d 477.
+
+> (1974) Held seizure of marijuana was unreasonable search and seizure. See this case for in depth discussion of "search and seizure". Kansas City v. Butters (A.), 507 S.W.2d 49.
+
+> (1974) For discussion of law of search and seizure as related to automobiles, see State v. Achter (A.), 512 S.W.2d 894.
+
+> (1975) Where allegedly obscene film is being shown in a commercial theater the risk of loss of evidence is not so great so as to authorize seizure without procuring a warrant based on prior judicial determination of probable cause. State v. McMillan (Mo.), 520 S.W.2d 26.
+
+> (1975) Warrantless search upheld on "exigent doctrine". State v. Wiley (Mo.), 522 S.W.2d 281.
+
+(1975) Evidence seized at time of warrantless arrest where probable cause for arrest was not shown by state was inadmissible as was gun residue test made later. State v. Howell (Mo.), 524 S.W.2d 11.
+
+> (1975) Evidence seized at time of warrantless arrest where probable cause for arrest was not shown by state was inadmissible as was gun residue test made later. State v. Howell (Mo.), 524 S.W.2d 11.
+
+*05 Sep 2014 · Source: Const. of 1875, Art. II, § 11 (Amended August 5, 2014).*
+
+### Section 16 Grand juries — composition — jurisdiction to convene — powers.
+
+That a grand jury shall consist of twelve citizens, any nine of whom concurring may find an indictment or a true bill: Provided, that no grand jury shall be convened except upon an order of a judge of a court having the power to try and determine felonies; but when so assembled such grand jury shall have power to investigate and return indictments for all character and grades of crime; and that the power of grand juries to inquire into the willful misconduct in office of public officers, and to find indictments in connection therewith, shall never be suspended.
+
+> (1977) Grand jury cannot report its findings after investigation of a named public official except by indictment. If no indictment is found, an interim "report" should be expunged from the record. Matter of Interim Report of Grand Jury (Mo.), 553 S.W.2d 479.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 28 (Amended November 6, 1900).*
+
+### Section 17 Indictments and informations in criminal cases — exceptions.
+
+That no person shall be prosecuted criminally for felony or misdemeanor otherwise than by indictment or information, which shall be concurrent remedies, but this shall not be applied to cases arising in the land or naval forces or in the militia when in actual service in time of war or public danger, nor to prevent arrests and preliminary examination in any criminal case.
+
+> (1961) Provision authorizing prosecution of felony in state courts by information or indictment is not violative of Amendments V and XIV of the Federal Constitution. State v. Cooper (Mo.), 344 S.W.2d 72; Cert. denied 368 U.S. 855, 82 S.Ct. 91.
+
+> (1964) Failure to furnish defendant in prosecution for first degree robbery with free depositions was not a violation of his constitutional rights. State v. Aubuchon (Mo.), 381 S.W.2d 807.
+
+> (1964) Refusal by court to require production of police report and statement made to warrant office by police officer was not abuse of discretion and violation of defendant's constitutional rights where there was no showing that report or statement was of such nature that without it defendant's trial would be fundamentally unfair. State v. Aubuchon (Mo.), 381 S.W.2d 807.
+
+> (1964) The constitutional limitations upon search and seizure apply only to the owner or one in possession of the premises and defendant could not raise the question of an illegal search of someone else's property. State v. Worley (Mo.), 383 S.W.2d 529.
+
+> (1967) Provisions of the fifth amendment to the federal constitution that no person shall be held to answer for a capital crime unless on a presentment or indictment of a grand jury does not apply to state procedure, and prosecution may be either by indictment or information. State v. Crump (Mo.), 412 S.W.2d 490.
+
+> (2008) Section is violated when signature modus operandi corroboration evidence is offered and admitted; such evidence is an unlawful means to admitting propensity evidence. State v. Vorhees, 248 S.W.3d 585 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 12 (Amended November 6, 1900), and Sch. of 1875 and § 17.*
+
+### Section 18(a) Rights of accused in criminal prosecutions.
+
+That in criminal prosecutions the accused shall have the right to appear and defend, in person and by counsel; to demand the nature and cause of the accusation; to meet the witnesses against him face to face; to have process to compel the attendance of witnesses in his behalf; and a speedy public trial by an impartial jury of the county.
+
+> Generally: (1952) Where defendant was released from imprisonment in penitentiary on habeas corpus over nineteen years after original commitment because failure to have been provided counsel, his subsequent trial on same charge did not offend against constitutional guaranty of speedy trial. State v. Hadley (Mo.), 249 S.W.2d 857.
+
+> Generally: (1952) Where defendant announced that he understood the charge against him and that he would represent himself and when court later requested an attorney to sit in and assist defendant, defendant stated he still did not think he needed a lawyer, a contention that defendant was not accorded counsel and that counsel was not given an opportunity to prepare defense, was overruled. State v. Hurley (Mo.), 251 S.W.2d 617.
+
+> Generally: (1953) Where accused was arrested at midnight, arraigned at 9:00 a.m. the following morning and pleaded guilty without record showing opportunity to consult with counsel, he should be released from incarceration under sentence but should be rearraigned on charge. Ex parte Stone (A.), 255 S.W.2d 155.
+
+> Generally: (1954) Where defendant's counsel withdrew after verdict and defendant had no attorney to file a motion for a new trial, it could not be said his constitutional rights were violated in absence of showing of error in trial. State v. Mischanko (Mo.), 272 S.W.2d 210.
+
+> Generally: (1955) Admission of prosecutor's testimony as to what he did after he questioned alleged coconspirator in robbery prosecution and its emphasis in argument by prosecutor to jury held prejudicially erroneous as involving the denial of accused's right to meet witnesses against him face to face. State v. Chernick (Mo.), 280 S.W.2d 56.
+
+> Generally: (1956) Defendant is not entitled to more than one court appointed attorney and trial court has discretion as to whether more than one shall be appointed. State v. Lord (Mo.), 286 S.W.2d 737.
+
+> Generally: (1958) In prosecution for stealing under habitual criminal law, where certified record of the state penitentiary contained notations of defendant's imprisonment in two other states and also that defendant was wanted by police, it was error to admit in evidence the part containing such notations. State v. Dunn (Mo.), 308 S.W.2d 643.
+
+> Generally: (1958) Indictment charging defendant with "feloniously and fraudulently" buying and receiving certain stolen property was insufficient as quoted words are not of similar import to "intent to defraud" and not sufficiently definite and certain to satisfy constitutional and statutory requirements. State v. Harris (Mo.), 313 S.W.2d 664.
+
+> Generally: (1958) Defendant of a mental age of twelve years was told at a coroner's inquest to which he had been subpoenaed that under the constitution he was not obligated to testify. He replied that he understood that and wanted to tell all he knew. His statements were held to be admissible. State v. Mayabb (Mo.), 316 S.W.2d 609.
+
+> Generally: (1958) Defendant held to have waived right to be represented by counsel and to have been capable of doing so. State v. Glenn (Mo.), 317 S.W.2d 403; Cert. den. 358 U.S. 942, 79 S.Ct. 348.
+
+> Generally: (1959) This section applies to crimes against the state and does not apply to proceedings by municipalities for violation of municipal police regulations. City of Webster Groves v. Quick (Mo.), 319 S.W.2d 543.
+
+> Generally: (1959) Where defendant had refused service of public defender and dismissed two court-appointed attorneys, one of whom he had requested by name, and insisted up to trial date that he wanted to represent himself, but the court, over defendant's objection, provided him with counsel, defendant was not denied due process of law. State v. Warren (Mo.), 321 S.W.2d 705.
+
+> Generally: (1961) Where defendant refused the offer of the court to appoint counsel for him, the court's finding that the defendant was mentally able and sufficiently informed to decide his need for counsel was supported by the evidence. State v. Slicker (Mo.), 342 S.W.2d 946.
+
+> Generally: (1961) Defendant was not deprived of constitutional right to appear and defend in person where he was represented by competent counsel throughout all stages of trial and was personally present at all times except when voluntarily absent for short time during proceedings in chambers when record of prior convictions was presented to judge under second offender law. State v. Colbert (Mo.), 344 S.W.2d 115.
+
+> Generally: (1961) A proceeding under Rule 27.26 to vacate a judgment and sentence is not a step in the criminal proceedings entitling the defendant to "appear and defend, in person" under the constitution of Missouri. State v. Hurst (Mo.), 347 S.W.2d 177.
+
+> Generally: (1963) Failure of trial court to grant defendant's application for subpoenas for witnesses which was not specifically ruled on and not pursued when adequate opportunity to do so existed, could not, after verdict, form basis of prejudicial error when defendant had announced ready for trial and proceeded with no request for attendance of any witnesses and made no offer of proof as to expected testimony of desired witnesses. State v. Chapman (Mo.), 365 S.W.2d 551.
+
+> Generally: (1964) Constitutionality of Sunday sales act upheld against the charge that it is so vague and indefinite that citizens cannot ascertain or be informed of its meaning contrary to the due process provision of Art. I, § 10 of the constitution, and in violation of the right of a person accused in a criminal proceeding to demand the nature and cause of the accusation against him as provided by Art. I, § 18(a) of the constitution. State ex rel. Eagleton v. McQueen (Mo.), 378 S.W.2d 449.
+
+> Generally: (1964) Judge's statement to jury in answer to their question about sentence to be imposed, after submission of cause to jury and in absence of defense counsel, that the jury should refer to instructions and the three forms of verdict given them and that the court would have no objection to jury using form of verdict that did not refer to the prior conviction if they felt it appropriate was not such a denial of defendant's rights as to make judgment subject to collateral attack nor would it have afforded defendant any basis for relief had his counsel been aware of the occurrence so that the matter could have been raised on appeal. State v. Baugh (Mo.), 382 S.W.2d 608.
+
+> Generally: (1964) Failure to appoint counsel to represent defendant at preliminary examination where he pleaded not guilty held not to deprive him due process of law nor equal protection of the law. State v. Phelps (Mo.), 384 S.W.2d 616.
+
+> Generally: (1966) As there is no constitutional requirement that there be a transcript of the testimony in a preliminary hearing, nor even a constitutional requirement that a preliminary hearing be held, defendant had no constitutional right to have a transcript of preliminary hearing. State v. Maxwell (Mo.), 400 S.W.2d 156.
+
+> Generally: (1966) Defendant in criminal case has no constitutional right to examine the police record, if any, of complaining witness. State v. Maxwell (Mo.), 400 S.W.2d 156.
+
+> Generally: (1966) Allegations framed in the language of the statute held sufficient to satisfy constitutional requirements. State v. Tandy (Mo.), 401 S.W.2d 409.
+
+> Generally: (1966) Defendant who sought or by his own conduct caused continuance cannot complain that right to speedy trial was violated. State v. Barrett (Mo.), 406 S.W.2d 602.
+
+> Generally: (1967) Court's compelling defendant of limited education to go on trial for felony without counsel immediately upon the withdrawal without notice of his employed counsel resulted in a denial of due process of law. State v. Martin (Mo.), 411 S.W.2d 215.
+
+> Generally: (1967) The appointment of counsel for an accused at a preliminary examination is not required by either the federal or state constitution or by statutes of this state. State v. Benison (Mo.), 415 S.W.2d 773.
+
+> Generally: (1967) The decision of United States Supreme Court in Douglas v. California that an indigent defendant is entitled to appointed counsel on state appeal applied retrospectively to the case of an indigent prisoner whose conviction was affirmed when he was not represented by counsel. Swenson v. Donnell (C.A. Mo.), 382 F.2d 248.
+
+> Generally: (1968) Denial of counsel in preliminary hearing is not a constitutional infirmity where defendant pleaded not guilty and was otherwise not shown to have been prejudiced. Pope v. Swenson (A.), 395 F.2d 321.
+
+> Generally: (1968) Failure to furnish counsel to accused during interrogation before confession at a time before decision in Escobedo case was not so prejudicial as to infect the subsequent trial with an absence of fundamental fairness. Howard v. Swenson (A.), 404 F.2d 469.
+
+> Generally: (1974) Held that failure of counsel to interview state's witnesses amounted to ineffective counsel. McQueen v. Swenson (C.A. Mo.), 498 F.2d 207.
+
+> Generally: (1975) Held that admission of evidence through closed circuit television was proper in a prosecution for violation of a city ordinance. The question was raised under the provision of the United States Const. and was not questioned under Art. I, § 18(a), const. of Mo. A four to three decision. Kansas City v. McCoy (Mo.), 525 S.W.2d 336.
+
+> Right to be Present to Defend: (1967) Accused's presence is not necessary during proceedings which are not part of the trial, such as preliminary or formal proceedings or motions which do not affect his guilt or innocence. State v. Durham (Mo.), 416 S.W.2d 79.
+
+(1973) Right to be present to defend request for writ of habeas corpus ad testificandum made one day before motion for new trial was to be heard when counsel had known of date of hearing for some time was not timely made and constitutional right to appear and defend in person was not denied. State v. Bizzle (A.), 500 S.W.2d 259.
+
+> Right to be Present to Defend: (1973) Right to be present to defend request for writ of habeas corpus ad testificandum made one day before motion for new trial was to be heard when counsel had known of date of hearing for some time was not timely made and constitutional right to appear and defend in person was not denied. State v. Bizzle (A.), 500 S.W.2d 259.
+
+> Speedy Trial by Impartial Jury of County: (1968) Held that in the absence of apparent abuse continuances granted at request of defendant's counsel, even though made without knowledge and consent of defendant, would not constitute a denial of right to speedy trial. State v. Holmes (Mo.), 428 S.W.2d 571.
+
+> Speedy Trial by Impartial Jury of County: (1972) Although information was filed during September 1968 term and trial began during September 1969 term after elapse of four terms of court, since defendant took no action at any time to secure a trial until he filed motion for discharge at May 1969 term defendant was not entitled to discharge. Failure to take affirmative action seeking a speedy trial constitutes waiver of that right. State v. Wright (Mo.), 476 S.W.2d 581.
+
+> Speedy Trial by Impartial Jury of County: (1972) Where appellant had escaped from custody before arraignment set for March 31, 1966, and was convicted of crime in California and on June 10, 1970, was paroled from California sentence and returned for trial in Missouri, there was no denial of constitutional right to speedy trial since defendant showed no prejudice except his assertions that each year made it more difficult to find witnesses and that the Missouri detainer precluded him from California rehabilitation programs. State v. Endres (Mo.), 482 S.W.2d 480.
+
+> Speedy Trial by Impartial Jury of County: (1974) Right to a speedy trial arises only after the information was filed. A complaint represents only a possiblity that a criminal indictment or information will be filed. Trial within eight days after filing of information held not failure to have speedy trial. State v. York (Mo.), 511 S.W.2d 758.
+
+> Speedy Trial by Impartial Jury of County: (1976) Delay between commission of the offense of carrying a concealed weapon and defendant's arrest thereon or filing of information did not abridge defendant's right to speedy trial, nor did it violate his right of due process since no prejudice was demonstrated by the delay. State v. Odzark (A.), 532 S.W.2d 45.
+
+> Speedy Trial by Impartial Jury of County: (1986) Whether a person's right to a speedy trial has been violated depends upon four factors: (1) The length of the delay, (2) The reason for the delay, (3) The defendant's assertion to his right to a speedy trial, and (4) The prejudice to the defendant resulting from the delay. State v. Kirksey, 713 S.W.2d 841 (Mo.App. 1986).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 22.*
+
+### Section 18(b) Depositions in felony cases.
+
+Upon a hearing and finding by the circuit court in any case wherein the accused is charged with a felony, that it is necessary to take the deposition of any witness within the state, other than defendant and spouse, in order to preserve the testimony, and on condition that the court make such orders as will fully protect the rights of personal confrontation and cross-examination of the witness by defendant, the state may take the deposition of such witness and either party may use the same at the trial, as in civil cases, provided there has been substantial compliance with such orders. The reasonable personal and traveling expenses of defendant and his counsel shall be paid by the state or county as provided by law.
+
+> (1973) Where state used deposition of witness taken by defendant's counsel alone, held that adequate satisfaction of both the right of confrontation and of cross examination cannot be accomplished by either the defendant or his counsel alone, and it was error to permit the use of this constitutionally and basically unacceptable deposition by the sate. State v. Jackson (A.) 495 S.W.2d 80.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 18(c) Admissibility of evidence.
+
+Notwithstanding the provisions of sections 17 and 18(a) of this article to the contrary, in prosecutions for crimes of a sexual nature involving a victim under eighteen years of age, relevant evidence of prior criminal acts, whether charged or uncharged, is admissible for the purpose of corroborating the victim's testimony or demonstrating the defendant's propensity to commit the crime with which he or she is presently charged. The court may exclude relevant evidence of prior criminal acts if the probative value of the evidence is substantially outweighed by the danger of unfair prejudice.
+
+> (2017) New rule of evidence adopted in section applies to all trials occurring on or after December 4, 2014, the effective date of the amendment, regardless of when the crimes were alleged to have occurred. State ex rel. Tipler v. Gardner, 506 S.W.3d 922 (Mo.).
+
+> (2018) Provision authorizing admission of prior criminal acts to prove propensity in prosecutions for crimes of a sexual nature involving minor victims does not, on its face, violate due process. State v. Williams, 548 S.W.3d 275 (Mo. banc).
+
+*04 Dec 2014 · (Adopted November 4, 2014).*
+
+### Section 19 Self-incrimination and double jeopardy.
+
+That no person shall be compelled to testify against himself in a criminal cause, nor shall any person be put again in jeopardy of life or liberty for the same offense, after being once acquitted by a jury; but if the jury fail to render a verdict the court may, in its discretion, discharge the jury and commit or bail the prisoner for trial at the same or next term of court; and if judgment be arrested after a verdict of guilty on a defective indictment or information, or if judgment on a verdict of guilty be reversed for error in law, the prisoner may be tried anew on a proper indictment or information, or according to the law.
+
+> (1952) Habitual criminal statute goes only to the punishment, not the guilt or innocence of the accused on trial, and under it no punishment is imposed for the prior offense. Proceedings under it, therefore, do not violate double jeopardy or other provisions of constitution. State v. O'Brien (Mo.), 252 S.W.2d 357.
+
+> (1952) Where defendant is convicted of common assault in prosecution for felonious assault with intent to ravish and thereafter new trial is granted, cause stands as though there had been no trial at all and defendant may be tried for the felony charged in the indictment. State v. Higgins (A.), 252 S.W.2d 641.
+
+> (1953) Where defendant of low-level intelligence confessed guilt under circumstances indicating that confession was coerced by inspired fear, a promise of protection and daily interrogation over long period of detention, use of confession in his trial was violative of due process clause of constitution. State v. Bradford (Mo.), 262 S.W.2d 584.
+
+> (1954) Plea in abatement in criminal prosecution based on stated conclusions that defendant had been compelled to testify before the grand jury which was investigating offense with which defendant was later charged held properly overruled where testimony required was not shown either in verified plea or by evidence. State v. Bright, 269 S.W.2d 615.
+
+> (1955) Where police watched house for half hour, saw persons enter a room therein and through tear in window shade saw defendant and others with policy book and other paraphernalia and when defendant and another were arrested policy result drawings were taken from him, search and seizure not violative of constitutional provisions as to search and seizure or as to self-incrimination. State v. Hardy (Mo.), 276 S.W.2d 90.
+
+> (1955) Conviction of defendant of robbery does not bar his prosecution for assault with intent to kill where such assault was committed in progress of robbery or as part of the same transaction. State v. Chernick (Mo.), 278 S.W.2d 741.
+
+> (1956) Where defendant charged with first degree murder was at liberty on bond and jury was discharged on its failure to reach a verdict during his voluntary, although inadvertent, absence from courtroom, his retrial did not constitute double jeopardy. State v. McCrary, 365 Mo. 799, 287 S.W.2d 785.
+
+> (1957) Where trial on murder charge resulted in "hung jury", and case was continued for some time and nolle prosequi was entered after jury had been called and qualified but not sworn, defendant was not placed in jeopardy and could be again charged with the offense even though nolle prosequi judgment recited that defendant was "acquitted". State v. Berry (Mo.), 298 S.W.2d 429.
+
+> (1957) Common assault charge did not merge in peace disturbance charge upon the street even though the disturbance was "by fighting" and so acquittal of peace disturbance charge did not bar prosecution for common assault. State v. Brooks (A.), 298 S.W.2d 511.
+
+> (1959) Where defendant was discharged from conviction by circuit court on ground information on which he was convicted was defective, his subsequent trial for same offense on valid information did not constitute double jeopardy. U.S. ex rel. Jones v. Nash, 264 F.2d 610.
+
+> (1959) Where confession appears to be entirely voluntary, the failure of the officers taking it to warn accused of constitutional right to remain silent or to have counsel present, would not make it admissible. State v. Laspy (Mo.), 323 S.W.2d 713.
+
+> (1959) When a defendant (in a criminal case) put his sanity in issue, he waives all privilege either under the physician privilege statute or under the self-incrimination section, to exclude testimony of any doctors who have examined him for this purpose. State v. Swinburne (Mo.), 324 S.W.2d 746.
+
+> (1959) Section 491.080 is not as broad as the constitutional guaranty against self-incrimination and so does not authorize compulsory testimony in examination of judgment debtor when constitutional privilege is claimed. State ex rel. North v. Kirtley (Mo.), 327 S.W.2d 166.
+
+> (1960) Where defendant was issued a certificate of occupancy by the department of public safety of the city for occupancy of property to be used as a rooming house and where the defendant applied for permit to operate a rooming house and was actually operating a rooming house, his refusal to permit the inspection of the premises by city inspectors constituted resisting officers. The ordinance authorizing the inspection did not constitute unreasonable search and seizure nor did it require self-incrimination. City of St. Louis v. Evans (Mo.), 337 S.W.2d 948.
+
+> (1961) Refusal of grand jury witness to answer questions as to when he sold business, whether he had interest in certain real estate and as to whether he knew certain individuals, on ground of self- incrimination, held not basis for commitment for contempt. In re Presta v. Owsley (A.), 345 S.W.2d 649.
+
+> (1961) Where accused was charged with robbing several persons at the same place, the acquittal of robbing one of such persons would not bar a prosecution for the robbery of another of such persons. State v. Ashe (Mo.), 350 S.W.2d 768.
+
+> (1964) Held prejudicial error to admit testimony of police officer that defendant remained silent and refused to answer questions while under arrest and in custody especially since in view of defendant's condition there was some question as to whether defendant heard or understood what was being asked of him. State v. Phelps (Mo.), 384 S.W.2d 616.
+
+> (1967) Breath test authorized under this section does not violate due process of law. Blydenburg v. David (Mo.), 413 S.W.2d 284.
+
+> (1967) It was not error to introduce police officer's testimony that defendant refused to make a statement while under arrest where defendant brought this testimony out first during cross-examination and subsequently called jury's attention to the refusal to make a statement during argument. State v. Yager (Mo.), 416 S.W.2d 170.
+
+> (1967) The privilege against self-incrimination extends not only to refusing to answer the question asked, but also to refusing to to explain how the answer might incriminate the witness. State v. Cavanaugh (A.), 419 S.W.2d 929.
+
+> (1967) Defendant who was charged with first degree murder and convicted of second degree murder in first trial and subsequently granted a new trial for error in instructions was not placed in double jeopardy by subsequent first degree murder charge. State v. Crane (Mo.), 420 S.W.2d 309.
+
+> (1968) Punishment imposed by prison official for violation of prison rule against escape involves the exercise of an administrative function, not a judicial function, and does not place the defendant in jeopardy within the constitutional sense. It constitutes no defense in a prosecution on a charge of escape. State v. Croney (Mo.), 425 S.W.2d 65.
+
+> (1968) Refusal of judgment debtor to answer questions in hearing in circuit court regarding ownership or interest in certain property came under the constitutional privilege against self-incrimination. State ex rel. Howard v. Allison (A.), 431 S.W.2d 233.
+
+> (1969) Statement by prosecutor that the state's evidence was uncontradicted did not constitute a comment on the failure of defendant to take the witness stand. State v. Robb (Mo.), 439 S.W.2d 510.
+
+> (1972) Double jeopardy provision applies only where there has been an acquittal of defendant by a jury. Murray v. State (Mo.), 475 S.W.2d 67.
+
+> (1972) Admission in evidence of letter, written by defendant while in jail awaiting trial and read by jailers in the course of jail security, containing incriminating admissions did not violate privilege against self-incrimination. State v. Johnson (Mo.), 476 S.W.2d 516.
+
+> (1972) Held that separate trials for successive robberies of two filling station attendants did not constitute double jeopardy. State v. Moton (Mo.), 476 S.W.2d 785.
+
+> (1972) Accused was not subjected to double jeopardy on the ground he was charged with attempted robbery with dangerous and deadly weapon and carrying a concealed weapon since although occurring on same day, the crimes were separate and distinct, taking place at different places and times and defendant did not show that the concealed weapon taken from him at time of arrest was the same weapon used in earlier attempted robbery. Warren v. State (Mo.), 482 S.W.2d 497.
+
+> (1973) Held that separate trials and convictions for successive robberies of two filling station attendants not double jeopardy. Moton v. Swenson (C.A. Mo.), 488 F.2d 1060.
+
+> (1973) Punishment administered for violation of institutional rules is administrative function and does not constitute double jeopardy for crime committed by inmate of prison. State v. Boyd (Mo.), 498 S.W.2d 532.
+
+> (1974) Held that comment on defendant's failure to disclose theory of self-defense before trial violated right against self-incrimination. State v. Butler (A.), 512 S.W.2d 466.
+
+> (1974) Privilege against self-incrimination is available in any tribunal and any proceeding including civil cases. When person asserting privilege was seeking no affirmative action, court erred in striking his answer because of his claiming privilege during taking of deposition. State ex rel. Pulliam v. Swink (Mo.), 514 S.W.2d 559.
+
+> (1975) Held that conviction of violation of a city ordinance prohibiting drunken driving acts as a bar to subsequent prosecution by the state arising out of the same incident. Prohibition held to be a proper remedy. Weaver v. Schaaf (Mo.), 520 S.W.2d 58.
+
+> (1975) Where victim was pistol-whipped and robbed and later shot while unconscious on floor, a charge of assault with intent to kill and armed robbery did not constitute double jeopardy. State v. Ross (A.), 523 S.W.2d 841.
+
+> (1975) Even though prosecution for offense which is subject of litigation may be barred by statute of limitation copies of income tax returns cannot be made the subject of discovery procedures since evidence of some other incriminatory nature might be disclosed. State ex rel. Caloia v. Weinstein (A), 525 S.W.2d 779.
+
+> (1976) Held, prosecution of defendant for driving while intoxicated after conviction of improper backing of motor vehicle arising out of the same occurrence is not double jeopardy. The two charges involve proof of different facts and are not identical offenses. State v. Johnson (A.), 532 S.W.2d 883.
+
+> (1976) Requiring defendant to testify, over objection, in chambers that he had been convicted twice before of driving while intoxicated was reversible error. State v. Kaiser (Mo. banc), 534 S.W.2d 19.
+
+> (1979) Provision that no person shall be compelled to testify against himself prohibits not only comments on the failure of a defendant to testify, but also comments which have the effect of compelling a defendant to testify. State v. Lindsey (Mo.), 578 S.W.2d 903.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 23.
+1958) Where motion for new trial of accused is sustained on ground evidence was insufficient and the conviction is set aside, accused is estopped to plead the former conviction as a bar to another trial on the same or a new indictment. State v. Patton (Mo.), 308 S.W.2d 641.*
+
+### Section 20 Bail guaranteed — exceptions.
+
+That all persons shall be bailable by sufficient sureties, except for capital offenses, when the proof is evident or the presumption great.
+
+> (1954) Mere charge of capital offense does not justify refusal of bail. Evidence must be adduced to establish that the proof is evident or the presumption great. Hickman v. O'Connell (A.), 266 S.W.2d 9.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 24.
+CROSS REFERENCE:
+Denial or conditions of bail may be set by court, Const. Art. I, § 32*
+
+### Section 21 Excessive bail and fines — cruel and unusual punishment.
+
+That excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishment inflicted.
+
+> (1956) Fixing punishment for second degree murder within statutory limits by jury held not to violate inhibition against cruel and unusual punishment. State v. Nord (Mo.), 286 S.W.2d 775.
+
+> (1957) $15,000 bail set for person charged with rape held excessive and reduced to $10,000 in habeas corpus proceeding. Ex parte Marvin Chandler (A.), 297 S.W.2d 616.
+
+> (1958) The fact that the defendant in robbery prosecution was given life sentence under habitual criminal statute and fact that his accomplice received only a five-year sentence did not establish that punishment was cruel and unusual punishment. State v. Eckenfels (Mo.), 316 S.W.2d 532.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 25.*
+
+### Section 22(a) Right of trial by jury — qualification of jurors — two-thirds verdict.
+
+That the right of trial by jury as heretofore enjoyed shall remain inviolate; provided that a jury for the trial of criminal and civil cases in courts not of record may consist of less than twelve citizens as may be prescribed by law, and a two-thirds majority of such number concurring may render a verdict in all civil cases; that in all civil cases in courts of record, three-fourths of the members of the jury concurring may render a verdict; and that in every criminal case any defendant may, with the assent of the court, waive a jury trial and submit the trial of such case to the court, whose finding shall have the force and effect of a verdict of a jury.
+
+> (1953) On appeal, in misdemeanor trial, where jury was waived, the finding of the court on the merits must be allowed to stand if supported by substantial evidence. State v. Sargent, 241 A. 1085, 256 S.W.2d 265.
+
+> (1953) Since constitutional guarantees of sections 10 and 22, Article I of the Constitution, are for protection against governmental action, and not applicable to acts of individuals as between themselves, contention that labor union's action denied such rights to one of its members does not raise a constitutional question so as to give supreme court jurisdiction of cause. Junkins v. Local Union No. 6313, etc. (Mo.), 263 S.W.2d 337.
+
+> (1963) Fact that no women were on the jury panel, without a claim or showing of purposeful and systematic exclusion of women, did not establish that jury was improperly selected to the prejudice of defendant. State v. Andrews (Mo.), 371 S.W.2d 324.
+
+> (1964) Where defendant, on appeal from magistrate court to circuit court, filed untimely request under rules of the circuit court for jury trial and did not attack constitutionality of the court rule until trial day, constitutional question was not in issue since not raised at first opportunity and supreme court did not have jurisdiction of appeal. Meadowbrook Country Club v. Davis (Mo.), 384 S.W.2d 611.
+
+> (1965) An accused has no absolute right to elect that he shall be tried by court without a jury; his waiver of jury must be agreed to by court to be effective. State v. Taylor (Mo.), 391 S.W.2d 835.
+
+> (1965) Landowner who failed to file written demand for a jury trial before the assignment of commissions, along with a description of the property to be taken, as required by St. Louis charter waived right to jury trial. City of St. Louis v. Union Quarry and Construction Co. (Mo.), 394 S.W.2d 300.
+
+> (1968) There are no educational requirements, other than the ability to read, write, speak, and understand the English language, for jury service, and it is no ground for disqualification of veniremen that at the outset they are unfamiliar with or do not know the meaning of technical legal terms. Parker v. Wallace (Mo.), 431 S.W.2d 136.
+
+> (1968) Use of a six member jury in trial for violation of city ordinance does not violate the constitutional guarantee of a right to trial by jury. State ex rel. Cox v. Wilson (Mo.), 435 S.W.2d 333.
+
+> (1969) In every criminal case any defendant may, with the assent of the court, waive a jury trial and submit the trial of the case to the court, or may, with the assent of the court, waive a jury of twelve citizens and submit the trial of the case to a jury consisting of less than twelve citizens. State v. McGee (Mo. en banc), 447 S.W.2d 270.
+
+> (1971) There is no constitutional right to a trial by jury in municipal ordinance prosecution where the maximum period of imprisonment does not exceed six months. State ex rel. Cole v. Nigro (Mo.), 471 S.W.2d 933.
+
+> (1971) Assuming that record made of defense counsel's waiver of jury trial in prosecution for possession of narcotic drugs was inadequate, the additional record made in the Rule 27.26 evidentiary hearing established that defendant was fully aware at time of trial of his right to be tried by a jury and nothing in the records would justify a conclusion that finding of trial judge in the Rule 27.26 proceeding, that defendant knowingly and intelligently waived jury trial, was erroneous. Young v. State (Mo.), 473 S.W.2d 390.
+
+> (1972) Evidence supported action of trial court in action for damages for injuries to plaintiff's back in granting defendant new trial where jurors' failure to truthfully answer questions asked on voir dire in regard to prior back injuries and claims amounted to deception and deprived defendant of fair trial by jury. Rodenhauser v. Lashly (Mo.), 481 S.W.2d 231.
+
+> (1973) Held that trial by jury cannot be waived by informal statement by counsel that jury would not be required. Randolph v. Simpson (A.), 500 S.W.2d 289.
+
+> (1976) Where defendant waived jury trial under the misunderstanding of defendant and defendant's attorney that if the trial court decided to refuse parole after submission to court on an agreed statement of facts, defendant would be given an opportunity to withdraw waiver of jury trial, the waiver was held to be not intelligently made and judgment was reversed and cause remanded. State v. Sharp (Mo.), 533 S.W.2d 601.
+
+> (1978) Held, not unconstitutional to require court to hear case without jury in magistrate court since jury trial could later be had as a matter of right in circuit court. Rice v. Lucas (Mo.), 560 S.W.2d 850.
+
+> (1996) Right to jury trial applies only to those causes of action which had that right prior to 1820. Hammons v. Ehney, 924 S.W.2d 843 (Mo.banc 1996).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 28 (Amended November 6, 1900).*
+
+### Section 22(b) Female jurors — optional exemption.
+
+No citizen shall be disqualified from jury service because of sex, but the court shall excuse any woman who requests exemption therefrom before being sworn as a juror.
+
+> (1979) Missouri statute authorizing women to request automatic exemption from jury service violated "fair cross section" requirement of sixth amendment as applied to the states by the fourteenth amendment to the United States Constitution. Duren v. Missouri, 439 U.S. 357.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 23 Right to keep and bear arms, ammunition, and certain accessories — exception — rights to be unalienable.
+
+That the right of every citizen to keep and bear arms, ammunition, and accessories typical to the normal function of such arms, in defense of his home, person, family and property, or when lawfully summoned in aid of the civil power, shall not be questioned. The rights guaranteed by this section shall be unalienable. Any restriction on these rights shall be subject to strict scrutiny and the state of Missouri shall be obligated to uphold these rights and shall under no circumstances decline to protect against their infringement. Nothing in this section shall be construed to prevent the general assembly from enacting general laws which limit the rights of convicted violent felons or those adjudicated by a court to be a danger to self or others as result of a mental disorder or mental infirmity.
+
+*05 Sep 2014 · Source: Const. of 1875, Art. II, § 17 (Amended August 5, 2014).*
+
+### Section 24 Subordination of military to civil power — quartering soldiers.
+
+That the military shall be always in strict subordination to the civil power; that no soldier shall be quartered in any house without the consent of the owner in time of peace, nor in time of war, except as prescribed by law.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 27.*
+
+### Section 25 Elections and right of suffrage.
+
+That all elections shall be free and open; and no power, civil or military, shall at any time interfere to prevent the free exercise of the right of suffrage.
+
+> (1964) In appeal from action to contest county school superintendent election, dicta contained in opinion stated that if § 167.020 were construed to prohibit write-in candidates it might be violative of this section and unconstitutional. Kasten v. Guth (Mo.), 375 S.W.2d 110.
+
+> (1974) Statute requiring voter to make his ballot preference known to judge in primary election held not to violate this provision. State ex rel. McClellan v. Kirkpatrick (Mo.), 504 S.W.2d 83.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 9.*
+
+### Section 26 Compensation for property taken by eminent domain — condemnation juries — payment — railroad property.
+
+That private property shall not be taken or damaged for public use without just compensation. Such compensation shall be ascertained by a jury or board of commissioners of not less than three freeholders, in such manner as may be provided by law; and until the same shall be paid to the owner, or into court for the owner, the property shall not be disturbed or the proprietary rights of the owner therein divested. The fee of land taken for railroad purposes without consent of the owner thereof shall remain in such owner subject to the use for which it is taken.
+
+> (1954) Contention that condemnation procedure authorized by charter of the city of St. Louis violated equal protection provision of federal constitution held waived by failure to raise same in court below. City of St. Louis v. Gruss (Mo.), 263 S.W.2d 387.
+
+> (1956) In action to condemn lands for gas storage under §§ 393.410 to 393.510, owners of lands adjoining those sought to be condemned did not have right to intervene because only damage they could suffer would result from use of condemned lands and not from condemnation. Laclede Gas Co. v. Abrahamson (Mo.), 296 S.W.2d 100.
+
+> (1956) Damage to land from water overflow which allegedly would result from highway construction ruled consequential damage, no claim for which would arise prior to infliction and claimants were therefore not aggrieved by plaintiffs' voluntary dismissal of condemnation action as to them and had no right of appeal. State ex rel. State Highway Comm. v. Lynch (Mo.), 297 S.W.2d 400.
+
+> (1957) Where landowner was advised by state highway department that it planned to construct highway through his property and began negotiations with him for acquisition of right-of-way, and as a result he changed his subdivision development plans, there was no "taking" or "damaging" within the constitutional provision. Hamer v. State Highway Comm. (Mo.), 304 S.W.2d 869.
+
+> (1959) Where power to take property by eminent domain exists, the condemnor may determine the location and route of the improvement and the land or easement to be taken for it. State ex rel. N.W. Electric Power Coop. v. Waggoner (A.), 319 S.W.2d 930.
+
+> (1959) Where amount of judgment for damages in condemnation suit exceeded commissioner's award which was paid into court, property owner was entitled to interest on excess. St. Louis Housing Authority v. Mafagas (Mo.), 324 S.W.2d 697.
+
+> (1959) Where city appropriated private sewer without complying with statutory procedure, its action would amount to taking private property for public use without just compensation. Gunn v. City of Versailles (A.), 330 S.W.2d 257.
+
+> (1960) This provision of the constitution requires an allowance of compensation to the landowner for the loss of the use of the amount of money by which the circuit court judgment exceeds the award of the commissioners from the time of taking or appropriation until the entry of judgment fixing the amount of damages. City of St. Louis v. Vasquez (Mo.), 341 S.W.2d 839.
+
+> (1961) Evidence held sufficient to sustain judgment against city because of injury to property resulting from discharge of sewage into stream running through such property. Lewis v. City of Potosi (A.), 348 S.W.2d 577.
+
+> (1961) A provision of an ordinance in the City of St. Louis which provided that damages should be assessed as of the date of the ordinance directing the condemnation held invalid. The date on which the money is paid into the registry of the court is the date on which the value of the property is to be fixed. City of St. Louis v. International Harvester Company (Mo.), 350 S.W.2d 782.
+
+> (1962) Highway commission had authority to condemn easement to provide a substitute location for pipelines which was necessary for interstate highway construction as the taking was for public purpose and was not in violation of Article III, § 38(a) since state received compensation in surrender of existing right-of-way. State ex rel. State Highway Commission v. Eakin (Mo.), 357 S.W.2d 129.
+
+> (1963) Assuming that telephone company had a certificate of convenience and necessity to serve a certain area, public service commission's orders directing another company to provide service to the area did not constitute a taking of telephone company's property in violation of this constitutional provision. State ex rel. Doniphan Telephone Co. v. Public Service Commission (Mo.), 369 S.W.2d 572.
+
+> (1963) Fact of taking of property constitutes a prima facie case thus giving rise to right to have the value determined by a jury, and although owners produced no evidence to prove value of damages, jury under proper instruction could have found damages within reasonable limits of their own experience and observation and giving of instruction which foreclosed landowners from jury determination of damages was error. State ex rel. State Highway Commission v. Cady (A.), 372 S.W.2d 639.
+
+> (1964) Trial court properly limited evidence and instructing as to valuation of property as of the date condemnor paid amount of commissioners' award into court and deterioration of value of property as result of announcement of proposed housing project and institution of condemnation action was not an item of just compensation within the meaning of this constitutional provision. St. Louis Housing Authority v. Barnes (Mo.), 375 S.W.2d 144.
+
+> (1964) Although metropolitan sewer district was immune to action in tort for damages resulting from negligent operation of drainage ditch, this provision of constitution is binding upon state as well as others having power of eminent domain and its self-enforcing and court suggested plaintiff might proceed under procedure known as condemnation in reverse or inverse condemnation where facts alleged in petition indicated plaintiff's property was taken (or damages) for public use. Page v. Metropolitan St. Louis Sewer District (Mo.), 377 S.W.2d 348.
+
+> (1964) The admission of evidence in condemnation case by owner of land zoned for agricultural purposes as to value of land for industrial use was error in absence of showing of reasonable probability of change in zoning restriction in reasonably near future and fact that land was being taken for electric power plant did not establish reasonable probability that zoning restriction would be changed in reasonably near future to permit industrial use generally. Union Electric v. Saale (Mo.), 377 S.W.2d 427.
+
+> (1964) In proceedings to condemn property by city for construction and maintenance of sanitary sewers evidence justified finding that special benefits equalled or exceeded the damages and owners were not entitled to awards. Thomson v. Kansas City (A.), 379 S.W.2d 194.
+
+> (1967) If property is taken or damaged without agreement or legal proceedings, one of several remedies of the owner is that he may waive the tort and sue for the compensatory damages to which he would have been entitled if condemnation proceedings had been instituted prior to the entry. Twiehaus v. Wright City (Mo.), 412 S.W.2d 450.
+
+> (1967) Expenses of litigation paid by landowners before termination of of condemnation proceedings did not constitute taking or damaging of his property for public use without just compensation. Dietrich v. St. Louis County (Mo.), 415 S.W.2d 777.
+
+> (1969) Section 88.673, RSMo, does not prevent recovery of damages under Art. I, § 26, of the constitution, for private property taken or damaged for public use. Lange v. City of Jackson (A.), 440 S.W.2d 758.
+
+> (1973) This provision declared to be self-enforcing. Wells v. State Highway Commission (Mo.), 503 S.W.2d 689.
+
+> (1986) Section 64.090, RSMo, was held to violate section 26 of Article I of the Missouri Constitution insofar as it attempted to give certain counties the power to zone out existing uses of property. People Tags, Inc., v. Jackson County Legislature, 636 F.Supp. 1345 (W.D. Mo. 1986).
+
+> (1987) Eminent domain statutes are narrowly construed, and an activity conducted beyond the scope of such statute, such as a "soil survey", may be enough of an intrusion to constitute a taking. Missouri Highway and Transportation Commission v. Eilers, 729 S.W.2d 471 (Mo.App. 1987).
+
+> (1993) When, as result of public works project, private property is damaged by an unreasonable diversion of surface waters, whether by design or by mistake, or when private property is damaged by nuisance operated by an entity having power of eminent domain, proper remedy is an action in inverse condemnation. Heins Implement v. Mo. Highway & Transportation Commission, 859 S.W.2d 681 (Mo. en banc).
+
+> (2000) Residents were constitutionally entitled to just compensation from sewer district in nuisance-based inverse condemnation action for odors emitted from water treatment plant. Byrom v. Little Blue Valley Sewer Dist., 16 S.W.3d 573 (Mo.banc).
+
+> (2008) Section requires availability of prejudgment interest in cases of indirect takings, either permanent or temporary, as well as in cases of direct takings. Akers v. City of Oak Grove, 246 S.W.3d 916 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 21.*
+
+### Section 27 Acquisition of excess property by eminent domain — disposition under restrictions.
+
+That in such manner and under such limitations as may be provided by law, the state, or any county or city may acquire by eminent domain such property, or rights in property, in excess of that actually to be occupied by the public improvement or used in connection therewith, as may be reasonably necessary to effectuate the purposes intended, and may be vested with the fee simple title thereto, or the control of the use thereof, and may sell such excess property with such restrictions as shall be appropriate to preserve the improvements made.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 28 Limitation on taking of private property for private use — exceptions — public use a judicial question.
+
+That private property shall not be taken for private use with or without compensation, unless by consent of the owner, except for private ways of necessity, and except for drains and ditches across the lands of others for agricultural and sanitary purposes, in the manner prescribed by law; and that when an attempt is made to take private property for a use alleged to be public, the question whether the contemplated use be public shall be judicially determined without regard to any legislative declaration that the use is public.
+
+> (1954) Land clearance for Redevelopment Law (RSMo, Sec. 99.300 et seq.), in authorizing the acquisition of sound structures and vacant land by city does not constitute taking private property for private use. State on Inf. Dalton v. Land Clearance for Redev. Auth., 364 Mo. 974, 270 S.W.2d 44.
+
+> (1954) In determining the validity of slum clearance legislation granting power of eminent domain, section 28, Article I, and section 21, Article VI, are to be construed together and as so construed a legislative finding that a blighted or insanitary area exists so as to authorize the exercise of the power of eminent domain is conclusive on the courts in absence of allegation and proof that the finding is arbitrary, or induced by fraud, collusion or bad faith. State on Inf. Dalton v. Land Clearance for Redevelopment Auth., 364 Mo. 974, 270 S.W.2d 44; (1954) Land Clearance for Redev. Authority v. City of St. Louis (Mo.), 270 S.W.2d 58.
+
+> (1954) Fact that owner of all of lots on one side of proposed street built homes to sell and undertook grading of street does not establish that ordinance for grading of street was not for public use. In The Matter of Proceedings to Grade North Elmwood (Mo.), 270 S.W.2d 863.
+
+> (1961) The conveyance of property acquired by eminent domain in slum clearance project to university controlled by religious denomination held not to constitute the taking of private property for private purposes. Kintzelle v. City of St. Louis (Mo.), 347 S.W.2d 695.
+
+> (1962) Highway commission had authority to condemn easement to provide a substitute location for pipelines which was necessary for interstate highway construction as the taking was for public purpose and was not in violation of Article III, Sec. 38(a) since state received compensation in surrender of existing right-of-way. State ex rel. State Highway Commission v. Eakin (Mo.), 357 S.W.2d 129.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 20.*
+
+### Section 29 Organized labor and collective bargaining.
+
+That employees shall have the right to organize and to bargain collectively through representatives of their own choosing.
+
+> (1952) Picketing, for the purpose of coercing employer to sign contract recognizing as exclusive collecting bargaining agent a labor organization of which only small minority of employees of such employer were members, was for an unlawful purpose under federal statute and therefore could be restrained without violating guaranties of constitution. Katz Drug Co. v. Kavner (Mo.) 249 S.W.2d 166.
+
+> (1955) Where evidence disclosed no reasonable objective of peaceful picketing other than to cause the employer to violate its employees' rights by coercing them into union membership it was unlawful and would be enjoined. Bellerive Country Club v. McVey, 365 Mo. 477, 284 S.W.2d 492.
+
+> (1955) Picketing to coerce employees to join certain union and to designate that union as a bargaining agent is violative of their rights under the constitution and is, therefore, unlawful. Tallman Co. v. Latal, 365 Mo. 552, 284 S.W.2d 547.
+
+> (1956) Picketing of hotel by bartenders' union for purpose of coercing management to coerce its employees to join the union and to accept the union as their bargaining representative was in violation of this section. American Hotel Co. v. Bartenders' International League of America, (Mo.), 297 S.W.2d 411.
+
+> (1957) Violation by an employer of right to organize and to bargain collectively as guaranteed by this provision is a wrong, and coercion of employees to prevent their organization should be enjoined. Quinn v. Buchanan (Mo.), 298 S.W.2d 413.
+
+> (1963) This provision does not authorize relief for employee in the nature of reinstatement and recovery of lost wages for employee who had no contract for a definite term of employment and who was allegedly discharged for union activity, but such discharge would be wrongful and employee could maintain an action for damages. Smith v. Arthur C. Baue Funeral Home (Mo.), 370 S.W.2d 249.
+
+> (2007) Section applies to public employees as well as private sector employees. Independence-Nat'l Educ. Ass'n v. Independence Sch. Dist., 223 S.W.3d 131 (Mo. banc).
+
+> (2012) Section imposes on employers an affirmative duty to bargain collectively and, when necessary, to adopt procedures to participate in that process. Coalition of Police v. Chesterfield, 386 S.W.3d 755 (Mo.banc), (overruling Quinn v. Buchanan, 298 S.W.2d 413, Mo.banc 1957).
+
+> (2012) Duty to bargain collectively includes affirmative duty to meet and confer and negotiate in good faith. American Fed'n of Teachers v. Ledbetter, 387 S.W.3d 360 (Mo. banc).
+
+> (2019) Graduate workers of state university are employees under section. Coalition of Graduate Workers v. Curators of Univ. of Mo., 585 S.W.3d 809 (Mo.App. W.D.).
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 30 Treason — attainder — corruption of blood and forfeitures — estate of suicides — death by casualty.
+
+That treason against the state can consist only in levying war against it, or in adhering to its enemies, giving them aid and comfort; that no person can be convicted of treason, unless on the testimony of two witnesses to the same overt act, or on his confession in open court; that no person can be attainted of treason or felony by the general assembly; that no conviction can work corruption of blood or forfeiture of estate; that the estates of such persons as may destroy their own lives shall descend or vest as in cases of natural death; and when any person shall be killed by casualty, there shall be no forfeiture by reason thereof.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. II, § 13.*
+
+### Section 31 Fines or imprisonments fixed by administrative agencies.
+
+That no law shall delegate to any commission, bureau, board or other administrative agency authority to make any rule fixing a fine or imprisonment as punishment for its violation.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 32 Crime victims' rights.
+
+1. Crime victims, as defined by law, shall have the following rights, as defined by law:
+(1) The right to be present at all criminal justice proceedings at which the defendant has such right, including juvenile proceedings where the offense would have been a felony if committed by an adult;
+(2) Upon request of the victim, the right to be informed of and heard at guilty pleas, bail hearings, sentencings, probation revocation hearings, and parole hearings, unless in the determination of the court the interests of justice require otherwise;
+(3) The right to be informed of trials and preliminary hearings;
+(4) The right to restitution, which shall be enforceable in the same manner as any other civil cause of action, or as otherwise provided by law;
+(5) The right to the speedy disposition and appellate review of their cases, provided that nothing in this subdivision shall prevent the defendant from having sufficient time to prepare his defense;
+(6) The right to reasonable protection from the defendant or any person acting on behalf of the defendant;
+(7) The right to information concerning the escape of an accused from custody or confinement, the defendant's release and scheduling of the defendant's release from incarceration; and
+(8) The right to information about how the criminal justice system works, the rights and the availability of services, and upon request of the victim the right to information about the crime.
+2. Notwithstanding section 20 of article I of this Constitution, upon a showing that the defendant poses a danger to a crime victim, the community, or any other person, the court may deny bail or may impose special conditions which the defendant and surety must guarantee.
+3. Nothing in this section shall be construed as creating a cause of action for money damages against the state, a county, a municipality, or any of the agencies, instrumentalities, or employees provided that the General Assembly may, by statutory enactment, reverse, modify, or supercede any judicial decision or rule arising from any cause of action brought pursuant to this section.
+4. Nothing in this section shall be construed to authorize a court to set aside or to void a finding of guilt, or an acceptance of a plea of guilty in any criminal case.
+5. The general assembly shall have power to enforce this section by appropriate legislation.
+
+*03 Dec 1992 · (Adopted November 3, 1992).
+CROSS REFERENCE:
+Bail to be allowed, when, Const. Art. I, § 20*
+
+### Section 33 Marriage, validity and recognition.
+
+That to be valid and recognized in this state, a marriage shall exist only between a man and a woman.
+
+> (2015) The right to marry is a fundamental right inherent in the liberty of the person, and under the Due Process and Equal Protection Clauses of the Fourteenth Amendment couples of the same sex may not be deprived of that right and that liberty. Obergefell v. Hodges, 135 S.Ct. 2584.
+
+*02 Sep 2004 · (Adopted August 3, 2004).*
+
+### Section 34 English to be the official language in this state.
+
+That English shall be the language of all official proceedings in this state. Official proceedings shall be limited to any meeting of a public governmental body at which any public business is discussed, decided, or public policy formulated, whether such meeting is conducted in person or by means of communication equipment, including, but not limited to, conference call, video conference, Internet chat, or Internet message board. The term "official proceeding" shall not include an informal gathering of members of a public governmental body for ministerial or social purposes, but the term shall include a public vote of all or a majority of the members of a public governmental body, by electronic communication or any other means, conducted in lieu of holding an official proceeding with the members of the public governmental body gathered at one location in order to conduct public business.
+
+*04 Dec 2008 · (Adopted November 4, 2008).*
+
+### Section 35 Right to farm.
+
+That agriculture which provides food, energy, health benefits, and security is the foundation and stabilizing force of Missouri's economy. To protect this vital sector of Missouri's economy, the right of farmers and ranchers to engage in farming and ranching practices shall be forever guaranteed in this state, subject to duly authorized powers, if any, conferred by article VI of the Constitution of Missouri.
+
+> (2016) Right to farm provision does not invalidate county food order ordinance duly authorized under Article VI powers. Vimont v. Christian County Health Dept., 502 S.W.3d 718 (Mo.App.S.D.).
+
+> (2022) Medical marijuana-related activities authorized by the provisions of Article XIV are not the sort of farming and ranching practices which this amendment was meant to protect. Sarcoxie Nursery Cultivation Center, LLC v. Williams, 649 S.W.3d 127 (Mo.App.W.D.).
+
+*04 Sep 2014 · (Adopted August 5, 2014).*
+
+### Section 36 Right to reproductive freedom initiative — fundamental right, limitations on restrictions — regulation permitted, when — no penalty, adverse actions or discrimination, when — severability clause — definitions.
+
+1. This Section shall be known as "The Right to Reproductive Freedom Initiative".
+2. The Government shall not deny or infringe upon a person's fundamental right to reproductive freedom, which is the right to make and carry out decisions about all matters relating to reproductive health care, including but not limited to prenatal care, childbirth, postpartum care, birth control, abortion care, miscarriage care, and respectful birthing conditions.
+3. The right to reproductive freedom shall not be denied, interfered with, delayed, or otherwise restricted unless the Government demonstrates that such action is justified by a compelling governmental interest achieved by the least restrictive means. Any denial, interference, delay, or restriction of the right to reproductive freedom shall be presumed invalid. For purposes of this Section, a governmental interest is compelling only if it is for the limited purpose and has the limited effect of improving or maintaining the health of a person seeking care, is consistent with widely accepted clinical standards of practice and evidence-based medicine, and does not infringe on that person's autonomous decision-making.
+4. Notwithstanding subsection 3 of this Section, the general assembly may enact laws that regulate the provision of abortion after Fetal Viability provided that under no circumstance shall the Government deny, interfere with, delay, or otherwise restrict an abortion that in the good faith judgment of a treating health care professional is needed to protect the life or physical or mental health of the pregnant person.
+5. No person shall be penalized, prosecuted, or otherwise subjected to adverse action based on their actual, potential, perceived, or alleged pregnancy outcomes, including but not limited to miscarriage, stillbirth, or abortion. Nor shall any person assisting a person in exercising their right to reproductive freedom with that person's consent be penalized, prosecuted, or otherwise subjected to adverse action for doing so.
+6. The Government shall not discriminate against persons providing or obtaining reproductive health care or assisting another person in doing so.
+7. If any provision of this Section or the application thereof to anyone or to any circumstance is held invalid, the remainder of those provisions and the application of such provisions to others or other circumstances shall not be affected thereby.
+8. For purposes of this Section, the following terms mean:
+(1) "Fetal Viability", the point in pregnancy when, in the good faith judgment of a treating health care professional and based on the particular facts of the case, there is a significant likelihood of the fetus's sustained survival outside the uterus without the application of extraordinary medical measures.
+(2) "Government",
+a. the state of Missouri; or
+b. any municipality, city, town, village, township, district, authority, public subdivision or public corporation having the power to tax or regulate, or any portion of two or more such entities within the state of Missouri.
+
+*05 Dec 2024 · (Adopted November 5, 2024)*
+
+## Article II — The Distribution of Powers
+
+### Section 1 Three departments of government — separation of powers.
+
+The powers of government shall be divided into three distinct departments—the legislative, executive and judicial—each of which shall be confided to a separate magistracy, and no person, or collection of persons, charged with the exercise of powers properly belonging to one of those departments, shall exercise any power properly belonging to either of the others, except in the instances in this constitution expressly directed or permitted.
+
+> (1954) Land Clearance for Redevelopment Law (RSMo, § 99.300 et seq.), does not contravene this provision of the Constitution. State on Inf. Dalton v. Land Clearance for Redev. Auth., 364 Mo. 974, 270 S.W.2d 44.
+
+> (1960) City ordinance granting commission power to establish parking zones, with their time limitations and fixing the fees therefor to be collected through parking meters, held invalid as unlawful delegation of legislative power. Automobile Club of Mo. v. City of St. Louis (Mo.), 334 S.W.2d 355.
+
+> (1970) The courts have inherent authority to employ necessary personnel with which to carry out their functions, to fix compensation of these personnel, and to require appropriation and payment therefor. State ex rel. Weinstein v. St. Louis Co. (Mo.), 451 S.W.2d 99.
+
+> (1976) Portion of statute providing that violation of rule or regulation made pursuant to such statute is a misdemeanor is unconstitutional delegation of legislative power. State v. Raccagno (Mo.), 530 S.W.2d 699.
+
+> (2019) Restricting appropriations funding for the salary of specific administrative law judge based on that judge's date of appointment violates the separation of powers; the General Assembly may not compel an executive department, directly or indirectly, to fire a specific employee. Rebman v. Parson, 576 S.W.3d 605 (Mo.).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. III.*
+
+## Article III — Legislative Department
+
+### Section 1 Legislative power — general assembly.
+
+The legislative power shall be vested in a senate and house of representatives to be styled "The General Assembly of the State of Missouri."
+
+> (1957) The senate, acting independently, has no power to create committees to sit after adjournment of the general assembly but both houses of the general assembly acting jointly by resolution may create such committees. State ex rel. Jones v. Atterbury (Mo.), 300 S.W.2d 806.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 1.*
+
+### Section 2 Prohibited activities by General Assembly members and employees — campaign contribution limits and restrictions.
+
+(a) After December 6, 2018, no person serving as a member of or employed by the general assembly shall act or serve as a paid lobbyist, register as a paid lobbyist, or solicit prospective employers or clients to represent as a paid lobbyist during the time of such service until the expiration of two calendar years after the conclusion of the session of the general assembly in which the member or employee last served and where such service was after December 6, 2018.
+(b) No person serving as a member of or employed by the general assembly shall accept directly or indirectly a gift of any tangible or intangible item, service, or thing of value from any paid lobbyist or lobbyist principal. This Article shall not prevent candidates for the general assembly, including candidates for reelection, or candidates for offices within the senate or house from accepting campaign contributions consistent with this Article and applicable campaign finance law. Nothing in this section shall prevent individuals from receiving gifts, family support or anything of value from those related to them within the fourth degree by blood or marriage.
+(c) The general assembly shall make no law authorizing unlimited campaign contributions to candidates for the general assembly, nor any law that circumvents the contribution limits contained in this Constitution. In addition to other campaign contribution limitations or restrictions provided for by law, the amount of contributions made to or accepted by any candidate or candidate committee from any person other than the candidate in any one election to the office of state representative or state senator shall not exceed the following:
+(1) To elect an individual to the office of state senator, two thousand four hundred dollars; and
+(2) To elect an individual to the office of state representative, two thousand dollars.
+The contribution limits and other restrictions of this section shall also apply to any person exploring a candidacy for the office of state representative or state senator.
+(d) No contribution to a candidate for legislative office shall be made or accepted, directly or indirectly, in a fictitious name, in the name of another person, or by or through another person in such a manner as to, or with the intent to, conceal the identity of the actual source of the contribution. There shall be a rebuttable presumption that a contribution to a candidate for public office is made or accepted with the intent to circumvent the limitations on contributions imposed in this section when a contribution is received from a committee or organization that is primarily funded by a single person, individual, or other committee that has already reached its contribution limit under any law relating to contribution limitations. A committee or organization shall be deemed to be primarily funded by a single person, individual, or other committee when the committee or organization receives more than fifty percent of its annual funding from that single person, individual, or other committee.
+(e) In no circumstance shall a candidate be found to have violated limits on acceptance of contributions if the Missouri ethics commission, its successor agency, or a court determines that a candidate has taken no action to indicate acceptance of or acquiescence to the making of an expenditure that is deemed a contribution pursuant to this section.
+(f) No candidate shall accept contributions from any federal political action committee unless the committee has filed the same financial disclosure reports that would be required of a Missouri political action committee.
+
+> (2024) As applied, Missouri's two year ban on lobbying by former legislators or staff violates the First Amendment of the United States Constitution by burdening political speech. Missouri did not show a compelling interest for this burden or narrow tailoring to achieve that interest. Miller v. Ziegler, 109 F.4th 1045 (8th Cir.).
+
+*04 Dec 2020 · (Adopted November 6, 2019) (Amended November 3, 2020)
+*Transferred 2018; now Article III, § 3. This new section has no continuity with the former version.*
+
+### Section 3 Election of representatives — legislative redistricting methods — house independent bipartisan citizens commission, appointment, duties, compensation — court actions, procedure.
+
+(a) The house of representatives shall consist of one hundred sixty-three members elected at each general election and redistricted as provided in this section.
+(b) The house independent bipartisan citizens commission shall redistrict the house of representatives using the following methods, listed in order of priority:
+(1) Districts shall be as nearly equal as practicable in population, and shall be drawn on the basis of one person, one vote. Districts are as nearly equal as practicable in population if no district deviates by more than one percent from the ideal population of the district, as measured by dividing the number of districts into the statewide population data being used, except that a district may deviate by up to three percent if necessary to follow political subdivision lines consistent with subdivision (4) of this subsection;
+(2) Districts shall be established in a manner so as to comply with all requirements of the United States Constitution and applicable federal laws, including, but not limited to, the Voting Rights Act of 1965 (as amended). The following principles shall take precedence over any other part of this constitution: no district shall be drawn in a manner which results in a denial or abridgment of the right of any citizen of the United States to vote on account of race or color; and no district shall be drawn such that members of any community of citizens protected by the preceding clause have less opportunity than other members of the electorate to participate in the political process and to elect representatives of their choice;
+(3) Subject to the requirements of subdivisions (1) and (2) of this subsection, districts shall be composed of contiguous territory as compact as may be. Areas which meet only at the points of adjoining corners are not contiguous. In general, compact districts are those which are square, rectangular, or hexagonal in shape to the extent permitted by natural or political boundaries;
+(4) To the extent consistent with subdivisions (1) to (3) of this subsection, communities shall be preserved. Districts shall satisfy this requirement if district lines follow political subdivision lines to the extent possible, using the following criteria, in order of priority. First, each county shall wholly contain as many districts as its population allows. Second, if a county wholly contains one or more districts, the remaining population shall be wholly joined in a single district made up of population from outside the county. If a county does not wholly contain a district, then no more than two segments of a county shall be combined with an adjoining county. Third, split counties and county segments, defined as any part of the county that is in a district not wholly within that county, shall each be as few as possible. Fourth, as few municipal lines shall be crossed as possible;
+(5) Districts shall be drawn in a manner that achieves both partisan fairness and, secondarily, competitiveness, but the standards established by subdivisions (1) to (4) of this subsection shall take precedence over partisan fairness and competitiveness. "Partisan fairness" means that parties shall be able to translate their popular support into legislative representation with approximately equal efficiency. "Competitiveness" means that parties' legislative representation shall be substantially and similarly responsive to shifts in the electorate's preferences.
+To this end, the average electoral performance of the two political parties receiving the most votes in the three preceding general elections for governor, for United States Senate, and for President of the United States shall be calculated. This index shall be defined as the total votes received by each party in the three preceding general elections for governor, for United States Senate, and for President of the United States, divided by the total votes cast for both parties in these elections. Using this index, the total number of wasted votes for each party, summing across all of the districts in the plan shall be calculated. "Wasted votes" are votes cast for a losing candidate or for a winning candidate in excess of the threshold needed for victory. In any redistricting plan and map of the proposed districts, the difference between the two parties' total wasted votes, divided by the total votes cast for the two parties, shall not exceed fifteen percent.
+To promote competitiveness, the electoral performance index shall be used to simulate elections in which the hypothetical statewide vote shifts by one percent, two percent, three percent, four percent, and five percent in favor of each party. The vote in each individual district shall be assumed to shift by the same amount as the statewide vote. In each of these simulated elections, the difference between the two parties' total wasted votes, divided by the total votes cast for the two parties, shall not exceed fifteen percent.
+(c) Within sixty days after the population of this state is reported to the President for each decennial census of the United States or, in the event that a redistricting plan has been invalidated by a court of competent jurisdiction, within sixty days that such a ruling has been made, the state committee and the congressional district committees of each of the two political parties casting the highest vote for governor at the last preceding general election shall meet and the members of each committee shall nominate, by a majority vote of the elected members of the committee present, provided that a majority of the elected members is present, members of their party, residents in that district, in the case of a congressional district committee, as nominees for the house independent bipartisan citizens commission. No party shall select more than one nominee from any one state legislative district. The congressional district committees shall each submit to the governor their list of two elected nominees. The state committees shall each submit to the governor their list of five elected nominees. Within thirty days thereafter, the governor shall appoint a house independent bipartisan citizens commission consisting of one nominee from each list submitted by each congressional district committee and two nominees from each list submitted by each state committee to redistrict the state into one hundred and sixty-three representative districts and to establish the numbers and boundaries of said districts. No person shall be appointed to both the house independent bipartisan citizens commission and the senate independent bipartisan citizens commission during the same redistricting cycle.
+If any committee fails to submit a list within such time, the governor shall appoint a member of his or her own choice from the political party of the committee failing to submit a list, provided that in the case of a congressional district committee failing to submit a list, the person appointed to the commission by the governor shall reside in the congressional district of such committee.
+Members of the commission shall be disqualified from holding office as members of the general assembly for four years following the date of the filing by the commission of its final redistricting plan.
+For the purposes of this Article, the term congressional district committee or congressional district refers to the congressional district committee or the congressional district from which a congressman was last elected, or, in the event members of congress from this state have been elected at large, the term congressional district committee refers to those persons who last served as the congressional district committee for those districts from which congressmen were last elected, and the term congressional district refers to those districts from which congressmen were last elected. Any action pursuant to this section by the congressional district committee shall take place only at duly called meetings, shall be recorded in their official minutes and only members present in person shall be permitted to vote.
+(d) The commissioners so selected shall, on the fifteenth day, excluding Sundays and state holidays, after all members have been appointed, meet in the capitol building and proceed to organize by electing from their number a chairman, vice chairman and secretary. The commission shall adopt an agenda establishing at least three hearing dates on which hearings open to the public shall be held to hear objections or testimony from interested persons. A copy of the agenda shall be filed with the clerk of the house of representatives within twenty-four hours after its adoption. Executive meetings may be scheduled and held as often as the commission deems advisable.
+(e) Not later than five months after the appointment of the commission, the commission shall file with the secretary of state a tentative redistricting plan and map of the proposed districts and during the ensuing fifteen days shall hold such public hearings as may be necessary to hear objections or testimony of interested persons. The commission shall make public the tentative redistricting plan and map of the proposed districts, as well as all demographic and partisan data used in the creation of the plan and map.
+(f) Not later than six months after the appointment of the commission, the commission shall file with the secretary of state a final statement of the numbers and the boundaries of the districts together with a map of the districts, and no statement shall be valid unless approved by at least seven-tenths of the members.
+(g) After the final statement is filed, members of the house of representatives shall be elected according to such districts until a new redistricting plan is made as provided in this section, except that if the final statement is not filed within six months of the time fixed for the appointment of the commission, the commission shall stand discharged and the house of representatives shall be redistricted using the same methods and criteria as described in subsection (b) of this section by a commission of six members appointed from among the judges of the appellate courts of the state of Missouri by the state supreme court, a majority of whom shall sign and file its redistricting plan and map with the secretary of state within ninety days of the date of the discharge of the house independent bipartisan citizens commission. The judicial commission shall make public the tentative redistricting plan and map of the proposed districts, as well as all demographic and partisan data used in the creation of the plan and map. Thereafter, members of the house of representatives shall be elected according to such districts until a redistricting plan is made as provided in this section.
+(h) Each member of the commission shall receive as compensation fifteen dollars a day for each day the commission is in session but not more than one thousand dollars, and, in addition, shall be reimbursed for his or her actual and necessary expenses incurred while serving as a member of the commission.
+(i) No redistricting plan shall be subject to the referendum.
+(j) Any action expressly or implicitly alleging that a redistricting plan violates this Constitution, federal law, or the United States Constitution shall be filed in the circuit court of Cole County and shall name the body that approved the challenged redistricting plan as a defendant. Only an eligible Missouri voter who sustains an individual injury by virtue of residing in a district that exhibits the alleged violation, and whose injury is remedied by a differently drawn district, shall have standing. If the court renders a judgment in which it finds that a completed redistricting plan exhibits the alleged violation, its judgment shall adjust only those districts, and only those parts of district boundaries, necessary to bring the map into compliance. The supreme court shall have exclusive appellate jurisdiction upon the filing of a notice of appeal within ten days after the judgment has become final.
+
+*04 Dec 2020 · Source: Const. of 1945 (Amended January 14, 1966) (Amended November 2, 1982) (Amended November 6, 2018) (Amended November 3, 2020)
+*Transferred 2018; formerly Article III, § 2. No continuity with previous Article III, § 3, repealed November 2, 1982, L. 1982 SJR 39, § 1 2nd Reg. Sess.
+CROSS REFERENCE:
+Voter qualifications, RSMo 115.133*
+
+### Section 4 Qualifications of representatives.
+
+Each representative shall be twenty-four years of age, and next before the day of his election shall have been a qualified voter for two years and a resident of the county or district which he is chosen to represent for one year, if such county or district shall have been so long established, and if not, then of the county or district from which the same shall have been taken.
+
+> (1990) The minimum age requirement for state representatives should be evaluated under the rational relationship standard of equal protection review. The age requirement rationally furthers the state's legitimate interest in ensuring mature and experienced legislators and appellant's age should be calculated from his date of birth, rather than his date of conception. Stiles v. Blunt, 912 F.2d 260 (8th Cir.).
+
+> (2016) Requirement that a state representative must have been a qualified voter for two years prior to day of election is constitutional. Peters v. Johns, 489 S.W.3d 262 (Mo.).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 4.*
+
+### Section 5 Senators — number — senatorial districts.
+
+The senate shall consist of thirty-four members elected by the qualified voters of the senatorial districts for a term of four years. Senatorial districts shall be apportioned as provided for in Article III, Section 7.
+
+*06 Dec 2018 · Source: Const. of 1875, Art. IV, §§ 5, 9 (Amended January 14, 1966) (Amended November 6, 2018)*
+
+### Section 6 Qualifications of senators.
+
+Each senator shall be thirty years of age, and next before the day of his election shall have been a qualified voter of the state for three years and a resident of the district which he is chosen to represent for one year, if such district shall have been so long established, and if not, then of the district or districts from which the same shall have been taken.
+
+> (1972) The equal protection clause of the Fourteenth Amendment to the Constitution of the United States does not eliminate the right of the State of Missouri to establish and enforce the one-year residency in the district requirement as a condition to serve as State Senator. State ex rel. Gralike v. Walsh (Mo.), 483 S.W.2d 70.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 6.*
+
+### Section 7 Senate independent bipartisan citizens commission, appointment, duties, compensation — court actions, procedure.
+
+(a) Within sixty days after the population of this state is reported to the President for each decennial census of the United States, or within sixty days after a redistricting plan has been invalidated by a court of competent jurisdiction, the state committee and the congressional district committees of each of the two political parties casting the highest vote for governor at the last preceding general election shall meet and the members of each committee shall nominate, by a majority vote of the elected members of the committee present, provided that a majority of the elected members is present, members of their party, residents in that district, in the case of a congressional district committee, as nominees for the senate independent bipartisan citizens commission. No party shall select more than one nominee from any one state legislative district. The congressional district committees shall each submit to the governor their list of two elected nominees. The state committees shall each submit to the governor their list of five elected nominees. Within thirty days thereafter the governor shall appoint a senate independent bipartisan citizens commission consisting of two nominees from each list submitted by each state committee and one nominee from each list submitted by each congressional district committee, to redistrict the thirty-four senatorial districts and to establish the numbers and boundaries of said districts. No person shall be appointed to both the house independent bipartisan citizens commission and the senate independent bipartisan citizens commission during the same redistricting cycle.
+If any committee fails to submit a list within such time, the governor shall appoint a member of his or her own choice from the political party of the committee failing to submit a list, provided that in the case of a congressional district committee failing to submit a list, the person appointed to the commission by the governor shall reside in the congressional district of such committee.
+Members of the commission shall be disqualified from holding office as members of the general assembly for four years following the date of the filing by the commission of its final redistricting plan.
+(b) The commissioners so selected shall, on the fifteenth day, excluding Sundays and state holidays, after all members have been appointed, meet in the capitol building and proceed to organize by electing from their number a chairman, vice chairman and secretary. The commission shall adopt an agenda establishing at least three hearing dates on which hearings open to the public shall be held to hear objections or testimony from interested persons. A copy of the agenda shall be filed with the secretary of the senate within twenty-four hours after its adoption. Executive meetings may be scheduled and held as often as the commission deems advisable.
+(c) The senate independent bipartisan citizens commission shall redistrict the senate using the same methods and criteria as those required by subsection (b), section 3 of this Article for the redistricting of the house of representatives.
+(d) Not later than five months after the appointment of the senate independent bipartisan citizens commission, the commission shall file with the secretary of state a tentative redistricting plan and map of the proposed districts and during the ensuing fifteen days shall hold such public hearings as may be necessary to hear objections or testimony of interested persons. The commission shall make public the tentative redistricting plan and map of the proposed districts, as well as all demographic and partisan data used in the creation of the plan and map.
+(e) Not later than six months after the appointment of the commission, the commission shall file with the secretary of state a final statement of the numbers and the boundaries of the districts together with a map of the districts, and no statement shall be valid unless approved by at least seven-tenths of the members.
+(f) After the final statement is filed, senators shall be elected according to such districts until a new redistricting plan is made as provided in this section, except that if the final statement is not filed within six months of the time fixed for the appointment of the commission, the commission shall stand discharged and the senate shall be redistricted using the same methods and criteria as described in subsection (b) of section 3 of this Article by a commission of six members appointed from among the judges of the appellate courts of the state of Missouri by the state supreme court, a majority of whom shall sign and file its redistricting plan and map with the secretary of state within ninety days of the date of the discharge of the senate independent bipartisan citizens commission. The judicial commission shall make public the tentative redistricting plan and map of the proposed districts, as well as all demographic and partisan data used in the creation of the plan and map. Thereafter, senators shall be elected according to such districts until a redistricting plan is made as provided in this section.
+(g) Each member of the commission shall receive as compensation fifteen dollars a day for each day the commission is in session, but not more than one thousand dollars, and, in addition, shall be reimbursed for his or her actual and necessary expenses incurred while serving as a member of the commission.
+(h) No redistricting plan shall be subject to the referendum.
+(i) Any action expressly or implicitly alleging that a redistricting plan violates this Constitution, federal law, or the United States Constitution shall be filed in the circuit court of Cole County and shall name the body that approved the challenged redistricting plan as a defendant. Only an eligible Missouri voter who sustains an individual injury by virtue of residing in a district that exhibits the alleged violation, and whose injury is remedied by a differently drawn district, shall have standing. If the court renders a judgment in which it finds that a completed redistricting plan exhibits the alleged violation, its judgment shall adjust only those districts, and only those parts of district boundaries, necessary to bring the map into compliance. The supreme court shall have exclusive appellate jurisdiction upon the filing of a notice of appeal within ten days after the judgment has become final.
+
+*04 Dec 2020 · Source: Const. of 1945 (Amended January 14, 1966) (Amended November 2, 1982) (Amended November 6, 2018) (Amended November 3, 2020)*
+
+### Section 8 Term limitations for members of General Assembly.
+
+No one shall be elected to serve more than eight years total in any one house of the General Assembly nor more than sixteen years total in both houses of the General Assembly. In applying this section, service in the General Assembly resulting from an election prior to December 3, 1992, or service of less than one year, in the case of a member of the house of representatives, or two years, in the case of a member of the senate, by a person elected after the effective date of this section to complete the term of another person, shall not be counted.
+
+*05 Dec 2002 · (Adopted November 3, 1992) (Amended November 5, 2002).*
+
+### Section 9 Apportionment of representatives.
+
+Until the convening of the Seventy-fourth General Assembly the House of Representatives shall consist of one hundred sixty-three members elected from the one hundred sixty-three representative districts, as they existed January 1, 1965.
+
+*13 Feb 1966 · Source: Const. of 1945 (Amended January 14, 1966).*
+
+### Section 10 Basis of apportionment — alteration of districts.
+
+The last decennial census of the United States shall be used in apportioning representatives and determining the population of senatorial and representative districts. Such districts may be altered from time to time as public convenience may require.
+
+> (1955) Only one valid apportionment of senatorial districts may be made for each decennial period, but, where division of city of St. Louis into districts was held invalid, the board of election commissioners may divide the city legally if this is done before March 1 of the year of the next general election. Preisler v. Doherty, 365 Mo. 460, 284 S.W.2d 427.
+
+> (1968) The enabling legislation for the St. Louis earnings tax does not violate constitutional provisions against arbitrary and unreasonable classification of taxes. Barhorst v. City of St. Louis (Mo.), 423 S.W.2d 843.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, §§ 2, 5, 7, 9.*
+
+### Section 11 Time of election of senators and representatives.
+
+The first election of senators and representatives under this constitution, shall be held at the general election in the year one thousand nine hundred and forty-six when the whole number of representatives and the senators from the districts having even numbers, who shall compose the first class, shall be elected, and two years thereafter the whole number of representatives and the senators from districts having odd numbers, who shall compose the second class, shall be elected, and so on at each succeeding general election.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 10.*
+
+### Section 12 Members of general assembly disqualified from holding other offices.
+
+No person holding any lucrative office or employment under the United States, this state or any municipality thereof shall hold the office of senator or representative. When any senator or representative accepts any office or employment under the United States, this state or any municipality thereof, his office shall thereby be vacated and he shall thereafter perform no duty and receive no salary as senator or representative. During the term for which he was elected no senator or representative shall accept any appointive office or employment under this state which is created or the emoluments of which are increased during such term. This section shall not apply to members of the organized militia, of the reserve corps and of school boards, and notaries public.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 12.*
+
+### Section 13 Vacation of office by removal of residence.
+
+If any senator or representative remove his residence from the district or county for which he was elected, his office shall thereby be vacated.
+
+> (1971) Legislative body of which he is a member has exclusive right to determine elected representative's qualifications to hold or assume office and courts are without jurisdiction to determine issue of removal of residence from district. State v. Hickey (Mo.), 475 S.W.2d 617.
+
+> (1972) Speaker of house of representatives, upon request by a member of house, must issue subpoenas for witnesses to appear before public and depose and testify in the matter of a charge made in the house that a member has removed his residence from his district and thereby vacated his office but clear right to issuance of subpoenas duces tecum not shown by members. In re Marshall (Mo.), 478 S.W.2d 1.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 13.*
+
+### Section 14 Writs of election to fill vacancies.
+
+Writs of election to fill vacancies in either house of the general assembly shall be issued by the governor.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 14.*
+
+### Section 15 Oath of office of members of assembly — administration — effect of refusal to take oath and conviction of violation.
+
+Every senator or representative elect, before entering upon the duties of his office, shall take and subscribe the following oath or affirmation: "I do solemnly swear, or affirm, that I will support the Constitution of the United States and of the state of Missouri, and faithfully perform the duties of my office, and that I will not knowingly receive, directly or indirectly, any money or other valuable thing for the performance or nonperformance of any act or duty pertaining to my office, other than the compensation allowed by law." The oath shall be administered in the halls of the respective houses to the members thereof, by a judge of the supreme court or a circuit court, or after the organization by the presiding officer of either house, and shall be filed in the office of the secretary of state. Any senator or representative refusing to take said oath or affirmation shall be deemed to have vacated his office, and any member convicted of having violated his oath or affirmation shall be deemed guilty of perjury, and be forever disqualified from holding any office of trust or profit in this state.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 15.*
+
+### Section 16 Compensation, mileage allowance and expenses of general assembly members.
+
+Senators and representatives shall receive from the state treasury as salary such sums as are provided by law. No law fixing the compensation of members of the general assembly shall become effective until the first day of the regular session of the general assembly next following the session at which the law was enacted. Upon certification by the president and secretary of the senate and by the speaker and chief clerk of the house of representatives as to the respective members thereof, the state comptroller shall audit and the state treasurer shall pay such compensation without legislative enactment. Until otherwise provided by law senators and representatives shall receive one dollar for every ten miles traveled in going to and returning from their place of meeting while the legislature is in session, on the most usual route.
+Until otherwise provided by law, each senator or representative shall be reimbursed from the state treasury for the actual and necessary expenses incurred by him in attending sessions of the general assembly in the sum of ten dollars ($10.00) per day for each day on which the journal of the senate or house respectively shows the presence of such senator or representative. Upon certification by the president and secretary of the senate and by the speaker and chief clerk of the house of representatives as to the respective members thereof, the state comptroller shall approve and the state treasurer shall pay monthly such expense allowance without legislative enactment.
+
+*03 Dec 1970 · Source: Const. of 1875, Art. IV, § 16 (Amended November 3, 1942) (Amended November 3, 1970).*
+
+### Section 17 Limitation on number of legislative employees.
+
+Until otherwise provided by law, the house of representatives shall not employ more than one hundred twenty-five and the senate shall not employ more than seventy-five employees elective, appointive or any other at any time during any session.
+
+*03 Dec 1970 · Source: Const. of 1875, Art. IV, § 16a (Adopted November 8, 1932) (Amended November 3, 1970).*
+
+### Section 18 Appointment of officers of houses — jurisdiction to determine membership — power to make rules, punish for contempt and disorderly conduct and expel members.
+
+Each house shall appoint its own officers; shall be sole judge of the qualifications, election and returns of its own members; may determine the rules of its own proceedings, except as herein provided; may arrest and punish by fine not exceeding three hundred dollars, or imprisonment in a county jail not exceeding ten days, or both, any person not a member, who shall be guilty of disrespect to the house by any disorderly or contemptuous behavior in its presence during its sessions; may punish its members for disorderly conduct; and, with the concurrence of two-thirds of all members elect, may expel a member; but no member shall be expelled a second time for the same cause.
+
+> (1954) Action by person desiring to be candidate for senate at election already held, challenging validity of act apportioning senatorial districts, held moot because senate is the sole judge of qualifications of its members. Priesler v. Doherty, 364 Mo. 596, 265 S.W.2d 404.
+
+> (1970) Each house of General Assembly is the sole judge of the qualifications of its members, including residence, and the court will not intervene. State v. Banks (Mo.), 454 S.W.2d 498.
+
+> (1971) Legislative body of which he is a member has exclusive right to determine elected representative's qualifications to hold or assume office and courts are without jurisdiction to determine issue of removal of residence from district. State v. Hickey (Mo.), 475 S.W.2d 617.
+
+> (1972) In proceeding in prohibition to prohibit respondent election boards from placing the name of intervenor on the primary ballot, held that this section applies when a general election has been held and the person elected presents himself for membership, and in instances after the person has been seated and question as to his qualifications and right to remain a member arises, but primary election controveries are to be decided by the courts. State ex rel. Gralike v. Walsh (Mo.), 483 S.W.2d 70.
+
+> (1974) Held that lieutenant governor has right to preside over senate but is subject to procedural rules of senate while so doing. State v. Cason (Mo.), 507 S.W.2d 405.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 17.*
+
+### Section 19 Legislative privileges — legislative records — legislative proceedings public.
+
+(a) Senators and representatives shall, in all cases except treason, felony, offenses under this Article, or breach of the peace, be privileged from arrest during the session of the general assembly, and for the fifteen days next before the commencement and after the termination of each session; and they shall not be questioned for any speech or debate in either house in any other place.
+(b) Legislative records shall be public records and subject to generally applicable state laws governing public access to public records, including the Sunshine Law. Legislative records include, but are not limited to, all records, in whatever form or format, of the official acts of the general assembly, of the official acts of legislative committees, of the official acts of members of the general assembly, of individual legislators, their employees and staff, of the conduct of legislative business and all records that are created, stored or distributed through legislative branch facilities, equipment or mechanisms, including electronic. Each member of the general assembly is the custodian of legislative records under the custody and control of the member, their employees and staff. The chief clerk of the house or the secretary of the senate are the custodians for all other legislative records relating to the house and the senate, respectively.
+(c) Legislative proceedings, including committee proceedings, shall be public meetings subject to generally applicable law governing public access to public meetings, including the Sunshine Law. Open public meetings of legislative proceedings shall be subject to recording by citizens, so long as the proceedings are not materially disrupted.
+
+*06 Dec 2018 · Source: Const. of 1875, Art. IV, § 12 (Amended November 6, 2018)*
+
+### Section 20 Regular sessions of assembly — quorum — compulsory attendance — public sessions — limitation on power to adjourn.
+
+The general assembly shall meet on the first Wednesday after the first Monday in January following each general election. The general assembly may provide by law for the introduction of bills during the period between the first day of December and the first Wednesday after the first Monday of January.
+The general assembly shall reconvene on the first Wednesday after the first Monday of January after adjournment at midnight on May thirtieth of the preceding year. A majority of the elected members of each house shall constitute a quorum to do business, but a smaller number may adjourn from day to day, and may compel the attendance of absent members in such manner and under such penalties as each house may provide. The sessions of each house shall be held with open doors, except in cases which may require secrecy but not including the final vote on bills, resolutions and confirmations. Neither house shall, without the consent of the other, adjourn for more than ten days at any one time, nor to any other place than that in which the two houses may be sitting.
+
+*08 Dec 1988 · Source: Const. of 1875, Art. IV §§ 18, 19, 20, 23 (Amended November 3, 1970) (Amended November 8, 1988).*
+
+### Section 20(a) Automatic adjournment — tabling of bills, when.
+
+The general assembly shall adjourn at midnight on May thirtieth until the first Wednesday after the first Monday of January of the following year, unless it has adjourned prior thereto. All bills in either house remaining on the calendar after 6:00 p.m. on the first Friday following the second Monday in May are tabled. The period between the first Friday following the second Monday in May and May thirtieth shall be devoted to the enrolling, engrossing, and the signing in open session by officers of the respective houses of bills passed prior to 6:00 p.m. on the first Friday following the second Monday in May.
+The general assembly shall automatically stand adjourned sine die at 6:00 p.m. on the sixtieth calendar day after the date of its convening in special session unless it has adjourned sine die prior thereto.
+
+> (1957) The senate, acting independently, has no power to create committees to sit after final adjournment of the general assembly but both houses of the general assembly acting jointly by resolution may create such committees. State ex rel. Jones v. Atterbury (Mo.), 300 S.W.2d 806.
+
+*08 Dec 1988 · (Adopted November 4, 1952) (Amended November 8, 1960) (Amended November 3, 1970) (Amended November 8, 1988).*
+
+### Section 20(b) Special session, procedure to convene — limitations — automatic adjournment.
+
+Upon the filing with the secretary of state of a petition stating the purpose for which the session is to be called and signed by three-fourths of the members of the senate and three-fourths of the members of the house of representatives, the president pro tem of the senate and the speaker of the house shall by joint proclamation convene the general assembly in special session. The proclamation shall state specifically each matter contained in the petition on which action is deemed necessary. No appropriation bill shall be considered in a special session convened pursuant to this section if in that year the general assembly has not passed the operating budget in compliance with Section 25 of this article.
+The general assembly shall automatically stand adjourned sine die at 6:00 p.m. on the thirtieth calendar day after the date of its convening in special session under this section unless it has adjourned sine die prior thereto.
+
+*08 Dec 1988 · (Adopted November 8, 1988).*
+
+### Section 20(c) Political fundraising prohibited on state property.
+
+No political fundraising activities or political fundraising event by any member of or candidate for the general assembly, including but not limited to the solicitation or delivery of contributions, supporting or opposing any candidate, initiative petition, referendum petition, ballot measure, political party or political committee, shall occur in or on any premises, property or building owned, leased or controlled by the State of Missouri or any agency or division thereof. Any purposeful violation of this section shall be punishable by imprisonment for up to one year or a fine of up to one thousand dollars or both, plus an amount equal to three times the illegal contributions. The Missouri ethics commission or its successor agency is authorized to enforce this section as provided by law.
+
+*06 Dec 2018 · (Adopted November 6, 2018)*
+
+### Section 20(d) Severability provision.
+
+If any provision of sections 2, 3, 7, 19, or 20(c) or the application thereof to anyone or to any circumstance is held invalid, the remainder of those provisions and the application of such provisions to others or other circumstances shall not be affected thereby.
+
+*06 Dec 2018 · (Adopted November 6, 2018)*
+
+### Section 21 Style of laws — bills — limitation on amendments — power of each house to originate and amend bills — reading of bills.
+
+The style of the laws of this state shall be: "Be it enacted by the General Assembly of the State of Missouri, as follows." No law shall be passed except by bill, and no bill shall be so amended in its passage through either house as to change its original purpose. Bills may originate in either house and may be amended or rejected by the other. Every bill shall be read by title on three different days in each house.
+
+> (1975) Held that original purpose was not changed by amendment and that title did clearly express the purpose of senate bill 253 of the second regular session of the 77th general assembly. State ex rel. Toedebusch Transfer, Inc. v. Public Service Commission (Mo.), 520 S.W.2d 38.
+
+> (1999) Failure to read concurrent resolution of the General Assembly, which would have prevented schedule of compensation submitted by Citizen's Commission from becoming effective, by title on three different days in House of Representatives rendered resolution invalid. Weinstock v. Holden, 995 S.W.2d 411 (Mo.banc).
+
+> (2012) Sections in bill whose original purpose was state procurement could not include unrelated provisions on campaign finance, ethics, and possession of keys to the capitol dome. Legends Bank v. State, 361 S.W.3d 383 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, §§ 24, 25, 26.*
+
+### Section 22 Referral of bills to committees — recall of referred bills — records of committees — provision for interim meetings.
+
+Every bill shall be referred to a committee of the house in which it is pending.
+After it has been referred to a committee, one-third of the elected members of the respective houses shall have power to relieve a committee of further consideration of a bill and place it on the calendar for consideration. Each committee shall keep such record of its proceedings as is required by rule of the respective houses and this record and the recorded vote of the members of the committee shall be filed with all reports on bills.
+Each house of the general assembly may provide by rule for such committees of that house as it deems necessary to meet to consider bills or to perform any other necessary legislative function during the interim between the session ending on the thirtieth day of May and the session commencing on the first Wednesday after the first Monday of January.
+
+> (1953) Senate rule requiring total number of members of committee voting favorably on bill and total number voting unfavorably to be filed with committee report held literal compliance with this section. Walters v. City of St. Louis, 364 Mo. 56, 259 S.W.2d 377.
+
+*08 Dec 1988 · Source: Const. of 1945 (Amended November 3, 1970) (Amended November 8, 1988).*
+
+### Section 23 Limitation of scope of bills — contents of titles — exceptions.
+
+No bill shall contain more than one subject which shall be clearly expressed in its title, except bills enacted under the third exception in section 37 of this article and general appropriation bills, which may embrace the various subjects and accounts for which moneys are appropriated.
+
+> (1954) Land Clearance for Redevelopment Law (RSMo, § 99.300 et seq.) in providing for the clearance of blighted and insanitary areas and also for the redevelopment of areas which have been cleared, does not contain more than one subject. State on Inf. Dalton v. Land Clearance for Redev. Auth., 364 Mo. 974, 270 S.W.2d 44.
+
+> (1956) Title reading "An act to make uniform the law of warehouse receipts" held broad enough to embrace not only the substantive law as to relation of warehouseman and depositor but also the procedural law whereby their rights are to be determined. Brown v. Sloan's Moving & Storage Co. (Mo.), 296 S.W.2d 20.
+
+> (1957) Title reading "An Act to make uniform the law of warehouse receipts" held sufficient to include provision of law imposing upon warehouseman burden of establishing excuse for failure or refusal to deliver goods when demanded. Hoerath v. Sloan's Mvg. & Storage Co. (Mo.), 305 S.W.2d 418.
+
+> (1959) An act amending the act providing for the organizaiton of levee districts so as to authorize such districts to cooperate with the federal government in securing and constructing reclamation projects held germane to the original title of the act and consequently not in violation of this provision of the constitution. In re Tarkio-Squaw Levee Dist. of Holt County (Mo.), 319 S.W.2d 660.
+
+> (1959) Title of act reenacting section fixing and limiting fees and commissions of county collectors which stated that it was to repeal and reenact section of chapter entitled collectors and collection of taxes, held sufficient although as reenacted section contained provision making limits applicable to ex officio collectors. State v. Ludwig (Mo.), 322 S.W.2d 841.
+
+> (1960) The title of an act is essentially a part of the act and is itself a legislative expression of the general scope of a bill and it may be looked to as an aid in arriving at the intent of the legislation. In re Tompkins' Estate (Mo.), 341 S.W.2d 866.
+
+> (1962) Provision vesting jurisdiction of appeals from the lower court in cases involving the termination of minimum wages on public works held not within a title reading "an act regulating wages of laborers, mechanics and other workmen employed in the construction of public works." United Brotherhood of Carpenters and Joiners of America v. Industrial Commission (Mo.), 352 S.W.2d 633.
+
+> (1962) Section authorizing board of school district to lease or sell to institution of higher education property not required for use of school district and which could be used for purposes of offering education beyond grade twelve, contained in act "to provide for the formation of junior college districts and to establish the powers and duties of the state board of education with respect thereto", held to be unconstitutional and violative of this section. State ex rel. Normandy School Dist. of St. Louis County v. Small (Mo.), 356 S.W.2d 864.
+
+> (1962) Validity of section 556.280 upheld against charge that title of act violated provisions of this constitutional provision. Title read "An act to repeal section 556.280, RSMo 1949, relating to second and subsequent offenses, and to enact in lieu thereof a new section relating to the same subject and to the trial and punishment of persons convicted of crime following one or more convictions, to be known as section 556.280." State v. Weindorf (Mo.), 361 S.W.2d 806.
+
+> (1975) Held that title of bill which used language "industrial development of blighted, insanitary or underdeveloped industrial areas" was not unconstitutional for failure to clearly express its subject because the bill contained provisions relating to financing and to powers of cities and other public bodies in relation to such functions. State ex rel. Atkinson v. Planned Industrial Expansion Authority (Mo.), 517 S.W.2d 36.
+
+> (1975) Held that bill creating office of medical examiner and abolishing office of coroner did not contain two subjects. State ex rel. McClellan v. Godfrey (Mo.), 519 S.W.2d 4.
+
+> (1975) Held that original purpose was not changed by amendment and that title did clearly express the purpose of senate bill 253 of the second regular session of the 77th general assembly. State ex rel. Toedebusch Transfer, Inc. v. Public Service Commission (Mo.), 520 S.W.2d 38.
+
+> (1984) Title to a bill needs only to indicate general content and amendments need only be germane to the general area indicated by title. Westin Crown Plaza Hotel v. King, 664 S.W.2d 2 (Mo. en banc 1984).
+
+> (1994) Section 2 of H.C.S. for H.B.s 551 and 552 enacted by 87th General Assembly (sections 66.700 to 66.710, RSMo) declared unconstitutional because it violates procedural requirement of section. Bill was found to contain more than one subject. Section was severed from bill and declared void. Hammerschmidt v. Boone County, 877 S.W.2d 98 (Mo. en banc).
+
+> (1997) "Relating to economic development" is an overly broad subject matter for a bill. Carmack v. Director, Missouri Department of Agriculture, 945 S.W.2d 956 (Mo.banc 1997).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 28.*
+
+### Section 24 Printing of bills and amendments.
+
+No bill shall be considered for final passage in either house until it, with all amendments thereto, has been printed and copies distributed among the members. If a bill passed by either house be returned thereto, amended by the other, the house to which the same is returned shall cause the amendment or amendments so received to be printed and copies distributed among the members before final action on such amendments.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, §§ 27, 30.*
+
+### Section 25 Limitation on introduction of bills.
+
+No bill other than an appropriation bill shall be introduced in either house after the sixtieth legislative day unless consented to by a majority of the elected members of each house or the governor shall request a consideration of the proposed legislation by a special message. No appropriation bill shall be taken up for consideration after 6:00 p.m. on the first Friday following the first Monday in May of each year.
+
+*08 Dec 1988 · Source: Const of 1945 (Amended November 3, 1970) (Amended November 8, 1988).*
+
+### Section 26 Legislative journals — demand for yeas and nays — manner and record of vote.
+
+Each house shall publish a journal of its proceedings. The yeas and nays on any question shall be taken and entered on the journal on the motion of any five members. Whenever the yeas and nays are demanded, or required by this constitution, the whole list of members shall be called and the names of the members voting yea and nay and the absentees shall be entered in the journal.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 42.*
+
+### Section 27 Concurrence in amendments — adoption of conference committee reports — final passage of bills.
+
+No amendments to bills by one house shall be concurred in by the other, nor shall reports of committees of conference be adopted in either house, nor shall a bill be finally passed, unless a vote by yeas and nays be taken and a majority of the members elected to each house be recorded as voting favorably.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, §§ 31, 32.*
+
+### Section 28 Form of reviving, reenacting and amending bills.
+
+No act shall be revived or reenacted unless it shall be set forth at length as if it were an original act. No act shall be amended by providing that words be stricken out or inserted, but the words to be stricken out, or the words to be inserted, or the words to be stricken out and those inserted in lieu thereof, together with the act or section amended, shall be set forth in full as amended.
+
+> (1959) Amendment of bill reenacting section prescribing and limiting fees of county collectors which made limits applicable to ex officio county collectors (theretofore excluded by the section) held not to change purpose of bill. State v. Ludwig (Mo.), 322 S.W.2d 841.
+
+> (1967) Legislative intent is no substitute for legislative enactment, particularly when the criminal law is concerned, and the enactment must be broad enough to describe the offenses covered by the repealed provisions if the ascribed intent is to be fulfilled. State v. Eye (Mo.), 415 S.W.2d 729.
+
+> (1975) Where act is to be amended by addition or deletion of words, that act as amended must be set forth in full and language that requires a change wherever it appears in a statute without setting out that section in full violates this section. State ex rel. McNary v. Stussie (Mo.), 518 S.W.2d 630.
+
+> (1995) Section 1.205, RSMo, sets out the intention of the general assembly that the Missouri courts should read all Missouri statutes in pari materia with section. Constitution does not prohibit general assembly from adopting rules of construction. Connor v. Monkem Co., Inc., 898 S.W.2d 89 (Mo. en banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, §§ 33, 34.*
+
+### Section 29 Effective date of laws — exceptions — procedure in emergencies and upon recess.
+
+No law passed by the general assembly, except an appropriation act, shall take effect until ninety days after the adjournment of the session in either odd-numbered or even-numbered years at which it was enacted. However, in case of an emergency which must be expressed in the preamble or in the body of the act, the general assembly by a two-thirds vote of the members elected to each house, taken by yeas and nays may otherwise direct; and further except that, if the general assembly recesses for thirty days or more it may prescribe by joint resolution that laws previously passed and not effective shall take effect ninety days from the beginning of the recess.
+
+> (1952) Words "laws previously passed and not effective" in last proviso includes those bills passed by both houses of the general assembly, and signed by the presiding officers thereof, prior to the beginning of a recess, even though such bills have not been approved by the governor prior to the recess. State ex rel. Moore v. Toberman, 363 Mo. 245, 250 S.W.2d 701.
+
+> (1991) "Later in time" rule of statutory construction does not apply when sections are passed in the same legislative session and neither has an emergency clause. Berdella v. Pender, 821 S.W.2d 846 (Mo.banc 1991).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 36 (Amended November 3, 1970).*
+
+### Section 30 Governor's duty as to bills — time limitations — failure to return, bill becomes law.
+
+Every bill which shall have passed the house of representatives and the senate shall be presented to and considered by the governor, and, within fifteen days after presentment, he shall return such bill to the house in which it originated endorsed with his approval or accompanied by his objections. If the bill be approved by the governor it shall become a law. When the general assembly adjourns, or recesses for a period of thirty days or more, the governor shall return within forty-five days any bill to the office of the secretary of state with his approval or reasons for disapproval. If any bill shall not be returned by the governor within the time limits prescribed by this section it shall become law in like manner as if the governor had signed it.
+
+*04 Sep 1986 · Source: Const. of 1875, Art. IV, § 38, Art. V, § 12 (Amended August 5, 1986).*
+
+### Section 31 Governor's duty as to bills — time limitations — failure to return, bill becomes law.
+
+Every bill which shall have passed the house of representatives and the senate shall be presented to and considered by the governor, and, within fifteen days after presentment, he shall return such bill to the house in which it originated endorsed with his approval or accompanied by his objections. If the bill be approved by the governor it shall become a law. When the general assembly adjourns, or recesses for a period of thirty days or more, the governor shall return within forty-five days any bill to the office of the secretary of state with his approval or reasons for disapproval. If any bill shall not be returned by the governor within the time limits prescribed by this section it shall become law in like manner as if the governor had signed it.
+
+*04 Sep 1986 · Source: Const. of 1875, Art. IV, § 38, Art. V, § 12 (Amended August 5, 1986).*
+
+### Section 32 Vetoed bills reconsidered, when.
+
+Every bill presented to the governor and returned with his objections shall stand as reconsidered in the house to which it is returned. If the governor returns any bill with his objections on or after the fifth day before the last day upon which a session of the general assembly may consider bills, the general assembly shall automatically reconvene on the first Wednesday following the second Monday in September for a period not to exceed ten calendar days for the sole purpose of considering bills returned by the governor. The objections of the governor shall be entered upon the journal and the house shall proceed to consider the question pending, which shall be in this form: "Shall the bill pass, the objections of the governor thereto notwithstanding?" The vote upon this question shall be taken by yeas and nays and if two-thirds of the elected members of the house vote in the affirmative the presiding officer of that house shall certify that fact on the roll, attesting the same by his signature, and send the bill with the objections of the governor to the other house, in which like proceedings shall be had in relation thereto. The bill thus certified shall be deposited in the office of the secretary of state as an authentic act and shall become a law.
+
+> (2016) Only bills returned by the Governor on or after the fifth day before the end of a regular legislative session can be taken up during the September veto session. Pestka v. State, 493 S.W.3d 405 (Mo.).
+
+*08 Dec 1988 · Source: Const. of 1875, Art. IV, § 39 (Amended November 3, 1970) (Amended November 7, 1972) (Amended November 8, 1988).*
+
+### Section 34 Revision of general statutes — limitation on compensation.
+
+In the year 1949 and at least every ten years thereafter all general statute laws shall be revised, digested and promulgated as provided by law. No senator or representative shall receive any compensation in addition to his salary as a member of the general assembly for any services rendered in connection with said revision.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 41 (Adopted November 8, 1932).*
+
+### Section 35 Committee on legislative research.
+
+There shall be a permanent joint committee on legislative research, selected by and from the members of each house as provided by law. The general assembly, by a majority vote of the elected members, may discharge any or all of the members of the committee at any time and select their successors. The committee may employ a staff as provided by law. The committee shall meet when necessary to perform the duties, advisory to the general assembly, assigned to it by law. The members of the committee shall receive no compensation in addition to their salary as members of the general assembly, but may receive their necessary expenses while attending the meetings of the committee.
+
+> (1996) Section limits committee to performance of duties that are advisory to general assembly. Fiscal note summary on initiative petitions is not advisory to general assembly. Thompson v. Legislative Research, 932 S.W.2d 392 (Mo.banc 1996).
+
+> (2011) Section requires formation and meetings of committee, and provides that its duties to the general assembly are advisory only; the legislature has no authority to increase the committee's powers beyond those listed in the Constitution. Ocello v. Koster, 354 S.W.3d 187 (Mo. banc).
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 36 Payment of state revenues and receipts to treasury — limitation of withdrawals to appropriations — order of appropriations.
+
+All revenue collected and money received by the state shall go into the treasury and the general assembly shall have no power to divert the same or to permit the withdrawal of money from the treasury, except in pursuance of appropriations made by law. All appropriations of money by successive general assemblies shall be made in the following order:
+First: For payment of sinking fund and interest on outstanding obligations of the state.
+Second: For the purpose of public education.
+Third: For the payment of the cost of assessing and collecting the revenue.
+Fourth: For the payment of the civil lists.
+Fifth: For the support of eleemosynary and other state institutions.
+Sixth: For public health and public welfare.
+Seventh: For all other state purposes.
+Eighth: For the expense of the general assembly.
+
+> (1976) Transfer of appropriations by commissioner of administration with the authorization of the fiscal affairs committee is unconstitutional and violates Art. III, § 36, Const. of Mo. State ex inf. Danforth v. Merrell (Mo.), 530 S.W.2d 209.
+
+> (2019) Restricting appropriations funding for the salary of specific administrative law judge based on that judge's date of appointment violates the separation of powers; the General Assembly may not compel an executive department, directly or indirectly, to fire a specific employee. Rebman v. Parson, 576 S.W.3d 605 (Mo.).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 43.*
+
+### Section 37 Limitation on state debts and bond issues.
+
+The general assembly shall have no power to contract or authorize the contracting of any liability of the state, or to issue bonds therefor, except (1) to refund outstanding bonds, the refunding bonds to mature not more than twenty-five years from date, (2) on the recommendation of the governor, for a temporary liability to be incurred by reason of unforeseen emergency or casual deficiency in revenue, in a sum not to exceed one million dollars for any one year and to be paid in not more than five years from its creation, and (3) when the liability exceeds one million dollars, the general assembly as on constitutional amendments, or the people by the initiative, may also submit a measure containing the amount, purpose and terms of the liability, and if the measure is approved by a majority of the qualified electors of the state voting thereon at the election, the liability may be incurred, and the bonds issued therefor must be retired serially and by installments within a period not exceeding twenty-five years from their date. Before any bonds are issued under this section the general assembly shall make adequate provision for the payment of the principal and interest, and may provide an annual tax on all taxable property in an amount sufficient for the purpose.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 44.*
+
+### Section 37(a) State building bond issue authorized — interest rate — payment from income tax and other funds.
+
+In addition to the exceptions made in Section 37, the General Assembly shall have power to contract, or to authorize the contracting of, a debt or liability on behalf of the state, and to issue bonds or other evidence of indebtedness therefor, not exceeding in the aggregate Seventy-five Million Dollars ($75,000,000), for the purpose of repairing, remodeling or rebuilding, or of repairing, remodeling and rebuilding state buildings and properties at all or any of the penal, correctional and reformatory institutions of this state, the state training schools, state hospitals and state schools and other eleemosynary institutions of this state, and institutions of higher education of this state, and for building additions thereto and additional buildings where necessary, and for furnishing and equipping any such improvements.
+Such bonds shall bear interest at a rate not exceeding three percentum (3%) per annum, payable semiannually, except that the first interest payable thereon may be paid not later than one year from the date of issuance, and maturing not later than twenty-five years from their date. Such bonds shall be issued by the State Board of Fund Commissioners in such amount, from time to time, as may be necessary to carry on the building program as determined by the General Assembly. The proceeds of the sale or sales of any bonds issued hereunder shall be paid into the state treasury and be credited to a fund to be designated the "Second State Building Fund."
+The proceeds of the sale of the bonds herein authorized shall be expended for the purposes for which the bonds are hereinabove authorized to be issued.
+The bonds and the interest thereon shall be paid out of the Second State Building Bond Interest and Sinking Fund, which is hereby created. Upon the issuance of such bonds, or any portion thereof, the State Board of Fund Commissioners shall notify the State Comptroller of the amount of money required, in the remaining portion of the fiscal year during which said bonds shall have been issued, for the payment of interest on the said bonds, and of the amount of money required for the payment of interest on the said bonds in the next succeeding fiscal year, and for the establishment and maintenance of a sinking fund to pay said bonds as they mature. Thereafter, within thirty days after the beginning of each fiscal year, the State Board of Fund Commissioners shall notify the State Comptroller of the amount of money required for the payment of interest on the said bonds in the next succeeding fiscal year and for the maintenance of the sinking fund to pay said bonds maturing in such next succeeding fiscal year.
+It shall be the duty of the State Comptroller to transfer, at least monthly, the proceeds of the state income tax, after deducting therefrom the proportionate part thereof appropriated for the support of the free public schools, to the credit of the Second State Building Bond Interest and Sinking Fund until there shall have been transferred to said fund the amount so certified to him by the State Board of Fund Commissioners, as hereinabove provided.
+If at any time after the issuance of any of the said bonds, it shall become apparent to the State Comptroller that the proceeds of the state income tax, as aforesaid, will not be sufficient for the payment of the principal and interest maturing and accruing on said bonds during the next succeeding fiscal year, a direct tax shall be levied upon all taxable tangible property in the state for the payment of said bonds and the interest that will accrue thereon. In such event, it shall be the duty of the State Comptroller annually, on or before the first day of July, to determine the rate of taxation necessary to be levied upon all taxable tangible property within the state to raise the amount of money needed to pay the principal of and interest on such bonds maturing and accruing in the next succeeding fiscal year, taking into consideration available funds, delinquencies and costs of collection. The State Comptroller shall annually certify the rate of taxation so determined to the county clerk of each county and to the comptroller or other officer in the city of St. Louis whose duty it shall be to make up and certify the tax books wherein are extended the ad valorem state taxes. It shall be the duty of said clerks and the said comptroller or other proper officer in the city of St. Louis to extend upon the tax books the taxes to be collected and to certify the same to the collectors of the revenue of their respective counties and of the city of St. Louis, who shall collect such taxes at the same time and in the same manner and by the same means as are now or may hereafter be provided by law for the collection of state and county taxes, and to pay the same into the state treasury for the credit of the Second State Building Bond Interest and Sinking Fund.
+If at any time the balance in said Second State Building Bond Interest and Sinking Fund should be insufficient to pay accruing interest or maturing principal of said bonds, the Board of Fund Commissioners shall direct the State Comptroller to transfer from the State Revenue Fund to said Second State Building Bond Interest and Sinking Fund the sum required for said purposes, or either of them, and said sum so transferred shall be reimbursed to the State Revenue Fund whenever there may be a balance in the Second State Building Bond Interest and Sinking Fund in excess of the amount which may then be needed to meet the accruing interest and maturing principal of the said bonds during one fiscal year next succeeding.
+All funds paid into the Second State Building Bond Interest and Sinking Fund shall be and stand appropriated without legislative action to the payment of principal and interest of the said bonds, there to remain until paid out in discharge of the principal of said bonds and the interest accruing thereon, and no part of such fund shall be used for any other purpose so long as any of the principal of said bonds and the interest thereon shall be unpaid, provided, however, that nothing herein contained shall prevent the reimbursement from the said Second State Building Bond Interest and Sinking Fund of the State Revenue Fund, as hereinabove provided.
+The General Assembly shall enact such laws as may be necessary to carry this amendment into effect.
+
+*23 Feb 1956 · (Adopted at special election held January 24, 1956).*
+
+### Section 37(b) Water pollution control fund established — bonds authorized — funds to stand appropriated.
+
+The general assembly may authorize the contracting of an indebtedness on behalf of the state of Missouri and the issuance of bonds or other evidences of indebtedness not exceeding in the aggregate the sum of one hundred fifty million dollars for the purpose of providing funds for use in this state for the protection of the environment through the control of water pollution. The bonds shall be issued by the state board of fund commissioners from time to time and in such amounts as may be necessary to carry on a program by the water pollution board of the state as determined by the general assembly for the planning, financing and constructing sewage treatment facilities by any county, municipality, sewer district, or any combination of the same and the board of fund commissioners shall offer such bonds at public sale, and shall provide such method as it may deem necessary for the advertisement of the sale of each issue of said bonds before the same are sold.
+The proceeds of the sale or sales of any bonds issued hereunder shall be paid into the state treasury and be credited to a fund to be designated the "Water Pollution Control Fund".
+The bonds shall be retired serially and by installments within a period not to exceed twenty-five years from their date of issue and shall bear interest at a rate or rates not exceeding the rate permitted by law.
+The proceeds of the sale of the bonds herein authorized shall be expended for the purposes for which the bonds are hereinabove authorized to be issued.
+The bonds and the interest thereon shall be paid out of the "Water Pollution Control Bond and Interest Fund", which is hereby created, and the payment of said bonds and the interest thereon shall be secured by a pledge of the full faith, credit and resources of the state of Missouri. Upon the issuance of such bonds, or any portion thereof, the state board of fund commissioners shall notify the state comptroller of the amount of money required, in the remaining portion of the fiscal year during which said bonds shall have been issued, for the payment of interest on the said bonds, and of the amount of money required for the payment of interest on the said bonds in the next succeeding fiscal year, and to pay said bonds as they mature. Thereafter, within thirty days after the beginning of each fiscal year, the state board of fund commissioners shall notify the state comptroller of the amount of money required for the payment of interest on the said bonds in the next succeeding fiscal year and to pay said bonds maturing in such next succeeding fiscal year.
+It shall be the duty of the state comptroller to transfer, at least monthly, from the state revenue fund, after deducting therefrom the proportionate part thereof appropriated for the support of the free public schools, and to credit to the water pollution control bond and interest fund such sum as may be necessary from time to time until there shall have been transferred to said fund the amount so certified to him by the state board of fund commissioners, as hereinabove provided.
+If at any time after the issuance of any of the said bonds, it shall become apparent to the state comptroller that the funds available in the state revenue fund, as aforesaid, will not be sufficient for the payment of the sinking fund and interest on outstanding obligations of the state and for the purpose of public education and the principal and interest maturing and accruing on said bonds during the next succeeding fiscal year, a direct tax shall be levied upon all taxable tangible property in the state for the payment of said bonds and the interest that will accrue thereon. In such event, it shall be the duty of the state comptroller annually, on or before the first day of July, to determine the rate of taxation necessary to be levied upon all taxable tangible property within the state to raise the amount of money needed to pay the principal of and interest on such bonds maturing and accruing in the next succeeding fiscal year, taking into consideration available funds, delinquencies and costs of collection. The state comptroller shall annually certify the rate of taxation so determined to the county clerk of each county and to the comptroller or other officer in the city of St. Louis whose duty it shall be to make up and certify the tax books wherein are extended the ad valorem state taxes. It shall be the duty of said clerks and the said comptroller or other proper officer in the city of St. Louis to extend upon the tax books the taxes to be collected and to certify the same to the collectors of the revenue of their respective counties and of the city of St. Louis, who shall collect such taxes at the same time and in the same manner and by the same means as are now or may hereafter be provided by law for the collection of state and county taxes, and to pay the same into the state treasury for the credit of the water pollution control bond and interest fund.
+All funds paid into the water pollution control bond and interest fund shall be and stand appropriated without legislative action to the payment of principal and interest of the said bonds, there to remain until paid out in discharge of the principal of said bonds and the interest accruing thereon, and no part of such fund shall be used for any other purpose so long as any of the principal of said bonds and the interest thereon shall be unpaid.
+The general assembly may enact such laws as may be necessary to carry this amendment into effect.
+
+*04 Nov 1971 · (Adopted October 5, 1971).*
+
+### Section 37(c) Additional water pollution control bonds authorized — procedure.
+
+The general assembly may authorize the contracting of an indebtedness on behalf of the state of Missouri and the issuance of bonds or other evidences of indebtedness not exceeding in the aggregate the sum of two hundred million dollars for the purpose of providing funds for use in this state for the protection of the environment through the control of water pollution. The bonds shall be issued by the State Board of Fund Commissioners from time to time and in such amounts as may be necessary to carry on a program by the Clean Water Commission of the state as determined by the General Assembly for the planning, financing and constructing sewage treatment facilities by any county, municipality, sewer district, or any combination of the same and the Board of Fund Commissioners shall offer such bonds at public sale, and shall provide such method as it may deem necessary for the advertisement of the sale of each issue of said bonds before the same are sold.
+The proceeds of the sale or sales of any bonds issued hereunder shall be paid into the state treasury and be credited to a fund to be designated the "Water Pollution Control Fund."
+The bonds shall be retired serially and by installments within a period not to exceed twenty-five years from their date of issue and shall bear interest at a rate or rates not exceeding the rate permitted by law.
+The proceeds of the sale of the bonds herein authorized shall be expended for the purposes for which the bonds are hereinabove authorized to be issued.
+The bonds and the interest thereon shall be paid out of the Water Pollution Control Bond and Interest Fund, which is hereby created, and the payment of said bonds and the interest thereon shall be secured by a pledge of the full faith, credit and resources of the State of Missouri.
+Upon the issuance of such bonds, or any portion thereof, the State Board of Fund Commissioners shall notify the Commissioner of Administration of the amount of money required, in the remaining portion of the fiscal year during which said bonds shall have been issued, for the payment of interest on the said bonds, and of the amount of money required for the payment of interest on the said bonds in the next succeeding fiscal year, and to pay said bonds as they mature. Thereafter, within thirty days after the beginning of each fiscal year, the State Board of Fund Commissioners shall notify the Commissioner of Administration of the amount of money required for the payment of interest on the said bonds in the next succeeding fiscal year and to pay said bonds maturing in such next succeeding fiscal year.
+It shall be the duty of the Commissioner of Administration to transfer at least monthly, from the State Revenue Fund, after deducting therefrom the proportionate part thereof appropriated for the support of the free public schools, and to credit to the Water Pollution Control Bond and Interest Fund such sum as may be necessary from time to time until there shall have been transferred to said fund the amount so certified to him by the State Board of Fund Commissioners, as hereinabove provided.
+If at any time after the issuance of any of the said bonds, it shall become apparent to the Commissioner of Administration that the funds available in the State Revenue Fund, as aforesaid, will not be sufficient for the payment of the sinking fund and interest on outstanding obligations of the state and for the purpose of public education and the principal and interest maturing and accruing on said bonds during the next succeeding fiscal year, a direct tax shall be levied upon all taxable tangible property in the state for the payment of said bonds and the interest that will accrue thereon. In such event, it shall be the duty of the Commissioner of Administration annually, on or before the first day of July, to determine the rate of taxation necessary to be levied upon all taxable tangible property within the state to raise the amount of money needed to pay the principal of and interest on such bonds maturing and accruing in the next succeeding fiscal year, taking into consideration available funds, delinquencies and costs of collection. The Commissioner of Administration shall annually certify the rate of taxation so determined to the county clerk of each county to the comptroller or other officer in the city of St. Louis whose duty it shall be to make up and certify the tax books wherein are extended the ad valorem state taxes. It shall be the duty of said clerks and the said comptroller or other proper officer in the city of St. Louis to extend upon the tax books the taxes to be collected and to certify the same to the collectors of the revenue of their respective counties and of the city of St. Louis, who shall collect such taxes at the same time and in the same manner and by the same means as are now or may hereafter be provided by law for the collection of state and county taxes, and to pay the same into the state treasury for the credit of the "Water Pollution Control Bond and Interest Fund."
+All funds paid into the Water Pollution Control Bond and Interest Fund shall be and stand appropriated without legislative action to the payment of principal and interest of the said bonds, there to remain until paid out in discharge of the principal of said bonds and the interest accruing thereon, and no part of such fund shall be used for any other purpose so long as any of the principal of said bonds and the interest thereon shall be unpaid.
+The General Assembly may enact such laws as may be necessary to carry this amendment into effect.
+
+*06 Dec 1979 · (Adopted November 6, 1979).*
+
+### Section 37(d) Third state building bond issue authorized — procedures — use of funds.
+
+The general assembly may authorize the contracting of an indebtedness on behalf of the state of Missouri and the issuance of bonds or other evidences of indebtedness in the aggregate sum of six hundred million dollars for the purpose of providing funds for improvements of state buildings and property, including state parks, including but not limited to repairing, remodeling, or rebuilding buildings and properties of the state, providing additions thereto or additional buildings where necessary, and for planning, furnishing, equipping and landscaping such improvements and for expenditures for state parks as specified in section 253.040, RSMo, and for grants administered pursuant to sections 204.031, RSMo, 192.600 through 192.620, RSMo, 68.010 to 68.070, RSMo, and 278.080, RSMo, and for construction and improvement of rail and highway access within this state.
+The bonds shall be issued by the state board of fund commissioners as necessary to carry on the program of financing, planning, and constructing the improvements specified in this section as determined by the general assembly, provided that the total amount of the bonds authorized hereunder shall be issued and the same amount appropriated by the general assembly by December 31, 1987. The board of fund commissioners shall offer the bonds at public sale, and shall provide such method as it deems necessary for the advertisement of the sale of each issue of the bonds before they are sold. The proceeds of the sale of the bonds issued hereunder shall be paid into the state treasury and credited to a fund to be designated the "Third State Building Fund" and shall be expended only in the manner provided in this section for the purposes for which the bonds are hereinbefore authorized to be issued. The bonds shall be retired serially and by installments within a period not to exceed twenty-five years from their date of issue and shall bear interest at a rate or rates not exceeding the rate permitted by law. The bonds and the interest thereon shall be paid out of the "Third State Building Bond Interest and Sinking Fund", which is hereby created, and the payment of the bonds and the interest thereon shall be secured by a pledge of the full faith, credit and resources of the state of Missouri. Upon the issuance of the bonds, or any portion thereof, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required, in the remaining portion of the fiscal year during which the bonds are issued, for the payment of interest on the bonds, and of the amount of money required for the payment of interest on the bonds in the next succeeding fiscal year, and to pay the bonds as they mature. Thereafter, within thirty days after the beginning of each fiscal year, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required for the payment of interest on the bonds in the next succeeding fiscal year and to pay the bonds maturing in such next succeeding fiscal year.
+The commissioner of administration shall transfer at least monthly from the state revenue fund, after deducting therefrom the proportionate part thereof appropriated for the support of the free public schools, to the credit of the third state building bond interest and sinking fund such sum as may be necessary from time to time until there is transferred to the fund the amount certified to him by the state board of fund commissioners, as hereinbefore provided.
+If at any time after the issuance of the bonds it becomes apparent to the commissioner of administration that the funds available in the state revenue fund will not be sufficient for the payment of the third state building bond interest and sinking fund and interest on outstanding obligations of the state, and for the purpose of public education, and the principal and interest maturing on the bonds issued hereunder during the next succeeding fiscal year, a direct tax shall be levied upon all taxable tangible property in the state for the payment of the bonds and the interest that will accrue thereon. In such event, the commissioner of administration shall annually, on or before the first day of July, determine the rate of taxation necessary to be levied upon all taxable tangible property within the state to raise the amount of money needed to pay the principal and interest on such bonds maturing and accruing in the next succeeding fiscal year, taking into consideration available funds, delinquencies and costs of collection. The commissioner of administration shall annually certify the rate of taxation so determined to the county clerk of each county and to the comptroller or other officer in the city of St. Louis whose duty it is to make up and certify the tax books wherein are extended the ad valorem state taxes. The clerks and the comptroller, or other proper officer in the city of St. Louis, shall extend upon the tax books the taxes to be collected and shall certify the same to the collectors of the revenue of their respective counties and of the city of St. Louis, who shall collect such taxes at the same time and in the same manner and by the same means as are now or may hereafter be provided by law for the collection of state and county taxes, and pay the same into the state treasury to the credit of the third state building bond interest and sinking fund.
+All funds paid into the third state building bond interest and sinking fund shall be and stand appropriated without legislative action to the payment of principal and interest of the bonds, there to remain until paid out in discharge of the principal of the bonds and the interest accruing thereon, and no part of such fund shall be used for any other purpose so long as any of the principal of the bonds and interest thereon are unpaid.
+The general assembly may appropriate in any year such amount from the third state building fund as it determines to be necessary for the purposes specified herein. Any amount so appropriated in any year shall be distributed according to the following guidelines:
+(1) A minimum of 20% of the total amount of appropriations from the third state building fund in any year shall be used for the repair, replacement and maintenance of state buildings and facilities as determined by the general assembly;
+(2) 15% of the total amount of appropriations from the third state building fund in any year shall be allocated for the purpose of stimulating economic development in this state and shall be distributed as follows:
+(a) 20% of the appropriations under this subdivision shall be appropriated to the department of highways and transportation for highway purposes;
+(b) 20% of the appropriations under this subdivision shall be appropriated to the office of the governor or a department so designated by the governor for transportation purposes other than highways and for capital improvement expenditures as they relate to projects relating to chapter 68, RSMo;
+(c) 20% of the appropriations under this subdivision shall be appropriated to fund grants administered pursuant to section 204.031, RSMo;
+(d) 26.6% of the appropriations under this subdivision shall be appropriated to fund grants administered pursuant to section 278.080, RSMo;
+(e) 13.4% of the appropriations under this subdivision shall be appropriated to fund grants administered pursuant to sections 192.600 through 192.620, RSMo;
+(3) A maximum of 65% of the total amount appropriated from the third state building fund in any year shall be distributed among the following departments and agencies of state government as follows:
+(a) 2.7% of the appropriations under this subdivision shall be appropriated to the department of agriculture;
+(b) .2% of the appropriations under this subdivision shall be appropriated to the department of elementary and secondary education;
+(c) 36.3% of the appropriations under this subdivision shall be appropriated to the department of higher education;
+(d) 17.0% of the appropriations under this subdivision shall be appropriated to the department of mental health;
+(e) 15.1% of the appropriations under this subdivision shall be appropriated to the department of natural resources for state parks and historic preservation;
+(f) 1.9% of the appropriations under this subdivision shall be appropriated to the department of public safety;
+(g) 18.4% of the appropriations under this subdivision shall be appropriated to the department of corrections and human resources;
+(h) 3.4% of the appropriations under this subdivision shall be appropriated to the department of social services;
+(i) 5.0% of the appropriations under this subdivision shall be appropriated to the board of public buildings for planning for capital improvement projects to be funded from the third state building fund.
+The general assembly may enact such laws as may be necessary to carry this amendment into effect. With the exception of those projects involving the repair, replacement or maintenance of state buildings or facilities for which at least 20% of any year's appropriations from the fund are reserved as provided above, no project proposed to be funded from the third state building fund shall be commenced unless the general assembly shall first have specifically authorized such undertaking by passage of legislation apart from its ordinary appropriation process. The additional revenue provided by this section shall not be part of "total state revenue" in sections 17 and 18 of article X of this constitution. The expenditure of this additional revenue shall not be an "expense of state government" under section 20 of article X of this constitution.
+
+*08 Jul 1982 · (Adopted June 8, 1982).*
+
+### Section 37(e) Water pollution control, improvement of drinking water systems and storm water control — amount of indebtedness, bonds authorized, procedure.
+
+1. The general assembly may authorize the contracting of an indebtedness on behalf of the state of Missouri and the issuance of bonds or other evidences of indebtedness not exceeding in the aggregate the sum of two hundred seventy-five million dollars for the purpose of providing funds for use in this state for the control of water pollution and improvements to drinking water systems, including the establishment of water supply hook-ups from unincorporated areas of any county to water supplies, whether or not a particular county as a whole is classified as rural, and for storm water control, through grants and loans administered by the clean water commission and the department of natural resources pursuant to law. The repeal and re-enactment of this section shall not be construed to increase the aggregate amount of indebtedness which may be authorized pursuant to this section above the amount authorized pursuant to this section immediately prior to such repeal and re-enactment. The bonds shall be issued by the state board of fund commissioners from time to time and in such amounts as may be necessary to carry on the program of the clean water commission and the department of natural resources as determined by the general assembly for the financing and constructing of these improvements by any county, municipality, sewer district, water district, or any combination of the same. The board of fund commissioners shall offer such bonds at public sale, and shall provide such method as it may deem necessary for the advertisement of the sale of each issue of bonds before such bonds are sold. The proceeds of the sale or sales of any bonds issued hereunder shall be paid into the state treasury and be credited to a fund to be designated the water pollution control fund. The bonds shall be retired serially and by installments within a period not to exceed twenty-five years from their date of issue and shall bear interest at a rate or rates not exceeding the rate permitted by law. The proceeds of the sale of the bonds herein authorized shall be expended for the purposes for which the bonds are hereinabove authorized to be issued.
+2. The bonds and the interest thereon shall be paid out of the "Water Pollution Control Bond and Interest Fund", which is hereby created, and the payment of such bonds and the interest thereon shall be secured by a pledge of the full faith, credit and resources of the state of Missouri. Upon the issuance of such bonds, or any portion thereof, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required, in the remaining portion of the fiscal year during which such bonds shall have been issued, for the payment of interest on the bonds, and of the amount of money required for the payment of interest on the bonds in the next succeeding fiscal year, and to pay such bonds as they mature. Thereafter, within thirty days after the beginning of each fiscal year, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required for the payment of interest on the bonds in the next succeeding fiscal year and to pay such bonds maturing in the next succeeding fiscal year.
+3. It shall be the duty of the commissioner of administration to transfer at least monthly, from the state general revenue fund, after deducting therefrom the proportionate part thereof appropriated for the support of the free public schools, and to credit to the water pollution control bond and interest fund such sum as may be necessary from time to time until there shall have been transferred to such fund the amount so certified to the commissioner of administration by the state board of fund commissioners, as provided in this section.
+4. If at any time after the issuance of any of the bonds, it shall become apparent to the commissioner of administration that the funds available in the state general revenue fund will not be sufficient for the payment of the sinking fund and interest on outstanding obligations of the state and for the purpose of public education and the principal and interest maturing and accruing on the bonds during the next succeeding fiscal year, a direct tax shall be levied upon all taxable tangible property in the state for the payment of such bonds and the interest that will accrue thereon. In such event, it shall be the duty of the commissioner of administration annually, on or before the first day of July, to determine the rate of taxation necessary to be levied upon all taxable tangible property within the state to raise the amount of money needed to pay the principal of and interest on such bonds maturing and accruing in the next succeeding fiscal year, taking into consideration available funds, delinquencies and costs of collection. The commissioner of administration shall annually certify the rate of taxation so determined to the county clerk of each county to the comptroller or other officer in the city of St. Louis whose duty it shall be to make up and certify the tax books wherein are extended the ad valorem state taxes. It shall be the duty of such clerks and the comptroller or other proper officer in the city of St Louis to extend upon the tax books the taxes to be collected and to certify the same to the collectors of the revenue of their respective counties and of the city of St. Louis, who shall collect such taxes at the same time and in the same manner and by the means as are now or may hereafter be provided by law for the collection of state and county taxes, and to pay the same into the state treasury for the credit of the water pollution control bond and interest fund.
+5. All funds paid into the water pollution control bond and interest fund shall be and stand appropriated without legislative action to the payment of principal and interest of the bonds, there to remain until paid out in discharge of the principal of such bonds and the interest accruing thereon, and no part of such fund shall be used for any other purpose so long as any of the principal of such bonds and the interest thereon shall be unpaid. The general assembly may appropriate in any year such amount from the water pollution control fund as it determines to be necessary for the purposes specified herein. However, such appropriations may not exceed fifty million dollars, in the aggregate, for the purpose of providing rural water and sewer grants, including grants for the establishment of water supply hook-ups from unincorporated areas of any county to water supplies, whether or not a particular county as a whole is classified as rural, administered by the department of natural resources pursuant to law, and may not exceed twenty-five million dollars, in the aggregate, for the purpose of storm water control. The general assembly may enact such laws as may be necessary to carry this amendment into effect.
+
+*03 Dec 1998 · (Adopted November 8, 1988) (Amended November 3, 1998).*
+
+### Section 37(f) Fourth state building bond and interest fund created — bond issue authorized, procedure — use of funds.
+
+1. The general assembly may authorize the contracting of an indebtedness on behalf of the state of Missouri and the issuance of bonds or other evidences of indebtedness not exceeding in the aggregate the sum of two hundred fifty million dollars for the purpose of providing funds for rebuilding buildings of institutions of higher education including public community colleges, the department of corrections and the division of youth services, providing additions thereto or additional buildings where necessary, for land acquisition, for construction or purchase of buildings, and for planning, furnishing, equipping and landscaping such improvements and buildings. The bonds shall be issued by the state board of fund commissioners from time to time and in such amounts as may be necessary as determined by the general assembly for such purposes. The board of fund commissioners shall offer such bonds at public sale, and shall provide such method as it may deem necessary for the advertisement of the sale of each issue of bonds before such bonds are sold. The proceeds of the sale or sales of any bonds issued under this section shall be paid into the state treasury and be credited to a fund to be designated the fourth state building fund. The bonds shall be retired serially and by installments within a period not to exceed twenty-five years from their date of issue and shall bear interest at a rate or rates not exceeding the rate permitted by law. The proceeds of the sale of the bonds authorized in this section shall be expended for the purposes for which the bonds are authorized to be issued.
+2. The bonds and the interest thereon shall be paid out of the "Fourth State Building Bond and Interest Fund", which is hereby created, and the payment of such bonds and the interest thereon shall be secured by a pledge of the full faith, credit and resources of the state of Missouri. Upon the issuance of such bonds, or any portion thereof, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required, in the remaining portion of the fiscal year during which such bonds shall have been issued, for the payment of interest on the bonds, and of the amount of money required for the payment of interest on the bonds in the following fiscal year, and to pay such bonds as they mature. Thereafter, within thirty days after the beginning of each fiscal year, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required for the payment of interest on the bonds in the following fiscal year and to pay such bonds maturing in the following fiscal year.
+3. It shall be the duty of the commissioner of administration to transfer at least monthly, from the state general revenue fund or from any other fund established by law for this purpose, after deducting therefrom the proportionate part thereof appropriated for the support of the free public schools, and to credit to the fourth state building bond and interest fund such sum as may be necessary from time to time until there shall have been transferred to such fund the amount so certified to the commissioner of administration by the state board of fund commissioners, as provided in this section.
+4. If at any time after the issuance of any of the bonds, it shall become apparent to the commissioner of administration that the funds available in the state general revenue fund will not be sufficient for the payment of the sinking fund and interest on outstanding obligations of the state and for the purpose of public education and the principal and interest maturing and accruing on the bonds during the following fiscal year, a direct tax shall be levied upon all taxable tangible property in the state for the payment of such bonds and the interest that will accrue thereon. In such event, it shall be the duty of the commissioner of administration annually, on or before the first day of July, to determine the rate of taxation necessary to be levied upon all taxable tangible property within the state to raise the amount of money needed to pay the principal of and interest on such bonds maturing and accruing in the following fiscal year, taking into consideration available funds, delinquencies and costs of collection. The commissioner of administration shall annually certify the rate of taxation so determined to the county clerk of each county to the comptroller or other officer in the city of St. Louis whose duty it shall be to make up and certify the tax books wherein are extended the ad valorem state taxes. It shall be the duty of such clerks and the comptroller or other proper officer in the city of St. Louis to extend upon the tax books the taxes to be collected and to certify the same to the collectors of the revenue of their respective counties and of the city of St. Louis, who shall collect such taxes at the same time and in the same manner and by the means as are now or may hereafter be provided by law for the collection of state and county taxes, and to pay the same into the state treasury for the credit of the fourth state building bond and interest fund.
+5. All funds paid into the fourth state building bond and interest fund shall be and stand appropriated without legislative action to the payment of principal and interest of the bonds, there to remain until paid out in discharge of the principal of such bonds and the interest accruing thereon, and no part of such fund shall be used for any other purpose so long as any of the principal of such bonds and the interest thereon shall be unpaid. The general assembly may appropriate in any year such amount from the fourth state building fund as it determines to be necessary for the purposes specified in this section. The general assembly may enact such laws as may be necessary to implement the provisions of this section. The additional revenue provided by this section shall not be part of "total state revenue" in sections 17 and 18 of article X of this constitution. The expenditure of such additional revenue shall not be an "expense of state government" under section 20 of article X of this constitution.
+6. The governor or his designated representative shall develop in consultation with the state board of fund commissioners a percentage plan for application by African Americans, women and other minority businesses in all state bond programs. The governor or his designated representative shall develop, in consultation with the state board of fund commissioners, a percentage plan for application by African American, women, and other minority, for employment opportunity in the state construction building plan. Such minority business and employment plans shall be filed with the Missouri minority business advocacy commission.
+
+*01 Sep 1994 · (Adopted August 2, 1994).*
+
+### Section 37(g) Rural water and sewer grants and loans — bonds authorized, procedure — appropriation of funds, limitations.
+
+1. In addition to any other indebtedness authorized under this constitution or the laws of this state, the general assembly may authorize the contracting of an indebtedness on behalf of the state of Missouri and the issuance of bonds or other evidences of indebtedness not exceeding in the aggregate the sum of one hundred million dollars for the purpose of providing rural water and sewer grants and loans, including grants for the establishment of water supply hook-ups in unincorporated areas of any county to water supplies, whether or not a particular county as a whole is classified as rural, through grants and loans administered by the clean water commission and the department of natural resources pursuant to procedures in chapter 640, RSMo, and chapter 644, RSMo. The bonds shall be issued by the state board of fund commissioners from time to time and in such amounts as may be necessary to carry on the program of the clean water commission and the department of natural resources as determined by the general assembly for the financing and constructing of these improvements by any county, municipality, sewer district, water district, or any combination of the same. The board of fund commissioners shall offer such bonds at public sale, and shall provide such method as it may deem necessary for the advertisement of the sale of each issue of bonds before such bonds are sold. The proceeds of the sale or sales of any bonds issued hereunder shall be paid into the state treasury and be credited to the water pollution control bond fund. The bonds shall be retired serially and by installments within a period not to exceed twenty-five years from their date of issue and shall bear interest at a rate or rates not exceeding the rate permitted by law. The proceeds of the sale of the bonds herein authorized shall be expended for the purposes for which the bonds are hereinabove authorized to be issued.
+2. The bonds and the interest thereon shall be paid out of the water pollution control bond and interest fund and the payment of such bonds and the interest thereon shall be secured by a pledge of the full faith, credit and resources of the state of Missouri. Upon the issuance of such bonds, or any portion thereof, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required, in the remaining portion of the fiscal year during which such bonds shall have been issued, for the payment of interest on the bonds in the next succeeding fiscal year, and to pay such bonds as they mature. Thereafter, within thirty days after the beginning of each fiscal year, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required for the payment of interest on the bonds in the next succeeding fiscal year and to pay such bonds maturing in the next succeeding fiscal year.
+3. It shall be the duty of the commissioner of administration to transfer at least monthly, from the state general revenue fund, after deducting therefrom the proportionate part thereof appropriated for the support of the free public schools, and to credit to the water pollution control bond and interest fund such sum as may be necessary from time to time until there shall have been transferred to such fund the amount so certified to the commissioner of administration by the state board of fund commissioners, as provided by this section.
+4. If at any time after the issuance of any of the bonds, it shall become apparent to the commissioner of administration that the funds available in the state general revenue fund will not be sufficient for the payment of the sinking fund and interest on outstanding obligations of the state and for the purpose of public education and the principal and interest maturing and accruing on the bonds during the next succeeding fiscal year, a direct tax shall be levied upon all taxable tangible property in the state for the payment of such bonds and the interest that will accrue thereon. In such event, it shall be the duty of the commissioner of administration annually, on or before the first day of July, to determine the rate of taxation necessary to be levied upon all taxable tangible property within the state to raise the amount of money needed to pay the principal of and interest on such bonds maturing and accruing in the next succeeding fiscal year, taking into consideration available funds, delinquencies and costs of collection. The commissioner of administration shall annually certify the rate of taxation so determined to the county clerk of each county and to the comptroller or other officer in the city of St. Louis whose duty it shall be to make up and certify the tax books wherein are extended the ad valorem state taxes. It shall be the duty of such clerks and the comptroller or other proper officer in the city of St. Louis to extend upon the tax books the taxes to be collected and to certify the same to the collectors of the revenue of their respective counties and of the city of St. Louis, who shall collect such taxes at the same time and in the same manner and by the means as are now or may hereafter be provided by law for the collection of state and county taxes, and to pay the same into the state treasury for the credit of the water pollution control bond and interest fund.
+5. All funds paid into the water pollution control bond and interest fund shall be and stand appropriated without legislative action to the payment of principal and interest of the bonds, there to remain until paid out in discharge of the principal of such bonds and the interest accruing thereon, and no part of such fund shall be used for any other purpose so long as any of the principal of such bonds and the interest thereon shall be unpaid. The general assembly may appropriate in any year such amount from the water pollution control fund as it determines to be necessary for the purposes specified herein. However, such appropriations may not exceed ten million dollars for the purpose of providing rural water and sewer grants and loans, including grants for the establishment of water supply hook-ups from unincorporated areas of any county to water supplies, whether or not a particular county as a whole is classified as rural, administered by the department of natural resources pursuant to law. The general assembly may enact such laws as may be necessary to carry this amendment into effect.
+
+*03 Dec 1998 · (Adopted November 3, 1998).*
+
+### Section 37(h) Storm water control plans, studies and projects — bonds authorized, procedure — storm water control bond and interest fund created, administration (includes St. Louis City and counties of the first classification).
+
+1. In addition to any other indebtedness authorized under this constitution or the laws of this state, the general assembly may authorize the contracting of an indebtedness on behalf of the state of Missouri and the issuance of bonds or other evidences of indebtedness not exceeding in the aggregate the sum of two hundred million dollars for the purpose of providing funds for use in this state for stormwater control plans, studies and projects in counties of the first classification and in any city not within a county, through grants and loans administered by the clean water commission and the department of natural resources pursuant to the procedures in chapter 644, RSMo. The bonds shall be issued by the state board of fund commissioners from time to time and in such amounts as may be necessary to carry on the program of the clean water commission and the department of natural resources as determined by the general assembly for the financing and constructing of these plans, studies and projects by any municipality, public sewer district, sewer district established pursuant to article VI, section 30(a) of the Missouri Constitution, public water district, or any combination of the same located in a county of the first classification or in any city not within a county or by any county of the first classification. The board of fund commissioners shall offer such bonds at public sale, and shall provide such method as it may deem necessary for the advertisement of the sale of each issue of bonds before such bonds are sold. The proceeds of the sale or sales of any bonds issued hereunder shall be paid into the state treasury and be credited to a fund to be designated the "Stormwater Control Fund". The bonds shall be retired serially and by installments within a period not to exceed twenty-five years from their date of issue and shall bear interest at a rate or rates not exceeding the rate permitted by law. The proceeds of the sale of the bonds herein authorized shall be expended for the purposes for which the bonds are hereinabove authorized to be issued.
+2. The bonds and the interest thereon shall be paid out of the "Stormwater Control Bond and Interest Fund", which is hereby created, and the payment of such bonds and the interest thereon shall be secured by a pledge of the full faith, credit and resources of the state of Missouri. Upon the issuance of such bonds, or any portion thereof, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required, in the remaining portion of the fiscal year during which such bonds shall have been issued, for the payment of interest on the bonds, and of the amount of money required for the payment of interest on the bonds in the next succeeding fiscal year, and to pay such bonds as they mature. Thereafter, within thirty days after the beginning of each fiscal year, the state board of fund commissioners shall notify the commissioner of administration of the amount of money required for the payment of interest on the bonds in the next succeeding fiscal year and to pay such bonds maturing in the next succeeding fiscal year.
+3. It shall be the duty of the commissioner of administration to transfer at least monthly, from the state general revenue fund, after deducting therefrom the proportionate part thereof appropriated for the support of the free public schools, and to credit to the stormwater control bond and interest fund such sum as may be necessary from time to time until there shall have been transferred to such fund the amount so certified to the commissioner of administration by the state board of fund commissioners, as provided in this section.
+4. If at any time after the issuance of any of the bonds, it shall become apparent to the commissioner of administration that the funds available in the state general revenue fund will not be sufficient for the payment of the sinking fund and interest on outstanding obligations of the state and for the purpose of public education and the principal and interest maturing and accruing on the bonds during the next succeeding fiscal year, a direct tax shall be levied upon all taxable tangible property in the state for the payment of such bonds and the interest that will accrue thereon. In such event, it shall be the duty of the commissioner of administration annually, on or before the first day of July, to determine the rate of taxation necessary to be levied upon all taxable tangible property within the state to raise the amount of money needed to pay the principal of and interest on such bonds maturing and accruing in the next succeeding fiscal year, taking into consideration available funds, delinquencies and costs of collection. The commissioner of administration shall annually certify the rate of taxation so determined to the county clerk of each county and to the comptroller or other officer in the city of St. Louis whose duty it shall be to make up and certify the tax books wherein are extended the ad valorem state taxes. It shall be the duty of such clerks and the comptroller or other proper officer in the city of St Louis to extend upon the tax books the taxes to be collected and to certify the same to the collectors of the revenue of their respective counties and of the city of St. Louis, who shall collect such taxes at the same time and in the same manner and by the means as are now or may hereafter be provided by law for the collection of state and county taxes, and to pay the same into the state treasury for the credit of the stormwater control bond and interest fund.
+5. All funds paid into the stormwater control bond and interest fund shall be and stand appropriated without legislative action to the payment of principal and interest of the bonds, there to remain until paid out in discharge of the principal of such bonds and the interest accruing thereon, and no part of such fund shall be used for any other purpose so long as any of the principal of such bonds and the interest thereon shall be unpaid. The general assembly may appropriate in any year such amount from the stormwater control fund as it determines to be necessary for the purposes specified in this section. Grants may be combined with loans such as those provided by the commission or the department. Funding for grants or loans from the stormwater control fund shall be initially offered to eligible recipients in counties of the first classification and in a city not within a county in an amount equal to the percentage ratio that the population of the recipient county or city bears to the total population of all counties of the first classification and cities not within a county as determined by the last decennial census. Any city with a population of at least twenty-five thousand inhabitants located in such counties of the first classification shall initially be offered such funds in an amount equal to the percentage ratio that the city's population bears to the total population of the county. Other provisions of this section notwithstanding, in those cities or counties served by a sewer district established pursuant to article VI, section 30(a) of the Missouri Constitution, such district shall receive the grants or loans directly. Any funds not accepted in the initial offers of funding under this subsection shall be subsequently offered to recipients of the initial offer of funding who continue to have eligible projects until all funds have been accepted. Any such subsequent funding offer shall be equal to the percentage ratio that the population of the funding recipient bears to the total population of all other recipients with eligible projects.
+6. Repayments of storm water loans and any interest payments on such loans shall be deposited in a fund as provided by law for the purposes of financing and constructing storm water control plans, studies, and projects. Any unexpended balance in such fund shall not be subject to biennial transfer under the provisions of section 33.080, RSMo, and all interest earned shall accrue to the fund.
+7. The general assembly may enact such laws as may be necessary to carry out the provisions of this section.
+
+*04 Dec 2008 · (Adopted November 3, 1998) (Amended November 4, 2008).*
+
+### Section 38(a) Limitation on use of state funds and credit — exceptions — public calamity — blind pensions — old age assistance — aid to children — direct relief — adjusted compensation for veterans — rehabilitation — participation in federal aid.
+
+The general assembly shall have no power to grant public money or property, or lend or authorize the lending of public credit, to any private person, association or corporation, excepting aid in public calamity, and general laws providing for pensions for the blind, for old age assistance, for aid to dependent or crippled children or the blind, for direct relief, for adjusted compensation, bonus or rehabilitation for discharged members of the armed services of the United States who were bona fide residents of this state during their service, and for the rehabilitation of other persons. Money or property may also be received from the United States and be redistributed together with public money of this state for any public purpose designated by the United States.
+
+> (1962) Highway commission had authority to condemn easement to provide a substitute location for pipelines which was necessary for interstate highway construction as the taking was for public purpose and was not in violation of Article III, Sec. 38(a) since state received compensation in surrender of existing right-of-way. State ex rel. State Highway Commission v. Eakin (Mo.), 357 S.W.2d 129.
+
+> (1974) The requirement in Sec. 552.080, RSMo, that the state pay the costs of medical care of person committed to state hospital after being acquitted of a crime by reason of mental disease does not violate this section since commitment is not voluntary. Robb v. Estate of Brown (A.), 518 S.W.2d 729.
+
+> (1987) This section forbids the issuance of revenue bonds which provide a tax credit upon default. Curchin v. Missouri Industrial Development Board, 722 S.W.2d 930 (Mo. banc 1987).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, §§ 45, 46, 47 (as amended in 1916, 1920, 1932, 1936, and 1938).*
+
+### Section 38(b) Tax levy for blind pension fund.
+
+The general assembly shall provide an annual tax of not less than one-half of one cent nor more than three cents on the one hundred dollars valuation of all taxable property to be levied and collected as other taxes, for the purpose of providing a fund to be appropriated and used for the pensioning of the deserving blind as provided by law. Any balance remaining in the fund after the payment of the pensions may be appropriated for the adequate support of the commission for the blind, and any remaining balance shall be transferred to the distributive public school fund.
+
+> (1954) Section 99.450, RSMo, which requires sale of property cleared at public expense at fair value is not grant of special privilege or of public property in aid of private persons. State on Inf. Dalton v. Land Clearance for Redev. Auth., 364 Mo. 974, 270 S.W.2d 44; (1954) Land Clearance for Redev. Auth. v. City of St. Louis (Mo.), 270 S.W.2d 58.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VI, § 47.
+CROSS REFERENCE:
+Rate of levy, RSMo 209.130*
+
+### Section 38(c) Neighborhood improvement districts, cities and counties may be authorized to establish, powers and duties — limitation on indebtedness.
+
+1. The general assembly may authorize cities and counties to create neighborhood improvement districts and incur indebtedness and issue general obligation bonds to pay for all or part of the cost of public improvements within such districts. The cost of all indebtedness so incurred shall be levied and assessed by the governing body of the city or county on the property benefited by such improvements. The city or county shall collect the special assessments so levied and use the same to reimburse the city or county for the amount paid or to be paid by it on the general obligation bonds issued for such improvements.
+2. Neighborhood improvement districts may be created by a city or county only when approved by the vote of a percentage of electors voting thereon within such district, or by a petition signed by the owners of record of a percentage of real property located within such district, that is equal to the percentage of voter approval required for the issuance of general obligation bonds under article VI, section 26.
+3. The total amount of city or county indebtedness for all such districts shall not exceed ten percent of the assessed valuation of all taxable tangible property, as shown by the last completed property assessment for state or local purposes, within the city or county.
+
+> (1996) "Neighborhood" does not require multiple parcels or multiple residents. Section creates an exception to Art. VI, § 26(f). Spradlin v. City of Fulton, 924 S.W.2d 259 (Mo. banc).
+
+*06 Sep 1990 · (Adopted August 7, 1990).*
+
+### Section 38(d) Stem cell research — title of law — permissible research — violations, penalty — report required, when — prohibited acts — definitions.
+
+1. This section shall be known as the "Missouri Stem Cell Research and Cures Initiative."
+2. To ensure that Missouri patients have access to stem cell therapies and cures, that Missouri researchers can conduct stem cell research in the state, and that all such research is conducted safely and ethically, any stem cell research permitted under federal law may be conducted in Missouri, and any stem cell therapies and cures permitted under federal law may be provided to patients in Missouri, subject to the requirements of federal law and only the following additional limitations and requirements:
+(1) No person may clone or attempt to clone a human being.
+(2) No human blastocyst may be produced by fertilization solely for the purpose of stem cell research.
+(3) No stem cells may be taken from a human blastocyst more than fourteen days after cell division begins; provided, however, that time during which a blastocyst is frozen does not count against the fourteen- day limit.
+(4) No person may, for valuable consideration, purchase or sell human blastocysts or eggs for stem cell research or stem cell therapies and cures.
+(5) Human blastocysts and eggs obtained for stem cell research or stem cell therapies and cures must have been donated with voluntary and informed consent, documented in writing.
+(6) Human embryonic stem cell research may be conducted only by persons that, within 180 days of the effective date of this section or otherwise prior to commencement of such research, whichever is later, have
+(a) provided oversight responsibility and approval authority for such research to an embryonic stem cell research oversight committee whose membership includes representatives of the public and medical and scientific experts;
+(b) adopted ethical standards for such research that comply with the requirements of this section; and
+(c) obtained a determination from an Institutional Review Board that the research complies with all applicable federal statutes and regulations that the Institutional Review Board is responsible for administering.
+(7) All stem cell research and all stem cell therapies and cures must be conducted and provided in accordance with state and local laws of general applicability, including but not limited to laws concerning scientific and medical practices and patient safety and privacy, to the extent that any such laws do not (i) prevent, restrict, obstruct, or discourage any stem cell research or stem cell therapies and cures that are permitted by the provisions of this section other than this subdivision (7) to be conducted or provided, or (ii) create disincentives for any person to engage in or otherwise associate with such research or therapies and cures.
+3. Any person who knowingly and willfully violates in this state subdivision (1) of subsection 2 of this section commits a crime and shall be punished by imprisonment for a period of up to fifteen years or by the imposition of a fine of up to two hundred fifty thousand dollars, or by both. Any person who knowingly and willfully violates in this state subdivisions (2) or (3) of subsection 2 of this section commits a crime and shall be punished by imprisonment for a period of up to ten years or by the imposition of a fine of up to one hundred thousand dollars, or by both. A civil action may be brought against any person who knowingly and willfully violates in this state any of subdivisions (1) through (6) of subsection 2 of this section, and the state in such action shall be entitled to a judgment recovering a civil penalty of up to fifty thousand dollars per violation, requiring disgorgement of any financial profit derived from such violation, and/or enjoining any further such violation. The attorney general shall have the exclusive right to bring a civil action for such violation. Venue for such action shall be the county in which the alleged violation occurred.
+4. Each institution, hospital, other entity, or other person conducting human embryonic stem cell research in the state shall (i) prepare an annual report stating the nature of the human embryonic stem cells used in, and the purpose of, the research conducted during the prior calendar year, and certifying compliance with subdivision (6) of subsection 2 of this section; and (ii) no later than June 30 of the subsequent year, make such report available to the public and inform the Secretary of State how the public may obtain copies of or otherwise gain access to the report. The report shall not contain private or confidential medical, scientific, or other information. Individuals conducting research at an institution, hospital, or other entity that prepares and makes available a report pursuant to this subsection 4 concerning such research are not required to prepare and make available a separate report concerning that same research. A civil action may be brought against any institution, hospital, other entity, or other person that fails to prepare or make available the report or inform the Secretary of State how the public may obtain copies of or otherwise gain access to the report, and the state in such action shall be entitled as its sole remedy to an affirmative injunction requiring such institution, hospital, other entity, or other person to prepare and make available the report or inform the Secretary of State how the public may obtain or otherwise gain access to the report. The attorney general shall have the exclusive right to bring a civil action for such violation.
+5. To ensure that no governmental body or official arbitrarily restricts funds designated for purposes other than stem cell research or stem cell therapies and cures as a means of inhibiting lawful stem cell research or stem cell therapies and cures, no state or local governmental body or official shall eliminate, reduce, deny, or withhold any public funds provided or eligible to be provided to a person that (i) lawfully conducts stem cell research or provides stem cell therapies and cures, allows for such research or therapies and cures to be conducted or provided on its premises, or is otherwise associated with such research or therapies and cures, but (ii) receives or is eligible to receive such public funds for purposes other than such stem cell-related activities, on account of, or otherwise for the purpose of creating disincentives for any person to engage in or otherwise associate with, or preventing, restricting, obstructing, or discouraging, such stem cell-related activities.
+6. As used in this section, the following terms have the following meanings:
+(1) "Blastocyst" means a small mass of cells that results from cell division, caused either by fertilization or somatic cell nuclear transfer, that has not been implanted in a uterus.
+(2) "Clone or attempt to clone a human being" means to implant in a uterus or attempt to implant in a uterus anything other than the product of fertilization of an egg of a human female by a sperm of a human male for the purpose of initiating a pregnancy that could result in the creation of a human fetus, or the birth of a human being.
+(3) "Donated" means donated for use in connection either with scientific or medical research or with medical treatment.
+(4) "Fertilization" means the process whereby an egg of a human female and the sperm of a human male form a zygote (i.e., fertilized egg).
+(5) "Human embryonic stem cell research," also referred to as "early stem cell research," means any scientific or medical research involving human stem cells derived from in vitro fertilization blastocysts or from somatic cell nuclear transfer. For purposes of this section, human embryonic stem cell research does not include stem cell clinical trials.
+(6) "In vitro fertilization" means fertilization of an egg with a sperm outside the body.
+(7) "Institutional Review Board" means a specially constituted review board established and operating in accordance with federal law as set forth in 42 U.S.C. 289, 45 C.F.R. Part 46, and any other applicable federal statutes and regulations, as amended from time to time.
+(8) "Permitted under federal law" means, as it relates to stem cell research and stem cell therapies and cures, any such research, therapies, and cures that are not prohibited under federal law from being conducted or provided, regardless of whether federal funds are made available for such activities.
+(9) "Person" means any natural person, corporation, association, partnership, public or private institution, or other legal entity.
+(10) "Private or confidential medical, scientific, or other information" means any private or confidential patient, medical, or personnel records or matters, intellectual property or work product, whether patentable or not and including but not limited to any scientific or technological innovations in which an entity or person involved in the research has a proprietary interest, prepublication scientific working papers, research, or data, and any other matter excepted from disclosure under Chapter 610, RSMo, as amended from time to time.
+(11) "Solely for the purpose of stem cell research" means producing human blastocysts using in vitro fertilization exclusively for stem cell research, but does not include producing any number of human blastocysts for the purpose of treating human infertility.
+(12) "Sperm" means mature spermatozoa or precursor cells such as spermatids and spermatocytes.
+(13) "Stem cell" means a cell that can divide multiple times and give rise to specialized cells in the body, and includes but is not limited to the stem cells generally referred to as (i) adult stem cells that are found in some body tissues (including but not limited to adult stem cells derived from adult body tissues and from discarded umbilical cords and placentas), and (ii) embryonic stem cells (including but not limited to stem cells derived from in vitro fertilization blastocysts and from cell reprogramming techniques such as somatic cell nuclear transfer).
+(14) "Stem cell clinical trials" means federally regulated clinical trials involving stem cells and human subjects designed to develop, or assess or test the efficacy or safety of, medical treatments.
+(15) "Stem cell research" means any scientific or medical research involving stem cells. For purposes of this section, stem cell research does not include stem cell clinical trials.
+(16) "Stem cell therapies and cures" means any medical treatment that involves or otherwise derives from the use of stem cells, and that is used to treat or cure any disease or injury. For purposes of this section, stem cell therapies and cures does include stem cell clinical trials.
+(17) "Valuable consideration" means financial gain or advantage, but does not include reimbursement for reasonable costs incurred in connection with the removal, processing, disposal, preservation, quality control, storage, transfer, or donation of human eggs, sperm, or blastocysts, including lost wages of the donor. Valuable consideration also does not include the consideration paid to a donor of human eggs or sperm by a fertilization clinic or sperm bank, as well as any other consideration expressly allowed by federal law.
+7. The provisions of this section and of all state and local laws, regulations, rules, charters, ordinances, and other governmental actions shall be construed in favor of the conduct of stem cell research and the provision of stem cell therapies and cures. No state or local law, regulation, rule, charter, ordinance, or other governmental action shall (i) prevent, restrict, obstruct, or discourage any stem cell research or stem cell therapies and cures that are permitted by this section to be conducted or provided, or (ii) create disincentives for any person to engage in or otherwise associate with such research or therapies and cures.
+8. The provisions of this section are self-executing. All of the provisions of this section are severable. If any provision of this section is found by a court of competent jurisdiction to be unconstitutional or unconstitutionally enacted, the remaining provisions of this section shall be and remain valid.
+
+*07 Dec 2006 · (Adopted by Initiative November 7, 2006).*
+
+### Section 39 Limitation of power of general assembly.
+
+The general assembly shall not have power:
+(1) To give or lend or to authorize the giving or lending of the credit of the state in aid or to any person, association, municipal or other corporation;
+(2) To pledge the credit of the state for the payment of the liabilities, present or prospective, of any individual, association, municipal or other corporation;
+(3) To grant or to authorize any county or municipal authority to grant any extra compensation, fee or allowance to a public officer, agent, servant or contractor after service has been rendered or a contract has been entered into and performed in whole or in part;
+(4) To pay or to authorize the payment of any claim against the state or any county or municipal corporation of the state under any agreement or contract made without express authority of law;
+(5) To release or extinguish or to authorize the releasing or extinguishing, in whole or in part, without consideration, the indebtedness, liability or obligation of any corporation or individual due this state or any county or municipal corporation;
+(6) To make any appropriation of money for the payment, or on account of or in recognition of any claims audited or that may hereafter be audited by virtue of an act entitled "An Act to Audit and Adjust the War Debts of the State," approved March 19, 1874, or any act of a similar nature, until the claim so audited shall have been presented to and paid by the government of the United States to this state;
+(7) To act, when convened in extra session by the governor, upon subjects other than those specially designated in the proclamation calling said session or recommended by special message to the general assembly after the convening of an extra session;
+(8) To remove the seat of government from the City of Jefferson;
+(9) Except as otherwise provided in section 39(b), section 39(c), section 39(e) or section 39(f) of this article, to authorize lotteries or gift enterprises for any purpose, and shall enact laws to prohibit the sale of lottery or gift enterprise tickets, or tickets in any scheme in the nature of a lottery; except that, nothing in this section shall be so construed as to prevent or prohibit citizens of this state from participating in games or contests of skill or chance where no consideration is required to be given for the privilege or opportunity of participating or for receiving the award or prize and the term "lottery or gift enterprise" shall mean only those games or contests whereby money or something of value is exchanged directly for the ticket or chance to participate in the game or contest. The general assembly may, by law, provide standards and conditions to regulate or guarantee the awarding of prizes provided for in such games or contests under the provision of this subdivision;
+(10) To impose a use or sales tax upon the use, purchase or acquisition of property paid for out of the funds of any county or other political subdivision.
+
+> (1960) Tax imposed with respect to special motor vehicle fuel is a tax on the act of placing fuel in the fuel tank of a vehicle and not a use tax upon the use or acquisition of property paid for out of funds of political subdivision as prohibited by Article III Sec. 39(10) of the constitution. State ex rel. Arenson v. City of Springfield (Mo.), 332 S.W.2d 942.
+
+> (1970) Oil company's promotional game, even though participant need make no purchase to play, is a lottery. Mobil Oil Corp. v. Danforth (Mo.), 455 S.W.2d 505.
+
+> (1975) Held that state has the authority to require that names of residents of this state be taken off of mailing list of company allegedly mailing lottery material, this does not interfere with United States mail. State ex rel. Danforth v. Reader's Digest (Mo.), 527 S.W.2d 355.
+
+> (1994) Bingo, keno, numbers tickets, pull tabs, jar tickets, push cards and punch boards either fall within definition of lottery or have no element of skill as demonstrated by their similarity to lottery games and are lotteries within meaning of this section. Twenty-one and poker are not lotteries within meaning of this section. Case is remanded for determination whether slot machines, video slot machines, baccarat, craps, roulette wheel, klondike table, faro layout and video games of chance are games of pure chance or if there is an element of skill in game. Harris v. Missouri Gaming Commission, 869 S.W.2d 58 (Mo. en banc).
+
+*03 Dec 1998 · Source: Const. of 1875, Art. IV, §§ 45, 48, 51, 52, 55, 56, Art. XIV § 10 (Amended November 7, 1978) (Amended November 6, 1984) (Amended August 5, 1986) (Amended November 8, 1994) (Amended November 3, 1998).*
+
+### Section 39(a) Bingo may be authorized — requirements.
+
+The game commonly known as bingo when conducted by religious, charitable, fraternal, veteran or service organizations is not a lottery or gift enterprise within the meaning of subdivision (9) of section 39 of this article if the general assembly authorizes by law that religious, charitable, fraternal, service, or veteran organizations may conduct the game commonly known as bingo, upon the payment of the license fee and the issuance of the license as provided for by law. Any such law shall include the following requirements:
+(1) All net receipts over and above the actual cost of conducting the game as set by law shall be used only for charitable, religious or philanthropic purposes, and no receipts shall be used to compensate in any manner any person who works for or is in any way affiliated with the licensed organization;
+(2) No license shall be granted to any organization unless it has been in continuous existence for at least five years immediately prior to the application for the license. An organization must have twenty bona fide members to be considered to be in existence;
+(3) No person shall participate in the management, conduct or operation of any game unless that person:
+(a) Has been a bona fide member of the licensed organization for the six months immediately preceding such participation, and volunteers the time and service necessary to conduct the game;
+(b) Is not a paid staff person for the licensed organization;
+(c) Is not and has never been a professional gambler or gambling promoter;
+(d) Has never purchased a tax stamp for wagering or gambling activity;
+(e) Has never been convicted of any felony;
+(f) Has never been convicted of or pleaded nolo contendere to any illegal gambling activity;
+(g) Is of good moral character;
+(4) Any person, any officer or director of any firm or corporation, and any partner of any partnership renting or leasing to a licensed organization any equipment or premises for use in a game shall meet all of the qualifications of paragraph (3) except subparagraph (a);
+(5) No lease, rental arrangement or purchase arrangement for any equipment or premise for use in a game shall provide for payment in excess of the reasonable market rental rate for such premises and in no case shall any payment based on a percentage of the gross receipts or proceeds be permitted;
+(6) No person, firm, partnership or corporation shall receive any remuneration or profit for participating in the management, conduct or operation of the game;
+(7) Any other requirement the general assembly finds necessary to insure that any games are conducted solely for the benefit of the eligible organizations and the general community.
+
+*06 Dec 2018 · (Adopted November 4, 1980) (Amended November 6, 2018).*
+
+### Section 39(b) State lottery, authority to establish — lottery proceeds fund established, purpose.
+
+1. The general assembly shall have authority to authorize a Missouri state lottery by law. If such legislation is adopted, there shall be created a "State Lottery Commission" consisting of five members who shall be appointed by the governor with the advice and consent of the senate and who may be removed, for cause by the governor and who shall be chosen from the state at large and represent a broad geographic spectrum with no more than one member chosen from each federal congressional district. Each member at the time of his appointment and qualification shall have been a resident of this state for a period of at least five years next preceding his appointment and qualification and shall also be a qualified elector therein and be not less than thirty years of age. No more than three members of the commission shall be members of the same political party. Members of the commission shall have three-year terms as provided by law. Members of the commission shall receive no salary but shall receive their actual expenses incurred in the performance of their responsibilities. The commission shall employ such persons as provided by law. The commission shall have the authority to join other states and jurisdictions for the purpose of conducting joint lottery games.
+2. The money received by the Missouri state lottery commission from the sale of Missouri lottery tickets, and from all other sources, shall be deposited in the "State Lottery Fund", which is hereby created in the state treasury.
+3. The monies received from the Missouri state lottery shall be governed by appropriation of the general assembly. Beginning July 1, 1993, monies representing net proceeds after payment of prizes and administrative expenses shall be transferred by appropriation to the "Lottery Proceeds Fund" which is hereby created within the state treasury and such monies in the lottery proceeds fund shall be appropriated solely for public institutions of elementary, secondary and higher education.
+4. A minimum of forty-five percent of the money received from the sale of Missouri state lottery tickets shall be awarded as prizes.
+5. The commission shall have the authority to purchase and hold title to any securities of the United States government or its agencies and instrumentalities thereof for prizes, as provided by law.
+6. Until July 1, 1993, any person possessing a department of revenue retail sales license as provided by law or any chartered civic, fraternal, charitable or political organization or labor organization shall be eligible to obtain a license to act as a lottery ticket sales agent except a license to act as an agent to sell lottery tickets shall not be issued to any person primarily engaged in business as a lottery ticket sales agent. Until July 1, 1993, the general assembly may impose additional qualifications on such persons to obtain a lottery ticket sales agent license as it deems appropriate. Until July 1, 1993, the commission is also authorized to sell lottery tickets at its office and at special events as provided by law. Beginning July 1, 1993, the general assembly shall enact laws governing lottery ticket sales.
+7. Revenues produced from the conduct of a state lottery shall not be part of "total state revenues" as defined in sections 17 and 18 of article X of this constitution and the expenditure of such revenue shall not be an "expense of state government" under section 20 of article X of this constitution.
+
+> (1988) Lottery Commission may participate in multistate lottery. Tichenor v. Missouri State Lottery Commission, 742 S.W.2d 170 (Mo. banc 1988).
+
+*03 Sep 1992 · (Adopted November 6, 1984) (Amended August 2, 1988) (Amended August 4, 1992).*
+
+### Section 39(c) Pari-mutuel wagering may be authorized by general assembly — horse racing commission established, election procedure to adopt or reject horse racing.
+
+1. The general assembly may authorize on track pari-mutuel betting on horse racing in a manner provided by law. There is hereby created the Missouri Horse Racing Commission which shall consist of five members appointed by the governor with the advice and consent of the senate. Members of the commission shall be citizens and eligible voters of Missouri and shall not have been convicted of a felony. Not more than three members shall be affiliated with the same political party, and not more than one member may be a resident of any one congressional district or of any single county or of the City of St. Louis. Of the members first appointed, one shall be appointed for a one year term, one shall be appointed for a two year term, one shall be appointed for a three year term, one shall be appointed for a four year term and one shall be appointed for a five year term; and thereafter members shall be appointed for terms of five years. The governor shall designate one of the members to be chairman. The governor may remove any member of the commission from office for malfeasance or neglect of duty in office. Members of the commission shall be reimbursed and paid for the expenses which they reasonably incur in the performance of their official duties, but they shall not, however, be paid a salary or other remuneration for their services unless such be authorized by law. No person may serve as a member of the commission and his office shall be deemed vacated if:
+(i) The member, the member's spouse, child or parent owns any interest in a race track licensed by the Commission.
+(ii) The member, the member's spouse, child or parent is an officer, employee, consultant or otherwise receives any remuneration from race track licensee.
+(iii) The member, the member's spouse, child or parent holds a financial interest in a management or concession contract with a race track licensee.
+­­
+­
+2. At the general election to be held in November, 1986, every officer or body in charge of the elections shall order the following question on the ballot: "Shall pari-mutuel wagering upon horse races be permitted in _________ County (or the City of St. Louis)?" This question may also be ordered upon the ballot at the general election occurring in 1988 and every four years thereafter by the governing body of any county where pari-mutuel wagering has not been previously authorized. The general provisions of law with respect to the conduct of elections and the submission of questions to voters for determination shall apply insofar as they are applicable. No license shall be issued by the commission authorizing pari-mutuel wagering within the grounds or enclosure of a race track until a majority of the qualified voters of the county where the race track is proposed to be located vote to accept pari-mutuel wagering in that county at one of the elections referred to above. Once pari-mutuel wagering on horse racing has been accepted by the voters of that county at an appropriate election, no other vote shall be held on the question of the legality of such wagering in that county. If the qualified voters of the county reject pari-mutuel wagering on horse races in that county, no elections shall be held on the question in that county except as in the manner specified above. As used in this section, the term "county" includes the City of St. Louis.
+
+*04 Sep 1986 · (Adopted August 5, 1986).*
+
+### Section 39(d) Gaming revenues to be appropriated to public institutions of elementary, secondary and higher education.
+
+All state revenues derived from the conduct of all gaming activities as are now or hereafter authorized by this constitution or by law, unless otherwise provided by law on the effective date of this section, shall be appropriated beginning July 1, 1993, solely for the public institutions of elementary, secondary and higher education and shall not be included within the definition of "total state revenues" in section 17 of article X of this constitution.
+
+*03 Sep 1992 · (Adopted August 4, 1992).*
+
+### Section 39(e) Riverboat gambling authorized on Missouri and Mississippi Rivers — boats in moats authorized.
+
+The general assembly is authorized to permit upon the Mississippi and Missouri Rivers only, which shall include artificial spaces that contain water and that are within 1000 feet of the closest edge of the main channel of either of those rivers, lotteries, gift enterprises and games of chance to be conducted on excursion gambling boats and floating facilities. Any license issued before or after the adoption date of this amendment for any excursion gambling boat or floating facility located in any such artificial space shall be deemed to be authorized by the General Assembly and to be in compliance with this Section.
+­­
+­
+
+*03 Dec 1998 · (Adopted November 8, 1994) (Amended November 3, 1998).*
+
+### Section 39(f) Raffles and sweepstakes, charitable or religious organizations may sponsor, standards and conditions.
+
+Any organization recognized as charitable or religious pursuant to federal law may sponsor raffles and sweepstakes in which a person risks something of value for a prize. The general assembly may, by law, provide standards and conditions to regulate or guarantee the awarding of prizes provided for in such raffles or sweepstakes.
+
+*03 Dec 1998 · (Adopted November 3, 1998).*
+
+### Section 39(g) Sports wagering — licensure, requirements — rulemaking authority — wagering tax, amount — online sports wagering — fund created, use of monies — definitions — severability clause.
+
+1. The people of the state of Missouri hereby find and declare that the interests of the public are best served by a well-regulated sports wagering industry that will provide substantial tax revenue to support educational institutions in Missouri.
+2. Notwithstanding any other provision of law to the contrary, any entity licensed by the Commission pursuant to Article III, Section 39(g) may offer sports wagering:
+a. through an online sports wagering platform to individuals physically located in this state;
+b. at excursion gambling boats; and
+c. at any location within each sports district, as approved by each applicable professional sports team that plays its home games in such sports district.
+3. A licensee shall not offer sports wagering to individuals who are under twenty-one years of age.
+4. a. The Commission shall issue not more than one retail license to operate sports wagering in this state to each qualified applicant that is:
+(1) an excursion gambling boat or a sports wagering operator operating on behalf of each such excursion gambling boat that has applied for a retail license to offer sports wagering at such excursion gambling boat; or
+(2) a professional sports team or a sports wagering operator designated by each such professional sports team that has applied for a retail license to offer sports wagering within the applicable sports district in which such professional sports team plays its home games.
+b. The Commission shall issue not more than one mobile license to operate sports wagering in this state to each qualified applicant that is:
+(1) an owner of an excursion gambling boat located in this state or a sports wagering operator operating on behalf of each such owner, provided, however, that not more than one sports wagering operator shall be permitted to operate under such mobile license on behalf of any entity, or group of commonly owned or controlled entities, which owns, directly or indirectly, more than one excursion gambling boat located in this state; or
+(2) a professional sports team or a sports wagering operator designated by each such professional sports team.
+c. The Commission shall issue not more than two mobile licenses to operate sports wagering in this state directly to qualified applicants that are sports wagering operators. Each sports wagering operator shall only be eligible for one mobile license per distinct sports wagering operator brand. For purposes of Article III, Section 39(g) brand shall refer to the name, trade name, licensed trademark, or assumed business name of the sports wagering operator. If there are more than two qualified applicants for a mobile license to be issued by the Commission directly to a sports wagering operator under this section, the Commission shall select the applicant for licensure based on the applicant's ability to satisfy the following criteria:
+(1) Expertise in the business of online sports wagering;
+(2) Integrity, sustainability, and safety of the applicant's online sports wagering platform;
+(3) Past relevant experience of the applicant;
+(4) Advertising and promotional plans to increase and sustain revenue;
+(5) Ability to generate, maximize, and sustain revenues for the state;
+(6) Demonstrated commitment to and plans for the promotion of responsible gaming; and
+(7) Capacity to increase the number of bettors on the applicant's online sports wagering platform.
+5. An applicant for a license to conduct sports wagering shall apply to the Commission on a form and in the manner prescribed by the Commission. The Commission shall conduct background checks of each applicant or key persons of such applicant and shall not award a license to any applicant if such applicant or key person of such applicant has been convicted of a felony or any gambling offense in any state or federal court of the United States. If a professional sports team designates a sports wagering operator to operate on its behalf, then that sports wagering operator, rather than the professional sports team, shall submit to the Commission for licensure and shall be considered the licensee for all aspects of Commission oversight and regulatory control. In the application, the Commission shall require applicants to disclose the identity of all of the following:
+a. The applicant's principal owners who directly own 10% or more of the applicant;
+b. Each holding, intermediary, or parent company that directly owns 15% or more of the applicant; and
+c. The applicant's board appointed chief executive officer and chief financial officer, or the equivalent individuals, as determined by the Commission.
+6. Retail and mobile license applicants shall be required to pay a license fee as follows:
+a. An applicant for a retail license shall be required to pay a license fee prescribed by the Commission, not to exceed $250,000. Retail licensees shall be required to pay a license renewal fee every five years, as prescribed by the Commission, not to exceed $250,000.
+b. An applicant for a mobile license shall be required to pay a license fee prescribed by the Commission, not to exceed $500,000. Mobile licensees shall be required to pay a license renewal fee every five years, as prescribed by the Commission, not to exceed $500,000.
+7. a. A license for sports wagering shall not be assignable or transferable without approval of the Commission. Such approval shall not be unreasonably withheld.
+b. A license shall authorize a licensee to offer sports wagering under not more than one sports wagering operator brand, provided, however, that such licensee shall also be permitted, but not required, to use the brand of a professional team or excursion gambling boat pursuant to a partnership with such entity. Notwithstanding any other provision of law to the contrary and subject to approval by the Commission, a person or entity may hold and operate more than one license under distinct sports wagering operator brands, regardless of whether multiple brands are owned by the same parent entity.
+c. Commercial agreements between an excursion gambling boat or a professional sports team and a sports wagering operator shall be submitted to the Commission as agreed to by the contracting parties. The Commission shall not prescribe any terms or conditions that are required to be included into such commercial agreements. A sports governing body or professional sports team may enter into commercial agreements with sports wagering operators or other entities in which such sports governing body or professional sports team may share in the amount wagered on sporting events of such sports governing body or professional sports team. A professional sports team may grant any such rights provided under this paragraph to its affiliate. Neither a sports governing body nor a professional sports team, nor such team's affiliate, is required to obtain a license or any other approval from the Commission to lawfully accept such amounts.
+d. Each mobile licensee shall determine, set, and display applicable lines, point spreads, odds, or other information pertaining to online sports wagering.
+e. Any submission to the Commission under this section, including all documents, reports, and data submitted therewith, that contain proprietary information, trade secrets, financial information, or personal information about any person or entity shall be treated in the same confidential manner as submissions by other licensees of the Commission and shall not be subject to disclosure pursuant to Chapter 610 RSMo.
+8. All sports wagering fees prescribed by the Commission and collected by the state shall be appropriated as follows:
+a. to reimburse the reasonable expenses incurred by the Commission to regulate sports wagering; and
+b. to the extent all reasonable expenses incurred by the Commission have been reimbursed, the remaining fees shall be deposited in the Compulsive Gaming Prevention Fund.
+9. Subject to and consistent with the terms of this section, the Commission shall have the power to adopt and enforce commercially reasonable rules, including emergency rules, to implement the provisions of this section. No rule or portion of a rule promulgated under the authority of this section shall become effective unless it has been promulgated pursuant to the provisions of Chapter 536. The Commission shall examine the rules implemented in other states where sports wagering is conducted and shall, as far as practicable, adopt a similar regulatory framework, including, but not limited to:
+a. Standards governing the security and integrity of sports wagering, including requiring the use of official league data on the terms and conditions set forth below from each applicable sports governing body headquartered in the United States solely for the purposes of determining the outcome of tier two sports wagers on a professional athlete or sporting event, but only if made available to licensees on commercially reasonable terms. Sports wagering operators may use any data source for determining the results of any and all tier one sports wagers on any and all sporting events, and the results of any and all tier two sports wagers on sporting events of an organization that is not headquartered in the United States.
+(1) A sports governing body may notify the Commission that it desires sports wagering operators to use official league data to settle tier two sports wagers on sporting events of such sports governing body. Such notification shall be made in the form and manner the Commission may require. The Commission shall notify each sports wagering operator of a sports governing body's notification within five days of the Commission's receipt of such notification. If a sports governing body does not notify the Commission of its desire to supply official league data, a sports wagering operator may use any data source for determining the results of any and all tier two sports wagers on sporting events of such sports governing body.
+(2) Within 60 days of the Commission notifying each sports wagering operator of a sports governing body's notification to the Commission, or such longer period as may be agreed between the sports governing body and the applicable sports wagering operator, sports wagering operators shall use only official league data to determine the results of tier two sports wagers on sporting events of that sports governing body, unless:
+(a) The sports governing body or its designee cannot provide a feed of official league data to determine the results of a particular type of tier two sports wager, in which case sports wagering operators may use any data source for determining the results of the applicable tier two sports wager until such time as such a data feed becomes available from the sports governing body on commercially reasonable terms and conditions;
+(b) A sports wagering operator can demonstrate to the Commission that the sports governing body or its designee will not provide a feed of official league data to the sports wagering operator on commercially reasonable terms and conditions; or
+(c) The sports governing body or its designee does not obtain the necessary supplier approvals to provide official league data to sports wagering operators to determine the results of tier two sports wagers, if and to the extent required by law.
+(3) The following is a non-exclusive list of factors that the Commission may consider in evaluating official league data is being offered on commercially reasonable terms and conditions for the purposes of paragraphs (a) and (b) of subsection (2):
+(a) The availability of a sports governing body's tier two official league data to a sports wagering operator from more than one authorized source;
+(b) Market information, including, but not limited to, price and other terms and conditions, regarding the purchase by sports wagering operators of comparable data for the purpose of settling sports wagers in this state and other jurisdictions;
+(c) The nature and quantity of data, including the quality and complexity of the process utilized for collecting such data; and
+(d) The extent to which sports governing bodies or their designees have made data used to settle tier two bets or wagers available to operators and any terms and conditions relating to the use of that data.
+(4) Notwithstanding anything set forth to the contrary herein, including without limitation subparagraph (3), during the pendency of the Commission's determination as to whether a sports governing body or its designee will provide a feed of official league data on commercially reasonable terms, a sports wagering operator may use any data source for determining the results of any and all tier two sports wagers. The Commission's determination shall be made within 120 days of the sports wagering operator notifying the Commission that it desires to demonstrate that the sports governing body or its designee will not provide a feed of official league data to the sports wagering operator on commercially reasonable terms.
+b. Standards concerning a licensee's books and financial records relating to sports wagering, including auditing requirements, standards for the daily counting of a licensee's gross receipts from sports wagering, and standards to ensure that internal controls are followed;
+c. Standards for the use and distribution of monies from the Compulsive Gaming Prevention Fund shall include, but not be limited to, research, detection, and prevention of compulsive gaming, the implementation of treatment and recovery programs, or services related to compulsive gaming in this state;
+d. Standards concerning the detection and prevention of compulsive gaming including, but not limited to, requirements to prominently display information regarding compulsive gaming on all online sports wagering platforms and promotions;
+e. Requiring licensees to cooperate with investigations conducted by law enforcement agencies, regulatory bodies, and sports governing bodies;
+f. Standards for licensees and sports wagering operators to report to the Commission and the sports governing bodies information related to: abnormal betting activity or patterns that may indicate a concern with the integrity of a sporting event or events; suspicious or illegal betting activities if known to the applicable licensee or sports wagering operator; and any other conduct that corrupts a betting outcome of a sporting event or events for purposes of financial gain, including match fixing;
+g. Standards for any sports governing body to submit to the Commission a written request to restrict, limit, or exclude a certain type, form, or category of sports betting with respect to a sporting event of that sports governing body, if the applicable sports governing body believes that such type, form, or category of sports wagering with respect to the sporting event of the sports governing body may undermine the integrity or perceived integrity of the applicable sports governing body or sporting events of the applicable sports governing body.
+­­
+­
+­­
+­
+h. Requiring licensees and sports wagering operators to use commercially and technologically reasonable means to ensure that marketing and advertisements do not purposefully target minors or individuals who have self-excluded from sports wagering, are not false, misleading or deceptive, and clearly disclose the material terms of any offer included in any promotion or advertisement;
+i. Standards for the regulation of suppliers of sports wagering goods, services, software, or any other components necessary for the creation of sports wagering markets and determination of wager outcomes;
+j. Standards for the implementation of responsible gaming programs, including using commercially reasonable efforts to verify that a person placing a bet on a sporting event is of the legal minimum age for placing such bet, displaying a hyperlink on its online sports wagering platform to responsible gaming information, allowing individuals to voluntarily exclude themselves from placing bets with the operator through a process established by the Commission, and allowing persons to place limits on their time, deposit, or bet limits in a daily, weekly, or monthly manner;
+k. Establishing fines, placing licensees on probation, and revoking licenses for violations of this section. The Commission may impose fines upon any person holding, or required to hold, a license or approval under this section or the rules subsequently adopted. Fines shall not exceed $50,000 per violation or $100,000 resulting from violation of the same occurrence of events. The Commission shall promulgate rules relating to procedures for disciplinary hearings, including that any such decision may be appealed to circuit court;
+1. Establishing a start date for all sports wagering that is not later than December l, 2025. No sports wagering, either retail or mobile, shall be offered in the state before such start date established by the Commission. No category of license shall be given an earlier launch date over any other category of license; and
+m. Prohibiting all sports wagering activity, including sports wagering promotional and advertising activity, within a sports district, unless approved by the professional sports team that plays its home games within the district, except such rules shall not prohibit any licensee from offering sports wagering through an online sports wagering platform to persons physically located within a sports district.
+10. a. Notwithstanding any other provision of law, including Article III Section 39(d), to the contrary, a wagering tax of 10% is imposed on the adjusted gross revenue received from sports wagering conducted by each licensee and each sports wagering operator acting on behalf of a licensee.
+b. The annual revenues received from such tax shall be appropriated for institutions of elementary, secondary, and higher education in this state; provided, however, that an appropriation to such educational institutions shall be made only after such annual wagering tax revenues are appropriated as follows:
+(1) to reimburse the reasonable expenses incurred by the Commission to regulate sports wagering in the state to the extent that the Commission has not been fully reimbursed for such expenses from the sports wagering fees collected by the state; and
+(2) the greater of 10% of such annual tax revenues or $5,000,000 to the Compulsive Gaming Fund.
+c. Such revenues shall not be included within the definition of "total state revenues" in Section 17 of Article X of this Constitution.
+d. The state auditor shall perform an annual audit of the revenues received and appropriated pursuant to this section to ensure they are being used only for authorized purposes. The state auditor shall make such audit available to the public, the governor, and the general assembly.
+11. A mobile licensee shall maintain in this state, or any other location approved by the Commission and consistent with federal law, the computer server or servers used to receive transmissions of requests to place wagers and that transmit confirmation of acceptance of wagers on sports events placed by customers physically present in this state.
+12. All wagers authorized under this section must be initiated, made, or otherwise placed by a bettor while physically present within this state. The intermediate routing of electronic data related to lawful intrastate wagers authorized under this section shall not determine the location or locations in which the bet is initiated, transmitted, received, or otherwise made. Each online sports wagering operator shall use commercially reasonable geolocation and geofencing technology to ensure that it accepts bets only from customers who, at the time of placing the bet, are physically present in this state.
+13. a. An individual wagering in this state shall establish an online sports wagering account with an online sports wagering operator:
+(1) over the Internet;
+(2) through an online sports wagering platform; or
+(3) through other means approved by the Commission.
+b. An individual wagering in this State shall not register more than one account with each online sports wagering platform. Mobile licensees shall use commercially reasonable means to ensure that each customer is limited to one account per platform.
+c. Permissible methods of funding and withdrawal for accounts include, but are not limited to, credit cards, debit cards, gift cards, reloadable prepaid cards, free and promotional credit, automated clearing house transfers, online and mobile payment systems that support online money transfers, and wire transfers. The Commission may approve additional funding and withdrawal methods including, but not limited to, cash deposits at approved locations and secure cryptocurrencies.
+14. a. A sports wagering operator shall use commercially and technologically reasonable means to ensure marketing and advertisements do not purposefully target individuals who have self-excluded from placing bets on sporting events.
+b. A sports wagering operator shall employ commercially reasonable methods to ensure that advertisements for sports betting:
+(1) do not purposefully target minors;
+(2) are not false, misleading, or deceptive to a reasonable consumer; and
+(3) clearly and conspicuously disclose the material terms of any promotional offer in the advertisement. Any promotion or advertisement must provide the consumer with the full and complete terms of a promotion by providing a website, or other location, in the promotional advertisement, that directs the viewer to where the full and complete promotional terms can be viewed. This may be satisfied by the promotional advertisement containing a hyperlink that takes the viewer directly to the full and complete offer and terms.
+15. There is hereby created in the state treasury the "Compulsive Gaming Prevention Fund", which shall consist of taxes and fees collected under this section. The state treasurer shall be custodian of the fund, and he or she shall invest monies in the fund in the same manner as other funds are invested. Any interest and monies earned on such investments shall be credited to the fund. Notwithstanding any other provision of law to the contrary, any monies remaining in the fund at the end of a biennium shall not revert to the credit of the general revenue fund. The fund shall be a dedicated fund and shall be utilized by the Commission for the purposes of:
+a. providing counseling and other support services for compulsive and problem gamers;
+b. developing and implementing problem gaming treatment and prevention programs; and
+c. providing grants to supporting organizations that provide assistance to compulsive gamers.
+16. As used in this section the following terms shall mean:
+a. "Adjusted gross revenue", the total of all cash and cash equivalents received by a licensee from sports wagering minus the total of:
+(1) All cash and cash equivalents paid out as winnings to sports wagering customers
+(2) The actual costs paid by a licensee for anything of value provided to and redeemed by customers, including merchandise or services distributed to sports wagering customers to incentivize sports wagering;
+(3) Voided or cancelled wagers;
+(4) The costs of free play or promotional credits provided to and redeemed by the applicable licensee's customers, provided that the aggregate amount of such costs of free play or promotional credits that may be deducted under this paragraph in any calendar month shall not exceed twenty-five percent of the total of all cash and cash equivalents received by the applicable licensee for such calendar month;
+(5) Any sums paid as a result of any federal tax, including federal excise tax; and
+(6) Uncollectible sports wagering receivables, not to exceed two percent of the total of all sums, less the amount paid out as winnings to sports wagering customers
+(7) If the amount of adjusted gross receipts in a calendar month is a negative figure, the licensee shall remit no sports wagering tax for that calendar month. Any negative adjusted gross receipts shall be carried over and calculated as a deduction in the subsequent calendar months until the negative figure has been brought to a zero balance.
+b. "Commission", means the Missouri Gaming Commission;
+c. "Excursion gambling boat", means an excursion gambling boat or floating facility as described in Article III, Section 39(e);
+d. "License", means any retail license or mobile license.
+e. "Licensee", means the holder of any retail or mobile license.
+f. "Mobile license", means a license, granted by the Commission, authorizing the licensee to offer sports wagering, through an online sports wagering platform, to individuals physically located in this state.
+g. "Online sports wagering platform", means an online-enabled application, Internet website, or other electronic or digital technology used to offer, conduct, or operate mobile sports wagering.
+h. "Professional sports team", means a team located in this state that is a member of the National Football League, Major League Baseball, the National Hockey League, the National Basketball Association, Major League Soccer, the Women's National Basketball Association, or the National Women's Soccer League.
+i. "Retail license", means a license, granted by the Commission, authorizing the licensee to offer sports wagering in person to individuals at such locations described in paragraphs (b) and (c) of Article III, Section 39(g)(2), as applicable.
+j. "Sports district", means the premises of a facility located in this state with a capacity of 11,500 people or more, at which one or more professional sports teams plays its home games, and the surrounding area within 400 yards of such premises;
+k. "Sports wagering", means wagering on professional or collegiate athletic, sporting, and other competitive events and awards involving human participants including, but not limited to, esports, or any other events as approved by the Commission. The term sports wagering shall include, but not be limited to, bets or wagers made on: portions of athletic and sporting events or on the individual statistics of professional or collegiate athletes in a sporting event or compilation of sporting events.
+Sports wagering shall not include:
+(1) a fantasy sports contest comprising multiple participants competing against one another in which winning outcomes reflect the relative knowledge and skill of the participants and are predominantly determined by the accumulated statistical performance of athletes or individuals. A fantasy sports contest operator shall not qualify as a "participant" for purposes of this section; and
+(2) wagering on the performance or nonperformance of any individual athlete participating in a single game or match of a collegiate sporting event in which a collegiate team from this state is a participant; and
+(3) wagering on youth or high school events.
+l. "Sports wagering operator", means an entity that offers sports wagering or has been organized for the purpose of offering sports wagering.
+m. "Tier one sports wager", means a sports wager that is determined solely by the final score or final outcome of the sporting event and is placed before the sporting event has begun.
+n. "Tier two sports wager", means a sports wager that is not a tier one sports wager.
+17. Notwithstanding any other provision of law, including Article III, Section 39(9), to the contrary, the general assembly may enact laws consistent with this section.
+18. All provisions of this section are severable. If any provision of this section is found by a court of competent jurisdiction to be unconstitutional or unconstitutionally enacted, the remaining provisions of this section shall be and remain valid.
+
+*05 Dec 2024 · (Adopted November 5, 2024)*
+
+### Section 40 Limitations on passage of local and special laws.
+
+The general assembly shall not pass any local or special law:
+(1) authorizing the creation, extension or impairment of liens;
+(2) granting divorces;
+(3) changing the venue in civil or criminal cases;
+(4) regulating the practice or jurisdiction of, or changing the rules of evidence in any judicial proceeding or inquiry before courts, sheriffs, commissioners, arbitrators or other tribunals, or providing or changing methods for the collection of debts, or the enforcing of judgments, or prescribing the effect of judicial sales of real estate;
+(5) summoning or empaneling grand or petit juries;
+(6) for limitation of civil actions;
+(7) remitting fines, penalties and forfeitures or refunding money legally paid into the treasury;
+(8) extending the time for the assessment or collection of taxes, or otherwise relieving any assessor or collector of taxes from the due performance of their duties, or their securities from liability;
+(9) changing the law of descent or succession;
+(10) giving effect to informal or invalid wills or deeds;
+(11) affecting the estates of minors or persons under disability;
+(12) authorizing the adoption or legitimation of children;
+(13) declaring any named person of age;
+(14) changing the names of persons or places;
+(15) vacating town plats, roads, streets or alleys;
+(16) relating to cemeteries, graveyards or public grounds not of the state;
+(17) authorizing the laying out, opening, altering or maintaining roads, highways, streets or alleys;
+(18) for opening and conducting elections, or fixing or changing the place of voting;
+(19) locating or changing county seats;
+(20) creating new townships or changing the boundaries of townships or school districts;
+(21) creating offices, prescribing the powers and duties of officers in, or regulating the affairs of counties, cities, townships, election or school districts;
+(22) incorporating cities, towns, or villages or changing their charters;
+(23) regulating the fees or extending the powers of aldermen, magistrates or constables;
+(24) regulating the management of public schools, the building or repairing of schoolhouses, and the raising of money for such purposes;
+(25) legalizing the unauthorized or invalid acts of any officer or agent of the state or of any county or municipality;
+(26) fixing the rate of interest;
+(27) regulating labor, trade, mining or manufacturing;
+(28) granting to any corporation, association or individual any special or exclusive right, privilege or immunity, or to any corporation, association or individual the right to lay down a railroad track;
+(29) relating to ferries or bridges, except for the erection of bridges crossing streams which form the boundary between this and any other state;
+(30) where a general law can be made applicable, and whether a general law could have been made applicable is a judicial question to be judicially determined without regard to any legislative assertion on that subject.
+
+> (1952) Land Tax Collection Law is not a local or special law prohibited by § 40, Art. III of the constitution nor does it violate § 8, Art. VI relating to classification of counties. Collector v. Parcels of Land, 362 Mo. 1054, 247 S.W.2d 83.
+
+> (1953) City ordinance prohibiting the operation of places of business selling automobiles in certain areas held invalid as special law because it excludes businesses selling merchandise and commodities other than automobiles. McKaig v. Kansas City, 363 Mo. 1033, 256 S.W.2d 815.
+
+> (1953) Act authorizing tax levy by city of 700,000, enacted in 1952 and having an expiration date in 1954, held not local or special law forbidden by the constitution. Walters v. City of St. Louis, 364 Mo. 56, 259 S.W.2d 377.
+
+> (1955) Ordinance of St. Louis city which prohibited retail auction sales of jewelry, unless owner of stock offered had been in retail jewelry business at location where auction was conducted for one year and had not conducted auction at such location for year, held special law and, therefore, violative of section 40, (30) Art. 3 of Constitution. Hagerman v. City of St. Louis, 365 Mo. 403, 283 S.W.2d 623.
+
+> (1959) City ordinance prohibiting auction sales on Sunday held reasonable and valid exercise of police power as against contentions that it violated prohibitions against discriminatory laws and local or special laws. A B C Liquidators Inc. v. Kansas City (Mo.), 322 S.W.2d 876.
+
+> (1959) Exclusion of work done for levee and drainage districts from operation of Prevailing Wage Act held not unreasonable classification or special law. City of Joplin v. Industrial Comm. (Mo.), 329 S.W.2d 687.
+
+> (1960) Act providing for the licensing of persons engaging in the business of selling checks, drafts and money orders but excluding persons the major portion of whose business consists of sale of merchandise, held to be arbitrary and a special law and therefore void under the federal and state constitutional provisions. Petitt v. Field (Mo.), 341 S.W.2d 106.
+
+> (1962) Missouri Unfair Milk Sales Practices Law (416.410 to 416.560) held not to be special law within this constitutional provision. Borden Company v. Thomason (Mo.), 353 S.W.2d 735.
+
+> (1964) Sunday sales law upheld against charge that it was unconstitutional as being a special law, containing unreasonable, arbitrary and discriminatory classifications in violation of plaintiffs' right to equal rights and opportunities under the law; and depriving plaintiffs of liberty and property without due process of law. GEM Stores, Inc. v. O'Brien (Mo.), 374 S.W.2d 109.
+
+> (1964) Validity of city ordinance requiring licensing of television and radio servicemen upheld against charges that it violated due process and equal protection clauses of state and federal constitutions and the "special law" prohibition of the state constitution. McClellan v. Kansas City (Mo.), 379 S.W.2d 500.
+
+> (1966) This constitutional provision applies to municipal as well as state legislation. Mathison v. Public Water Supply Dist. No. 2 of Jackson County, 401 S.W.2d 424 (Mo.).
+
+> (1974) Held that sections 92.700 to 92.920 do not violate this section. Collector of Revenue v. Parcels of Land (Mo.), 517 S.W.2d 49.
+
+> (1975) Where an act does not exclude any city which may come within its classification, the fact that it is improbable that any will do so does not make the act a special law. State ex rel. Atkinson v. Planned Industrial Expansion Authority (Mo.), 517 S.W.2d 36.
+
+> (1975) Held not unconstitutional as violating prohibition against special legislation. Bopp v. Spainhower (Mo.), 519 S.W.2d 281.
+
+> (1977) A statute applying only in "any county of the first class having a charter form of government and not containing all or part of a city with a population of more than four hundred fifty thousand inhabitants" is not invalid as constituting a special or local law. Manchester Fire Protection District v. St. Louis (Mo.), 555 S.W.2d 297.
+
+> (1993) Section 72.400, RSMo, is unconstitutional, where act is not open-ended and does not demonstrate a substantial justification for excluding other counties from choosing to have a boundary commission. The ordinance and acts of the boundary commission made pursuant to statute in approving the annexation are void. O'Reilly v. City of Hazelwood, 850 S.W.2d 96 (Mo. banc).
+
+> (1994) Bill enacted by General Assembly which provides for licensing of excursion gambling boats designates area for licensing continuously docked vessel by geographic locale and by precise size and type of boat. Immutable characteristics describe one area and violate prohibition against special laws. Harris v. Missouri Gaming Commission, 869 S.W.2d 58 (Mo. banc).
+
+> (1995) Proscription against the enactment of local or special laws applies with equal force to municipalities and their ordinances as it does to general assembly. Hunter Avenue Property v. Union Electric Co., 895 S.W.2d 146 (Mo. App. E.D.).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 53.*
+
+### Section 41 Notice of proposed local or special laws.
+
+No local or special law shall be passed unless a notice, setting forth the intention to apply therefor and the substance of the contemplated law, shall have been published in the locality where the matter or thing to be affected is situated at least thirty days prior to the introduction of the bill into the general assembly and in the manner provided by law. Proof of publication shall be filed with the general assembly before the act shall be passed and the notice shall be recited in the act.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 54.*
+
+### Section 42 Notice of proposed local or special laws.
+
+No local or special law shall be passed unless a notice, setting forth the intention to apply therefor and the substance of the contemplated law, shall have been published in the locality where the matter or thing to be affected is situated at least thirty days prior to the introduction of the bill into the general assembly and in the manner provided by law. Proof of publication shall be filed with the general assembly before the act shall be passed and the notice shall be recited in the act.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 54.*
+
+### Section 43 Title and control of lands of United States — exemption from taxation — taxation of lands of nonresidents.
+
+The general assembly shall never interfere with the primary disposal of the soil by the United States, nor with any regulation which Congress may find necessary for securing the title in such soil to bona fide purchasers. No tax shall be imposed on lands the property of the United States; nor shall lands belonging to persons residing without the state ever be taxed at a higher rate than lands belonging to persons residing within the state.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 1.*
+
+### Section 44 Uniform interest rates.
+
+No law shall be valid fixing rates of interest or return for the loan or use of money, or the service or other charges made or imposed in connection therewith, for any particular group or class engaged in lending money. The rates of interest fixed by law shall be applicable generally and to all lenders without regard to the type or classification of their business.
+
+> (1979) Section 370.300.1 violates Art. III, § 44 Mo. Const. in that it fixes rates of interest for a particular group or class lending money and is contrary to the requirement that rate of interest fixed by law shall be applicable generally to all lenders without regard to the type or classification of their business. St. Louis Teachers' Credit Union v. Marsh, et al. (Mo.), 585 S.W.2d 474.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 45 Congressional apportionment.
+
+When the number of representatives to which the state is entitled in the House of the Congress of the United States under the census of 1950 and each census thereafter is certified to the governor, the general assembly shall by law divide the state into districts corresponding with the number of representatives to which it is entitled, which districts shall be composed of contiguous territory as compact and as nearly equal in population as may be.
+
+> (1962) Statute dividing state into 10 congressional districts, the least populous containing .087% and the most populous containing .117% of the state population and all but one of which were reasonably compact, was a constitutional apportionment. Priesler v. Hearnes (Mo.), 362 S.W.2d 552.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 45(a) Term limitations for members of U.S. Congress — effective when — voluntary observance required, when.
+
+(1) No United States Senator from Missouri shall serve more than two terms in the United States Senate, and no United States Representative from Missouri shall serve more than four terms in the United States House of Representatives. This limitation on the number of terms shall apply to terms of office beginning on or after the effective date of this section. Any person appointed or elected to fill a vacancy in the United States Congress and who serves at least one-half of a term of office shall be considered to have served a term in that office for purposes of this subsection (1). The provisions of this subsection (1) shall become effective whenever at least one-half of the states enact term limits for their members of the United States Congress.
+(2) The people of Missouri declare that the provisions of this section shall be deemed severable and that their intention is that federal officials elected from Missouri will continue voluntarily to observe the wishes of the people as stated in this section in the event any provision thereof is held invalid.
+
+*03 Dec 1992 · (Adopted November 3, 1992).*
+
+### Section 46 Militia.
+
+The general assembly shall provide for the organization, equipment, regulations and functions of an adequate militia, and shall conform the same as nearly as practicable to the regulations for the government of the armed forces of the United States.
+
+*08 Dec 1960 · Source: Const. of 1875, Art. XIII, § 2.*
+
+### Section 46(a) Emergency duties and powers of assembly on enemy attack.
+
+The General Assembly, in order to insure continuity of state and local governmental operations in periods of emergency only resulting from disasters occurring in this state caused by enemy attack on the United States, shall have the power to such extent as the General Assembly deems advisable. In the event there occurs in this state a disaster caused by enemy attack on the United States, the General Assembly shall immediately convene in the City of Jefferson or in such place as designated by joint proclamation of the highest presiding officers of each house, and shall have power
+(1) To provide by legislative enactment for prompt and temporary succession to the powers and duties of public offices, of whatever nature and whether filled by election or appointment, the incumbents of which may become unavailable for carrying on the powers and duties of such offices, and
+(2) To adopt by legislative enactment such other legislation as may be necessary and proper for insuring the continuity of governmental operations. Notwithstanding the power conferred by this section of the constitution, elections shall always be called as soon as possible to fill any elective vacancies in any office temporarily occupied by operation of any legislation enacted pursuant to the provisions of this section.
+
+*08 Dec 1960 · (Adopted November 8, 1960).*
+
+### Section 47 State parks — appropriations for, required.
+
+For twelve years beginning with the year 1961, the general assembly shall appropriate for each year out of the general revenue fund, an amount not less than that produced annually at a tax rate of one cent on each one hundred dollars assessed valuation of the real and tangible personal property taxable by the state, for the exclusive purpose of providing a state park fund to be expended and used by the agency authorized by law to control and supervise state parks, and historic sites of the state, for the purposes of the acquisition, supervision, operation, maintenance, development, control, regulation and restoration of state parks and state park property, as may be determined by such agency; and thereafter the general assembly shall appropriate such amounts as may be reasonably necessary for such purposes.
+The amount required to be appropriated by this section may be reduced to meet budgetary demands provided said appropriation is not less than that appropriated for the prior similar appropriation period.
+
+*08 Dec 1960 · Source: Const. of 1945 (Amended November 8, 1960).*
+
+### Section 48 Historical memorials and monuments — acquisition of property.
+
+The general assembly may enact laws and make appropriations to preserve and perpetuate memorials of the history of the state by parks, buildings, monuments, statues, paintings, documents of historical value or by other means, and to preserve places of historic or archaeological interest or scenic beauty, and for such purposes private property or the use thereof may be acquired by gift, purchase, or eminent domain or be subjected to reasonable regulation or control.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 49 Reservation of power to enact and reject laws.
+
+The people reserve power to propose and enact or reject laws and amendments to the constitution by the initiative, independent of the general assembly, and also reserve power to approve or reject by referendum any act of the general assembly, except as hereinafter provided.
+
+> (1963) Initiative process could not be used as method of amending St. Louis County zoning ordinance. State v. Donohue (Mo.), 368 S.W.2d 432.
+
+*27 Feb 1945 · Source: Const of 1875, Art. IV, § 57 (Amended November 3, 1908).*
+
+### Section 50 Initiative petitions — signatures required — form and procedure.
+
+Initiative petitions proposing amendments to the constitution shall be signed by eight percent of the legal voters in each of two-thirds of the congressional districts in the state, and petitions proposing laws shall be signed by five percent of such voters. Every such petition shall be filed with the secretary of state not less than six months before the election and shall contain an enacting clause and the full text of the measure. Petitions for constitutional amendments shall not contain more than one amended and revised article of this constitution, or one new article which shall not contain more than one subject and matters properly connected therewith, and the enacting clause thereof shall be "Be it resolved by the people of the state of Missouri that the Constitution be amended:". Petitions for laws shall contain not more than one subject which shall be expressed clearly in the title, and the enacting clause thereof shall be "Be it enacted by the people of the state of Missouri:".
+
+> (1972) The requirement of this section that initiative petitions contain an enacting clause is mandatory and not directory. State ex rel. Scott v. Kirkpatrick (Mo.), 484 S.W.2d 161.
+
+> (1974) "Legal voter" held to mean "registered voter". Scott v. Kirkpatrick (Mo.), 513 S.W.2d 442.
+
+> (1990) Organization of Missouri constitution into separate articles creates a presumption that matters pertaining to separate subjects should be set forth in separate articles and not commingled. The organizational headings of the constitution are strong evidence of what the drafters of the constitution meant by "one subject". Missourians to Protect the Initiative Process v. Blunt, 799 S.W.2d 824 (Mo. 1990) (en banc).
+
+*03 Dec 1998 · Source: Const. of 1875, Art. IV, § 57 (Amended November 3, 1998).*
+
+### Section 51 Appropriations by initiative — effective date of initiated laws — conflicting laws concurrently adopted.
+
+The initiative shall not be used for the appropriation of money other than of new revenues created and provided for thereby, or for any other purpose prohibited by this constitution. Except as provided in this constitution, any measure proposed shall take effect when approved by a majority of the votes cast thereon. When conflicting measures are approved at the same election the one receiving the largest affirmative vote shall prevail.
+
+> (1974) A city charter amendment which would require salaries of city firemen to equal those of another city's firemen violates this section in that it in effect constitutes an appropriation measure which failed to provide new revenues. State ex rel. Card v. Kaufman (Mo.), 517 S.W.2d 78.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 52(a) Referendum — exceptions — procedure.
+
+A referendum may be ordered (except as to laws necessary for the immediate preservation of the public peace, health or safety, and laws making appropriations for the current expenses of the state government, for the maintenance of state institutions and for the support of public schools) either by petitions signed by five percent of the legal voters in each of two-thirds of the congressional districts in the state, or by the general assembly, as other bills are enacted. Referendum petitions shall be filed with the secretary of state not more than ninety days after the final adjournment of the session of the general assembly which passed the bill on which the referendum is demanded.
+
+> (1952) Referendum petitions as to laws which become effective ninety days after recess under Art. III, Sec. 29, must be filed within ninety days after beginning of recess in order to be effective. State ex rel. Moore v. Toberman, 363 Mo. 245, 250 S.W.2d 701.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 57.*
+
+### Section 52(b) Veto power — elections — effective date.
+
+The veto power of the governor shall not extend to measures referred to the people. All elections on measures referred to the people shall be had at the general state elections, except when the general assembly shall order a special election. Any measure referred to the people shall take effect when approved by a majority of the votes cast thereon, and not otherwise. This section shall not be construed to deprive any member of the general assembly of the right to introduce any measure.
+
+> (1956) As general rule after a measure is passed by the legislature, approved by voters on referendum and proclaimed to be in effect, it will not be held invalid because of procedural errors occurring during the course of its adoption. Brown v. Morris, 365 Mo. 946, 290 S.W.2d 160.
+
+> (1956) Where bill was referred by a provision of the bill, the signature of the speaker of the house was not necessary to constitute the bill a valid enactment after its approval by people. Brown v. Morris, 365 Mo. 946, 290 S.W.2d 160.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 57.*
+
+### Section 53 Basis for computation of signatures required.
+
+The total vote for governor at the general election last preceding the filing of any initiative or referendum petition shall be used to determine the number of legal voters necessary to sign the petition. In submitting the same to the people the secretary of state and all other officers shall be governed by general laws.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 57.*
+
+## Article IV — Executive Department
+
+### Section 1 Executive power — the governor.
+
+The supreme executive power shall be vested in a governor.
+
+> (1970) The courts have inherent authority to employ necessary personnel with which to carry out their functions, to fix compensation of these personnel, and to require appropriation and payment therefor. State ex rel. Weinstein v. St. Louis Co. (Mo.), 451 S.W.2d 99.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 4.*
+
+### Section 2 Duties of governor.
+
+The governor shall take care that the laws are distributed and faithfully executed, and shall be a conservator of the peace throughout the state.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 6.*
+
+### Section 3 Qualifications of governor.
+
+The governor shall be at least thirty years old and shall have been a citizen of the United States for at least fifteen years and a resident of this state at least ten years next before election.
+
+> (1972) Word "resident" as used in this section does not mean or require actual, physical presence, continuous and uninterrupted for ten years, but means that place where a man has his true fixed and permanent home and principal establishment and to which whenever he is absent he has the intention of returning. State ex rel. King v. Walsh (Mo.), 484 S.W.2d 641.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 5.*
+
+### Section 4 Power of appointment to fill vacancies — tenure of appointees.
+
+The governor shall fill all vacancies in public offices unless otherwise provided by law, and his appointees shall serve until their successors are duly elected or appointed and qualified.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 11.*
+
+### Section 5 Commissions of state officers.
+
+The governor shall commission all officers unless otherwise provided by law. All commissions shall be issued in the name of the state, signed by the governor, sealed with the great seal of the state and attested by the secretary of state.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 23.*
+
+### Section 6 Commander in chief of militia — authority.
+
+The governor shall be the commander in chief of the militia, except when it is called into the service of the United States, and may call out the militia to execute the laws, suppress actual and prevent threatened insurrection, and repel invasion.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 7.*
+
+### Section 7 Reprieves, commutations and pardons — limitations on power.
+
+The governor shall have power to grant reprieves, commutations and pardons, after conviction, for all offenses except treason and cases of impeachment, upon such conditions and with such restrictions and limitations as he may deem proper, subject to provisions of law as to the manner of applying for pardons. The power to pardon shall not include the power to parole.
+
+> (1975) Held governor's power to pardon is limited to criminal prosecutions and does not extend to administrative revocation of license. The court also held that the governor has no authority to "order" an action by the director of liquor control when the statute places such duty on the director. Theodoro v. Department of Liquor Control (Mo.), 527 S.W.2d 350.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 8.*
+
+### Section 8 Concurrent resolutions — duty of governor — exceptions — limitation of effect.
+
+Every resolution to which the concurrence of the senate and house of representatives may be necessary, except on questions of adjournment, going into joint session, and of amending this constitution, shall be presented to the governor, and before the same shall take effect, shall be proceeded upon in the same manner as in the case of a bill; provided, that no resolution shall have the effect to repeal, extend, or amend any law.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 14.*
+
+### Section 9 Governor's messages and recommendations to assembly — call of extra sessions.
+
+The governor shall, at the commencement of each session of the general assembly, at the close of his term of office, and at such other times as he may deem necessary, give to the general assembly information as to the state of the government, and shall recommend to its consideration such measures as he shall deem necessary and expedient. On extraordinary occasions he may convene the general assembly by proclamation, wherein he shall state specifically each matter on which action is deemed necessary.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, §§ 9, 10.*
+
+### Section 10 Lieutenant governor — qualifications, powers and duties.
+
+There shall be a lieutenant governor who shall have the same qualifications as the governor and shall be ex officio president of the senate. In committee of the whole he may debate all questions, and shall cast the deciding vote on equal division in the senate and on joint vote of both houses.
+
+> (1974) Held that lieutenant governor has right to preside over senate but is subject to procedural rules of senate while so doing. State v. Cason (Mo.), 507 S.W.2d 405.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, §§ 1, 15.*
+
+### Section 11(a) Order of succession to governorship, when.
+
+If the governor-elect dies before taking office, the lieutenant governor-elect shall take the term of the governor-elect. On the death, conviction or impeachment, or resignation of the governor, the lieutenant governor shall become governor for the remainder of the term. If there be no lieutenant governor the president pro tempore of the senate, the speaker of the house, the secretary of state, the state auditor, the state treasurer or the attorney general in succession shall become governor. On the failure to qualify, absence from the state or other disability of the governor, the powers, duties and emoluments of the governor shall devolve upon the lieutenant governor for the remainder of the term or until the disability is removed. If there be no lieutenant governor, or for any of said causes the lieutenant governor is incapable of acting, the president pro tempore of the senate, the speaker of the house, the secretary of state, the state auditor, the state treasurer, and the attorney general in succession shall act as governor until the disability is removed.
+
+*05 Sep 1968 · Source: Const. of 1875, Art. V, §§ 16, 17 (Adopted August 6, 1968).*
+
+### Section 11(b) Governor's declaration of disability, effect of — disability board, membership, duties — governor to resume office, when — disputed illness, supreme court to decide.
+
+Whenever the governor transmits to the president pro tempore of the senate and the speaker of the house of representatives his written declaration that he is unable to discharge the powers and duties of his office, and until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the lieutenant governor, or if there be no lieutenant governor, by the president pro tempore of the senate, the speaker of the house, secretary of state, the state auditor, the state treasurer, or the attorney general in succession, as acting governor. Whenever a majority of a disability board comprised of the lieutenant governor, the secretary of state, the state auditor, the state treasurer, the attorney general, president pro tempore of the senate, the speaker of the house of representatives, the majority floor leader of the senate, and majority floor leader of the house, transmits to the president pro tempore of the senate and the speaker of the house of representatives their written declaration that the governor is unable to discharge the powers and duties of his office, the lieutenant governor, or if there be no lieutenant governor, the president pro tempore of the senate, the speaker of the house, the secretary of state, the state auditor, the state treasurer or the attorney general in succession, shall immediately assume the powers and duties of the office as acting governor. Thereafter when the governor transmits to the disability board his written declaration that no inability exists, he shall resume the powers and duties of his office on the fourth day after he transmits such declaration unless a majority of the disability board transmits their written declaration that the governor is unable to discharge the powers and duties of his office to the supreme court within that four day period, and the supreme court shall then convene to decide the issue. If the supreme court within twenty-one days after receipt of such declaration, determines by a majority vote of all members thereof that the governor is unable to discharge the powers and duties of his office, the acting governor shall continue to discharge the same as acting governor; otherwise, the governor shall resume the powers and duties of his office.
+
+> (1991) Where powers, duties and emolument of governor shall devolve upon the lieutenant governor upon absence from state or other disability of the governor, absence from the state does not mean physical absence of governor but means effective absence which effectively debilitates or prevents governor from exercising the duties of his office. State ex rel. Ashcroft v. Blunt, 813 S.W.2d 849 (Mo. en banc).
+
+> (1991) Lieutenant governor not entitled to be paid compensation at the salary level of governor based on governor's presence or absence from the state but based only upon serving as acting governor. State ex rel. Ashcroft v. Blunt, 813 S.W.2d 849 (Mo. en banc).
+
+*05 Sep 1968 · (Adopted August 6, 1968).*
+
+### Section 11(c) Acting as governor not to vacate regular office.
+
+If any state officer other than the lieutenant governor is acting as governor, his regular elective office shall not be deemed vacant and all duties of that office shall be performed by his chief administrative assistant.
+
+*05 Sep 1968 · (Adopted August 6, 1968).*
+
+### Section 12 Executive department, composition of — elective officials — departments and offices enumerated.
+
+The executive department shall consist of all state elective and appointive officials and employees except officials and employees of the legislative and judicial departments. In addition to the governor and lieutenant governor there shall be a state auditor, secretary of state, attorney general, a state treasurer, an office of administration, a department of agriculture, a department of conservation, a department of natural resources, a department of elementary and secondary education, a department of higher education, a department of highways and transportation, a department of insurance, a department of labor and industrial relations, a department of economic development, a department of public safety, a department of revenue, a department of social services, a department of the National Guard, and a department of mental health. In addition to the elected officers, there shall not be more than sixteen departments and the office of administration. The general assembly may create by law two departments, in addition to those named, provided that the departments shall be headed by a director or commission appointed by the governor on the advice and consent of the senate. The director or commission shall have administrative responsibility and authority for the department created by law. Unless discontinued all present or future boards, bureaus, commissions and other agencies of the state exercising administrative or executive authority shall be assigned by law or by the governor as provided by law to the office of administration or to one of the sixteen administrative departments to which their respective powers and duties are germane.
+
+*08 Dec 2022 · Source: Const. of 1945 (Amended August 8, 1972) (Amended November 6, 1979) (Amended August 7, 1984) (Amended August 7, 1990) (Amended November 8, 2022).*
+
+### Section 13 State auditor — qualifications and duties — limitations on duties.
+
+The state auditor shall have the same qualifications as the governor. He shall establish appropriate systems of accounting for all public officials of the state, post-audit the accounts of all state agencies and audit the treasury at least once annually. He shall make all other audits and investigations required by law, and shall make an annual report to the governor and general assembly. He shall establish appropriate systems of accounting for the political subdivisions of the state, supervise their budgeting systems, and audit their accounts as provided by law. No duty shall be imposed on him by law which is not related to the supervising and auditing of the receipt and expenditure of public funds.
+
+> (2013) State Auditor does not have standing to challenge Governor's constitutional authority to withhold funding of other government branches prior to completion of fiscal year or to set specific amounts in excess of specified "E" (or estimated) appropriations. Schweich v. Nixon, 408 S.W.3d 769 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 14 Secretary of state — duties — state seal — official register — limitation on duties.
+
+The secretary of state shall be custodian of the seal of the state, and authenticate therewith all official acts of the governor except the approval of laws. The seal shall be called the "Great Seal of the State of Missouri," and its present emblems and devices shall not be subject to change. He shall keep a register of the official acts of the governor, attest them when necessary, and when required shall lay copies thereof, and of all papers relative thereto, before either house of the general assembly. He shall be custodian of such records, and documents and perform such duties in relation thereto, and in relation to elections and corporations, as provided by law, but no duty shall be imposed on him by law which is not related to his duties as prescribed in this constitution.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, §§ 20, 21.*
+
+### Section 15 State treasurer — duties — custody, investment and deposit of state funds — duties limited — nonstate funds to be in custody and invested by department of revenue — nonstate funds defined.
+
+The state treasurer shall be custodian of all state funds and funds received from the United States government. The department of revenue shall take custody of and invest nonstate funds as defined herein, and other moneys authorized to be held by the department of revenue. All revenue collected and moneys received by the state which are state funds or funds received from the United States government shall go promptly into the state treasury. All revenue collected and moneys received by the department of revenue which are nonstate funds as defined herein shall be promptly credited to the fund provided by law for that type of money. Immediately upon receipt of state or United States funds the state treasurer shall deposit all moneys in the state treasury in banking institutions selected by him and approved by the governor and state auditor, and he shall hold them for the benefit of the respective funds to which they belong and disburse them as provided by law. Unless otherwise provided by law, all interest received on nonstate funds shall be credited to such funds. The state treasurer shall determine by the exercise of his best judgment the amount of moneys in his custody that are not needed for current expenses and shall place all such moneys on time deposit, bearing interest, in banking institutions in this state selected by the state treasurer and approved by the governor and state auditor or in obligations of the United States government or any agency or instrumentality thereof maturing and becoming payable not more than five years from the date of purchase. In addition the treasurer may enter into repurchase agreements maturing and becoming payable within ninety days secured by United States Treasury obligations or obligations of United States government agencies or instrumentalities of any maturity, as provided by law. The treasurer may also invest in banker's acceptances issued by domestic commercial banks possessing the highest rating issued by a nationally recognized rating agency and in commercial paper issued by domestic corporations which has received the highest rating issued by a nationally recognized rating agency. Investments in banker's acceptances and commercial paper shall mature and become payable not more than one hundred eighty days from the date of purchase, maintain the highest rating throughout the duration of the investment and meet any other requirements provided by law. The state treasurer shall prepare, maintain and adhere to a written investment policy which shall include an asset allocation plan limiting the total amount of state money which may be invested in each investment category authorized by this section. The investment and deposit of state, United States and nonstate funds shall be subject to such restrictions and requirements as may be prescribed by law. Banking institutions in which state and United States funds are deposited by the state treasurer shall give security satisfactory to the governor, state auditor and state treasurer for the safekeeping and payment of the deposits and interest thereon pursuant to deposit agreements made with the state treasurer pursuant to law. No duty shall be imposed on the state treasurer by law which is not related to the receipt, investment, custody and disbursement of state funds and funds received from the United States government. As used in the section, the term "banking institutions" shall include banks, trust companies, savings and loan associations, credit unions, production credit associations authorized by act of the United States Congress, and other financial institutions which are authorized by law to accept funds for deposit or which in the case of production credit associations, issues securities. As used in this section, the term "nonstate funds" shall include all taxes and fees imposed by political subdivisions and collected by the department of revenue; all taxes which are imposed by the state, collected by the department of revenue and distributed by the department of revenue to political subdivisions; and all other moneys which are hereafter designated as "nonstate funds" to be administered by the department of revenue.
+
+> (1973) This section requires state treasurer to hold investments made from state road fund for the benefit of that fund, and includes interest from such investments in view of Art. IV, § 30(b), Constitution of Missouri. State Highway Commission v. Spainhower (Mo.), 504 S.W.2d 121.
+
+> (2002) Section specifically denies to the State Treasurer the authority to enforce delivery of state funds and funds received from the United States government. Farmer v. Kinder, 89 S.W.3d 447 (Mo.banc).
+
+*03 Dec 1998 · Source: Const. of 1875, Art. IV, § 43, Art. X, § 15 (Amended November 6, 1956) (Amended August 5, 1986) (Amended November 3, 1998).*
+
+### Section 16 Filing of administrative rules and regulations.
+
+All rules and regulations of any board or other administrative agency of the executive department, except those relating to its organization and internal management, shall take effect not less than ten days after the filing thereof in the office of the secretary of state.
+
+> (1959) In prosecution for violating public service commission rule, procedures whereby rule was adopted held not required to be set forth in information. State v. Graham (A.), 322 S.W.2d 188.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 17 Elective state officers — time of election and terms — limitation on reelection — selection of department heads — removal and qualifications of appointive officers.
+
+The governor, lieutenant governor, secretary of state, state treasurer and attorney general shall be elected at the presidential elections for terms of four years each. The state auditor shall be elected for a term of two years at the general election in the year 1948, and his successors shall be elected for terms of four years. No person shall be elected governor or treasurer more than twice, and no person who has held the office of governor or treasurer, or acted as governor or treasurer, for more than two years of a term to which some other person was elected to the office of governor or treasurer shall be elected to the office of governor or treasurer more than once. The heads of all the executive departments shall be appointed by the governor, by and with the advice and consent of the senate. All appointive officers may be removed by the governor and shall possess the qualifications required by this constitution or by law.
+
+*03 Sep 1970 · Source: Const. of 1875, Art. V, § 2 (Amended August 17, 1965) (Amended August 4, 1970).*
+
+### Section 18 Election returns — board of state canvassers — time of meeting and duties — requirement for election — tie votes.
+
+The returns of every election for governor, lieutenant governor, secretary of state, state auditor, state treasurer and attorney general shall be sealed and transmitted by the returning officers to the secretary of state, who shall appoint two disinterested judges of a court of record of the state, and the three shall constitute a board of state canvassers. The board shall meet at the state capitol on, or at the call of the secretary of state before, the second Tuesday of December next after the election and forthwith open and canvass the returns of the votes cast and from the face thereof ascertain and proclaim the result of the election. The persons having the highest number of votes for the respective offices shall be declared elected, and if two or more persons have an equal and the highest number of votes for the same office, at its next regular session the general assembly, by joint vote and without delay, shall choose one of such persons for the office.
+
+*07 Dec 1978 · Source: Const. of 1875, Art. V, § 3 (Amended November 7, 1978).*
+
+### Section 19 Department personnel — selection and removal — merit system — veterans' preference.
+
+The head of each department may select and remove all appointees in the department except as otherwise provided in this constitution, or by law. All employees in the state eleemosynary and penal institutions, and other state employees as provided by law, shall be selected on the basis of merit, ascertained as nearly as practicable by competitive examinations; provided that any honorably discharged member of the armed services of the United States who is a citizen of this state shall have preference in examination and appointment as prescribed by law.
+
+> (2019) Restricting appropriations funding for the salary of specific administrative law judge based on that judge's date of appointment violates the separation of powers; the General Assembly may not compel an executive department, directly or indirectly, to fire a specific employee. Rebman v. Parson, 576 S.W.3d 605 (Mo.).
+
+*04 Nov 1971 · Source: Const. of 1945 (Amended October 5, 1971).*
+
+### Section 20 Location of executive and administrative offices.
+
+The executive and administrative officials and departments herein provided for shall establish their principal offices and keep all necessary public records, books and papers at the City of Jefferson.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 1.*
+
+### Section 21 Limitation on changes of salaries — fees, costs.
+
+The officers named in this article shall receive for their services salaries fixed by law, which shall not be increased or diminished during their terms. After the expiration of the terms of those now in office the officers named shall not receive to their own use any fees, costs, perquisites of office or other compensation, and all fees provided by law for any service performed by them shall be paid in advance into the state treasury.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 25.*
+
+### Section 22 Department of revenue, duties of — director, appointment of.
+
+The department of revenue shall be in charge of a director of revenue appointed by the governor, by and with the advice and consent of the senate. The department shall have divisions as provided by law. The department shall collect all taxes and fees payable to the state as provided by law.
+
+> (1974) Held that Chap. 296, RSMo, does not violate this section by fixing the powers or duties of a municipal officer of a charter city. City of St. Louis v. Mo. Com'n. on Human Rights (Mo.), 517 S.W.2d 65.
+
+*07 Sep 1972 · Source: Const. of 1945 (Amended November 4, 1958) (Amended August 8, 1972).*
+
+### Section 23 Fiscal year — limitations on appropriations — specification of amount and purpose.
+
+The fiscal year of the state and all its agencies shall be the twelve months beginning on the first day of July in each year. The general assembly shall make appropriations for one or two fiscal years, and the sixty-third general assembly shall also make appropriations for the six months ending June 30, 1945. Every appropriation law shall distinctly specify the amount and purpose of the appropriation without reference to any other law to fix the amount or purpose.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 19.*
+
+### Section 24 Governor's budget and recommendations as to revenue — proposed legislation not enacted not to be included in projection of new revenues.
+
+The governor shall, within thirty days after it convenes in each regular session, submit to the general assembly a budget for the ensuing appropriation period, containing the estimated available revenues of the state and a complete and itemized plan of proposed expenditures of the state and all its agencies. The governor shall not determine estimated available revenues of the state using any projection of new revenues to be created from proposed legislation that has not been passed into law by the general assembly. Estimates of any unspent fund balances, without regard to actual or estimated revenues but accounting for all existing appropriations, that will constitute a surplus during the fiscal year immediately preceding the fiscal year or years for which the governor is recommending a budget, may be included in the estimated revenue available for expenditure during the fiscal year or years for which the governor is recommending a budget. As used in this section, new revenues shall not include existing provisions of law subject to expiration during the ensuing appropriation period.
+
+*04 Dec 2014 · Source: Const. of 1875, Art. V, § 13 (Amended November 4, 2014).*
+
+### Section 25 Limitation of governor's budget on power of appropriations.
+
+Until it acts on all the appropriations recommended in the budget, neither house of the general assembly shall pass any appropriation other than emergency appropriations recommended by the governor.
+
+> (1975) Held not unconstitutional as violating prohibition against special legislation. Bopp v. Spainhower (Mo.), 519 S.W.2d 281.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 26 Power of partial veto of appropriation bills — procedure — limitations.
+
+The governor may object to one or more items or portions of items of appropriation of money in any bill presented to him, while approving other portions of the bill. On signing it he shall append to the bill a statement of the items or portions of items to which he objects and such items or portions shall not take effect. If the general assembly be in session he shall transmit to the house in which the bill originated a copy of the statement, and the items or portions objected to shall be reconsidered separately. If it be not in session he shall transmit the bill within forty-five days to the office of the secretary of state with his approval or reasons for disapproval. The governor shall not reduce any appropriation for free public schools, or for the payment of principal and interest on the public debt.
+
+> (1973) Words which set out purpose of appropriation bill may not be stricken unless the money therein appropriated is vetoed. State ex rel. Cason v. Bond (Mo.), 495 S.W.2d 385.
+
+> (1992) Federally mandated state expenditures for desegregation purposes in the public schools of Kansas City, the City of St. Louis and St. Louis County are state expenditures for free public schools within the meaning of the Missouri Constitution. Such expenditures are part of the funds expended by the state on the public schools, therefore, the Governor did not reduce the total expenditures below the appropriations approved for that purpose. Sikeston R-VI School Dist. v. Ashcroft, 828 S.W.2d 372 (Mo. en banc).
+
+> (1992) Constitutional mandate that funds appropriated to the public schools "be distributed according to law" does not mandate expenditures exclusively through the foundation formula. The foundation formula is only one such law and the United States Constitution is another such law which can direct the distribution of state funds to public schools. Sikeston R-VI School Dist. v. Ashcroft, 828 S.W.2d 372 (Mo. en banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. V, § 13.*
+
+### Section 27 Power of governor to control rate of and reduce expenditures — notification to general assembly, when.
+
+1. The governor may control the rate at which any appropriation is expended during the period of the appropriation by allotment and may reduce the expenditures of the state or any of its agencies below their appropriations whenever the actual revenues are less than the revenue estimates upon which the appropriations were based. The governor shall not reduce any appropriation for the payment of principal and interest on the public debt.
+2. The governor shall notify the general assembly by proclamation whenever the rate at which any appropriation shall be expended is not equal quarterly allotments, the sum of which shall be equal to the amount of the appropriation. Any rate of expenditure for any appropriation which is not equal quarterly allotments shall stand reconsidered in the chamber in which the bill that contained the appropriation originated. Such reconsideration shall be in the manner that a bill is reconsidered under article III, section 32. Either the general assembly that receives the proclamation or the next general assembly may reconsider the rate of expenditure. If the general assembly successfully reconsiders the rate of expenditure for the appropriation in question, the rate shall be assumed to be equal quarterly allotments. Such reconsideration may be at any time the general assembly is in session including sessions pursuant to article III, sections 20, 20(b), and 32 and article IV, section 9. Either the general assembly that receives the proclamation or the next general assembly may reconsider such allotment allocation change. Such reconsideration may be at any time the general assembly is in session including sessions pursuant to article III, sections 20, 20(b), and 32 and article IV, section 9.
+3. The governor shall notify the general assembly by proclamation when the governor reduces one or more items or portions of items of appropriation of money as a result of actual revenues being less than the revenue estimates upon which the appropriations were based. Each item or portions of items of appropriation of money shall stand reconsidered in the chamber in which the bill that contained the appropriation originated. Such reconsideration shall be in the manner that a bill is reconsidered under article III, section 32. Either the general assembly that receives the proclamation or the next general assembly may reconsider such reduction. Such reconsideration may be at any time the general assembly is in session including sessions pursuant to article III, sections 20, 20(b), and 32 and article IV, section 9.
+
+> (1992) Federally mandated state expenditures for desegregation purposes in the public schools of Kansas City, the City of St. Louis and St. Louis County are state expenditures for free public schools within the meaning of the Missouri Constitution. Such expenditures are part of the funds expended by the state on the public schools, therefore, the Governor did not reduce the total expenditures below the appropriations approved for that purpose. Sikeston R-VI School Dist. v. Ashcroft, 828 S.W.2d 372 (Mo. en banc).
+
+> (1992) Constitutional mandate that funds appropriated to the public schools "be distributed according to law" does not mandate expenditures exclusively through the foundation formula. The foundation formula is only one such law and the United States Constitution is another such law which can direct the distribution of state funds to public schools. Sikeston R-VI School Dist. v. Ashcroft, 828 S.W.2d 372 (Mo. en banc).
+
+> (2003) Section authorizes Governor to order that part of education appropriation not be distributed. State ex rel. Liberty School District v. Holden, 121 S.W.3d 232 (Mo.banc).
+
+> (2013) State Auditor's claim that the Governor's reduction of the Auditor's expenditures below the amount appropriated was not ripe when the claim was brought before the end of the fiscal year in which the expenditures were withheld. Schweich v. Nixon, No. SC92750 (Mo.banc Oct. 1, 2013).
+
+*04 Dec 2014 · Source: Const. of 1945 (Amended November 4, 2014).*
+
+### Section 27(a) Budget Reserve Fund established — investment — excess transfer to general revenue, when.
+
+1. There is hereby established within the state treasury a fund to be known as the "Budget Reserve Fund". The balances in the cash operating reserve fund and the budget stabilization fund shall be transferred to the budget reserve fund.
+2. The commissioner of administration may, throughout any fiscal year, transfer amounts from the budget reserve fund to the general revenue fund or any other state fund without other legislative action if he determines that such amounts are necessary for the cash requirements of this state. Such transfers shall be deemed "cash operating transfers".
+3. The commissioner of administration shall transfer from the general revenue fund or other recipient fund to the budget reserve fund an amount equal to the cash operating transfer received by such fund pursuant to subsection 2 of this section, together with the interest that would have been earned on such amount, prior to May sixteenth of the fiscal year in which the transfer was made. No cash operating transfers out of the budget reserve fund may be made after May fifteenth of any fiscal year.
+4. Funds in the budget reserve fund shall be invested by the treasurer in the same manner as other state funds are invested. Interest earned on such investments shall be credited to the budget reserve fund. Subject to the provisions of subsection 7 of this section, the unexpended balance in the budget reserve fund at the close of any fiscal year shall remain in the fund.
+5. In any fiscal year in which the governor reduces the expenditures of the state or any of its agencies below their appropriations in accordance with section 27 of this article, or in which there is a budget need due to a disaster, as proclaimed by the governor to be an emergency, the general assembly, upon a request by the governor for an emergency appropriation and by a two-thirds vote of the members elected to each house, may appropriate funds from the budget reserve fund to fulfill the expenditures authorized by any of the existing appropriations which were affected by the governor's decision to reduce expenditures pursuant to section 27 of this article or to meet budget needs due to the disaster. Such expenditures shall be deemed to be for "budget stabilization purposes". The maximum amount which may be appropriated at any one time for such budget stabilization purposes shall be one-half of the sum of the balance in the fund and any amounts appropriated or otherwise owed to the fund, less all amounts owed to the fund for budget stabilization purposes but not yet appropriated for repayment to the fund.
+6. One-third of the amount transferred or expended from the budget reserve fund for budget stabilization purposes during any fiscal year, together with interest that would otherwise have been earned on such amount, shall stand appropriated to the budget reserve fund during each of the next three fiscal years, and such amount, and any additional amounts which may be appropriated for that purpose, shall be transferred from the fund which received such transfer to the budget reserve fund by the fifteenth day of the fiscal year for each of the next three fiscal years or until the full amount, plus interest, has been returned to the budget reserve fund. The maximum amount which may be outstanding at any one time and subject to repayment to the budget reserve fund for budget stabilization purposes shall be one-half of the sum of the balance in the fund and all outstanding amounts appropriated or otherwise owed to the fund.
+7. If the balance in the budget reserve fund at the close of any fiscal year exceeds seven and one-half percent of the net general revenue collections for the previous fiscal year, the commissioner of administration shall transfer that excess amount to the general revenue fund unless such excess balance is as a result of direct appropriations made by the general assembly for the purpose of increasing the balance of the fund; provided, however, that if the balance in the fund at the close of any fiscal year exceeds ten percent of the net general revenue collections for the previous fiscal year, the commissioner of administration shall transfer the excess amount to the general revenue fund notwithstanding any specific appropriations made to the fund. For purposes of this section, "net general revenue collections" means all revenue deposited into the general revenue fund less refunds and revenues originally deposited into the general revenue fund but designated by law for a specific distribution or transfer to another state fund.
+8. If the sum of the ending balance of the budget reserve fund in any fiscal year and any amounts owed to the fund pursuant to subsection 6 of this section is less than seven and one-half percent of the net general revenue collections for the same year, the difference shall stand appropriated and shall be transferred from the general revenue fund to the budget reserve fund by the fifteenth day of the succeeding fiscal year.
+
+*07 Dec 2000 · (Adopted August 5, 1986) (Amended November 7, 2000).*
+
+### Section 27(b) Facilities maintenance and review fund created, purpose — state facilities, defined — transfer of moneys into fund, reduction or elimination of transfer by governor.
+
+1. The "Facilities Maintenance Reserve Fund" is hereby created in the state treasury for use in maintaining, repairing and renovating state facilities. "State facilities" shall include all improvements to real property owned by the state except real property owned or possessed by the conservation and highways and transportation commissions, including bridges and highways constructed pursuant to article IV, section 29.
+2. Beginning July 1, 1997, moneys shall be transferred from the general revenue fund to the facilities maintenance reserve fund. The amount transferred in fiscal year 1998 shall be equal to one-tenth of one percent of net general revenue collections of fiscal year 1997. During each succeeding fiscal year the percentage of the immediately preceding fiscal year's net general revenue collections to be transferred to the facilities maintenance reserve fund shall be increased by one-tenth of one percent, until the total percentage transferred equals one percent of the net general revenue collections for the immediately preceding fiscal year. Each year thereafter one percent of the net general revenue collections for the immediately preceding fiscal year shall be transferred to the facilities maintenance reserve fund; provided, however, that the governor may reduce or eliminate the amount of this transfer during any fiscal year in which he exercised his right to reduce expenditures pursuant to article IV, section 27, or during the next succeeding fiscal year after he exercised such power. The general assembly may also appropriate other moneys to the fund.
+3. Moneys in the facilities maintenance reserve fund shall be invested by the state treasurer in the same manner as other state funds are invested. Interest earned on such investments shall be credited to the facilities reserve maintenance fund.
+4. The general assembly may appropriate moneys from the fund to be used for maintenance, repair or renovation of state facilities.
+
+*05 Dec 1996 · (Adopted November 5, 1996).*
+
+### Section 28 Treasury withdrawals, how made, certified how — appropriation, period of.
+
+No money shall be withdrawn from the state treasury except by warrant drawn in accordance with an appropriation made by law, nor shall any obligation for that payment of money be incurred unless the commissioner of administration certifies it for payment and certifies that the expenditure is within the purpose as directed by the general assembly of the appropriation and that there is in the appropriation an unencumbered balance sufficient to pay it. At the time of issuance each such certification shall be entered on the general accounting books as an encumbrance on the appropriation. No appropriation shall confer authority to incur an obligation after the termination of the fiscal period to which it relates, and every appropriation shall expire six months after the end of the period for which made.
+
+*07 Sep 1972 · Source: Const. of 1945 (Amended November 4, 1958) (Amended August 8, 1972).*
+
+### Section 29 Highways and transportation commission — qualifications of members and employees — authority over state highways and other transportation programs.
+
+The highways and transportation commission shall be in charge of the department of transportation. The number, qualifications, compensation and terms of the members of the highways and transportation commission shall be fixed by law, and not more than one-half of its members shall be of the same political party. The selection and removal of all employees shall be without regard to political affiliation. The highways and transportation commission (i) shall have authority over the state highway system; (ii) shall have authority over all other transportation programs and facilities as provided by law, including, but not limited to, aviation, railroads, mass transportation, ports, and waterborne commerce; and (iii) shall have authority to limit access to, from and across state highways and other transportation facilities where the public interests and safety may require. All references to the highway commission and the department of highways in this constitution and in the statutes shall mean the highways and transportation commission and the department of transportation.
+
+> (1956) Where new roadway as limited access highway was condemned through defendant's land, no easement of access arose and damages for the taking of such easement should not be awarded; but the separation of the land by the limited access road should be considered in determining the damages. State ex rel. Highway Comm. v. Clevenger, 365 Mo. 970, 291 S.W.2d 57.
+
+> (1958) Power to limit access to highways is attributable to police power which cannot be contracted away, and contract between city and highway commission to keep certain street in city open held invalid so that property owner in city could not recover for failure of commission to keep street open. Handlan-Buck Co. v. State Highway Comm. (Mo.), 315 S.W.2d 219.
+
+> (1959) Court held without jurisdiction to enjoin location of highway through village at site of village on ground that such highway would obstruct village streets. State ex rel. State Highway Commission v. Elliott (Mo.), 326 S.W.2d 745.
+
+> (1963) Promise of state highway commission to construct planned access roads and an overpass in exchange for conveyance by property owner of the land needed for highway purposes did not preclude later abandonment of the plan and condemnation of the necessary land by the state highway commission. State ex rel. State Highway Commission v. Hammel (Mo.), 372 S.W.2d 852.
+
+> (1964) Abutting owners had property right in easement of direct ingress and egress into preexisting conventional highway which, when taken in connection with portion of his land taken in condemnation for construction of limited access highway, entitled him to compensatory damages and fact that owner would have indirect access highway through outer service roadway would be considered only in mitigation of damages. State ex rel. State Highway Commission v. Brockfeld (A.), 378 S.W.2d 254.
+
+> (1968) State highway commission has power to extinguish or limit access of abutting owner and when it accepted deed with access restrictions it was not an ultra vires act and commission was bound by restrictions. Shepherd v. State (Mo.), 427 S.W.2d 382.
+
+> (1968) Toll Road Authority Act of the 74th General Assembly which permitted resorting to gas tax money to meet bonding obligations violated constitutional provision for allocation of gas tax money. Pohl v. State Highway Commission (Mo.), 431 S.W.2d 99.
+
+> (1970) Public Service Commission cannot order State Highway Commission to pay portion of cost of maintenance of overpass used by railroad. State ex rel. State Highway Commission v. Public Service Commission (A.), 459 S.W.2d 736.
+
+*02 Dec 2004 · Source: Const. of 1875, Art. IV, § 44a (Amended November 6, 1928) (Amended November 6, 1979) (Amended by Initiative November 2, 2004).*
+
+### Section 30(a) Apportionment of motor vehicle fuel tax — director of revenue responsible for apportionment — limitation on local fuel taxes — fuel taxes not part of total state revenues or expenses of state government.
+
+1. A tax upon or measured by fuel used for propelling highway motor vehicles shall be levied and collected as provided by law. Any amount of the tax collected with respect to fuel not used for propelling highway motor vehicles shall be refunded by the state in the manner provided by law. The remaining net proceeds of the tax, after deducting actual costs of collection of the department of revenue (but after June 30, 2005, not more than three percent of the amount collected) and refunds for overpayments and erroneous payments of such tax as permitted by law, shall be apportioned and distributed between the counties, cities and the state highways and transportation commission as hereinafter provided and shall stand appropriated without legislative action for the following purposes:
+(1) Ten percent of the remaining net proceeds shall be deposited in a special trust fund known as the "County Aid Road Trust Fund". In addition, beginning July 1, 1994, an additional five percent of the remaining net proceeds which is derived from the difference between the amount received from a tax rate equal to the tax rate in effect on March 31, 1992, and the tax rate in effect on and after July 1, 1994, shall also be deposited in the county aid road trust fund, and of such moneys generated by this additional five percent, five percent shall be apportioned and distributed solely to cities not within any county in this state. After such distribution to cities not within any county, the remaining proceeds in the county aid road trust fund shall be apportioned and distributed to the various counties of the state on the following basis: One-half on the ratio that the county road mileage of each county bears to the county road mileage of the entire state as determined by the last available report of the state highways and transportation commission and one-half on the ratio that the rural land valuation of each county bears to the rural land valuation of the entire state as determined by the last available report of the state tax commission, except that county road mileage in incorporated villages, towns or cities and the land valuation in incorporated villages, towns or cities shall be excluded in such determination, except that, if the assessed valuation of rural lands in any county is less than five million dollars, the county shall be treated as having an assessed valuation of five million dollars. The funds apportioned and distributed to each county shall be dedicated, used and expended by the county solely for the construction, reconstruction, maintenance and repairs of roads, bridges and highways, and subject to such other provisions and restrictions as provided by law. The moneys generated by the additional five percent of the remaining net proceeds which is derived from the difference between the amount received from a tax rate equal to the tax rate in effect on March 31, 1992, and the tax rate in effect on and after July 1, 1994, shall not be used or expended for equipment, machinery, salaries, fringe benefits or capital improvements, other than roads and bridges. In counties having the township form of county organization, the funds distributed to such counties shall be expended solely under the control and supervision of the county commission, and shall not be expended by the various townships located within such counties. "Rural land" as used in this section shall mean all land located within any county, except land in incorporated villages, towns, or cities.
+(2) Fifteen percent of the remaining net proceeds shall be apportioned and distributed to the various incorporated cities, towns and villages within the state solely for construction, reconstruction, maintenance, repair, policing, signing, lighting and cleaning roads and streets and for the payment of principal and interest on indebtedness on account of road and street purposes, and the use thereof being subject to such other provisions and restrictions as provided by law. The amount apportioned and distributed to each city, town or village shall be based on the ratio that the population of the city, town or village bears to the population of all incorporated cities, towns or villages in the state having a like population, as shown by the last federal decennial census, provided that any city, town or village which had a motor fuel tax prior to the adoption of this section shall annually receive not less than an amount equal to the net revenue derived therefrom in the year 1960; and
+(3) All the remaining net proceeds in excess of the distributions to counties, and to cities, towns and villages under this section shall be apportioned, distributed and deposited in the state road fund and shall be expended and used solely as provided in subsection 1 of section 30(b) of Article IV of this Constitution.
+2. The director of revenue of the state shall make the apportionment, distribution and deposit of the funds monthly in the manner required hereby.
+3. Except for taxes or licenses which may be imposed uniformly on all merchants or manufacturers based upon sales, or which uniformly apply ad valorem to the stocks of merchants or manufacturers, no political subdivision in this state shall collect any tax, excise, license or fee upon, measured by or with respect to the importation, receipt, manufacture, storage, transportation, sale or use, on or after the first day of the month next following the adoption of this section of fuel used for propelling motor vehicles, unless the tax, excise, license or fee is approved by a vote of the people of any city, town or village subsequent to the adoption of this section, by a two-thirds majority. All funds collected shall be used solely for construction, reconstruction, maintenance, repair, policing, signing, lighting, and cleaning roads and streets and for the payment and interest on indebtedness incurred on account of road and street purposes.
+4. The net proceeds of fuel taxes apportioned, distributed and deposited under this section to the state road fund, counties, cities, towns and villages shall not be included within the definition of "total state revenues" in section 17 of article X of this constitution nor be considered as an "expense of state government" as that term is used in section 20 of article X of this constitution.
+
+*02 Dec 2004 · (Adopted March 6, 1962) (Amended November 6, 1979) (Amended August 4, 1992) (Amended by Initiative November 2, 2004).
+CROSS REFERENCE:
+Federal census results to be used for distribution of revenue, when, RSMo 66.351*
+
+### Section 30(b) Source and application of state road fund — sales tax imposed on sale of motor vehicles, apportionment, how, use of revenue — distribution of increases — sales taxes not part of total state revenues or expenses of state government.
+
+1. For the purpose of constructing and maintaining an adequate system of connected state highways all state revenue derived from highway users as an incident to their use or right to use the highways of the state, including all state license fees and taxes upon motor vehicles, trailers and motor vehicle fuels, and upon, with respect to, or on the privilege of the manufacture, receipt, storage, distribution, sale or use thereof (excepting those portions of the sales tax on motor vehicles and trailers which are not distributed to the state road fund pursuant to subsection 2 of this section 30(b) and further excepting all property taxes), less the (1) actual cost of collection of the department of revenue (but not to exceed three percent of the particular tax or fee collected), (2) actual cost of refunds for overpayments and erroneous payments of such taxes and fees and maintaining retirement programs as permitted by law and (3) actual cost of the state highway patrol in administering and enforcing any state motor vehicle laws and traffic regulations, shall be deposited in the state road fund which is hereby created within the state treasury and stand appropriated without legislative action to be used and expended by the highways and transportation commission for the following purposes, and no other:
+First, to the payment of the principal and interest on any outstanding state road bonds. The term state road bonds in this section 30(b) means any bonds or refunding bonds issued by the highways and transportation commission to finance or refinance the construction or reconstruction of the state highway system.
+Second, to maintain a balance in the state road fund in the amount deemed necessary to meet the payment of the principal and interest of any state road bonds for the next succeeding twelve months.
+The remaining balance in the state road fund shall be used and expended in the sole discretion of and under the supervision and direction of the highways and transportation commission for the following state highway system uses and purposes and no other:
+(1) To complete and widen or otherwise improve and maintain the state highway system heretofore designated and laid out under existing laws;
+(2) To reimburse the various counties and other political subdivisions of the state, except incorporated cities and towns, for money expended by them in the construction or acquisition of roads and bridges now or hereafter taken over by the highways and transportation commission as permanent parts of the state highway system, to the extent of the value to the state of such roads and bridges at the time taken over, not exceeding in any case the amount expended by such counties and subdivisions in the construction or acquisition of such roads and bridges, except that the highways and transportation commission may, in its discretion, repay, or agree to repay, any cash advanced by a county or subdivision to expedite state road construction or improvement;
+(3) In the discretion of the commission to plan, locate, relocate, establish, acquire, construct and maintain the following:
+(a) interstate and primary highways within the state;
+(b) supplementary state highways and bridges in each county of the state;
+(c) state highways and bridges in, to and through state parks, public areas and reservations, and state institutions now or hereafter established to connect the same with the state highways, and also national, state or local parkways, travelways, tourways, with coordinated facilities;
+(d) any tunnel or interstate bridge or part thereof, where necessary to connect the state highways of this state with those of other states;
+(e) any highway within the state when necessary to comply with any federal law or requirement which is or shall become a condition to the receipt of federal funds;
+(f) any highway in any city or town which is found necessary as a continuation of any state or federal highway, or any connection therewith, into and through such city or town; and
+(g) additional state highways, bridges and tunnels, either in congested traffic areas of the state or where needed to facilitate and expedite the movement of through traffic.
+(4) To acquire materials, equipment and buildings and to employ such personnel as necessary for the purposes described in this subsection 1; and
+(5) For such other purposes and contingencies relating and appertaining to the construction and maintenance of such state highway system as the highways and transportation commission may deem necessary and proper.
+2. (1) The state sales tax upon the sale of motor vehicles, trailers, motorcycles, mopeds and motortricycles at the rate provided by law on November 2, 2004, is levied and imposed by this section until the rate is changed by law or constitutional amendment.
+(2) One-half of the proceeds from the state sales tax on all motor vehicles, trailers, motorcycles, mopeds and motortricycles shall be dedicated for highway and transportation use and shall be apportioned and distributed as follows: ten percent to the counties, fifteen percent to the cities, two percent to be deposited in the state transportation fund, which is hereby created within the state treasury to be used in a manner provided by law and seventy-three percent to be deposited in the state road fund. The amounts apportioned and distributed to the counties and cities shall be further allocated and used as provided in section 30(a) of this article. The amounts allocated and distributed to the highways and transportation commission for the state road fund shall be used as provided in subsection 1 of this section 30(b). The sales taxes which are apportioned and distributed pursuant to this subdivision (2) shall not include those taxes levied and imposed pursuant to sections 43(a) or 47(a) of this article. The term "proceeds from the state sales tax" as used in this subdivision (2) shall mean and include all revenues received by the department of revenue from the said sales tax, reduced only by refunds for overpayments and erroneous payments of such tax as permitted by law and actual costs of collection by the department of revenue (but not to exceed three percent of the amount collected).
+(3) (i) From and after July 1, 2005, through June 30, 2006, twenty-five percent of the remaining one-half of the proceeds of the state sales tax on all motor vehicles, trailers, motorcycles, mopeds and motortricycles which is not distributed by subdivision (2) of subsection 2 of this section 30(b) shall be deposited in the state road bond fund which is hereby created within the state treasury; (ii) from and after July 1, 2006, through June 30, 2007, fifty percent of the aforesaid one-half of the proceeds of the state sales tax on all motor vehicles, trailers, motorcycles, mopeds and motortricycles which is not distributed by subdivision (2) of subsection 2 of this section 30(b) shall be deposited in the state road bond fund; (iii) from and after July 1, 2007, through June 30, 2008, seventy-five percent of the aforesaid one-half of the proceeds of the state sales tax on all motor vehicles, trailers, motorcycles, mopeds and motortricycles which is not distributed by subdivision (2) of subsection 2 of this section 30(b) shall be deposited in the state road bond fund; and (iv) from and after July 1, 2008, one hundred percent of the aforesaid one-half of the proceeds of the state sales tax on all motor vehicles, trailers, motorcycles, mopeds and motortricycles which is not distributed by subdivision (2) of subsection 2 of this section 30(b) shall be deposited in the state road bond fund. Moneys deposited in the state road bond fund are hereby dedicated to and shall only be used to fund the repayment of bonds issued by the highways and transportation commission to fund the construction and reconstruction of the state highway system or to fund refunding bonds, except that after January 1, 2009, that portion of the moneys in the state road bond fund which the commissioner of administration and the highways and transportation commission each certify is not needed to make payments upon said bonds or to maintain an adequate reserve for making future payments upon said bonds may be appropriated to the state road fund. The highways and transportation commission shall have authority to issue state road bonds for the uses set forth in this subdivision (3). The net proceeds received from the issuance of such bonds shall be paid into the state road fund and shall only be used to fund construction or reconstruction of specific projects for parts of the state highway system as determined by the highways and transportation commission. The moneys deposited in the state road bond fund shall only be withdrawn by appropriation pursuant to this constitution. No obligation for the payment of moneys so appropriated shall be paid unless the commissioner of administration certifies it for payment and further certifies that the expenditure is for a use which is specifically authorized by the provisions of this subdivision (3). The proceeds of the sales tax which are subject to allocation and deposit into the state road bond fund pursuant to this subdivision (3) shall not include the proceeds of the sales tax levied and imposed pursuant to sections 43(a) or 47(a) of this article nor shall they include the proceeds of that portion of the sales tax apportioned, distributed and dedicated to the school district trust fund on November 2, 2004. The term "proceeds from the state sales tax" as used in this subdivision (3) shall mean and include all revenues received by the department of revenue from the said sales tax, reduced only by refunds for overpayments and erroneous payments of such tax as permitted by law and actual costs of collection by the department of revenue (but not to exceed three percent of the amount collected).
+3. After January 1, 1980, any increase in state license fees and taxes on motor vehicles, trailers, motorcycles, mopeds and motortricycles other than those taxes distributed pursuant to subsection 2 of this section 30(b) shall be distributed as follows: ten percent to the counties, fifteen percent to the cities and seventy-five percent to be deposited in the state road fund. The amounts distributed shall be apportioned and distributed to the counties and cities as provided in section 30(a) of this article, to be used for highway purposes.
+4. The moneys apportioned or distributed under this section to the state road fund, the state transportation fund, the state road bond fund, counties, cities, towns or villages shall not be included within the definition of "total state revenues" as that term is used in section 17 of Article X of this constitution nor be considered as an "expense of state government" as that term is used in section 20 of article X of this constitution.
+
+> (1962) Highway commission had authority to condemn easement to provide a substitute location for pipelines which was necessary for interstate highway construction as the taking was for public purpose and was not in violation of Article III, § 38(a) since state received compensation in surrender of existing right-of-way. State ex rel. State Highway Commission v. Eakin (Mo.), 357 S.W.2d 129.
+
+> (1968) Toll road authority act of the 74th General Assembly which permitted resorting to gas tax money to meet bonding obligations violated constitutional provision for allocation of gas tax money. Pohl v. State Highway Commission (Mo.), 431 S.W.2d 99.
+
+> (1972) Subdivision (5) of this section does not empower the State Highway Commission to provide rest areas abutting state routes. State ex rel. State Highway Commission v. Pinkley (A.), 474 S.W.2d 46.
+
+> (1973) Held, this provision requires interest or income from state road fund to be credited to such fund and not diverted to general revenue or any purpose other than state highway purposes. State Highway Commission v. Spainhower (Mo.), 504 S.W.2d 121.
+
+> (1984) Fees collected by motor vehicle unit of Dept. of Revenue for copies of motor vehicle records made pursuant to section 109.190, RSMo, are "revenue derived from state highway users" and as such are to be credited to state road fund. State Highways and Transportation Commission of Missouri v. Director, Department of Revenue (Mo. banc), 672 S.W.2d 953.
+
+> (1992) Logo signs along highway rights-of-way, announcing availability of purveyors of food, fuel and lodging at highway exits constitute an improvement to the highways and the initial use of highway funds, whether reimbursed or not, does not transgress constitutional restrictions. Missouri Outdoor Advertising Association, Inc. v. Missouri State Highways and Transportation Commission, 826 S.W.2d 342 (Mo. en banc).
+
+> (1994) Expenditure of state road fund for mitigation plan required by federal Pipeline Safety Act is appropriate expenditure as it relates and appertains to the construction of Page Avenue Extension of state highway. DeMere v. Missouri State Highway and Transportation Commission, 876 S.W.2d 652 (Mo. App. W.D.).
+
+*02 Dec 2004 · (Adopted March 6, 1962) (Amended November 6, 1979) (Amended by Initiative November 2, 2004).*
+
+### Section 30(c) Transportation programs and facilities, administration of by commission, use of moneys.
+
+The highways and transportation commission shall have authority to plan, locate, relocate, establish, acquire, construct, maintain, control, and as provided by law to operate, develop and fund public transportation facilities as part of any state transportation system or program such as but not limited to aviation, mass transportation, transportation of elderly and handicapped, railroads, ports, waterborne commerce and intermodal connections, provided that funds other than those designated or dedicated for highway purposes in or deposited in the state road fund or the state road bond fund pursuant to sections 30(a) or 30(b) of this constitution are made available for such purposes. No moneys which are distributed to the state transportation fund pursuant to section 30(b) shall be used for any purpose other than for transportation purposes as provided in this section.
+
+*02 Dec 2004 · (Adopted November 6, 1979) (Amended by Initiative November 2, 2004).*
+
+### Section 30(d) Prohibition against diverting revenue for nonhighway purposes — severability of provisions — effective date.
+
+1. No state revenues derived from highway users which are to be allocated, distributed or deposited in the state road fund pursuant to either section 30(a) or section 30(b) shall be diverted from the highway purposes and uses specified in subsection 1 of section 30(b). No state revenues derived from highway users which are to be allocated, distributed or deposited in the state road bond fund pursuant to subdivision (3) of subsection 2 of section 30(b) shall be diverted from the highway purposes and uses specified in said subdivision (3).
+2. All of the provisions of sections 29, 30(a), 30(b), 30(c) and 30(d) shall be self executing. All of the provisions of sections 29, 30(a), 30(b), 30(c) and 30(d) are severable. If any provision of sections 29, 30(a), 30(b), 30(c) and 30(d) is found by a court of competent jurisdiction to be unconstitutional or unconstitutionally enacted, the remaining provisions of these sections shall be and remain valid.
+3. The provisions of sections 29, 30(a), 30(b), 30(c) and 30(d) shall become effective on July 1, 2005.
+
+*02 Dec 2004 · (Adopted by Initiative November 2, 2004).*
+
+### Section 31 State highways in municipalities.
+
+Any state highway authorized herein to be located in any municipality may be constructed without limitations concerning the distance between houses or other buildings abutting such highway or concerning the width or type of construction. The commission may enter into contracts with cities, counties or other political subdivisions for and concerning the maintenance of, and regulation of traffic on any state highway within such cities, counties or subdivision.
+
+> (1971) State highway commission had authority to contract with special road district whereby district agreed to maintain roadway although § 31 of Art. IV, Constitution 1945, was not in effect at time easement for roadway was granted in 1934. The legality of the conveyance of easement is determined by laws existing at time of conveyance but the authority granted by § 31 of Art. IV may be exercised by the commission regardless of when easement was acquired. Floreth v. State Highway Commission (Mo.), 472 S.W.2d 614.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 32 Apportionment of funds for supplementary state highways.
+
+The funds which are allotted by the commission to the construction or acquisition of supplementary state highways and bridges in each of the counties of the state shall be apportioned to the several counties as follows: One-fourth in the ratio that the area of each county bears to the area of the state, one-fourth in the ratio of the population, and two-fourths on such basis as the commission may deem to be for the best interest of highway users; provided the areas and population of cities having a population of 150,000 or more shall not be considered in making such apportionment, and the latest available United States decennial census shall be used; provided further, that if traffic on any supplementary state highway becomes such that a higher type than ordinary supplementary highway construction shall be required, then the commission may construct such higher type and charge such extra cost to unallotted state highway funds. Supplementary state highways shall be selected by mutual agreement of the commission and the local officials having charge of or jurisdiction over roads in the territory through which such supplementary state highways are to be constructed.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 44a (Adopted November 6, 1928).*
+
+### Section 33 Retirement benefits not changed.
+
+Any transfer of employees made pursuant to the provisions of this article shall not affect or abridge any rights or benefits accrued under any retirement system in which such employees are members on the effective date of this article, and the employees may continue coverage under such retirement system until otherwise provided by law.
+
+*06 Dec 1979 · (Adopted November 6, 1979).
+Effective 01-01-1980
+*This section has no continuity with § 33, amended August 8, 1972, and repealed by HJR 39, 40, 44 and 48, adopted November 6, 1979.*
+
+### Section 34 Recognition of outstanding bonds — determination, certification and collection of annual state highway bond tax.
+
+All bonds issued under or recognized by section 44a of article IV of the previous constitution, which remain unpaid shall be valid obligations of the state and shall be paid according to the tenor thereof. On or before the first day of July of each year the state auditor shall determine the rate of taxation for that year necessary to raise the amount of money needed to pay the principal and interest maturing in the next succeeding year, taking into consideration available funds, delinquencies and the cost of collection. The auditor shall annually certify the rate of taxation so determined to the officer in each county whose duty it is to make up and certify the tax books wherein are extended the state taxes. Said officers shall extend upon the tax books the taxes to be collected and certify the same to the collector of revenue of their respective counties, who shall collect such taxes at the same time and in the same manner and by the same means as are provided by law for the collection of state and county taxes, and pay the same into the state treasury.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 44a (Adopted November 6, 1928).*
+
+### Section 35 Agriculture, department of — director, how appointed — funds to be provided, how.
+
+The department of agriculture shall be in charge of a director appointed by the governor by and with the advice and consent of the senate. The general assembly shall provide the department of agriculture with funds adequate for administration of its functions; and shall enact such laws and provide such other appropriations as may be required to protect, foster and develop the agricultural resources of the state.
+
+*07 Sep 1972 · Source: Const. of 1945 (Amended August 8, 1972).*
+
+### Section 36 Forestry and forest fires.
+
+The general assembly may enact laws to encourage forestry, and prevent and suppress forest fires on private lands.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 36(a) Economic development, department of — duties of department — director, how appointed.
+
+The department of economic development shall be in charge of a director appointed by the governor, by and with the advice and consent of the senate. The department shall administer all programs provided by law relating to the promotion of the economy of the state, the economic development of the state, trade and business, and other activities and programs impacting on the economy of the state.
+
+*27 Feb 1945 · (Adopted August 8, 1972) (Amended August 7, 1984).*
+
+### Section 36(b) Department of insurance, established — director, appointment — office of consumer affairs to be established within department, duties.
+
+The department of insurance shall be headed by a director of the department of insurance who shall be appointed by the governor with the advice and consent of the senate. The organization and duties of the department of insurance shall be determined by law. All references to the division of insurance and the insurance division in this constitution and in the statutes shall mean the department of insurance. There shall be an office of consumer affairs within the department of insurance to investigate in conjunction with other personnel of the department all allegations of unfair or unlawful acts by any person or entity whose activities are regulated by the department of insurance.
+
+*07 Sep 1990 · (Adopted August 7, 1990).*
+
+### Section 36(c) MO HealthNet expansion — eligibility — state plan amendments — maximization of federal participation — limitation on burdens or restrictions.
+
+1. Notwithstanding any provision of law to the contrary, beginning July 1, 2021, individuals nineteen years of age or older and under sixty-five years of age who qualify for MO HealthNet services under 42 U.S.C. Section 1396a(a)(10)(A)(i)(VIII) and as set forth in 42 C.F.R. 435.119, and who have income at or below one hundred thirty-three percent of the federal poverty level plus five percent of the applicable family size as determined under 42 U.S.C. Section 1396a(e)(14) and as set forth in 42 C.F.R. 435.603, shall be eligible for medical assistance under MO HealthNet and shall receive coverage for the health benefits service package.
+2. For purposes of this section "health benefits service package" shall mean benefits covered by the MO HealthNet program as determined by the department of social services to meet the benchmark or benchmark-equivalent coverage requirement under 42 U.S.C. Section 1396a(k)(1) and any implementing regulations.
+3. No later than March 1, 2021, the Department of Social Services and the MO HealthNet Division shall submit all state plan amendments necessary to implement this section to the United States Department of Health and Human Services, Centers for Medicare and Medicaid Services.
+4. The Department of Social Services and the MO HealthNet Division shall take all actions necessary to maximize federal financial participation in funding medical assistance pursuant to this section.
+5. No greater or additional burdens or restrictions on eligibility or enrollment standards, methodologies, or practices shall be imposed on persons eligible for MO HealthNet services pursuant to this section than on any other population eligible for medical assistance.
+6. All references to federal or state statutes, regulations or rules in this section shall be to the version of those statutes, regulations or rules that existed on January 1, 2019.
+
+> (2021) Section does not appropriate money and does not remove the General Assembly’s discretion in appropriating money to MO Healthnet, thus it does not violate Article III, Section 51 of the Missouri Constitution. Doyle v. Tidball, No. SC99185 (Mo.banc, July 22, 2021).
+
+*04 Sep 2020 · (Adopted August 4, 2020)*
+
+### Section 37 Social services, department of — duties of department — director, how appointed.
+
+The health and general welfare of the people are matters of primary public concern; and to secure them there shall be established a department of social services in charge of a director appointed by the governor, by and with the advice and consent of the senate, charged with promoting improved health and other social services to the citizens of the state as provided by law, and the general assembly may grant power with respect thereto to counties, cities or other political subdivisions of the state.
+
+*07 Sep 1972 · Source: Const. of 1945 (Amended August 8, 1972).*
+
+### Section 37(a) Mental health, department of — duties of department — director, how appointed.
+
+The department of mental health shall be in charge of a director who shall be appointed by the commission, as provided by law, and by and with the advice and consent of the senate. The department shall provide treatment, care, education and training for persons suffering from mental illness or retardation, shall have administrative control of the state hospitals and other institutions and centers established for these purposes and shall administer such other programs as provided by law.
+
+*07 Sep 1972 · (Adopted August 8, 1972).*
+
+### Section 39 Cooperation with federal and other state governments.
+
+In all matters of public welfare the general assembly may provide by law for cooperation with the United States, or other states.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 40(a) Conservation commission, members, qualifications, terms, how appointed — duties of commission — expenses of members.
+
+The control, management, restoration, conservation and regulation of the bird, fish, game, forestry and all wildlife resources of the state, including hatcheries, sanctuaries, refuges, reservations and all other property owned, acquired or used for such purposes and the acquisition and establishment thereof, and the administration of all laws pertaining thereto, shall be vested in a conservation commission consisting of four members appointed by the governor, by and with the advice and consent of the senate, not more than two of whom shall be of the same political party. The members shall have knowledge of and interest in wildlife conservation. The members shall hold office for terms of six years beginning on the first day of July of consecutive odd years. Two of the terms shall be concurrent; one shall begin two years before and one two years after the concurrent terms. If the governor fails to fill a vacancy within thirty days, the remaining members shall fill the vacancy for the unexpired term. The members shall receive no salary or other compensation for their services as members, but shall receive their necessary traveling and other expenses incurred while actually engaged in the discharge of their official duties.
+
+> (2018) Conservation Commission has authority under section to regulate captive cervid companies' cervids as game and wildlife resources of the state, and the operations of such companies do not constitute a farm or ranching practice under Article I, Section 35 of this Constitution. Hill v. Department of Conservation, 550 S.W.3d 463 (Mo. banc).
+
+*07 Sep 1972 · Source: Const. of 1875, Art. XIV, § 16 (Adopted November 3, 1936) (Amended August 8, 1972).*
+
+### Section 40(b) Incumbent members.
+
+The members of the present conservation commission shall serve out the terms for which they were appointed, with all their powers and duties.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 41 Acquisition of property — eminent domain.
+
+The commission may acquire by purchase, gift, eminent domain, or otherwise, all property necessary, useful or convenient for its purposes, and shall exercise the right of eminent domain as provided by law for the highway commission.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 16.*
+
+### Section 42 Director of conservation and personnel of commission.
+
+The commission shall appoint a director of conservation who, with its approval, shall appoint the assistants and other employees deemed necessary by the commission. The commission shall fix the qualifications and salaries of the director and all appointees and employees, and none of its members shall be an appointee or employee.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 16.*
+
+### Section 43(a) Sales tax, use for conservation purposes.
+
+For the purpose of providing additional moneys to be expended and used by the conservation commission, department of conservation, for the control, management, restoration, conservation and regulation of the bird, fish, game, forestry and wildlife resources of the state, including the purchase or other acquisition of property for said purposes, and for the administration of the laws pertaining thereto, an additional sales tax of one-eighth of one percent is hereby levied and imposed upon all sellers for the privilege of selling tangible personal property or rendering taxable services at retail in this state upon the sales and services which now are or hereafter are listed and set forth in, and, except as to the amount of tax, subject to the provisions of and to be collected as provided in the "Sales Tax Law" and subject to the rules and regulations promulgated in connection therewith; and an additional use tax of one-eighth of one percent is levied and imposed for the privilege of storing, using or consuming within this state any article of tangible personal property as set forth and provided in the "Compensating Use Tax Law" and, except as to the amount of the tax, subject to the provisions of and to be collected as provided in the "Compensating Use Tax Law" and subject to the rules and regulations promulgated in connection therewith.
+
+*02 Sep 1976 · (Adopted November 2, 1976).*
+
+### Section 43(b) Use of revenue and funds of conservation commission.
+
+The moneys arising from the additional sales and use taxes provided for in section 43(a) hereof and all fees, moneys or funds arising from the operation and transactions of the conservation commission, department of conservation, and from the application and the administration of the laws and regulations pertaining to the bird, fish, game, forestry and wildlife resources of the state and from the sale of property used for said purposes, shall be expended and used by the conservation commission, department of conservation, for the control, management, restoration, conservation and regulation of the bird, fish, game, forestry and wildlife resources of the state, including the purchase or other acquisition of property for said purposes, and for the administration of the laws pertaining thereto, and for no other purpose. The moneys and funds of the conservation commission arising from the additional sales and use taxes provided for in 43(a) hereof shall also be used by the conservation commission, department of conservation, to make payments to counties for the unimproved value of land for distribution to the appropriate political subdivisions as payment in lieu of real property taxes for privately owned land acquired by the commission after July 1, 1977 and for land classified as forest cropland in the forest cropland program administered by the department of conservation in such amounts as may be determined by the conservation commission, but in no event shall the amount determined be less than the property tax being paid at the time of purchase of acquired lands.
+
+> (2023) Removal of language in appropriations bill and thus attempting to restrict the Conservation Commission from using its funds for constitutionally enumerated purposes invades the constitutional authority of the Commission. Conservation Commission v. Bailey, 669 S.W.3d 61 (Mo.banc).
+
+*04 Dec 1980 · Source: Const. of 1875, Art. XIV, § 16 (Amended November 2, 1976) (Amended November 4, 1980).*
+
+### Section 43(c) Effective date — self-enforceability.
+
+The effective date of this amendment* shall be July 1, 1977. All laws inconsistent with this amendment shall no longer remain in full force and effect after July 1, 1977. All of the provisions of sections 43(a)-(c) shall be self-enforcing except that the general assembly shall adjust brackets for the collection of the sales and use taxes.
+
+*02 Sep 1976 · (Adopted November 2, 1976).
+*This amendment contained §§ 43(a), 43(b) and 43(c).*
+
+### Section 44 Self-enforceability — enabling clause — repealing clause.
+
+Sections 40-43, inclusive, of this article shall be self-enforcing, and laws not inconsistent therewith may be enacted in aid thereof. All existing laws inconsistent with this article shall no longer remain in force or effect.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 16.*
+
+### Section 45 Rules and regulations — filing — review.
+
+The rules and regulations of the commission not relating to its organization and internal management shall become effective not less than ten days after being filed with the secretary of state as provided in section 16 of this article, and such final rules and regulations affecting private rights as are judicial or quasi-judicial in nature shall be subject to the judicial review provided in section 22 of article V.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 46 Distribution of rules and regulations.
+
+The commission shall supply to all persons on request, printed copies of its rules and regulations not relating to organization or internal management.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 47 Natural resources, department of — duties of department — director, how appointed.
+
+The department of natural resources shall be in charge of a director appointed by the governor, by and with the advice and consent of the senate. The department shall administer the programs of the state as provided by law relating to environmental control and the conservation and management of natural resources.
+
+*07 Sep 1972 · (Adopted August 8, 1972).*
+
+### Section 47(a) Sales and use tax levied for soil and water conservation and for state parks — distribution of parks sales tax fund to counties, purpose, limitation.
+
+For the purpose of providing additional monies to be expended and used by the department of natural resources through the state soil and water districts commission as defined in Section 278.070, RSMo, for the saving of the soil and water of this state for the conservation of the productive power of Missouri agricultural land, and by the department of natural resources through the division responsible for the State park system for the acquisition, development, maintenance and operation of state parks and state historic sites in accordance with Chapter 253, RSMo, and for the administration of the laws pertaining thereto, an additional sales tax of one-tenth of one percent is hereby levied and imposed upon all sellers for the privilege of selling tangible personal property or rendering taxable services at retail in this state upon the sales and services which now are or hereafter are listed and set forth in, and, except as to the amount of tax, subject to the provisions of and to be collected as provided in the "Sales Tax Law" and subject to the rules and regulations promulgated in connection therewith; and an additional use tax of one-tenth of one percent is levied and imposed for the privilege of storing, using or consuming within this state any article of tangible personal property as set forth and provided in the "Compensating Use Tax Law" and, except as to the amount of the tax, subject to the provisions of and to be collected as provided in the "Compensating Use Tax Law" and subject to the rules and regulations promulgated in connection therewith. In addition, monies deposited in the state parks sales tax fund pursuant to the provisions of section 47(b) of this article shall also be appropriated to make payments to counties for a period of five years for the unimproved value of land for distribution to the appropriate political subdivisions as payment in lieu of real property taxes for privately owned land acquired by the department of natural resources for park purposes after July 1, 1985, in such amounts as determined by appropriation, but in no event shall such amounts be more than the amount of property tax imposed by political subdivisions at the time the department acquired or acquires such land.
+
+*05 Dec 1996 · (Adopted August 7, 1984) (Amended November 8, 1988) (Amended November 8, 1994) (Amended November 5, 1996).
+Effective 11-08-1998
+Expires, unless reauthorized (see Article IV, § 47(c), Reauthorized November 8, 2016, Reauthorized August 4, 2026)*
+
+### Section 47(b) Disbursement of revenue, purposes.
+
+Fifty percent of the monies arising from the additional sales and use taxes provided for in Section 47(a) hereof shall be deposited in the Soil and Water Sales Tax Fund and fifty percent shall be deposited in the State Park Sales Tax Fund, and the monies in both funds shall be expended pursuant to appropriation by the General Assembly and used by the state soil and water districts commission and the department of natural resources for the purposes set forth in Section 47(a), and for no other purpose.
+
+*05 Dec 1996 · (Adopted August 7, 1984) (Amended November 8, 1988) (Amended November 5, 1996).
+Effective 11-08-1998
+Expires, unless reauthorized (see Article IV, § 47(c), Reauthorized November 8, 2016, Reauthorized August 4, 2026)*
+
+### Section 47(c) Provisions self-enforcing, exception — not part of general revenue or expense of state — effective and expiration dates.
+
+All laws inconsistent with this amendment shall no longer remain in full force and effect after the effective date of this section. All of the provisions of Sections 47(a), 47(b) and 47(c) shall be self-enforcing except that the General Assembly shall adjust brackets for the collection of the sales and use taxes. The additional revenue provided by Sections 47(a), 47(b) and 47(c) shall not be part of the "total state revenue" within the meaning of Sections 17 and 18 of Article X of this Constitution. The expenditure of this additional revenue shall not be an "expense of state government" under Section 20 of Article X of this Constitution. Upon voter approval of this measure in a general election held in 2006, or at a special election to be called by the governor for that purpose, the provisions of this section, 47(b), and 47(a) shall be reauthorized and continue until a general election is held in 2016 or at a special election to be called by the governor for that purpose. Every ten years thereafter, the issue of whether to continue to impose the sales and use tax described in this section shall be resubmitted to the voters for approval. If a majority of the voters fail to approve the continuance of such sales and use tax, Section 47(a), 47(b), and 47(c) shall terminate at the end of the second fiscal year after the last election was held.
+
+*07 Sep 2006 · (Adopted August 7, 1984) (Amended November 8, 1988) (Amended November 5, 1996, effective November 8, 1998) (Amended August 8, 2006) (Reauthorized November 8, 2016) (Reauthorized August 4, 2026).
+Expires, unless reauthorized*
+
+### Section 48 Public safety, department of — duties of department — director, how appointed.
+
+The department of public safety shall be in charge of a director to be appointed by the governor by and with the advice and consent of the senate, and shall administer the programs provided by law to protect and safeguard the lives and property of the people of the state.
+
+*07 Sep 1972 · (Adopted August 8, 1972).*
+
+### Section 49 Labor and industrial relations, department of — duties — commission members, how appointed, terms, qualifications.
+
+The department of labor and industrial relations shall be in charge of a "Labor and Industrial Relations Commission" consisting of three members appointed by the governor by and with the advice and consent of the senate. One member of the commission shall be a person who, on account of his previous vocation, employment, affiliation or interests shall be classified as a representative of employers, and one member who, on account of his previous vocation, employment, affiliation or interests shall be classified as a representative of employees, and one member, who, by reason of his previous activities and interests shall be classified as a representative of the public and who is licensed to practice law in the state of Missouri; except that not more than two members of the commission shall be of the same political party. A member of the commission shall be designated by the governor as the chairman. The labor and industrial commission shall be the successor to the industrial commission and the terms of members shall be as provided by law for the industrial commission. The department shall also administer the programs of the state relating to the protection and improvement of human rights.
+
+*06 Sep 1984 · (Adopted August 8, 1972) (Amended August 7, 1984).*
+
+### Section 50 Administration, office of — commissioner, how appointed.
+
+The office of administration shall be in charge of a commissioner of administration. The commissioner shall be appointed by the governor by and with the advice and consent of the senate.
+
+*07 Sep 1972 · (Adopted August 8, 1972).*
+
+### Section 51 Appointments, how made — failure to confirm, effect of.
+
+The appointment of all members of administrative boards and commissions and of all department and division heads, as provided by law, shall be made by the governor. All members of administrative boards and commissions, all department and division heads and all other officials appointed by the governor shall be made only by and with the advice and consent of the senate. The authority to act of any person whose appointment requires the advice and consent of the senate shall commence, if the senate is in session, upon receiving the advice and consent of the senate. If the senate is not in session, the authority to act shall commence immediately upon appointment by the governor but shall terminate if the advice and consent of the senate is not given within thirty days after the senate has convened in regular or special session. If the senate fails to give its advice and consent to any appointee, that person shall not be reappointed by the governor to the same office or position.
+
+*07 Sep 1972 · (Adopted August 8, 1972).*
+
+### Section 52 Higher education, department of established — coordinating board for higher education established, members, terms, qualifications.
+
+There shall be established a department of higher education. A "Coordinating Board for Higher Education" which shall consist of nine members appointed by the governor by and with the advice and consent of the senate shall be established within the department. The qualifications and terms of the members of the board shall be fixed by law, but not more than five of its members shall be of the same political party. The coordinating board shall succeed the commission on higher education with all its powers and duties and shall have such other powers and duties as may be prescribed by law.
+
+*07 Sep 1972 · (Adopted August 8, 1972).*
+
+### Section 53 Discrimination as to race, creed, color or national origin prohibited.
+
+The appointment of all members of administrative boards and commissions and of all departments and division heads and all the employees thereof shall be made without regard to race, creed, color or national origin.
+
+*07 Sep 1972 · (Adopted August 8, 1972).*
+
+### Section 54 Establishes a Missouri Department of the National Guard.
+
+There shall be established a Missouri Department of the National Guard in charge of the adjutant general appointed by and serving at the pleasure of the governor, by and with the advice and consent of the senate, who shall provide for the state militia, uphold the Constitution of the United States, uphold the Constitution of Missouri, protect the constitutional rights and civil liberties of Missourians, and provide other defense and security mechanisms as may be required.
+
+*08 Dec 2022 · (Adopted November 8, 2022)*
+
+## Article V — Judicial Department
+
+### Section 1 Judicial power — constitutional courts.
+
+The judicial power of the state shall be vested in a supreme court, a court of appeals consisting of districts as prescribed by law, and circuit courts.
+
+> (2010) The court of appeals is one court with multiple districts; decisions of a particular district are binding on all circuit courts. Akins v. Director of Revenue, 303 S.W.3d 563, 567 n.4 (Mo. banc).
+
+*02 Sep 1976 · Source: Const. of 1875, Art. VI, §§ 1, 12; Amdt. of 1884, §§ 2, 3; Sch. of 1875, §§ 4, 5 (Amended August 4, 1970) (Amended August 3, 1976).*
+
+### Section 2 Supreme court — controlling decisions — number of judges — sessions.
+
+The supreme court shall be the highest court in the state. Its jurisdiction shall be coextensive with the state. Its decisions shall be controlling in all other courts. It shall be composed of seven judges, who shall hold their sessions in Jefferson City at times fixed by the court.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VI, §§ 2, 9; Amdt. of 1884, § 6; Amdt. of 1890, § 1.*
+
+### Section 3 Jurisdiction of the supreme court.
+
+The supreme court shall have exclusive appellate jurisdiction in all cases involving the validity of a treaty or statute of the United States, or of a statute or provision of the constitution of this state, the construction of the revenue laws of this state, the title to any state office and in all cases where the punishment imposed is death. The court of appeals shall have general appellate jurisdiction in all cases except those within the exclusive jurisdiction of the supreme court.
+
+> In General: (1957) On appeal from judgment in condemnation action, supreme court has no jurisdiction to appoint commissioner to take evidence as to facts reducing damages which occurred after judgment nisi. State ex rel. State Highway Comm. v. Dockery (Mo.), 300 S.W.2d 444.
+
+> In General: (1957) In appeal from judgment enjoining appropriation and use of trade secrets and ordering accounting, where the accounting feature was not before the court, there was no question of which the Supreme Court had jurisdiction. Engel Sheet Met. Co. v. Shewman (Mo.), 298 S.W.2d 434.
+
+> In General: (1960) Appeal in declaratory judgment action for ruling as to whether certain practices constituted the practice of law, held not within jurisdiction of Supreme Court. Automobile Club of Mo. v. Hoffmeister (Mo.), 332 S.W.2d 957.
+
+> In General: (1961) Where issue of whether appellants, by reason of their petition for review of administrative board's decision in proceeding where they appeared as witnesses, were entitled to judicial review under administrative procedure act was to be determined before necessity of ruling on constitutional question arose, the supreme court would transfer case to court of appeals. Clay & Bailey Mfg. Co. v. Anderson (Mo.), 344 S.W.2d 46.
+
+> In General: (1961) Denial of continuance or stay of proceedings on claim based on the federal Soldiers and Sailors Civil Relief Act did not present a federal question within the constitutional provision fixing jurisdiction. Salzwedel v. Vassil (Mo.), 347 S.W.2d 218.
+
+> Constitutional Questions: (1952) In order to raise an issue involving a construction of the constitution, the section which has been violated must be designated and the facts constituting such violation must be narrated. Averments of a general nature or legal conclusions do not present an issue involving construction of the constitution, federal or state, so as to vest jurisdiction in the supreme court. State ex rel. v. St. Louis Union Trust Co. (Mo.), 248 S.W.2d 592.
+
+> Constitutional Questions: (1952) Where petition did not allege statute was unconstitutional, but court found that statute did not relieve defendant of liability for negligence, and if it purported so to do it was invalid, supreme court did not have jurisdiction of appeal on ground that constitutional question was involved. Cotton v. Iowa Mut. Ins. Co., 363 Mo. 400, 251 S.W.2d 246.
+
+> Constitutional Questions: (1952) Constitutional questions held not preserved in mandamus action so as to vest jurisdiction of appeal therein in supreme court and prosecuting attorney held not state officer under constitutional provision because his duties are not coextensive with state. State ex rel. Kirks v. Allen (Mo.), 250 S.W.2d 348.
+
+> Constitutional Questions: (1952) Appeal from judgment sustaining order of city board of adjustment revoking permit authorizing building alterations in certain property did not present constitutional issue where law and ordinance authorizing action were conceded to be valid and objection to procedure was not timely made. Veal v. Leinkuehler (A.), 249 S.W.2d 491, 344 U.S. 913.
+
+> Constitutional Questions: (1952) In action for injunction and for damages for razing building which was being done under contract with city, where plaintiff's cause depended upon the constitutional invalidity of a city ordinance under which such contract was made, the supreme court had jurisdiction. Cirese v. Spitcaufsky (A.), 253 S.W.2d 512.
+
+> Constitutional Questions: (1953) An allegation that a statute would be unconstitutional if construed in a certain manner does not constitute such a direct challenge to the statute as to raise a constitutional question so as to give supreme court appellate jurisdiction. Phillips Pipe Line Co. v. Brandstetter, 363 Mo. 904, 254 S.W.2d 636.
+
+> Constitutional Questions: (1953) Where adverse ruling on constitutional question was not assigned as error in motion for new trial, appeal did not involve construction of constitution. Cirese v. Spitcaufsky (Mo.), 259 S.W.2d 836.
+
+> Constitutional Questions: (1953) Where petition challenging validity of election to form reorganized school district, alleged failure to comply with statutes requiring a secret ballot and motion for new trial claimed decision was violative of constitutional guarantee of secret ballot, appeal did not require construction of constitution. Nelson v. Watkinson (Mo.), 260 S.W.2d 1.
+
+> Constitutional Questions: (1953) Where petition was based in part on the alleged unconstitutionality of a city ordinance and court sustained motion for judgment on pleadings, supreme court had no jurisdiction of appeal in absence of record showing that judgment was based on such invalidity. Ingle v. City of Fulton (Mo.), 260 S.W.2d 666.
+
+> Constitutional Questions: (1953) Where record fails to show that trial court did, in fact, pass on constitutional question, supreme court has no jurisdiction. State ex rel. Barnett v. Sappington (Mo.), 260 S.W.2d 669.
+
+> Constitutional Questions: (1953) Where plaintiff asserted that statute would violate his constitutional rights if trial court's construction prevailed, no constitutional question was raised. Knight v. Calvert Fire Ins. Co. (Mo.), 260 S.W.2d 673.
+
+> Constitutional Questions: (1953) Since constitutional guarantees of sections 10 and 22, Article I of the Constitution are for protection against governmental action, and not applicable to acts of individuals as between themselves, contention that labor union's action denied such rights to one of its members does not raise a constitutional question so as to give supreme court jurisdiction of cause. Junkins v. Communication Workers of America Local Union No. 6313 etc.(Mo.), 263 S.W.2d 337.
+
+> Constitutional Questions: (1954) The four requirements for the raising of constitutional question are: (1) It must be raised at the first opportunity; (2) the constitutional provision alleged to be violated must be specifically designated or quoted; (3) facts showing violation of the provision must be stated, and (4) the constitutional question must be preserved throughout for review. State ex rel. Thompson v. Roberts (Mo.), 264 S.W.2d 314; (1954) State v. Harold (Mo.), 271 S.W.2d 527.
+
+> Constitutional Questions: (1954) Where defendant questioned validity of statute on ground it contravened "due process clause" of the state and federal constitutions, the constitutional question was preserved so as to give supreme court jurisdiction. State v. Becker (A.), 268 S.W.2d 51.
+
+> Constitutional Questions: (1954) Constitutionality of statute may be ruled by supreme court even though validity is not challenged, when public interest is involved. State ex rel. Fuller v. Mullinax, 364 Mo. 858, 269 S.W.2d 72; (1954) Harris v. Bates (Mo.), 270 S.W.2d 763.
+
+> Constitutional Questions: (1954) A claim of violation of a constitutional right must be substantial and not merely colorable in order to vest jurisdiction in the supreme court. State v. Egan (A.), 272 S.W.2d 719.
+
+> Constitutional Questions: (1954) Where questions of constitutionality of statutes were first raised in motion for new trial, they were not raised at earliest opportunity and so did not present case involving the construction of the constitution. McClard v. Morrison (Mo.), 273 S.W.2d 225.
+
+> Constitutional Questions: (1955) Where motion to suppress evidence on ground of illegal search and seizure stated that same were made without warrant, not as an incident to an arrest and without consent of defendant and that officers had no reasonable ground to believe defendant guilty of felony, but did not mention state or federal constitution, it raised no constitutional issue. State v. Bray (A.), 278 S.W.2d 49.
+
+> Constitutional Questions: (1955) Where appellants sought a construction of constitutional provision, Supreme Court had jurisdiction even though court found it unnecessary to pass on constitutional question. Haley v. Harjul, Inc. (Mo.), 281 S.W.2d 832.
+
+> Constitutional Questions: (1956) In suit to enjoin picketing by labor union, where defendants contended injunction violated free speech provision of federal constitution, construction of United States Constitution was involved and supreme court had jurisdiction. Heath v. Motion Picture Machine Operators Union No. 170, 365 Mo. 934, 290 S.W.2d 152.
+
+> Constitutional Questions: (1956) Where motion for new trial failed to mention any constitutional question, such questions were waived and cannot be urged on appeal. Deacon v. City of Ladue (A.), 294 S.W.2d 616.
+
+> Constitutional Questions: (1956) The supreme court had jurisdiction of appeal from action of trial court sustaining motion to quash summons and return of service thereon where defendant was foreign corporation and service was made on the president in this state as the appeal presented constitutional question involving due process under the federal and state constitutions. Collar v. Peninsular Gas Co. (Mo.), 295 S.W.2d 88.
+
+> Constitutional Questions: (1957) Contention on appeal that trial court "legislated" instead of interpreting statute does not raise constitutional question. Swenson v. Swenson (Mo.), 299 S.W.2d 523.
+
+> Constitutional Questions: (1957) Where appellant claimed that effect of judgment was to delegate power to tax to administrative agency in violation of constitution, no question of construction of constitution was involved. E.B. Jones Motor Co. v. Indust. Comm. (Mo.), 298 S.W.2d 407.
+
+> Constitutional Questions: (1957) Where constitutional question was raised and kept open at time appeal was taken, supreme court had jurisdiction although the constitutional question was determined in another case while appeal was pending. Hoerath v. Sloan's Mvg. & Storage Co. (Mo.), 305 S.W.2d 418.
+
+> Constitutional Questions: (1958) Where trial court in action to review order of zoning board refused to dismiss action because not timely filed, but after review, affirmed order, an attack on statute fixing time for filing review did not raise constitutional question, nor was one raised where real question involved whether order was supported by evidence. Cohen v. Ennis (Mo.), 308 S.W.2d 669.
+
+> Constitutional Questions: (1958) Where fundamental issue tried by parties was whether picketing of employer's plant was unlawful because it was designed to force employer to coerce its salesmen into joining union, in violation of § 29, Art. I of the constitution, a question of construction of the constitution was not involved since that issue has been settled by prior adjudications. Swift & Co. v. Doe (Mo.), 311 S.W.2d 15.
+
+> Constitutional Questions: (1958) Supreme court did not have jurisdiction of appeal from decision that consolidated school district, in constructing school building, need not comply with ordinances of fire protection district on basis of contention that opposite construction of statutes would infringe upon the school district's constitutional authority to establish and maintain schools, particularly since one who raised the constitutional question was not injured by the ruling. Community Fire Protection Dist. v. Board of Education (Mo.), 312 S.W.2d 75.
+
+> Constitutional Questions: (1958) Where constitutional validity of reciprocity agreements was challenged in prosecution for violation of motor vehicle licensing law, the supreme court did not have jurisdiction on ground constitutional guaranty against impairment of contract was involved, since the law on which prosecution was based was in effect prior to reciprocity agreement. State v. Laurisden (Mo.), 312 S.W.2d 140.
+
+> Constitutional Questions: (1958) Rule that supreme court will not assume jurisdiction on constitutional grounds when the identical question has been finally settled by prior decisions of the supreme court does not apply to appeals involving the question of unlawful search and seizure as every such appeal involves a construction of the constitution in the light of the facts in the particular case. State v. Harris (A.), 313 S.W.2d 219.
+
+> Constitutional Questions: (1958) Where supreme court transferred cause to court of appeals which determined that evidence did not support circuit court's affirmance of board's grant of application to use vacant lots in residential zone for truck turn-around and driveway for bakery but respondents had contended that board's determination was final since appeal was not filed within thirty days, appellant's contention that § 89.110 was unconstitutional became an issue and necessitated retransfer of cause to supreme court. Cohen v. Ennis (A.), 314 S.W.2d 239.
+
+> Constitutional Questions: (1958) Action for declaratory judgment to establish the general election laws control city primary elections and that action of party committee fixing hours of voting and number of polling places was void, did not present a constitutional question. Shaver v. Moyer (Mo.), 317 S.W.2d 414.
+
+> Constitutional Questions: (1959) Proceedings by municipalities against violators of ordinances are regarded as civil actions to recover a debt or penalty, so that a contention on appeal from a conviction of a violation of a city ordinance that the person was not afforded an opportunity to confront and cross-examine the witnesses against him does not raise a constitutional question within the jurisdiction of the supreme court. City of Webster Groves v. Quick (Mo.), 319 S.W.2d 543.
+
+> Constitutional Questions: (1959) Where sole question in case was whether or not search of of defendant's person was incident to a lawful arrest, it being conceded that if it was not unlawful, no constitutional question was involved. State v. Harris (Mo.), 321 S.W.2d 468.
+
+> Constitutional Questions: (1959) Where points raised in brief to court did not specify any constitutional questions, such questions are deemed abandoned, and case does not involve such questions so as to give supreme court jurisdiction. State v. Brookshire (Mo.), 325 S.W.2d 497.
+
+> Constitutional Questions: (1959) Where constitutional question as to right of jury trial was not raised until six months after motion for jury trial (which was waived by failure to comply with court rules) was denied, held not to involve constitutional question. Securities Acceptance Corp. v. Hill (Mo.), 326 S.W.2d 65.
+
+> Constitutional Questions: (1960) Challenge to order of state Public Service Commission granting certificate of convenience, etc., to construct power line on ground order violated constitution held not to raise constitutional question where statutes under which order was admittedly made were not attacked. State ex rel. Harline v. Pub. Serv. Comm. (Mo.), 332 S.W.2d 940.
+
+> Constitutional Questions: (1960) Where a case involving constitutional issues was originally appealed to the supreme court and the supreme court had jurisdiction because of the existence of constitutional questions, a subsequent motion to dissolve the injunction and vacate the judgment in the prior case was also in the juridiction of the supreme court notwithstanding no constitutional issues were involved in the motion. Adams Dairy Co. v. Dairy Employees Union, Local 207 (Mo.), 339 S.W.2d 811.
+
+> Constitutional Questions: (1960) In action to review decision of industrial commission on unemployment compensation question, where petition for review did not raise constitutional question, nor was it raised in any motion or other pleading filed in the court, although argued in the trial court, it was not sufficiently preserved for review and therefore the supreme court had no jurisdiction. Record Newspaper Co. v. Industrial Commission (Mo.), 340 S.W.2d 613.
+
+> Constitutional Questions: (1960) Where constitutional question which, if present at all, was present from outset was not raised until motion for new trial and was not adequately covered by brief of appellant on appeal, it was not properly presented and preserved so as to invoke exclusive jurisdiction of supreme court. Sheets v. Thomann (A.), 336 S.W.2d 701.
+
+> Constitutional Questions: (1961) Where the application of the full faith and credit clause of the federal constitution rather than its construction is involved in a case, the supreme court does not have jurisdiction. Thus appeal from the judgment of the circuit court ruling invalid a judgment awarding alimony issued by a sister state and quashing execution issued under the uniform registration of foreign judgments law, would be transferred to the court of appeals. Roseberry v. Crump (Mo.), 345 S.W.2d 117.
+
+> Constitutional Questions: (1961) Supreme court did not have jurisdiction of appeal from citation for contempt for violation of injunction where complaints of alleged constitutional violations were actually directed to the court's procedure and judgment and did not require construction of the constitution. State ex rel. Coates v. Parchman (Mo.), 346 S.W.2d 74.
+
+> Constitutional Questions: (1961) Where judgment nisi purported to decide constitutional question, supreme court would have jurisdiction even though such question was beyond the issues submitted. Kansas City v. Hammer (Mo.), 347 S.W.2d 865.
+
+> Constitutional Questions: (1962) Supreme court had jurisdiction of appeal from judgment holding St. Louis County ordinance invalid as not having been enacted in conformity with statute where appellants contended the ordinance was adopted pursuant to procedure authorized by county charter which necessarily required construction of Section 18(c) of Art. VI. Casper v. Hetlage (Mo.), 359 S.W.2d 781.
+
+> Constitutional Questions: (1962) Supreme court had jurisdiction of appeal from circuit court affirming conviction in city court of selling subscriptions to magazines door-to-door without a license as required by city ordinances, where defendant challenged constitutionality of ordinance under commerce clause of federal constitution. Village of Bel-Nor v. Barnett (Mo.), 358 S.W.2d 832.
+
+> Constitutional Questions: (1963) When constitutional question was raised for the first time in defendant's motion for a new trial and assignment of brief did not specify section of constitution alleged to have been violated, constitutional question was not preserved for review. Barnes v. Anchor Temple Association (Mo.), 369 S.W.2d 192.
+
+> Constitutional Questions: (1963) Supreme court had jurisdiction of appeal from dismissal of petition for review of driver's license revocation as director of revenue was a "contesting party" and decision involved construction of due process clause of constitution. Wilson v. Morris (Mo.), 369 S.W.2d 402.
+
+> Constitutional Questions: (1963) Assuming that telephone company had certificate of convenience to serve a certain area, appeal from public service commission's order directing another company to provide service to the area did not require construction of due process and equal protection provisions of constitution and supreme court did not have jurisdiction of the appeal. State ex rel. Doniphan Telephone Co. v. Public Service Commission (Mo.), 369 S.W.2d 572.
+
+> Constitutional Questions: (1964) Court of appeals had jurisdiction of appeal even though material issue was as to whether or not plaintiff appellant was afforded due process when prior case was dismissed for failure to prosecute since plaintiff appellant specified no section or article of state or federal constitution as having been violated and briefed no constitutional question. W.M. Crysler Co. v. Smith (A.), 377 S.W.2d 134.
+
+> Constitutional Questions: (1964) Supreme court had jurisdiction of appeal from conviction on misdemeanor charge where defendant charged his constitutional rights had been infringed and due process violated whether the supreme court found it necessary to rule the constitutional issues or not. State v. Poelker (Mo.), 378 S.W.2d 491.
+
+> Constitutional Questions: (1964) Constitutional question was not presented for appellate review by mention only in the jurisdictional statement or by casual reference in argument portion of brief where not contained in points relied on nor timely presented to trial court. Pruellage v. DeSeaton Corporation (Mo.), 380 S.W.2d 403.
+
+> Constitutional Questions: (1964) In proceedings to review order of board of zoning adjustment wherein appellants claimed constitutional questions were involved, but in reality issues only involved the application of undisputed constitutional principles and not the construction of the constitution, jurisdiction was in the court of appeals. Dunbar v. Board of Zoning Adjustment (Mo.), 380 S.W.2d 442.
+
+> Constitutional Questions: (1964) Where defendant, on appeal from magistrate court to circuit court, filed untimely request under rules of the circuit court for jury trial and did not attack constitutionality of the court rule until trial day, constitutional question was not in issue since not raised at first opportunity and supreme court did not have jurisdiction of appeal. Meadowbrook Country Club v. Davis (Mo.), 384 S.W.2d 611.
+
+> Constitutional Questions: (1965) Where trial court could have ruled on ground other than constitutional grounds and it does not affirmatively appear that ruling was on constitutional question, no constitutional question is preserved for review. Kersting v. City of Ferguson (Mo.), 388 S.W.2d 794.
+
+> Constitutional Questions: (1966) Question of constitutionality of statute may not be presented for the first time by reply brief of appellant. In re Bierman's Estate (Mo.), 396 S.W.2d 545.
+
+> Constitutional Questions: (1972) Contention that quashing of defendant's deposition subpoenas because he was delinquent in paying pendente lite allowances deprived him of right to defend action did not require construction of the Constitution of the United States or of this state but merely raised the question of the application of the due process clauses to the factual situation involved. Norkunas v. Norkunas (A.), 480 S.W.2d 92.
+
+> Constitutional Questions: (1986) An ordinance which removes the element of scienter from a crime raises a constitutional issue, giving the supreme court jurisdiction under this section. St. Louis Co. v. Glore, 715 S.W.2d 565 (Mo. App. 1986).
+
+> State Officer as Party: (1951) State Board of Optometry is not a state officer but a legal entity within this section. State ex rel. Wallach v. Schneider's Credit Jewelers, Inc. (A.), 243 S.W.2d 125.
+
+> State Officer as Party: (1953) Appeal from judgment sustaining the decision of the workmen's compensation commission on a claim for workmen's compensation benefits where the state treasurer was made a party defendant in order to recover sum paid into second injury fund, was within the jurisdiction of the supreme court. Mossman v. St. Joseph Lead Co. (A.), 254 S.W.2d 241.
+
+> State Officer as Party: (1957) Industrial Commission of Missouri is not a state officer in constitutional sense. E.B. Jones Motor Co. v. Indust. Comm. (Mo.), 298 S.W.2d 407.
+
+> State Officer as Party: (1957) Supreme court did not have juridiction of appeal from order overruling motion by municipality to intervene in condemnation action by state highway commission as state highway department was not a state officer or political subdivision, title to real estate was not involved and municipal corporation was not a political subdivision within the meaning of this provision. State ex rel. State Highway Comm. v. Hudspeth (Mo.), 297 S.W.2d 510.
+
+> State Officer as Party: (1963) On appeal from a judgment in action for certiorari to review the action of the State Board of Chiropractic Examiners, the board rather than its individual members was the real party in interest and the fact that its component members were named parties did not vest the Supreme Court with jurisdiction even though such members are state officers. State ex rel. Gibson v. Missouri Board of Chiropractic Examiners (A.), 365 S.W.2d 773.
+
+> State Officer as Party: (1963) Supreme court did not have jurisdiction of appeal from judgment reversing decision of director of department of public health and welfare denying application for old age assistance on the theory that director was a "state officer". Dunnegan v. Gallop (Mo.), 369 S.W.2d 206.
+
+> State Officer as Party: (1963) A "state officer" within the meaning of this constitutional provision is one who exercises a portion of the sovereign power of government independently and without control of a superior power other than the law and therefore the supervisor of the safety responsibility unit and the supervisor of driver's license registration of the department of revenue did not come within the meaning of that term. Neither was the department of revenue nor the safety responsibility unit a state officer. Sheperd v. Department of Revenue (Mo.), 370 S.W.2d 381.
+
+> State Officer as Party: (1966) Warden of the Missouri State Penitentiary is not a "state officer" as that term is used in this section. Pollard v. Swenson (Mo.), 403 S.W.2d 601.
+
+> State Officer as Party: (1970) The Division of Employment Security is not a state officer within the meaning of the Constitution. Swafford v. Industrial Commission (Mo.), 452 S.W.2d 801.
+
+> Title to Office: (1954) Appeal from proceeding to contest election of ward committeewoman in city of St. Louis is within jurisdiction of supreme court because it involves title to public office. Noonan v. Walsh, 364 Mo. 1169, 273 S.W.2d 195.
+
+> Title to Office: (1954) Quo warranto to oust city alderman is not action involving "title to any office under this state" and appeal therein is not within jurisdiction of supreme court. State at Inf. Dalton v. Mattingly (Mo.), 268 S.W.2d 868.
+
+> Title to Office: (1960) Where record in lower court showed no claim that any constitutional right of defendant had been infringed, the court of appeals had jurisdiction of appeal. City of St. Louis v. Stenson (A.), 333 S.W.2d 529.
+
+> Title to Office: (1960) Case involving title to offices of mayor and alderman of city held not within jurisdiction of supreme court. Felker v. City of Sikeston (A.), 334 S.W.2d 754.
+
+> Title to Office: (1960) Action to remove president of board of education for gross misconduct was not within the exclusive jurisdiction of the supreme court as there was no dispute as to respondent having title to the office. Antoine v. McCaffery (A.), 335 S.W.2d 474.
+
+> Title to Office: (1963) The supreme court has exclusive jurisdiction of an appeal from a final judgment in an action to contest the election of a school director because such action involves title to an "office under this state". New v. Corrough (Mo.), 370 S.W.2d 323.
+
+> Title to Office: (1964) Appeal from action to contest election of county superintendent is within jurisdiction of supreme court as case involves title to an "office under this state". Kasten v. Guth (Mo.), 375 S.W.2d 110.
+
+> Title to Office: (1972) Supreme court had exclusive jurisdiction over appeal from quo warranto proceeding to oust appellants from office of building commission of Jefferson county since office was one to which officer was elected or apponted under authority of law and the authority and duties thereof were prescribed by law. State ex rel. Donald v. Leonard (A.), 480 S.W.2d 71.
+
+> Construction of Revenue Laws: (1955) Suit to enjoin assessment, extension and collection of property taxes on alleged exempt property involved construction of revenue laws of state. St. Louis Gospel Center v. Prose (Mo.), 280 S.W.2d 827.
+
+> Construction of Revenue Laws: (1957) Employment Security Law is not a revenue law so as to give supreme court jurisdiction involving its construction. E.B. Jones Motor Co. v. Indust. Comm. (Mo.), 298 S.W.2d 407.
+
+> Construction of Revenue Laws: (1958) Appeal from action to recover maintenance taxes levied by drainage district and impose a lien on realty of defendant did not involve construction of revenue laws nor title to realty within the meaning of this section. Fort Osage Drainage District of Jackson County v. Foley (Mo.), 312 S.W.2d 144.
+
+> Construction of Revenue Laws: (1959) Supreme court had jurisdiction of appeal from judgment dismissing petition in action against state tax commission, insofar as it purported to be suit in equity to relieve against illegal and excessive assessment of property where construction of the state revenue laws was involved. Drey v. State Tax Commission (Mo.), 323 S.W.2d 719.
+
+> Construction of Revenue Laws: (1959) Proceeding to review decision of state tax commission with respect to an assessment of property where it was contended that decision was not supported by evidence and that it was discriminatory involved construction of revenue laws. Cupples Hesse Corp. v. State Tax Comm. (Mo.), 329 S.W.2d 696.
+
+> Construction of Revenue Laws: (1963) Quo warranto proceeding to try right of respondent to office of alderman in city of fourth class did not involve "title to any office under this state" so as to vest jurisdiction of appeal in the Supreme Court. State ex rel. McNutt v. Northrup (Mo.), 367 S.W.2d 512.
+
+> Construction of Revenue Laws: (1972) Supreme court had jurisdiction of action by railroad companies against county collector for refunds of alleged excess school tax payments as the case involved construction of the state revenue law. Mo. Pacific Rd. Co. v. Kuehle (Mo.), 482 S.W.2d 505.
+
+> Offenses Punishable by Life Imprisonment or Death: (1972) "Punishable by a sentence of death or life imprisonment" in Art. V, § 3 of the Missouri Constitution means only those offenses having as alternative punishments life imprisonment or death and does not include offenses which have a sentence of less than life imprisonment as a minimum and a maximum of either life imprisonment or death and therefore supreme court did not have jurisdiction of appeal from conviction of robbery in first degree (not by means of deadly weapon). Garrett v. State (Mo.), 481 S.W.2d 225.
+
+> Offenses Punishable by Life Imprisonment or Death: (1973) Jurisdiction over out of time appeal from conviction of first degree murder held not to be in Missouri Supreme Court since decision of Supreme Court of United States invalidated death penalty under statutes such as Missouri's and, thus, the offense was no longer one having alternative punishments of death or life imprisonment. Parks v. State (Mo.), 492 S.W.2d 746.
+
+> Offenses Punishable by Life Imprisonment or Death: (1997) A revenue law of this state does not include a law that raises revenue only within a single political subdivision for the benefit of that political subdivision at the direction of the legislative body or the voters of the political subdivision. Alumax Foils, Inc. v. City of St. Louis, 939 S.W.2d 907 (Mo.banc 1997).
+
+*02 Dec 1982 · Source: Const. of 1875, Art. VI, § 12; Amdt. of 1884, §§ 3, 5 (Amended August 4, 1970) (Amended August 3, 1976) (Amended November 2, 1982).*
+
+### Section 4 Superior courts to control inferior courts — courts administrator, salary — reapportionment commission, appointment.
+
+1. The supreme court shall have general superintending control over all courts and tribunals. Each district of the court of appeals shall have general superintending control over all courts and tribunals in its jurisdiction. The supreme court and districts of the court of appeals may issue and determine original remedial writs. Supervisory authority over all courts is vested in the supreme court which may make appropriate delegations of this power.
+2. The supreme court may appoint a state courts administrator and other staff to aid in the administration of the courts, and it shall appoint a clerk of the supreme court and may appoint other staff to aid in the administration of the business of the supreme court. Each such appointee shall serve at the pleasure of the court. The clerk's and administrator's salary shall be fixed by law. All other appointees shall have salaries fixed by the court within the legislative limits of the appropriation made for that purpose.
+3. In the event that six commissioners of the supreme court are not available to sit as a reapportionment commission as provided in sections 2, 3 and 7 of article III of the constitution of this state, a commission composed of six members appointed by the supreme court from among the judges of the court of appeals, shall serve in lieu of the commissioners of the supreme court. No more than two members of any division of the court of appeals shall be appointed to the commission.
+
+> (1951) Superintending control over inferior courts, when resorted to for an authority over and above that comprehended by ordinary common-law writs, is limited to compelling proper performance of purely ministerial duties. State ex rel. St. L. Boiler & Equip. Co. v. Gabbert (A.), 241 S.W.2d 79.
+
+> (1956) Prohibition in the Supreme Court is governed by the general law on the subject rather than by the civil code. Where writ was directed to judge of multiple judge circuit who made order which would result in excess of jurisdiction it bound all judges of such circuit and afforded due process. State ex rel. Siegel v. Strother, 365 Mo. 861, 289 S.W.2d 73.
+
+> (1956) Resident voters and taxpayers of school district entitled to writ of mandamus to compel board of education to hold election on proposed boundary change, although another petition for proposed boundary change involving same district but different land had previously been filed and although date specified in petition for election had passed. State ex rel. Dahm v. Goodin (A.), 295 S.W.2d 600.
+
+> (1957) Court of appeals held to have jurisdiction to issue and enforce original writ (prohibition) in a case involving a construction of the state constitution under the 1945 constitution. State ex rel. City of Mansfield v. Crain (A.), 301 S.W.2d 415.
+
+> (1958) Court of appeals in exercise of its superintending jurisdiction may issue original remedial writs even though constitutional or other issues within the exclusive appellate jurisdiction of the Supreme Court are raised. State ex rel. Coffman v. Crain (A.), 308 S.W.2d 451.
+
+> (1959) Court of appeals had jurisdiction of case involving construction of state constitution which arose in connection with its original writ. State ex rel. City of Creve Coeur v. Weinstein (A.), 329 S.W.2d 399.
+
+*02 Sep 1976 · Source: Const. of 1875, Art. VI, §§ 3, 12, 23; Amdt. of 1884, § 8 (Amended August 4, 1970) (Amended August 3, 1976).*
+
+### Section 5 Rules of practice and procedure — duty of supreme court — power of legislature.
+
+The supreme court may establish rules relating to practice, procedure and pleading for all courts and administrative tribunals, which shall have the force and effect of law. The rules shall not change substantive rights, or the law relating to evidence, the oral examination of witnesses, juries, the right of trial by jury, or the right of appeal. The court shall publish the rules and fix the day on which they take effect, but no rule shall take effect before six months after its publication. Any rule may be annulled or amended in whole or in part by a law limited to the purpose.
+
+> (1954) Supreme Court rule as to appeals by state in criminal case does not deprive defendant of any right, and is valid since it only changes the mode of appeal, not the right. State v. Getty (Mo.), 273 S.W.2d 170.
+
+> (1956) Court rule could not change the law relating to the right of appeal, so that appeal by state from order setting aside verdict in criminal case on ground evidence was insufficient to sustain conviction would be dismissed. State v. Pottinger, 365 Mo. 794, 287 S.W.2d 782.
+
+> (1966) Canons of construction apply alike to enactments of General Assembly and rules promulgated by Supreme Court. State ex rel. R-I School District v. Ewing (A.), 404 S.W.2d 433.
+
+> (1995) Where supreme court rule requires bonds not exceeding double the judgment and section 521.070, RSMo, requires bonds of at least double the judgment sought, supreme court rule promulgated pursuant to this section supersedes statute. If there is a conflict between supreme court rules and a statute, the rule always prevails if it addresses practice, procedure or pleadings. State ex rel. Union Electric Co. v. Barnes, 893 S.W.2d 804 (Mo. en banc).
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 3, 1976).*
+
+### Section 6 Assignment of judges — authority of supreme court — eligible judges.
+
+The supreme court may make temporary transfers of judicial personnel from one court or district to another as the administration of justice requires, and may establish rules with respect thereto. Any judge shall be eligible to sit temporarily on any court upon assignment by the supreme court or pursuant to supreme court rule.
+
+> (1953) Where regular circuit judge disqualified himself and Supreme Court transferred another judge to try case, regular judge had no jurisdiction to issue temporary injunction to restrain foreclosure sale of property involved in such case. State ex rel. Ellis v. Creech, 364 Mo. 92, 259 S.W.2d 372.
+
+> (1953) Where circuit judge was party to suit, he had no authority to disqualify himself and award a change of venue therein under § 508.100. He should have disqualified and requested the Supreme Court to transfer a judge to try the case under §§ 6 and 15, Art. V of the Constitution. Pogue v. Swink, 364 Mo. 306, 261 S.W.2d 40.
+
+> (1954) Sections 6 and 15 of Art. V superseded §§ 508.090, 508.100 and 508.140, RSMo, insofar as they provided for a change of venue on disqualification of a judge. State ex rel. Creamer v. Blair, 364 Mo. 927, 270 S.W.2d 1.
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 4, 1970) (Amended August 3, 1976).*
+
+### Section 7 Supreme court and court of appeals may sit in divisions.
+
+The supreme court may sit en banc or in divisions as the court may determine. Any district of the court of appeals may sit at such places within the district and in divisions as the judges of such district may determine. Each division of the supreme court or of the court of appeals shall be composed of not less than three judges, at least one of whom shall be a regular judge of the court. A majority of a division shall constitute a quorum thereof, and all orders, judgments, and decrees of a division, as to causes and matters pending before it, shall have the force and effect of those of the court.
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 4, 1970) (Amended August 3, 1976).*
+
+### Section 8 Chief justice and chief judges, election, terms — authority of chief justice.
+
+The judges of the supreme court shall elect from their number a chief justice to preside over the court en banc, and the judges of the court of appeals in each district shall elect from their number a chief judge of the district. The terms of the chief justice and chief judges shall be fixed by the courts over which they preside. The chief justice of the supreme court shall be the chief administrative officer of the judicial system and, subject to the supervisory authority of the supreme court, shall supervise the administration of the courts of this state.
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 4, 1970) (Amended August 3, 1976).*
+
+### Section 9 Transfer of causes to supreme court en banc.
+
+A cause in the supreme court shall be transferred to the court en banc when the members of a division are equally divided in opinion, or when the division shall so order, or on application of the losing party when a member of the division dissents from the opinion therein, or pursuant to supreme court rule.
+
+> (1963) Appeal from action on collective bargaining agreement by employees for dismissal pay wherein court was allegedly required to apply federal substantive law did not involve a federal question within the meaning of constitutional provision. Irwin v. Globe- Democrat Publishing Co. (Mo.), 368 S.W.2d 452; Allen v. Globe-Democrat Publishing Co. (Mo.), 368 S.W.2d 460.
+
+*02 Sep 1976 · Source: Const. of 1875, Amdt. of 1890, § 4 (Amended August 3, 1976).*
+
+### Section 10 Transfer of cases from court of appeals to supreme court — scope of review.
+
+Cases pending in the court of appeals shall be transferred to the supreme court when any participating judge dissents from the majority opinion and certifies that he deems said opinion to be contrary to any previous decision of the supreme court or of the court of appeals, or any district of the court of appeals. Cases pending in the court of appeals may be transferred to the supreme court by order of the majority of the judges of the participating district of the court of appeals, after opinion, or by order of the supreme court before or after opinion because of the general interest or importance of a question involved in the case, or for the purpose of reexamining the existing law, or pursuant to supreme court rule. The supreme court may finally determine all causes coming to it from the court of appeals, whether by certification, transfer or certiorari, the same as on original appeal.
+
+> (1952) Where appeals court transfers cause to Supreme Court because of general interest and importance and for reexamination of existing law, latter court will determine same as though it was an original appeal. Hayes v. Hayes, 363 Mo. 583, 252 S.W.2d 323.
+
+> (1957) Where motion for rehearing on transfer of case to Supreme Court was overruled by Court of Appeals, but one of judges withdrew his concurrence and dissented, his modification of his dissent and certification of the case to the Supreme Court twelve days later but before issuance of mandate, held proper. Huber v. Gershman (Mo.), 300 S.W.2d 501.
+
+*02 Sep 1976 · Source: Const. of 1875, Amdt. of 1884, § 6 (Amended August 4, 1970) (Amended August 3, 1976).*
+
+### Section 11 Want of jurisdiction, effect — transfers.
+
+In all proceedings reviewable on appeal by the supreme court or the court of appeals, appeals shall go directly to the court or district having jurisdiction, but want of jurisdiction shall not be ground for dismissal, and the proceeding shall be transferred to the appellate court having jurisdiction. An original action filed in a court lacking jurisdiction or venue shall be transferred to the appropriate court.
+
+> (1954) Where after expiration of appeal time, court of appeals entered special order permitting the filing of delayed notice of appeal, appeal would be transferred to supreme court if appeals court had no jurisdiction and not dismissed. Winslow v. Sauerwein (A.), 272 S.W.2d 836.
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 4, 1970) (Amended August 3, 1976).*
+
+### Section 12 Judicial opinions — filing and publication — memorandum decisions and orders.
+
+The opinions of the supreme court and court of appeals and all divisions or districts of said courts shall be in writing and filed in the respective causes, and shall become a part of the records of the court, be available for publication, and shall be public records. The supreme court and the court of appeals may issue memorandum decisions or dispose of a cause by order pursuant to and as authorized by supreme court rule.
+
+*02 Sep 1976 · Source: Const. of 1875, Art. VI, §§ 15, 44; Amdt. of 1890, § 3 (Amended August 4, 1970) (Amended August 3, 1976).*
+
+### Section 13 Circuit courts — jurisdiction — sessions.
+
+(a) The circuit courts shall have original jurisdiction over all cases and matters, civil and criminal. Such courts may issue and determine original remedial writs and shall sit at times and places within the circuit as determined by the circuit court.
+(b) Procedures for the adjudication of small claims shall be as provided by law.
+
+> (1967) Section 508.030, RSMo, while mandatory as to the place of bringing an action affecting title to real estate, is solely a venue statute and neither restricts the trial and adjudication of defensive issues involving title to real estate to the county in which the real estate is situated or the general jurisdiction invested in circuit courts under the provisions of this section of Article V. Hughes v. Spence (Mo.), 409 S.W.2d 701.
+
+*02 Sep 1976 · Source: Const. of 1875, Art. VI, § 22 (Amended August 3, 1976).*
+
+### Section 14 Circuit courts — jurisdiction — sessions.
+
+(a) The circuit courts shall have original jurisdiction over all cases and matters, civil and criminal. Such courts may issue and determine original remedial writs and shall sit at times and places within the circuit as determined by the circuit court.
+(b) Procedures for the adjudication of small claims shall be as provided by law.
+
+> (1967) Section 508.030, RSMo, while mandatory as to the place of bringing an action affecting title to real estate, is solely a venue statute and neither restricts the trial and adjudication of defensive issues involving title to real estate to the county in which the real estate is situated or the general jurisdiction invested in circuit courts under the provisions of this section of Article V. Hughes v. Spence (Mo.), 409 S.W.2d 701.
+
+*02 Sep 1976 · Source: Const. of 1875, Art. VI, § 22 (Amended August 3, 1976).*
+
+### Section 15 Judicial circuits — establishment and changes — general terms and divisions — judges — presiding judge — court personnel.
+
+1. The state shall be divided into convenient circuits of contiguous counties. In each circuit there shall be at least one circuit judge. The circuits may be changed or abolished by law as public convenience and the administration of justice may require, but no judge shall be removed from office during his term by reason of alteration of the geographical boundaries of a circuit. Any circuit or associate circuit judge may temporarily sit in any other circuit at the request of a judge thereof. In circuits having more than one judge, the court may sit in general term or in divisions. The circuit judges of the circuit may make rules for the circuit not inconsistent with the rules of the supreme court.
+2. Each circuit shall have such number of circuit judges as provided by law.
+3. The circuit and associate circuit judges in each circuit shall select by secret ballot a circuit judge from their number to serve as presiding judge. The presiding judge shall have general administrative authority over the court and its divisions.
+4. Personnel to aid in the business of the circuit court shall be selected as provided by law or in accordance with a governmental charter of a political subdivision of this state. Where there is a separate probate division of the circuit court, the judge of the probate division shall, until otherwise provided by law, appoint a clerk and other nonjudicial personnel for the probate division.
+
+> (1952) Judge disqualified by application for change of venue (judge) may call in another judge to hear the case and is not precluded from doing so by §§ 508.110 and 508.140, because of § 15, Art. V of the constitution. Hayes v. Hayes, 363 Mo. 583, 252 S.W.2d 323.
+
+> (1953) The provision of § 15, Art. V of the constitution authorizing a circuit judge to sit in another circuit at the request of the judge thereof is self-enforcing and § 478.060, RSMo, has nothing to do with it. Cantrell v. City of Caruthersville, 363 Mo. 988, 255 S.W.2d 785.
+
+> (1953) Where circuit judge was party to suit, he had no authority to disqualify himself and award a change of venue therein under § 508.100. He should have disqualified and requested the Supreme Court to transfer a judge to try the case under §§ 6 and 15, Art. V of the Constitution. Pogue v. Swink, 364 Mo. 306, 261 S.W.2d 40.
+
+> (1954) Motion for change of venue based on disqualificaiton of judge did not divest circuit court of given county of jurisdiction, but judge sitting in such court at request of disqualified judge was empowered to conduct the trial. Adair County v. Urban, 364 Mo. 746, 268 S.W.2d 801.
+
+> (1954) Sections 6 and 15 of Article V superseded §§ 508.090, 508.100 and 508.140, RSMo, insofar as they provided for a change of venue on disqualification of a judge. State ex rel. Creamer v. Blair, 364 Mo. 927, 270 S.W.2d 1.
+
+*02 Sep 1976 · Source: Const. of 1875, Art. VI, §§ 24, 27, 28, 29 (Amended August 3, 1976).*
+
+### Section 16 Associate circuit judges, selection.
+
+Each county shall have such number of associate circuit judges as provided by law. There shall be at least one resident associate circuit judge in each county. Associate circuit judges shall be selected or elected in each county. In those circuits where the circuit judge is selected under section 25 of article 5 of the constitution the associate circuit judge shall be selected in the same manner. All other associate circuit judges shall be elected in the county in which they are to serve.
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 3, 1976).*
+
+### Section 17 Associate circuit judges, jurisdiction.
+
+Associate circuit judges may hear and determine all cases, civil or criminal and all other matters as now provided by law for magistrate or probate judges and may be assigned such additional cases or classes of cases as may be provided by law. In probate matters the associate circuit judge shall have general equitable jurisdiction.
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 3, 1976).*
+
+### Section 18 Judicial review of action of administrative agencies — scope of review.
+
+All final decisions, findings, rules and orders on any administrative officer or body existing under the constitution or by law, which are judicial or quasi-judicial and affect private rights, shall be subject to direct review by the courts as provided by law; and such review shall include the determination whether the same are authorized by law, and in cases in which a hearing is required by law, whether the same are supported by competent and substantial evidence upon the whole record. Unless otherwise provided by law, administrative decisions, findings, rules and orders subject to review under this section or which are otherwise subject to direct judicial review, shall be reviewed in such manner and by such court as the supreme court by rule shall direct and the court so designated shall, in addition to its other jurisdiction, have jurisdiction to hear and determine any such review proceeding.
+
+> (1956) The scope of review prescribed by the constitutional provision is a "minimum standard" and such provision does not prohibit legislation authorizing a broader scope of review. State ex rel. St. L. Publ. Serv. Co. v. Pub. Serv. Comm., 365 Mo. 1032, 291 S.W.2d 95.
+
+> (1958) Section 22, Art. V of the Constitution does not affect § 64.120 and, therefore, the reviewing court on certiorari may hear and consider evidence in addition to that before the board. State ex rel. Beacon Court v. Wind (A.), 309 S.W.2d 663.
+
+> (1958) In reviewing a workmen's compensation case, the constitution does not mean that the court may substitute its own judge for that of the commission; but does authorize the court to decide whether such tribunal could have reasonably made its findings. Evidence is viewed in light most favorable to the findings of the commission. Hague v. Wurdack (Mo.), 316 S.W.2d 523.
+
+> (1958) Method of review prescribed in § 89.110 was not abrogated by Art. V § 22 of the constitution and requirement that petition for review be presented to court within thirty days after decision filed by board is mandatory and jurisdictional and extrajudicial statement of counsel of board, if made, that he would notify protestants of final decision could neither modify statute nor invalidate lawfully made order of the board. Cohen v. Ennis (Mo.), 318 S.W.2d 310.
+
+> (1960) Order of Division of Workmen's Compensation denying application for exhuming of body of deceased employee and for postmortem examination held not final and not subject to appeal either under statutory or constitutional provisions. State ex rel. Faris v. Eversole (Mo.), 332 S.W.2d 879.
+
+> (1960) Suspension of city liquor license after hearing sustained as against contention that provision in statute requiring licensee to request recording of proceedings at his own expense is violative of § 22 of Article V of the Constitution since that requirement is valid. State ex rel. Bauman v. Quinn (Mo.), 337 S.W.2d 84.
+
+> (1961) Where issue of whether appellants, by reason of their petition for review of administrative board's decision in proceeding where they appeared as witnesses, were entitled to judicial review under administrative procedure act was to be determined before necessity of ruling on constitutional question arose, the supreme court would transfer case to court of appeals. Clay & Bailey Mfg. Co. v. Anderson (Mo.), 344 S.W.2d 46.
+
+> (1961) County held entitled to institute proceedings for judicial review of State Tax Commission's determination as to the value of property as against contention that the public policy as established by § 22 of Article V of the Constitution is that only private persons have the right to judicial review. In re St. Joseph Lead Company (Mo.), 352 S.W.2d 656.
+
+> (1965) In workmen's compensation case, reviewing court cannot substitute its own judgment on evidence for that of Industrial Commission, but is empowered to determine whether award of commission is supported by competent and substantial evidence on the whole record. Jacobs v. Eldridge Construction Co. (A.), 393 S.W.2d 33.
+
+> (1966) Industrial Commission is sole judge of weight of evidence and credibility of witnesses in workmen's compensation proceedings. Harryman v. L-N Buick-Pontiac, Inc. (A.), 402 S.W.2d 828.
+
+> (1967) Where there is no material conflict in, or dispute concerning, the facts bearing upon a claimant's status as an employee vel non, the resolution of that issue becomes a question of law and the industrial commission's determination is not binding on the reviewing court. Lawson v. Lawson (A.), 415 S.W.2d 313.
+
+> (1973) Held, welfare benefits are in the nature of property rights or fundamental civil rights protected by the Fed. Const., and as such are "private rights" within the meaning of Art. V § 22, Mo. Const. Hill v. State Dept. of Public Health & Welfare (Mo. Banc), 503 S.W.2d 6.
+
+> (1975) School district has no right to appeal decision of county board of equalization. State ex rel. St. Francois County School Dist. R-III v. Lalumondier (Mo.), 518 S.W.2d 638.
+
+> (2014) Board of Law Examiners is not an administrative body, and therefore section governing judicial review of administrative action does not provide a right for judicial review of Board's procedures to score bar examinations. Caranchini v. Mo. Bd. of Law Examiners, 447 S.W.3d 768 (Mo.App.W.D.).
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 3, 1976).
+(This was § 22 of Art. V prior to 1976)*
+
+### Section 19 Terms of judges.
+
+Judges of the supreme court and of the court of appeals shall be selected for terms of twelve years, judges of the circuit courts for terms of six years, and associate circuit judges for terms of four years.
+
+*02 Sep 1976 · Source: Const. of 1875, Art. VI, §§ 4, 16, 25 (Amended August 3, 1976).
+(This was § 23 of Art. V prior to 1976)*
+
+### Section 20 Salaries and compensation of judges — provision against other special compensation and practice of law — travel and other expenses.
+
+All judges shall receive as salary the total amount of their present compensation until otherwise provided by law, but no judge's salary shall be diminished during his term of office. No judge shall receive any other or additional compensation for any public service. No supreme, appellate, circuit or associate circuit judge shall practice law or do law business. Judges may receive reasonable traveling and other expenses allowed by law.
+
+*02 Sep 1976 · Source: Const. of 1875, Art. VI, § 33 (Amended August 3, 1976).
+(This was § 24 of Art. V prior to 1976)*
+
+### Section 21 Judges — qualifications — age requirements — license to practice law.
+
+Judges of the supreme court and of the court of appeals shall have been citizens of the United States for at least fifteen years, and qualified voters of the state for nine years next preceding their selection. Such judges shall be at least thirty years of age. Except as provided by section 6, judges of the court of appeals shall be residents of the court of appeals district in which they serve. Circuit judges shall have been citizens of the United States for at least ten years, and qualified voters of this state three years next preceding their selection, and be not less than thirty years of age and residents of the circuit for at least one year. Associate circuit judges shall be qualified voters of this state and residents of the county, at least twenty-five years old, and have such other qualifications as may be provided by law. Every supreme, appellate, circuit, and associate circuit court judge shall be licensed to practice law in this state.
+
+*02 Sep 1976 · Source: Const. of 1875, Art. VI, §§ 6, 13, 25, 26 (Amended August 3, 1976).
+(This was § 25 of Art. V prior to 1976)*
+
+### Section 22 Court of appeals clerks and personnel — salaries.
+
+Each district of the court of appeals shall appoint a clerk of the court and other personnel to aid in the administration of the business of the court. Their salaries shall be within the limit of the legislative appropriation for that purpose.
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 3, 1976).
+(This was § 26 of Art. V prior to 1976)*
+
+### Section 23 Municipal judges and court personnel — selection — terms — compensation — jurisdiction — appeals — role of associate circuit judges.
+
+Each circuit may have such municipal judges as provided by law and the necessary non-judicial personnel assisting them. The selection, tenure and compensation of such judges and such personnel shall be as provided by law, or in cities having a charter form of government as provided by such charter. A municipal judge may be a part-time judge except where prohibited by ordinance or charter of the municipality. A municipal judge shall hear and determine violations of municipal ordinances in one or more municipalities. Until otherwise provided by law, or supreme court rule, the practice, procedure, right to and method of appeal before and from municipal judges shall be as heretofore provided with respect to municipal courts. Associate circuit judges shall hear and determine violations of municipal ordinances in any municipality with a population of under four hundred thousand within the circuit for which a municipal judge is not provided, or upon request of the governing body of any municipality with a population of under four hundred thousand within the circuit.
+
+> (1990) Under constitutional provision, mayor's commission has no jurisdiction to hear and determine an allegation of a violation of a city ordinance. Commission's order was null and void. Yellow Freight Systems, Inc. v. Mayor's Commission on Human Rights of the City of Springfield, 791 S.W.2d 382 (Mo. 1990) (en banc).
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 3, 1976).*
+
+### Section 24 Retirement, removal and discipline of judges, commission on — composition, terms, duties, procedures, reimbursement of expenses — additional duties prohibited.
+
+1. There shall be a commission on retirement, removal, and discipline, composed of two citizens who are not members of the bar, appointed by the governor, two lawyers appointed by the board of governors of The Missouri Bar, one judge of the court of appeals to be selected by a majority of the judges of the court of appeals, and one judge of the circuit courts to be selected by a majority of the circuit judges of this state. The commission shall receive and investigate all requests and suggestions for retirement for disability, and all complaints concerning misconduct of all judges, members of the judicial commissions, and of this commission. No member of the commission shall participate in any matter in which he has a personal interest. If a member is disqualified to participate in any matter before the commission, the respective selecting authority shall select a substitute to sit during such disqualification. Of the members first appointed, each of the citizen members shall be appointed for a term of two years and each of the lawyer members for a term of four years, and each of the judge members for a term of six years; and thereafter members shall be appointed for a term of six years.
+2. Upon recommendation by an affirmative vote of at least four members of the commission, the supreme court en banc shall retire from office any judge or any member of any judicial commission or any member of this commission who is found to be unable to discharge the duties of his office with efficiency because of permanent sickness or physical or mental infirmity. A judge, except a municipal judge so retired shall receive one-half of his regular compensation during the remainder of his term of office. Where a judge subject to retirement under other provisions of law, has been retired under the provisions of this section, the time during which he was retired for disability under this section shall count as time served for purposes of retirement under other provisions of this constitution or of law.
+3. Upon recommendation by an affirmative vote of at least four members of the commission, the supreme court en banc, upon concurring with such recommendation, shall remove, suspend, discipline or reprimand any judge of any court or any member of any judicial commission or of this commission, for the commission of a crime, or for misconduct, habitual drunkenness, willful neglect of duty, corruption in office, incompetency or any offense involving moral turpitude, or oppression in office. No action taken under this section shall be a bar to or prevent any other action authorized by law.
+4. A judge is disqualified from acting as a judicial officer while there is pending an indictment or information charging him in any court in the United States with a crime punishable as a felony under the laws of Missouri or the United States, or a recommendation to the supreme court by the commission for his removal, or retirement, or after articles of impeachment have been voted by the house of representatives. A judge so disqualified shall continue to receive his salary.
+5. On recommendation of the commission, the supreme court shall suspend a judge from office without salary when in any court in the United States he pleads guilty or no contest to, or is found guilty of, an offense punishable as a felony under the laws of Missouri or the United States, or of any other offense that involves moral turpitude. If he is suspended and his conviction becomes final the supreme court shall remove him from office. If his conviction is reversed and he is discharged from that charge by order of court or of the prosecuting officer, whether without further trial or after further trial and a finding of not guilty, his suspension terminates and he shall be paid his salary for the period of suspension.
+6. Recommendations to the supreme court by the commission shall be made only after notice and hearing. Rules for the administration of this section and for the procedures thereunder shall be prescribed by supreme court rule unless otherwise provided by law.
+7. Members of the commission shall be reimbursed for their actual and necessary expenses incurred in the performance of their duties.
+8. Additional duties shall not be imposed by law or supreme court rule upon the commission on retirement, removal and discipline.
+
+> (1999) Commission on Retirement, Removal and Discipline lacks jurisdiction to prosecute claims against judge for alleged misconduct occurring prior to becoming a judge. In re Burrell, 6 S.W.3d 869 (Mo.banc).
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 3, 1976).*
+
+### Section 25(a) Nonpartisan selection of judges — courts subject to plan — appointments to fill vacancies.
+
+Whenever a vacancy shall occur in the office of judge of any of the following courts of this state, to wit: The supreme court, the court of appeals, or in the office of circuit or associate circuit judge within the city of St. Louis and Jackson county, the governor shall fill such vacancy by appointing one of three persons possessing the qualifications for such office, who shall be nominated and whose names shall be submitted to the governor by a nonpartisan judicial commission established and organized as hereinafter provided. If the governor fails to appoint any of the nominees within sixty days after the list of nominees is submitted, the nonpartisan judicial commission making the nomination shall appoint one of the nominees to fill the vacancy.
+
+*02 Sep 1976 · (Adopted August 3, 1976).
+(This was § 29(a) of Art. V prior to 1976)*
+
+### Section 25(b) Adoption of plan in other circuits — petitions and elections — form of petition ballots.
+
+At any general election the qualified voters of any judicial circuit outside of the city of St. Louis and Jackson county, may by a majority of those voting on the question elect to have the circuit and associate circuit judges appointed by the governor in the manner provided for the appointment of judges to the courts designated in section 25(a), or, outside the city of St. Louis and Jackson county, to discontinue any such plan. The question of whether the circuit and associate circuit judges of any such circuit shall be so appointed shall be submitted to the voters of each county in any circuit at the next general election whenever petitions therefor signed by ten percent of the legal voters of each county in the circuit voting for the office of governor at the last election thereof are filed in the office of secretary of state at least 90 days before such election. The question shall be presented as follows: "Shall the circuit and associate circuit judges of the ______ judicial circuit be selected as provided in Section 25 of Article V of the Missouri Constitution? Yes ☐  No ☐  (Mark One)". The provisions of law with respect to initiative petitions shall apply insofar as applicable relative to the certification of the petitions to local officials by the secretary of state, the preparation, printing, publishing and distribution of the judicial ballots required by this section, the holding and conduct of the election, and the counting, canvassing, return, certification, and proclamation of the votes. If a majority of the votes upon the question are cast in favor of the adoption in each county comprising the circuit, the nonpartisan selection of the circuit and associate judges shall be adopted in the circuit. The question of selection of circuit and associate circuit judges in the manner provided in section 25(a) shall not be submitted more often than once every four years. If any judicial circuit adopts the nonpartisan selection of the circuit and associate circuit judges under the provisions of this section, the question of its discontinuance shall not be submitted more often than once every four years and may be submitted at any general election and shall be proceeded upon insofar as may be applicable in like manner as prescribed in this section for the original adoption of the plan.
+The petition shall be in substantially the following form:
+­
+­
+The ballot shall provide as follows:
+­
+­
+If a majority of the votes upon the question are cast in favor of such discontinuance in each county comprising the circuit, the nonpartisan selection of the circuit and associate circuit judges shall be discontinued in such judicial circuit.
+If the nonpartisan selection of the judges be discontinued in any such judicial circuit, other than the city of St. Louis and Jackson county, the selection of such judges therein shall be made as otherwise prescribed by law. This section shall be self-enforcing.
+
+*02 Sep 1976 · (Adopted August 3, 1976).*
+
+### Section 25(c)(1) Tenure of judges — declaration of candidacy — form of judicial ballot — rejection and retention.
+
+Each judge appointed pursuant to the provisions of sections 25(a)-(g) shall hold office for a term ending December thirty-first following the next general election after the expiration of twelve months in the office. Any judge holding office, or elected thereto, at the time of the election by which the provisions of sections 25(a)-(g) become applicable to his office, shall, unless removed for cause, remain in office for the term to which he would have been entitled had the provisions of sections 25(a)-(g) not become applicable to his office. Not less than sixty days prior to the holding of the general election next preceding the expiration of his term of office, any judge whose office is subject to the provisions of sections 25(a)-(g) may file in the office of the secretary of state a declaration of candidacy for election to succeed himself. If a declaration is not so filed by any judge, the vacancy resulting from the expiration of his term of office shall be filled by appointment as herein provided. If such declaration is filed, his name shall be submitted at said next general election to the voters eligible to vote within the state if his office is that of judge of the supreme court, or within the geographic jurisdiction limit of the district where he serves if his office is that of a judge of the court of appeals, or within the circuit if his office is that of circuit judge, or within the county if his office is that of associate circuit judge on a separate judicial ballot, without party designation, reading:
+­
+­
+­­
+­
+
+*02 Sep 1976 · (Adopted August 3, 1976).
+(This was § 29(c)(1) prior to 1976)*
+
+### Section 25(c)(2) Certification of names upon declaration — law applicable to elections.
+
+Whenever a declaration of candidacy for election to succeed himself is filed by any judge or associate circuit judge under the provisions of this section, the secretary of state shall not less than thirty days before the election certify the name of said judge or associate circuit judge and the official title of his office to the clerks of the county courts, and to the boards of election commissioners in counties or cities having such boards, or to such other officials as may hereafter be provided by law, of all counties and cities wherein the question of retention of such judge in office is to be submitted to the voters, and, until legislation shall be expressly provided otherwise therefor, the judicial ballots required by this section shall be prepared, printed, published and distributed, and the election upon the question of retention of such judge in office shall be conducted and the votes counted, canvassed, returned, certified and proclaimed by such public officials in such manner as is now provided by the statutory law governing voting upon measures proposed by the initiative.
+
+*02 Sep 1976 · (Adopted August 3, 1976).*
+
+### Section 25(d) Nonpartisan judicial commissions — number, qualifications, selection and terms of members — majority rule — reimbursement of expenses — rules of supreme court.
+
+Nonpartisan judicial commissions whose duty it shall be to nominate and submit to the governor names of persons for appointment as provided by sections 25(a)-(g) are hereby established and shall be organized on the following basis: For vacancies in the office of judge of the supreme court or of the court of appeals, there shall be one such commission, to be known as "The Appellate Judicial Commission"; for vacancies in the office of circuit judge or associate circuit judge of any circuit court subject to the provisions of sections 25(a)-(g) there shall be one such commission, to be known as "The _________ Circuit Judicial Commission", for each judicial circuit which shall be subject to the provisions of sections 25(a)-(g); the appellate judicial commission shall consist of a judge of the supreme court selected by the members of the supreme court, and the remaining members shall be chosen in the following manner: The members of the bar of this state residing in each court of appeals district shall elect one of their number to serve as a member of said commission, and the governor shall appoint one citizen, not a member of the bar, from among the residents of each court of appeals district, to serve as a member of said commission, and the members of the commission shall select one of their number to serve as chairman. Each circuit judicial commission shall consist of five members, one of whom shall be the chief judge of the district of the court of appeals within which the judicial circuit of such commission, or the major portion of the population of said circuit is situated and the remaining four members shall be chosen in the following manner: The members of the bar of this state residing in the judicial circuit of such commission shall elect two of their number to serve as members of said commission, and the governor shall appoint two citizens, not members of the bar, from among the residents of said judicial circuit to serve as members of said commission, the members of the commission shall select one of their number to serve as chairman; and the terms of office of the members of such commission shall be fixed by law, but no law shall increase or diminish the term of any member then in office. No member of any such commission other than a judge shall hold any public office, and no member shall hold any official position in a political party. Every such commission may act only by the concurrence of a majority of its members. The members of such commission shall receive no salary or other compensation for their services but they shall receive their necessary traveling and other expenses incurred while actually engaged in the discharge of their official duties. All such commissions shall be administered, and all elections provided for under this section shall be held and regulated, under such rules as the supreme court shall promulgate.
+
+*02 Sep 1976 · (Adopted August 3, 1976).
+(This was § 29(d) prior to 1976)*
+
+### Section 25(e) Payment of expenses.
+
+All expenses incurred in administering sections 25(a)-(g), when approved by the supreme court, shall be paid out of the state treasury. The supreme court shall certify such expense to the commissioner of administration, who shall draw his warrant therefor payable out of funds not otherwise appropriated.
+
+*02 Sep 1976 · (Adopted August 3, 1976).
+(This was § 29(e) prior to 1976)*
+
+### Section 25(f) Prohibition of political activity by judges.
+
+No judge of any court in this state, appointed to or retained in office in the manner prescribed in sections 25(a)-(g), shall directly or indirectly make any contribution to or hold any office in a political party or organization, or take part in any political campaign.
+
+*02 Sep 1976 · (Adopted August 3, 1976).
+(This was § 29(f) prior to 1976)*
+
+### Section 25(g) Self-enforceability.
+
+All of the provisions of sections 25(a)-(g) shall be self-enforcing except those as to which action by the general assembly may be required.
+
+*02 Sep 1976 · (Adopted August 3, 1976).
+(This was § 29(g) prior to 1976)*
+
+### Section 26 Retirement — assignment as senior judge or commissioner.
+
+1. All judges other than municipal judges shall retire at the age of seventy years, except as provided in the schedule to this article, under a retirement plan provided by law.
+2. All judges may retire at an earlier age authorized by law and may participate in a retirement plan provided by law.
+3. Any retired judge, associate circuit judge or commissioner, with his consent, may be assigned by the supreme court as a senior judge to any court in this state or as a special commissioner. When serving as a senior judge he shall have the same powers as an active judge.
+
+> (1991) Where Missouri's judges are appointees on a policymaking level and there was no clear congressional intent to include such judges within coverage of the federal Age Discrimination in Employment Act, Missouri's mandatory retirement requirement for state judges does not violate the federal Age Discrimination in Employment Act. Gregory v. Ashcroft, 111 S. Ct. 2395.
+
+> (1991) Where judges' physical and mental capacities would diminish with age and unlike other state officials, the election process might be inadequate to determine which judges' performance had become deficient, there is a rational basis for the mandatory retirement age and age is not a suspect classification, therefore constitutional provision does not violate equal protection. Gregory v. Ashcroft, 111 S. Ct. 2395.
+
+*02 Sep 1976 · (Adopted August 3, 1976).*
+
+### Section 27 Effective date and transition provisions.
+
+Except as otherwise provided in this article, the effective date of this article shall be January 2, 1979.
+1. All judges elected in 1978 shall be sworn into office on January 1, 1979.
+2. All magistrate courts, probate courts, courts of common pleas, the St. Louis court of criminal correction, and municipal corporation courts shall continue to exist until the effective date of this article at which time said courts shall cease to exist. When such courts cease to exist:
+a. The jurisdiction of magistrate courts shall be transferred to the circuit court of the circuit and such courts shall become divisions of the circuit court.
+b. The jurisdiction of probate courts within the circuit shall be transferred to the circuit court and such courts shall become divisions of the circuit court.
+c. The jurisdiction of St. Louis court of criminal correction and all courts of common pleas shall be transferred to the circuit court for the respective circuit and such courts shall become divisions of the circuit court. The provisions of law relating to practice and procedure of the courts of common pleas shall, until otherwise changed by law, remain in effect and the provision of law relating to practice, procedure, venue, jurisdiction, selection of jurors, election of clerk and provisions for deputies and all other provisions of law relating to the Hannibal Court of Common Pleas shall until otherwise changed by law, remain in effect as to such division of the Marion county circuit court and said division shall be known as division number 2 of the Marion county circuit court instead of the Hannibal Court of Common Pleas.
+d. The jurisdiction of municipal courts shall be transferred to the circuit court of the circuit in which such municipality or major geographical area thereof shall be located and, such courts shall become divisions of the circuit court. When such courts cease to exist, all records, papers and files shall be transferred to the circuit court which may designate the place where such records may be maintained.
+e. Divisions of the circuit court created by this subsection may be changed hereafter by law.
+f. After the effective date of this article, in counties with a population of over thirty thousand and less than sixty-five thousand, the office expenses and salaries of associate circuit judges and their clerks who before the effective date of this article were probate judges shall continue to be paid by the counties.
+g. After the effective date of this article, in all counties with a population of over sixty-five thousand and in any city not within a county, the office expenses and salaries of the circuit judges who before the effective date of this article were probate judges in said counties or city, shall be paid by the respective counties or city.
+3. Until otherwise provided by law associate circuit judges shall hear all cases or matters, civil and criminal, as now provided by law for magistrates within the county and such additional cases or classes of cases as may be provided by law. Until otherwise provided by law, associate circuit judges shall hear all cases or matters as now provided by law for probate courts within the county, except that in the city of St. Louis, in all first class counties, and all second class counties with a population of over sixty-five thousand, the circuit judge of the probate division of the circuit court shall hear all cases and matters as now provided by law for probate courts within such circuits or counties. An associate circuit judge exercising probate jurisdiction shall, in connection therewith, possess general equitable powers. Associate circuit judges of the city of St. Louis shall hear all civil and criminal cases as now provided by law for magistrates and the St. Louis court of criminal correction including appeals and preliminary hearings in felony cases and such additional cases or classes of cases as may hereafter be provided by law. Until otherwise provided by law or supreme court rule the practice, procedure, filing fees and administration of causes heard by associate circuit judges within the jurisdiction of former magistrate and probate courts shall be and remain the same as in the court abolished.
+4. a. In 1978, all probate judges except those selected under the nonpartisan selection of judges plan shall be elected as provided by law. On the effective date of this article the probate judge of the city of St. Louis and the probate judges of all first class counties and all second class counties with a population of over sixty-five thousand shall become circuit judges of their respective circuits and thereafter shall be selected or elected from the circuit as in the case of other circuit judges and be entitled to the same compensation as provided by law for circuit judges at the time of the effective date of this article until changed by law, and shall have the same powers and jurisdiction as judges of the circuit court. Each judge who served as probate judge and who is in office on the effective date of this article in such city and counties shall continue to serve in the capacity of judge of the probate division of the circuit court until his successor is selected and qualified, provided that with his consent any circuit or associate circuit judge in the circuit at his request may hear, try and dispose of any matter, case or classes of cases assigned to him by such judge of the probate division, and such judge of the probate division with his consent, may hear, try and determine any case within the jurisdiction of the circuit court. On the effective date of this article the probate judges of counties with a population of sixty-five thousand or less shall become associate circuit judges of their respective circuits and thereafter shall be selected or elected from the county as in the case of other associate circuit judges and shall be entitled to the same compensation as that to which they were entitled on the effective date of this article until changed by law.
+b. On the effective date of this article, judges of the St. Louis court of criminal correction and judges of the courts of common pleas shall become circuit judges and be entitled to the compensation of circuit judges and shall have the same power and jurisdiction as circuit judges.
+c. In 1978, all magistrates shall be elected as provided by law. On the effective date of this article all magistrates who are then in office shall become associate circuit judges and shall serve out the remainder of their terms as such. Each such judge shall be entitled to the same compensation as that to which he was entitled on the effective date of this article until otherwise changed by law.
+5. The right to and method of review from a final judgment or appealable order of an associate circuit judge, or municipal judge, when so acting within the jurisdiction of cases heretofore within the jurisdiction of the former magistrate or municipal courts shall, until otherwise provided by law, be de novo before a circuit judge or another associate circuit judge within the circuit except that appeals from an associate circuit judge exercising probate jurisdiction in any circuit, and appeals from any cause from an associate circuit judge as provided by law shall be appealed to the appropriate district of the court of appeals upon a record as authorized by law or supreme court rule. Appeals in misdemeanor cases from the associate circuit judge from the city of St. Louis shall be as now provided until changed by law.
+6. The costs of judicial proceedings as provided for in all courts existing before the adoption of this article shall remain in effect with respect to cases which would have been within the jurisdiction of those courts until such costs are otherwise changed by law. Until otherwise provided by law, if a cause could have been filed in more than one court before the effective date of this article, the lower cost structure shall be used in calculating costs; provided, however, that a party instituting a civil suit which would have been within the concurrent jurisdiction of the circuit and magistrate courts prior to the effective date of this article may designate the case as being one to be processed in accordance with procedures and rules appertaining before circuit judges, and the court costs heretofore applicable to such cases in circuit court shall apply.
+7. Until the effective date of this article the courts of common pleas, the St. Louis court of criminal corrections, the magistrate courts, the probate courts and the municipal corporation courts shall continue to have the jurisdiction and power provided in the article repealed hereby and provided by the laws and rules enacted thereunder, and shall continue to follow the procedures as provided in such article, laws and rules.
+8. Each judge who, on the effective date of this article, becomes a circuit or associate circuit judge in any circuit subject to the provisions of sections 25(a)-(g) of this article shall be eligible for retention in office as a circuit or associate circuit judge respectively by filing in the office of the secretary of state a declaration of candidacy for election not less than sixty days prior to the holding of the general election next preceding the expiration of his term of office. If a majority of those voting on the question vote against retaining him in office, upon the expiration of his term of office, a vacancy shall exist which shall be filled by appointment as provided in section 25(a); otherwise, said judge shall, unless removed for cause, remain in office for the number of years after December thirty-first following such election as is provided for the full term of such office and at the expiration of each such term shall be eligible for retention in office by election in the same manner prescribed by section 25(c)(1). The secretary of state shall certify the name of such judges in accordance with law or in accordance with section 25(c)(2) of this article.
+9. On the effective date of this article the judges of the magistrate court and the judges of the probate court in any circuit which selects judges under the nonpartisan selection of judges shall become nonpartisan judges. The judges of the probate courts of the city of St. Louis and all first class counties, and all second class counties with a population of over sixty-five thousand, when such courts cease to exist, and the judges of the St. Louis court of criminal corrections, shall become circuit judges and receive the compensation payable to circuit judges.
+9. a. The judges of all municipal corporations courts in office at the time such courts cease to exist and who qualify for office under the provisions of section 21 of this article shall continue in office until the expiration of the terms to which they have been elected or appointed unless otherwise provided by law. When such courts cease to exist, the judges thereof who continue in office shall become municipal judges and shall serve as such until their terms expire or are otherwise removed. They shall receive the compensation now provided until otherwise changed by law. Such compensation shall be paid by the municipality or municipalities they serve. Upon the expiration of their terms, they shall become eligible for retention in office as municipal judges in the same manner as now provided for the selection of municipal judges in the municipality they serve until otherwise provided by law. In the event the municipal judge now serving shall fail, refuse or be disqualified from continuing in office, the municipality may elect or appoint a municipal judge in the same manner as is now provided in that municipality for selection of a municipal judge unless otherwise provided by law. All expenses incidental to the functioning of municipal judges, including the cost of any staff, and their quarters shall be paid and provided by the respective municipalities as now provided for municipal courts until otherwise provided by law. In municipalities with a population of under four hundred thousand which do not have a municipal judge or for which no municipal judge is provided by law, associate circuit judges shall hear and determine violations of municipal ordinances. No associate circuit judge shall, however, act as a municipal judge in any city with a population of four hundred thousand or more until otherwise provided by law.
+10. a. 1. Until otherwise provided by law, circuit clerks in each circuit and county shall be selected in the same manner as provided by law on the effective date of this article, except that in counties having a charter form of government, the circuit clerk shall be selected in the manner as provided in the charter of such county.
+2. Upon the expiration of the terms of office of the clerk of the circuit court for criminal causes of the city of St. Louis, and the term of the clerk of the St. Louis court of criminal correction, the offices of such clerks shall cease to exist and thereafter the clerk of the circuit court of the city of St. Louis shall have the powers and perform the duties and functions of such clerks and shall serve all divisions of the circuit court, except the courts presided over by an associate circuit judge, the judge of the probate division of the circuit court and by municipal judges.
+3. In any division of the circuit court presided over by an associate circuit judge, in the probate division of the circuit court, and in any division presided over by a municipal judge, the clerks and their deputies of the respective divisions shall continue to be selected in the same manner as provided for by law on the effective date of this article until otherwise changed by law.
+4. There shall continue to be an office of circuit clerk in each county of the circuit, until otherwise changed by law.
+b. Upon the effective date of this article, the office of constable serving magistrate courts is abolished. The functions, powers and duties of such constables shall be transferred to and be performed by the sheriff of the county or the sheriff of the city of St. Louis.
+c. Upon the effective date of this article the office of prosecuting attorney of the city of St. Louis shall be abolished and all the duties, powers, and functions of such office shall be transferred to the circuit attorney of the city of St. Louis who shall have such powers and perform such functions and duties as the prosecuting attorney of the city of St. Louis.
+d. No election shall be held in 1978 for the offices which are abolished by this subsection 10.
+11. The commissioners of the supreme court holding office on the effective date of this article shall continue to hold office as commissioners of the court until the end of their terms, and shall be eligible for reappointment thereafter from term to term under existing law until retirement, death, resignation or removal for cause. Upon the occurrence of such vacancy in the office of commissioner of the supreme court, such office shall cease to exist. Commissioners, in addition to their regular duties, shall be subject to temporary assignment for the performance of judicial duties as special judges of the supreme court, court of appeals, or circuit court on order of the supreme court. During such temporary assignments, commissioners sitting as special judges shall have the same powers, duties, and responsibilities as are vested by law in the regular judges of the courts to which they are assigned.
+12. The boundaries and territorial jurisdiction of the districts of the court of appeals and of the judicial circuits as they exist on the effective date of this article shall be continued in effect until such time as changed by law.
+13. The commission on retirement, removal and discipline and the nonpartisan appellate and circuit judicial commissions in existence on the effective date of this article shall continue to exist, and the terms of office for such commissions shall continue in effect.
+14. "Judge" as used in sections 20, 24 and 26 of this article shall include commissioners of the supreme court.
+15. Nothing in this article shall deprive any person of any right or privilege to retire and the retirement benefits to which he was entitled immediately prior to the effective date of this article.
+16. A municipal corporation with a population of under four hundred thousand shall have the right to enforce its ordinances and to conduct prosecutions before an associate circuit judge in the absence of a municipal judge and in appellate courts under the process authorized or provided by this article and shall receive and retain any fines to which it may be entitled. All court costs shall be paid to and deposited monthly in the state treasury. No filing fees shall be charged in such prosecutions unless and until provided for by a law enacted after the adoption of this article.
+17. Until otherwise provided by law, the circuit courts shall continue to have jurisdiction to review administrative decisions, findings, rules, and orders in the manner and practice and pursuant to the laws and rules then in force at the time this article becomes effective.
+18. All rights, claims, causes of action and obligations existing and all contracts, prosecutions, recognizances and other instruments executed or entered into and all indictments, informations, and complaints which shall have been filed and all actions which shall have been instituted and all fines, penalties and forfeitures assessed, due or owing prior to the effective date of this article shall continue to be as valid as if this article had not been adopted.
+19. The general assembly may enact such laws and make such appropriations as may be necessary to carry out the provisions of this article.
+20. All laws and rules inconsistent with the provisions of this article shall, on the effective date hereof, be and are repealed. Except to the extent inconsistent with the provisions of this article, all provisions of law and rules of court in force on the effective date of this amendment shall continue in effect until superseded in a manner authorized by the constitution or by law.
+21. In the event that a new district of the court of appeals is established, the judges presently serving on any district of the court of appeals shall continue to be judges of the court of appeals to which appointed although they are not residents of the court of appeals district in which they serve.
+22. Until otherwise provided by law, in any cause heard and determined by an associate circuit judge, the associate circuit judge shall utilize electronic, magnetic, or mechanical sound or video recording devices for the purpose of preserving the record. Electronic, magnetic, or mechanical recording devices shall be approved by the office of state courts administrator prior to their utilization by any associate circuit judge.
+23. Each circuit in which judges are selected under the nonpartisan court plan, on the effective date of this article, including the circuits of Platte county, Clay county, and St. Louis county, shall continue under the nonpartisan court plan until and unless such method of selection of judges is discontinued by the voters of the circuit as provided by sections 25(a)-(g) of this article.
+24. Judges, other than municipal judges, not selected under the provisions of sections 25(a)-(g) of this article who on the effective date of this article or within six months thereafter, are seventy years of age or older, may petition the commission on retirement, removal and discipline to continue to serve until age seventy-six if he has not completed a total of twelve years of service as a judge. Judges, other than municipal judges, not selected under the provisions of sections 25(a)-(g) of this article who are in office on the effective date of this article, may, within six months before attaining the age of seventy years, petition the commission on retirement, removal, and discipline to be allowed to serve after he has attained that age until age seventy-six or has completed a total of twelve years of service as a judge, whichever shall first occur. If the commission finds the petitioner to be able to perform his duties and approves such service, the petitioner may continue to serve as such a judge until age seventy-six if he has not completed a total of twelve years of service as a judge at such age. No such judge shall be permitted to serve as such a judge beyond the age of seventy-six years regardless of whether or not he has completed a total of twelve years except for the purpose of completing the term to which he was elected or appointed.
+
+> (1984) Probate division of circuit court has jurisdiction to award attorney's fees to residuary beneficiary who successfully removed the former personal representative. In Re Estate of Murray v. Breen (Mo. App.) 682 S.W.2d 857.
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 3, 1976).*
+
+## Article VI — Local Government
+
+### Section 1 Recognition of existing counties.
+
+The existing counties are hereby recognized as legal subdivisions of the state.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IX, § 1.*
+
+### Section 2 Continuation of existing organization of counties.
+
+The existing organization of counties shall continue until further provisions applicable thereto shall be provided, as authorized in this constitution.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 3 Consolidation of counties — allocation of liabilities.
+
+Two or more counties may be consolidated by vote of a majority of the qualified electors voting thereon in each county affected, but no such vote shall be taken more than once in five years. The former areas shall be held responsible for their respective outstanding liabilities as provided by law.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 4 Division or diminution of counties.
+
+No county shall be divided or have any portion stricken therefrom except by vote of a majority of the qualified electors voting thereon in each county affected.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IX, §§ 3, 4.*
+
+### Section 5 Dissolution of counties — annexation.
+
+A county may be dissolved by vote of two-thirds of the qualified electors of the county voting thereon, and when so dissolved all or portions thereof may be annexed to the adjoining county or counties as provided by law.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 6 Removal of county seats.
+
+No county seat shall be removed except by vote of two-thirds of the qualified electors of the county voting thereon at a general election, but no such vote shall be taken more than once in five years.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IX, § 2.*
+
+### Section 7 County courts — number of members — powers and duties.
+
+In each county not framing and adopting its own charter or adopting an alternative form of county government, there shall be elected a county court of three members which shall manage all county business as prescribed by law, and keep an accurate record of its proceedings. The voters of any county may reduce the number of members to one or two as provided by law.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VI, § 36.*
+
+### Section 8 Classification of counties — revisions to article VI passed by the 88th general assembly to be retroactive.
+
+Provision shall be made by general laws for the organization and classification of counties except as provided in section 18(a) or section 18(m) of this article or otherwise in this constitution. The number of classes shall not exceed four, and the organization and powers of each class shall be defined by general laws so that all counties within the same class shall possess the same powers and be subject to the same restrictions. The revisions to this article submitted by the first regular session of the eighty-eighth general assembly are intended to be applied retroactively and no law adopted by the general assembly or ordinance or order adopted by the governing body of a county shall be declared unconstitutional if such law, ordinance or order would have been constitutional had this section, as amended, been in effect at the time the law was passed, unless the law is declared unconstitutional pursuant to a different provision of this constitution.
+
+> (1952) Land Tax Collection Law is not a local or special law prohibited by § 40, Art. III of the Constitution nor does it violate § 8, Art. VI relating to classification of counties. Collector v. Parcels of Land, 362 Mo. 1054, 247 S.W.2d 83.
+
+> (1962) Provision, added to § 48.030 by House Bill 297 in 1959, that no county of the fourth class should move to the third class until approved by majority of the electors voting on the question, was in violation of Art. VI, § 8, in that it created an additional class of counties. Chaffin v. County of Christian (Mo.), 359 S.W.2d 730.
+
+> (1980) Such portions of statute providing procedure for exemption from "Sunday Sales Law" which treated first class counties by "area" were unconstitutional in violation of Art. VI, § 8, in that such portions treated first class county not included in an "area" and not covered by other special legislation allowing exemption from "Sunday Sales Law." Gramex Corp. v. Von Romer (Mo.), 603 S.W.2d 521.
+
+> (2001) Since Art. VI, §§ 18(a) to 18(l) provide for a form of county government separate from and outside the four classes required in this section, no county adopting a charter as provided in such sections can both be a county of the first classification and have a charter form of government. Leiser v. City of Wildwood, 59 S.W.3d 597 (Mo. App. E.D.).
+
+*04 May 1995 · Source: Const. of 1945 (Amended April 4, 1995).*
+
+### Section 9 Alternative forms of county government.
+
+Alternative forms of county government for the counties of any particular class and the method of adoption thereof may be provided by law.
+
+> (1972) Where a statute refers to a first class city it has no application to a city operating under a charter form of government. Leoffler v. Kansas City (Mo.), 485 S.W.2d 633.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 10 Terms of city and county offices.
+
+The terms of city or county offices shall not exceed four years.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IX, § 14.*
+
+### Section 11 Compensation of county officers — increases in compensation not to require additional services — statement of fees and salaries.
+
+1. Except in counties which frame, adopt and amend a charter for their own government, the compensation of all county officers shall either be prescribed by law or be established by each county pursuant to law adopted by the general assembly. A law which would authorize an increase in the compensation of county officers shall not be construed as requiring a new activity or service or an increase in the level of any activity or service within the meaning of this constitution. Every such officer shall file a sworn statement in detail, of fees collected and salaries paid to his necessary deputies or assistants, as provided by law.
+2. Upon approval of this amendment by the voters of Missouri the compensation of county officials, or their duly appointed successor, elected at the general election in 1984 or 1986 may be increased during that term in accordance with any law adopted by the general assembly or, in counties which have adopted a charter for their own government, in accordance with such charter, notwithstanding the provisions of section 13 of article VII of the Constitution of Missouri.
+
+*04 Sep 1986 · Source: Const. of 1875, Art. IX, §§ 12, 13 (Amended August 5, 1986).*
+
+### Section 12 Officers compensated only by salaries in certain counties.
+
+All public officers in the city of St. Louis and all state and county officers in counties having 100,000 or more inhabitants, excepting public administrators and notaries public, shall be compensated for their services by salaries only.
+
+> (1962) Fees for the sale of licenses issued by the state Conservation Commission by a county clerk held to be received in his individual capacity and therefore was not in violation of the constitutional provision which requires officers in counties of one hundred thousand to be compensated only by salaries. Walsh v. County of St. Louis (Mo.), 353 S.W.2d 779.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 13 Compensation of officers in criminal matters — fees.
+
+All state and county officers, except constables and justices of the peace, charged with the investigation, arrest, prosecution, custody, care, feeding, commitment, or transportation of persons accused of or convicted of a criminal offense shall be compensated for their official services only by salaries, and any fees and charges collected by any such officers in such cases shall be paid into the general revenue fund entitled to receive the same, as provided by law. Any fees earned by any such officers in civil matters may be retained by them as provided by law.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 14 Joint participation by counties in common enterprises.
+
+By vote of a majority of the qualified electors voting thereon in each county affected, any contiguous counties, not exceeding ten, may join in performing any common function or service, including the purchase, construction and maintenance of hospitals, almshouses, road machinery and any other county property, and by separate vote may join in the common employment of any county officer or employee common to each of the counties. The county courts shall administer the delegated powers and allocate the costs among the counties. Any county may withdraw from such joint participation by vote of a majority of its qualified electors voting thereon.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 15 Classification of cities and towns — uniform laws — change from special to general law.
+
+The general assembly shall provide by general laws for the organization and classification of cities and towns. The number of such classes shall not exceed four; and the powers of each class shall be defined by general laws so that all such municipal corporations of the same class shall possess the same powers and be subject to the same restrictions. The general assembly shall also make provisions, by general law, whereby any city, town or village, existing by virtue of any special or local law, may elect to become subject to, and be governed by, the general laws relating to such corporations.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IX, § 7.*
+
+### Section 16 Cooperation by local governments with other governmental units.
+
+Any municipality or political subdivision of this state may contract and cooperate with other municipalities or political subdivisions thereof, or with other states or their municipalities or political subdivisions, or with the United States, for the planning, development, construction, acquisition or operation of any public improvement or facility, or for a common service, in the manner provided by law.
+
+> (1964) City had authority to enter into contract with school district for erection of library by school district on land acquired by city by condemnation proceedings for purpose of parkway. School District of Kansas City v. Kansas City (Mo.), 382 S.W.2d 688.
+
+> (1967) Cities' cooperative sewer agreement which conditioned obligation of a fourth class city to build facilities on its passage of a bond issue did not, until the passage of the bond issue, create an indebtedness of the city, within constitutional debt limitation, and was not ultra vires or void ab initio. The passage of the bond issue obligated the city to perform the construction and established corresponding obligation of the other contracting city to perform its duties conditioned on the passage of the bond issue. Kansas City v. City of Raytown (Mo.), 421 S.W.2d 504.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 17 Consolidation and separation as between municipalities and other political subdivisions.
+
+The government of any city, town or village not in a county framing, adopting and amending a charter for its own government, may be consolidated or separated, in whole or in part, with or from that of the county or other political subdivision in which such city, town or village is situated, as provided by law.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 18(a) County government by special charter — limitations — counties adopting charter or constitutional form shall be a separate class of counties from classification system.
+
+Any county having more than 85,000 inhabitants, according to the census of the United States, may frame and adopt and amend a charter for its own government as provided in this article, and upon such adoption shall be a body corporate and politic. In addition and as an alternative to the foregoing, any county which attains first class county status and maintains such status for at least two years shall be authorized to frame and adopt and amend a charter for its own government as provided by this article, and upon such adoption by a vote of the qualified electors of such county shall be a body corporate and politic. Counties which adopt or which have adopted a charter or constitutional form of government shall be a separate class of counties outside of the classification system established under section 8 of this article.
+
+> (1954) Action for injunction and to compel county supervisor and county council of St. Louis County to cancel special permit to erect radio tower held not suit against county and, therefore, not within jurisdiction of supreme court. State ex rel. Town of Olivette v. American Tel. & Tel. Co. (Mo.), 273 S.W.2d 286.
+
+> (1961) County council of St. Louis County had power to enact ordinance requiring addition of flourides to water supply to be used in all areas of the county. Readey v. St. Louis County Water Co. (Mo.), 352 S.W.2d 622.
+
+> (1962) Injunction issued to prevent city of fourth class from constructing and maintaining sewage treatment facilities outside city limits in area designated by zoning ordinance of constitutional charter county as residential. St. Louis County v. City of Manchester (Mo.), 360 S.W.2d 638.
+
+> (2001) Since Art. VI, §§ 18(a) to 18(l) provide for a form of county government separate from and outside the four classes required in Art. VI, § 8, no county adopting a charter as provided in such sections can both be a county of the first classification and have a charter form of government. Leiser v. City of Wildwood, 59 S.W.3d 597 (Mo. App. E.D.).
+
+*04 May 1995 · Source: Const. of 1945 (Amended August 8, 1978) (Amended November 8, 1994) (Amended April 4, 1995).*
+
+### Section 18(b) Provisions required in county charters — county assessor to be elected officer.
+
+The charter shall provide for its amendment; for the form of the county government; for the number, kinds, manner of selection, terms of office, and salaries of the county officers; and for the exercise of all powers and duties of counties and county officers prescribed by the constitution and laws of the state. However, such charter shall require the assessor of the county to be an elected officer and to comply with all training provisions required by general law.
+
+> (1955) Sheriff held county officer within meaning of § 18, Art. VI of the Constitution so that county charter could transfer his policing and law enforcement functions to county police department. State on Inf. Dalton ex rel. Shepley v. Gamble, 365 Mo. 215, 280 S.W.2d 656.
+
+> (1955) Ballot submitting amendment to charter which contained summary statement as to legal effect of amendment creating county police department held sufficient. State on Inf. Dalton ex rel. Shepley v. Gamble, 365 Mo. 215, 280 S.W.2d 656.
+
+> (1956) City of St. Louis had no authority under § 18, Art. VI to include in a proposed new or revised charter provisions relating to number, kinds, manner of selection, terms of office and salaries of county officers. Stemmler v. Einstein (Mo.), 297 S.W.2d 467.
+
+> (1957) Ordinance of contitutional charter county of the first class which authorized the execution of contracts by the assessor for a revaluation study of property in the county held not to conflict with § 137.230, RSMo, and within constitutional powers of county. Hellman v. St. Louis County (Mo.), 302 S.W.2d 911.
+
+> (1957) Provision requiring charter to contain provisions for exercise of the powers of county officers carries with it an implied grant of such powers as are reasonably necessary to the exercise of the powers granted and are not contrary to public policy of the state. Hellman v. St. Louis County (Mo.), 302 S.W.2d 911.
+
+> (1960) St. Louis County ordinance providing for procedure on filing county referendum petitions which made circuit court judgment as to sufficiency of petitions unappealable, held invalid as conflicting with § 512.020. Carson v. Oxenhandler (A.), 334 S.W.2d 394.
+
+> (1968) The constitution does not give a first class charter county the right to submit proposals as to the manner of selection of circuit, probate, and magistrate judges as the selection of such judges is not a power which is incident to home rule county government. State v. Kirkpatrick (Mo.), 426 S.W.2d 72.
+
+> (2025) The governor, not the county executive, has authority to fill a vacancy of the office of county prosecuting attorney. State, et al. v. St. Louis County, et al., 704 S.W.3d 413 (E.D.Mo.)
+
+*03 Sep 2026 · Source: Const. of 1945 (Amended August 8, 1978) (Amended November 8, 1994) (Amended April 4, 1995) (Amended November 2, 2010) (Amended August 4, 2026).*
+
+### Section 18(c) Provisions authorized in county charters — participation by county in government of other local units.
+
+The charter may provide for the vesting and exercise of legislative power pertaining to any and all services and functions of any municipality or political subdivision, except school districts, in the part of the county outside incorporated cities; and it may provide, or authorize its governing body to provide, the terms upon which the county may contract with any municipality or political subdivision in the county and perform any of the services and functions of any such municipality or political subdivision.
+The charter may provide for the vesting and exercise of legislative power pertaining to any and all services and functions of any municipality or political subdivision, except school districts, throughout the entire county within as well as outside incorporated municipalities; any such charter provision shall set forth the limits within which the municipalities may exercise the same power collaterally and coextensively. When such a proposition is submitted to the voters of the county the ballot shall contain a clear definition of the power, function or service to be performed and the method by which it will be financed.
+
+> (1973) St. Louis county charter provisions as to appointment of condemnation appraisers held to supersede provisions of general condemnation statutes. State ex rel. St. Louis County v. Campbell (A.), 498 S.W.2d 833.
+
+> (2014) Charter county ordinance requiring residential property foreclosure mediation program did not involve a distinctly local concern and was beyond county's designated police power. Mo. Bankers' Association v. St. Louis County, 448 S.W.3d 267 (Mo.banc).
+
+> (2017) County charter amendment to prohibit red-light cameras, even in county's incorporated municipalities, was a valid exercise of county's authority to regular municipal services and functions under section. Pepper v. St. Charles County, Missouri, 517 S.W.3d 590 (Mo.App.E.D.).
+
+*03 Dec 1970 · Source: Const. of 1945 (Amended November 3, 1970).*
+
+### Section 18(d) Taxation under county charters.
+
+The county shall only impose such taxes as it is authorized to impose by the constitution or by law.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 18(e) Laws affecting charter counties — limitations.
+
+Laws shall be enacted providing for free and open elections in such counties, and laws may be enacted providing the number and salaries of the judicial officers therein as provided by this constitution and by law, but no law shall provide for any other office or employee of the county or fix the salary of any of its officers or employees.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 18(f) Petitions for charter commissions — signatures required — procedure.
+
+Whenever a petition for a commission, signed by qualified electors of the county numbering ten percent of the total vote for governor in the county at the last preceding general election, is filed with the county commission or other governing body, the officer or body canvassing election returns shall forthwith finally determine the sufficiency thereof and certify the result to the governing body, which shall give immediate written notice of the petition to the circuit judges of the county.
+
+*08 Dec 1994 · Source: Const. of 1945 (Amended November 8, 1994).*
+
+### Section 18(g) Charter commission — appointment, number and qualification of members.
+
+Within sixty days thereafter said judges shall appoint a commission to frame the charter, consisting of fourteen qualified electors who shall serve without pay and be equally divided between the two political parties casting the greater number of votes for governor at the last preceding general election.
+
+*08 Dec 1994 · Source: Const. of 1945 (Amended November 8, 1994).*
+
+### Section 18(h) Adoption of charter — special election — manner of submission.
+
+The charter framed by the commission shall take effect on the day fixed therein and shall supersede any existing charter or government, if approved by vote of a majority of the qualified electors of the county voting thereon at a special election held on a day fixed by the commission and not less than thirty days after the completion of the charter nor more than one year from the day of the selection of the commission. The commission may submit for separate vote any parts of the charter, or any alternative sections or articles, and the alternative sections or articles receiving the larger affirmative vote shall prevail if a charter is adopted.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 18(i) Notice of special charter election.
+
+The body canvassing election returns shall publish notice of the election at least once a week for at least three weeks in at least two newspapers of general circulation in the county, the last publication to be not more than three nor less than two weeks next preceding the election.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 18(j) Certificates of adoption of charter — recordation and deposit — judicial notice.
+
+Duplicate certificates shall be made, setting forth the charter adopted and its ratification, signed by the officer or members of the body canvassing election returns; one of such certified copies shall be deposited in the office of the secretary of state and the other, after being recorded in the records of the county, shall be deposited among the archives of the county and all courts shall take judicial notice thereof. This section shall also apply to any amendment to the charter.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 18(k) Amendments of county charters.
+
+All amendments to such charter approved by the voters shall become a part of the charter at the time and under the conditions fixed in the amendment.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 18(l) Limitation on resubmission after defeat of charter.
+
+No charter shall be submitted to the electors within the two years next following the election at which a charter was defeated.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 18(m) County of the first classification may provide a county constitution — content, procedure, limitations.
+
+Any county of the first classification may adopt an alternative form of government to that provided in sections 18(a)-(g) of this article and frame a county constitution as provided in sections 18(m)-(r) of this article. The constitution may provide for the vesting of any and all powers the general assembly has the authority to confer, provided such powers are not limited or denied by laws of this state, except those powers to regulate and provide for free and open elections. A county approving the alternative form of government and adopting a county constitution in the manner prescribed by sections 18(m)-(r) of this article shall only impose such taxes as it is authorized by the constitution and law to impose. The county commission of such a county may authorize the submission of the question by placing it on the ballot on any election day established by law. The circuit judges of the circuit where such county is located shall establish a county constitution commission if the qualified voters of the county approve the question.
+
+*08 Dec 1994 · (Adopted November 8, 1994).*
+
+### Section 18(n) Circuit judges may appoint constitution commission, members, qualifications.
+
+If the question is approved, the circuit judges of the circuit where such county is located shall, within sixty days after certification of the election results by the election authority, appoint a commission to frame the county constitution, consisting of fourteen residents of the county who shall serve without pay and be equally divided between the two political parties casting the greater number of votes for governor at the last preceding gubernatorial election.
+
+*08 Dec 1994 · (Adopted November 8, 1994).*
+
+### Section 18(o) County constitution, effective when — submission to electorate for separate vote on any part or alternative sections.
+
+The county constitution framed by the commission shall take effect on the day fixed therein and shall supersede any existing charter, county constitution or government, if approved by the majority of the qualified voters of the county voting thereon. The county constitution shall be submitted by the county constitution commission to the election authority of the county not later than thirty days after the completion of the county constitution and not more than one year from the date of the selection of the county constitution commission by the circuit court. The commission may submit for separate vote any part of the county constitution, or any alternative sections or articles, and the alternative sections or articles receiving the larger affirmative vote shall prevail if a constitution is adopted.
+
+*08 Dec 1994 · (Adopted November 8, 1994).*
+
+### Section 18(p) Publication requirements for text of constitution — election to adopt procedure.
+
+In addition to notices required under the election laws of the state, the election authority shall publish the full text of the county constitution in each newspaper of general circulation in the county at least once a week for at least three weeks, the last publication to be not more than three nor less than two weeks immediately preceding the election. Except as otherwise provided herein, the election shall be conducted under Missouri election law.
+
+*08 Dec 1994 · (Adopted November 8, 1994).*
+
+### Section 18(q) Constitution may be adopted or rejected by voters — resubmission procedure.
+
+If a majority of the votes cast by the qualified voters voting on the county constitution are in favor of the proposal, then the county constitution shall be adopted. If a majority of the votes cast by the qualified voters voting thereon are opposed to the proposal, the county constitution shall not be adopted. A proposal to create a county constitution may not be resubmitted to the voters except after the voters approve the selection of a commission to draft a county constitution as provided in section 18(m) of this article and such proposal shall not be resubmitted to the voters until two years after the proposed county constitution has been rejected.
+
+*08 Dec 1994 · (Adopted November 8, 1994).*
+
+### Section 18(r) Certified copies of county constitution to be filed, where — amendments to constitution, procedure.
+
+Duplicate certificates shall be made, setting forth the adopted county constitution, and its ratification signed by the election authority of the county after canvassing election returns. One of the certified copies shall be deposited in the office of the secretary of state and the other, after being recorded in the records of the county, shall be deposited among the archives of the county and all courts shall take judicial notice thereof. Amendments shall be certified and deposited in the same way. Amendments to the county constitution shall be approved by the voters and shall become part of the county constitution at the time and under the conditions fixed in each amendment.
+
+*08 Dec 1994 · (Adopted November 8, 1994).*
+
+### Section 19 Certain cities may adopt charter form of government — procedure to frame and adopt — notice required — effect of.
+
+Any city having more than five thousand inhabitants or any other incorporated city as may be provided by law may frame and adopt a charter for its own government. The legislative body of the city may, by ordinance, submit to the voters the question: "Shall a commission be chosen to frame a charter?" If the ordinance takes effect more than sixty days before the next election, the question shall be submitted at such election and if not, then at the next general election thereafter, except as herein otherwise provided. The question shall also be submitted on a petition signed by ten percent of the qualified electors of the city, filed with the body or official in charge of the city elections. If the petition prays for a special election and is signed by twenty percent of the qualified electors, a special election shall be held not less than sixty nor more than ninety days after the filing of the petition. The number of electors required to sign any petition shall be based upon the total number of electors voting at the last preceding general city election. The election body or official shall forthwith finally determine the sufficiency of the petition. The question, and the names or the groups of names of the electors of the city who are candidates for the commission, shall be printed on the same ballot without party designation. Candidates for the commission shall be nominated by petition signed by not less than two percent of the qualified electors voting at the next preceding city election, and filed with the election body or official at least thirty days prior to the election; provided that the signatures of one thousand electors shall be sufficient to nominate a candidate. If a majority of the electors voting on the question vote in the affirmative, the thirteen candidates receiving the highest number of votes shall constitute the commission. On the death, resignation or inability of any member to serve, the remaining members of the commission shall select the successor. All necessary expenses of the commission shall be paid by the city. The charter so framed shall be submitted to the electors of the city at an election held at the time fixed by the commission, but not less than thirty days subsequent to the completion of the charter nor more than one year from the date of the election of the commission. The commission may submit for separate vote any parts of the charter, or any alternative sections or articles, and the alternative sections or articles receiving the larger affirmative vote shall prevail if a charter is adopted. If the charter be approved by the voters it shall become the charter of such city at the time fixed therein and shall supersede any existing charter and amendments thereof. Duplicate certificates shall be made, setting forth the charter adopted and its ratification, signed by the chief magistrate of the city, and authenticated by its corporate seal. One of such certified copies shall be deposited in the office of the secretary of state and the other, after being recorded in the records of the city, shall be deposited among the archives of the city and all courts shall take judicial notice thereof. The notice of the election shall be published at least once a week on the same day of the week for at least three weeks in some daily or weekly newspaper of general circulation in the city or county, admitted to the post office as second class matter, regularly and consecutively published for at least three years, and having a list of bona fide subscribers who have voluntarily paid or agreed to pay a stated price for a subscription for a definite period of time, the last publication to be within two weeks of the election.
+
+> (1955) Since charter and ordinance provisions must not be out of harmony with state law, any such provisions which devote particular revenues of the city to special purposes and which are not clearly authorized by statute or constitutional provision must be disregarded and the amounts so devoted are to be included in reckoning the amount to be appropriated for police purposes under § 84.730, RSMo. Spink v. Kemp, 365 Mo. 368, 283 S.W.2d 502.
+
+> (1967) Petition could be supplemented within ten days to reach required number of signatures. State v. Davis (Mo.), 418 S.W.2d 163.
+
+> (1968) Proposed amendment to Kansas City charter which purported to impose a total earnings tax higher than the tax permitted by statute was invalid. Grant v. Kansas City (Mo.), 431 S.W.2d 89.
+
+> (1990) Constitutional provision does not entitle home rule charter city to give its human rights commission power to determine violation of city ordinance against employment discrimination, where Const., Art. V, § 23, states that municipal judge is to hear and determine violations of municipal ordinances. Yellow Freight Systems, Inc. v. Mayor's Commission on Human Rights of the City of Springfield, 791 S.W.2d 382 (Mo. 1990)(en banc).
+
+> (1993) Where city's charter claimed any powers which general assembly had authority to confer, including power of eminent domain within or without its corporate boundaries, city had authority to condemn land outside its territorial municipal boundaries. City of Cape Girardeau v. Jett, 851 S.W.2d 114 (Mo. App. E.D.).
+
+*04 Nov 1971 · Source: Const. of 1875, Art. IX, § 16 (Adopted November 2, 1920) (Amended October 5, 1971).*
+
+### Section 19(a) Power of charter cities, how limited.
+
+Any city which adopts or has adopted a charter for its own government, shall have all powers which the general assembly of the state of Missouri has authority to confer upon any city, provided such powers are consistent with the constitution of this state and are not limited or denied either by the charter so adopted or by statute. Such a city shall, in addition to its home rule powers, have all powers conferred by law.
+
+> (1976) Held, Kansas City, being a charter city, "has authority to grant city funds to school districts, or portions of school districts, lying within its corporate limits." Enright v. Kansas City (Mo. Banc), 536 S.W.2d 17.
+
+> (2000) Proposed city charter amendments, requiring two-thirds voter approval on every tax increment financing measure and abrogating city power of eminent domain incident to any tax increment financing redevelopment plan or project, violated state statutes and thus were unconstitutional. State ex rel. Hazelwood Yellow Ribbon Committee v. Klos, 35 S.W.3d 457 (Mo.App.E.D.).
+
+*04 Nov 1971 · (Adopted October 5, 1971).*
+
+### Section 20 Amendment to city charters — procedure to submit and adopt.
+
+Amendments of any city charter adopted under the foregoing provisions may be submitted to the electors by a commission as provided for a complete charter. Amendments may also be proposed by the legislative body of the city or by petition of not less than ten percent of the registered qualified electors of the city, filed with the body or official having charge of the city elections, setting forth the proposed amendment. The legislative body shall at once provide, by ordinance, that any amendment so proposed shall be submitted to the electors at the next election held in the city not less than sixty days after its passage, or at a special election held as provided for a charter. Any amendment approved by a majority of the qualified electors voting thereon, shall become a part of the charter at the time and under the conditions fixed in the amendment; and sections or articles may be submitted separately or in the alternative and determined as provided for a complete charter.
+
+> (1955) Since extension of boundaries requires amendment of charter of city organized under § 20, Art. VI of the Constitution, § 71.015 is invalid as to such city, because compliance therewith would make impossible submission of charter amendment in accordance with such constitutional provision. McConnell v. City of Kansas City (Mo.), 282 S.W.2d 518.
+
+> (1962) Where requisite petitions were filed the city council was obligated to pass an ordinance submitting a proposed amendment to a vote and its failure to do so would not prevent the court from ordering the placing of the matter upon the ballot. State ex rel. Lane v. Chambers (A.), 353 S.W.2d 835.
+
+> (1963) The annexation of additional territory to a constitutional charter city, by amendment of the charter, is a matter of more than merely municipal affairs and concern and is subject to judicial review as to whether such action was reasonable and necessary. McDonnell Aircraft Corp. v. City of Berkeley (Mo.), 367 S.W.2d 498.
+
+> (1965) Sets out the exclusive mode of annexation for constitutional charter cities. City of Hannibal v. Winchester (Mo.), 391 S.W.2d 279.
+
+> (1965) Sawyers Act applies to all cities of all classes, except those where terms of the Sawyers Act conflict with constitutional provisions relating to annexation, and those cities to which Sawyers Act is made inapplicable by subsequent legislation. Julian v. Mayor, Councilmen and Citizens of the City of Liberty (Mo.), 391 S.W.2d 864.
+
+> (1967) Shortening term of office by amending charter to change term from four years to two years not violative of Art. VII, § 12, Constitution of Missouri. State v. Davis (Mo.), 418 S.W.2d 163.
+
+> (1968) A determination of what methods of charter amendments are permitted and which of these methods were used by a city is an application of and not a constriction of the constitutional provisions, and appeals court had jurisdiction. City of Joplin v. Village of Shoal Creek Drive (A.), 434 S.W.2d 25.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IX, § 17 (Adopted November 2, 1920).*
+
+### Section 21 Reclamation of blighted, substandard or insanitary areas.
+
+Laws may be enacted, and any city or county operating under a constitutional charter may enact ordinances, providing for the clearance, replanning, reconstruction, redevelopment and rehabilitation of blighted, substandard or insanitary areas, and for recreational and other facilities incidental or appurtenant thereto, and for taking or permitting the taking, by eminent domain, of property for such purposes, and when so taken the fee simple title to the property shall vest in the owner, who may sell or otherwise dispose of the property subject to such restrictions as may be deemed in the public interest.
+
+> (1954) Land Clearance for Redevelopment Law (RSMo, § 99.300 et seq.) does not contravene this provision of the Constitution. State on Inf. Dalton v. Land Clearance for Redev. Auth., 364 Mo. 974, 270 S.W.2d 44.
+
+> (1954) In determining the validity of slum clearance legislation granting power of eminent domain, § 28, Art. I, and § 21, Art. VI, are to be construed together and as so construed a legislative finding that a blighted or insanitary area exists so as to authorize the exercise of the power of eminent domain is conclusive on the courts in absence of allegation and proof that the finding is arbitrary, or induced by fraud, collusion or bad faith. State on Inf. Dalton v. Land Clearance for Redev. Auth., 364 Mo. 974, 270 S.W.2d 44; (1954) Land Clearance for Redev. Auth. v. City of St. Louis (Mo.), 270 S.W.2d 58.
+
+> (2008) Section authorizes non-charter as well as charter cities to exercise power of eminent domain. City of Arnold v. Tourkakis, 249 S.W.3d 202 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 22 Laws affecting charter cities — officers and employees.
+
+No law shall be enacted creating or fixing the powers, duties or compensation of any municipal office or employment, for any city framing or adopting its own charter under this or any previous constitution, and all such offices or employments heretofore created shall cease at the end of the terms of any present incumbents.
+
+> (1958) Office of license collector in St. Louis City is a "county office" and constitutional provision (Art. VI § 22) does not effect its abolition as a municipal office. Preisler v. Hayden (Mo.), 309 S.W.2d 645.
+
+> (1968) As applied to constitutional charter cities, §§ 290.350 and 290.360, RSMo, are unconstitutional and void as imposing duties upon a municipal officer. State ex rel. Burke v. Cervantes (Mo.), 423 S.W.2d 791.
+
+> (1972) City home rule charter provision which provided that salary of firemen should not be less than those of corresponding ranks of police whose pay scale was set by state legislature is constitutional. State ex rel. St. Louis F.F. Ass'n No. 73 v. Stemmler (Mo.), 479 S.W.2d 456.
+
+> (1975) Chapter 610, RSMo, held not to violate this section by imposing duties on the St. Louis city board of apportionment not required by the city charter. Cohen v. Poelker (Mo.), 520 S.W.2d 50.
+
+> (1996) General assembly may not tell the officers of a charter city what they must do; it may, however, limit the powers a charter city may exercise through its officers. City of Springfield v. Goff, 918 S.W.2d 786 (Mo.banc 1996).
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 23 Limitation on ownership of corporate stock, use of credit and grants of public funds by local governments.
+
+No county, city or other political corporation or subdivision of the state shall own or subscribe for stock in any corporation or association, or lend its credit or grant public money or thing of value to or in aid of any corporation, association or individual, except as provided in this constitution.
+
+> (1954) Section 99.450, RSMo, which requires sale of property cleared at public expense at fair value is not grant of special privilege or of public property in aid of private persons. State on Inf. Dalton v. Land Clearance for Redev. Auth. 364 Mo. 974, 270 S.W.2d 44; (1954) Land Clearance for Redev. Auth. v. City of St. Louis (Mo.), 270 S.W.2d 58.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IV, § 47, Art. IX, § 6.*
+
+### Section 23(a) Cities may acquire and furnish industrial plants — indebtedness for.
+
+By vote of two-thirds of the qualified electors thereof voting thereon, any county, city or incorporated town or village in this state may become indebted for and may purchase, construct, extend or improve plants to be leased or otherwise disposed of pursuant to law to private persons or corporations for manufacturing, warehousing and industrial development purposes, including the real estate, buildings, fixtures and machinery; and the indebtedness incurred hereunder shall not be subject to the provisions of sections 26(a), 26(b), 26(c), 26(d) and 26(e) of Article VI of this Constitution; but any indebtedness incurred hereunder for this purpose shall not exceed ten percent of the value of taxable tangible property in the county, city, or incorporated town or village as shown by the last completed assessment for state and county purposes.
+
+*27 Feb 1945 · (Adopted November 8, 1960) (Amended November 5, 1974).*
+
+### Section 24 Annual budgets and reports of local government and municipally owned utilities — audits.
+
+As prescribed by law all counties, cities, other legal subdivisions of the state, and public utilities owned and operated by such subdivisions shall have an annual budget, file annual reports of their financial transactions, and be audited.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 25 Limitation on use of credit and grant of public funds by local governments — pensions and retirement plans for employees of certain cities and counties.
+
+No county, city or other political corporation or subdivision of the state shall be authorized to lend its credit or grant public money or property to any private individual, association or corporation except as provided in Article VI, Section 23(a) and except that the general assembly may authorize any county, city or other political corporation or subdivision to provide for the retirement or pensioning of its officers and employees and the surviving spouses and children of deceased officers and employees and may also authorize payments from any public funds into a fund or funds for paying benefits upon retirement, disability or death to persons employed and paid out of any public fund for educational services and to their beneficiaries or estates; and except, also, that any county of the first class is authorized to provide for the creation and establishment of death benefits, pension and retirement plans for all its salaried employees, and the surviving spouses and minor children of such deceased employees; and except also, any county, city or political corporation or subdivision may provide for the payment of periodic cost of living increases in pension and retirement benefits paid under this section to its retired officers and employees and spouses of deceased officers and employees, provided such pension and retirement systems will remain actuarially sound.
+
+> (1953) Election of St. Louis City board of education to bring school district under workmen's compensation system of state held not violative of constitution particularly in view of teachers' pension provision of § 25, Art. VI. Hickey v. Board of Education of City of St. Louis, 363 Mo. 1039, 256 S.W.2d 775.
+
+> (1968) Allowing proceeds of tax to be expended by private agency violates this section. Ruggeri v. City of St. Louis (Mo.), 429 S.W.2d 765.
+
+> (1975) Held an increase in pensions for persons already retired based on cost of living violates Art. VI, § 25, Const. of Mo. and that pension funds retain their identity as public funds. Section 86.441 insofar as it applies to persons already retired on August 13, 1972, is unconstitutional. Police Retirement System v. Kansas City (Mo.), 529 S.W.2d 388.
+
+> (1975) Constitutionality upheld as not violating Art. III, § 39, or Art. VI, § 25, of the constitution of Missouri. State ex rel. Dreer v. Public School Retirement System (Mo.), 519 S.W.2d 290.
+
+*06 Dec 1984 · Source: Const. of 1875, Art. IV, §§ 47, 47a, 48a (Amended November 2, 1948) (Amended January 14, 1966) (Amended November 6, 1984).*
+
+### Section 26(a) Limitation on indebtedness of local governments without popular vote.
+
+No county, city, incorporated town or village, school district or other political corporation or subdivision of the state shall become indebted in an amount exceeding in any year the income and revenue provided for such year plus any unencumbered balances from previous years, except as otherwise provided in this constitution.
+
+> (1958) Contract of employment with defendant city whereby plaintiff was to make preliminary investigations, plans and supervise construction of proposed sewer improvements was held contrary to public policy and ultra vires where both parties realized necessity of approval by voters of city of bond issues to secure funds for the improvements and voters subsequently failed to approve bond issues. Shikles v. City of Clinton (A.), 319 S.W.2d 9.
+
+> (1958) Indebtedness incurred by school district was valid so long as it was within the anticipated revenue for the year. First National Bank of Stoutland v. Stoutland School District (Mo.), 319 S.W.2d 570.
+
+> (1967) Cities' cooperative sewer agreement which conditioned obligation of a fourth class city to build facilities on its passage of a bond issue did not, until the passage of the bond issue, create an indebtedness of the city, within constitutional debt limitation, and was not ultra vires or void ab initio. The passage of the bond issue obligated the city to perform the construction and established corresponding obligation of the other contracting city to perform its duties conditioned on the passage of the bond issue. Kansas City v. City of Raytown (Mo.), 421 S.W.2d 504.
+
+> (1973) Lease agreement held to be an indebtedness of city and subject to this section. Scruggs v. Kansas City (Mo.), 499 S.W.2d 500.
+
+> (1976) In action by state highway commission to recover on contract whereby city agreed to pay one-half of cost of acquisition of right-of-way for highway through the city, record was insufficient to sustain city's defense that contract was ultra vires, as being in violation of Art. VI, § 26(a), since there was no showing that the city, by reason of the contract, became indebted in an amount exceeding the revenues for the year in which the contract became binding plus any encumbered balances from previous years. State ex rel. Highway Commission v. City of Washington (Mo.), 533 S.W.2d 555.
+
+> (2007) Requirement in sections 86.344 and 86.355, RSMo, that City of St. Louis pay entire contribution amounts certified by trustees for police retirement system and firemen's retirement system does not violate section. Neske v. City of St. Louis, 218 S.W.3d 417 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 12 (Adopted November 2, 1920).*
+
+### Section 26(b) Limitation on indebtedness of local government authorized by popular vote.
+
+Any county, city, incorporated town or village or other political corporation or subdivision of the state, by vote of the qualified electors thereof voting thereon, may become indebted in an amount not to exceed five percent of the value of taxable tangible property therein as shown by the last completed assessment for state or county purposes, except that a school district by a vote of the qualified electors voting thereon may become indebted in an amount not to exceed fifteen percent of the value of such taxable tangible property. For elections referred to in this section the vote required shall be four-sevenths at the general municipal election day, primary or general elections and two-thirds at all other elections.
+
+> (1952) Where principal and interest on city bonds issued under §§ 250.010 to 250.250 for extension and improvement of combined waterworks and sewerage system are payable solely from revenue derived from such combined system, such bonds do not constitute a general municipal indebtedness under § 26, Art. VI of the Constitution. City of Maryville v. Cushman, 363 Mo. 87, 249 S.W.2d 347.
+
+> (1952) Where at time of election on proposed bond issue by school district, such issue would exceed constitutional limit, such bonds were invalid, notwithstanding such issue would not exceed the limit at time bonds were issued and sold. State ex rel. Consolidated District C-4 v. Holmes, 362 Mo. 1018, 245 S.W.2d 882.
+
+> (1958) Contract of employment with defendant city whereby plaintiff was to make preliminary investigations, plans and supervise construction of proposed sewer improvements was held contrary to public policy and ultra vires where both parties realized necessity of approval by voters of city of bond issues to secure funds for the improvements and voters subsequently failed to approve bond issues. Shikles v. City of Clinton (A.), 319 S.W.2d 9.
+
+> (1971) Proposed issue of debentures by hospital district which imposed an absolute and unconstitutional obligation on district to repay without vote of people in district was invalid. New Liberty Medical & Hosp. Corp. v. E.F. Hutton & Co. (Mo.), 474 S.W.2d 1.
+
+*07 May 1998 · Source: Const. of 1875, Art. X, § 12 (Adopted November 2, 1920) (Amended August 2, 1988) (Amended April 7, 1998).*
+
+### Section 26(c) Additional indebtedness of counties and cities when authorized by popular vote.
+
+Any county or city, by vote of the qualified electors thereof voting thereon, may incur an additional indebtedness for county or city purposes not to exceed five percent of the taxable tangible property shown as provided in section 26(b). For elections referred to in this section the vote required shall be four-sevenths at the general municipal election day, primary or general elections and two-thirds at all other elections.
+
+*01 Sep 1988 · Source: Const. of 1875, Art. X, § 12 (Amended August 2, 1988).*
+
+### Section 26(d) Additional indebtedness of cities for public improvements — benefit districts — special assessments.
+
+Any city, by vote of the qualified electors thereof voting thereon, may become indebted not exceeding in the aggregate an additional ten percent of the value of the taxable tangible property shown as provided in section 26(b), for the purpose of acquiring rights-of-way, constructing, extending and improving the streets and avenues and acquiring rights-of-way, constructing, extending and improving sanitary or storm sewer systems. The governing body of the city may provide that any portion or all of the cost of any such improvement be levied and assessed by the governing body on property benefited by such improvement, and the city shall collect any special assessments so levied and shall use the same to reimburse the city for the amount paid or to be paid by it on the bonds of the city issued for such improvement. For elections referred to in this section the vote required shall be four-sevenths at the general municipal election day, primary or general elections and two-thirds at all other elections.
+
+*01 Sep 1988 · Source: Const. of 1945 (Amended August 2, 1988).*
+
+### Section 26(e) Additional indebtedness of cities for municipally owned water and light plants — limitations.
+
+Any city, by vote of the qualified electors thereof voting thereon, may incur an indebtedness in an amount not to exceed an additional ten percent of the value of the taxable tangible property shown as provided in section 26(b), for the purpose of paying all or any part of the cost of purchasing or constructing waterworks, electric or other light plants to be owned exclusively by the city, provided the total general obligation indebtedness of the city shall not exceed twenty percent of the assessed valuation. For elections referred to in this section the vote required shall be four-sevenths at the general municipal election day, primary or general elections and two-thirds at all other elections.
+
+*01 Sep 1988 · Source: Const. of 1875, Art. X, §§ 12, 12a (Adopted November 2, 1920) (Amended August 2, 1988).*
+
+### Section 26(f) Annual tax to pay and retire obligations within twenty years.
+
+Before incurring any indebtedness every county, city, incorporated town or village, school district, or other political corporation or subdivision of the state shall provide for the collection of an annual tax on all taxable tangible property therein sufficient to pay the interest and principal of the indebtedness as they fall due, and to retire the same within twenty years from the date contracted.
+
+> (1961) The fact that a ballot providing for the approval of the issuance of general obligation bonds for the construction of lateral sewers in the city contained a statement that the city would be reimbursed in due course from assessments against property benefited held entirely within this constitutional provision and not invalid under § 95.125. City of Raytown v. Kemp (Mo.), 349 S.W.2d 363.
+
+> (1974) Held that a limited obligation bond which was to be retired by revenue from a convention center and from the proceeds of certain tourism and merchants' and manufacturers' tax only is not subject to the provisions of this section requiring an annual tax on all taxable tangible property. Wunderlich v. City of St. Louis (Mo.), 511 S.W.2d 753.
+
+> (1975) Held that language on ballot ". . . these general obligation bonds will be payable first from a citywide sales tax . . ." did not invalidate bonds, but court indicated that in a subsequent case they might hold differently. Northern Trust Co. v. City of Independence (Mo.), 526 S.W.2d 825.
+
+> (1996) Art. III, § 38(c) creates an exception to this section for neighborhood improvement districts. Spradlin v. City of Fulton, 924 S.W.2d 259 (Mo. banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, §§ 12, 12a.*
+
+### Section 26(g) Contest of elections to authorize indebtedness.
+
+All elections under this article may be contested as provided by law.
+
+> (1956) Provision authorizing contest of all elections is not self-executing and since there is no implementing legislation as to school bond issue elections, such may not be contested. Wann v. v. Reorganized School Dist. No. 6(Mo.), 293 S.W.2d 408.
+
+> (1958) Section 26(g), Art. VI, is not self-executing and does not authorize the adjudication of a school bond election contest. Eberle v. Plato Cons. School Dist. No. C-5 (Mo.), 313 S.W.2d 1.
+
+> (1963) As § 26(g), Art. VI, is not self-executing and no statutory authority exists, Missouri courts have no jurisdiction to entertain actions to contest the results of school elections. Nichols v. Reorganized School District No. 1 of Laclede County, et al. (Mo.), 364 S.W.2d 9.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 27 Political subdivision revenue bonds for utility, industrial and airport purposes — restrictions.
+
+Any city or incorporated town or village in this state, by vote of a majority of the qualified electors thereof voting thereon, and any joint board or commission, established by a joint contract between municipalities or political subdivisions in this state, by compliance with then applicable requirements of law, may issue and sell its negotiable interest bearing revenue bonds for the purpose of paying all or part of the cost of purchasing, construction, extending or improving any of the following projects:
+(1) Revenue producing water, sewer, gas or electric light works, heating or power plants;
+(2) Plants to be leased or otherwise disposed of pursuant to law to private persons or corporations for manufacturing and industrial development purposes, including the real estate, buildings, fixtures and machinery; or
+(3) Airports.
+­­
+­
+
+> (1951) This section does not affect the issuance of revenue bonds for the purpose of acquiring and developing parking facilities by city under §§ 71.250 and 71.360. Kansas City v. Fishman, 362 Mo. 352, 241 S.W.2d 377.
+
+> (1952) This section has no application to the issuance of revenue bonds for establishment and extension or improvement of combined waterworks and sewerage system as authorized by Chap. 250, RSMo. City of Maryville v. Cushman, 363 Mo. 87, 249 S.W.2d 347.
+
+> (1962) Provisions of this section, added by amendment in 1960, relating to bonds for industrial development purposes are not self-executing and proceedings taken by city pursuant to enabling act but prior to effective date of the act were invalid. Petition of Monroe City (Mo.) v. Southern, 359 S.W.2d 706.
+
+> (1967) A municipality may sell a facility acquired with the proceeds of industrial revenue bonds. Wring v. City of Jefferson (Mo.), 413 S.W.2d 292.
+
+*05 Dec 2002 · Source: Const. of 1945 (Amended November 8, 1960) (Amended August 17, 1965) (Amended November 5, 1974) (Amended November 7, 1978) (Amended November 4, 1986) (Amended November 3, 1998) (Amended November 5, 2002).
+See Revisor's note following Art. VI, § 27(a).*
+
+### Section 27(a) Political subdivision revenue bonds issued for utilities and airports, restrictions.
+
+Any county, city or incorporated town or village in this state, by vote of a majority of the qualified electors thereof voting thereon, may issue and sell its negotiable interest bearing revenue bonds for the purpose of paying all or part of the cost of purchasing, constructing, extending or improving any of the following: (1) revenue producing water, gas or electric light works, heating or power plants; or (2) airports; to be owned exclusively by the county, city or incorporated town or village, the cost of operation and maintenance and the principal and interest of the bonds to be payable solely from the revenues derived by the county, city or incorporated town or village from the operation of the utility or airport.
+
+*07 Dec 1978 · (Adopted November 7, 1978).
+*Revisor's note: Section 27 was adopted by a vote of the people as Constitutional Amendment number seven on Nov. 7, 1978. Sections 27(a), 27(b), and 27(c) also received an affirmative vote of the people at that time as Constitutional Amendment number six, but some believed there was a conflict between the two proposals, and the then governor declared that only Amendment number seven, § 27, had been adopted.
+However, in the case of State ex inf. Ashcroft ex rel. Bell v. City of Fulton, 642 S.W.2d 617 (Mo. banc 1982) decided on Dec. 3, 1982, the Missouri Supreme Court ruled that both amendments had been adopted and that §§ 27(a), 27(b), and 27(c) were part of the Missouri Constitution. Those sections are accordingly now printed as part of Art. VI of the Mo. Const.*
+
+### Section 27(b) Political subdivision revenue bonds issued for industrial development, restriction.
+
+Any county, city or incorporated town or village in this state, by a majority vote of the governing body thereof, may issue and sell its negotiable interest bearing revenue bonds for the purpose of paying all or part of the cost of purchasing, constructing, extending or improving any facility to be leased or otherwise disposed of pursuant to law to private persons or corporations for manufacturing, commercial, warehousing and industrial development purposes, including the real estate, buildings, fixtures and machinery. The cost of operation and maintenance and the principal and interest of the bonds shall be payable solely from the revenues derived by the county, city, or incorporated town or village from the lease or other disposal of the facility.
+
+*07 Dec 1978 · (Adopted November 7, 1978).
+See Revisor's note following Art. VI, § 27(a).*
+
+### Section 27(c) Revenue bonds defined.
+
+As used in article VI, sections 27(a) and 27(b), the term "revenue bonds" means bonds neither the interest nor the principal of which is an indebtedness or obligation of the issuing county, city or incorporated town or village.
+
+*07 Dec 1978 · (Adopted November 7, 1978).
+See Revisor's note following Art. VI, § 27(a).*
+
+### Section 28 Refunding bonds.
+
+For the purpose of refunding, extending, and unifying the whole or any part of its valid bonded indebtedness any county, city, school district, or other political corporation or subdivision of the state, under terms and conditions prescribed by law may issue refunding bonds not exceeding in amount the principal of the outstanding indebtedness to be refunded and the accrued interest to the date of such refunding bonds. The governing authority shall provide for the payment of interest at not to exceed the same rate, and the principal of such refunding bonds, in the same manner as was provided for the payment of interest and principal of the bonds refunded.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 29 Application of funds derived from public debts.
+
+The moneys arising from any loan, debt, or liability contracted by the state, or any county, city, or other political subdivision, shall be applied to the purposes for which they were obtained, or to the repayment of such debt or liability, and not otherwise.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 20.*
+
+### Section 30(a) Powers conferred with respect to intergovernmental relations — procedure for selection of board of freeholders.
+
+The people of the city of St. Louis and the people of the county of St. Louis shall have power (1) to consolidate the territories and governments of the city and county into one political subdivision under the municipal government of the city of St. Louis; or, (2) to extend the territorial boundaries of the county so as to embrace the territory within the city and to reorganize and consolidate the county governments of the city and county, and adjust their relations as thus united, and thereafter the city may extend its limits in the manner provided by law for other cities; or, (3) to enlarge the present or future limits of the city by annexing thereto part of the territory of the county, and to confer upon the city exclusive jurisdiction of the territory so annexed to the city; or, (4) to establish a metropolitan district or districts for the functional administration of services common to the area included therein; or, (5) to formulate and adopt any other plan for the partial or complete government of all or any part of the city and the county. The power so given shall be exercised by the vote of the people of the city and county upon a plan prepared by a board of freeholders consisting of nineteen members, nine of whom shall be electors of the city and nine electors of the county and one an elector of some other county. Upon the filing with the officials in general charge of elections in the city of a petition proposing the exercise of the powers hereby granted, signed by registered voters of the city in such number as shall equal three percent of the total vote cast in the city at the last general election for governor, and the certification thereof by the election officials to the mayor, and to the governor, then, within ten days after the certification the mayor shall, with the approval of a majority of the board of aldermen, appoint the city's nine members of the board, not more than five of whom shall be members of or affiliated with the same political party. Each member so appointed shall be given a certificate certifying his appointment signed by the mayor and attested by the seal of the city. Upon the filing with the officials in general charge of elections in the county of a similar petition signed by registered voters of the county, in such number as shall equal three percent of the total vote cast in the county at the last general election for governor, and the certification thereof by the county election officials to the county supervisor of the county and to the governor, within ten days after the certification, the county supervisor shall, with the approval of a majority of the county council, appoint the county's nine members of the board, not more than five of whom shall be members of or affiliated with the same political party. Each member so appointed shall be given a certificate of his appointment signed by the county supervisor and attested by the seal of the county.
+
+> (1955) Plan for sewer district adopted under this section properly included provision for imposing duties on county and city officers in assessment, levy and collection of taxes. State on Inf. Dalton v. Metropolitan St. L. Sewer Dist. (Mo.), 275 S.W.2d 225.
+
+> (1955) The words "functional administration" as used in subdivision (4) means administration of such services so as to make them function properly for the purposes for which they were intended. Sewer district formed may be given all areas reasonably necessary and powers to condemn, incur debts, issue bonds and tax anticipation notes and may take over existing sewers. State on Inf. Dalton v. Metropolitan St. Louis Sewer Dist. (Mo.), 275 S.W.2d 225.
+
+> (1964) Provision of plan of Metropolitan Sewer District providing district with power to sue and be sued, in absence of specific provision that district would be liable on tort claims, held not to authorize action for damages for negligence or nuisance. Court suggested possibility plaintiffs might proceed under procedure known as inverse condemnation under Art. I, § 26 of Const. Page v. Metropolitan St. Louis Sewer District (Mo.), 377 S.W.2d 348.
+
+> (1989) Provision that board of freeholders be property owners violates equal protection clause of Federal Constitution. Quinn v. Millsap, 491 U.S. 95.
+
+> (1990) Provision authorizing appointment of "freeholders" to board is violation of equal protection clause of Federal Constitution. Unconstitutional portion is severable and remainder of section is valid. Millsap v. Quinn, 785 S.W.2d 82 (Mo. banc).
+
+*08 Dec 1966 · Source: Const. of 1875, Art. IX, § 26 (Adopted November 4, 1924) (Amended November 8, 1966).*
+
+### Section 30(b) Appointment of member by governor — meetings of board — vacancies — compensation and reimbursement of members — preparation of plan — taxation of real estate affected — submission at special elections — effect of adoption — certification and recordation — judicial notice.
+
+Upon certification of the filing of such similar petitions by the officials in general charge of elections of the city and the county, the governor shall appoint one member of the board who shall be a resident of the state, but shall not reside in either the city or the county, who shall be given a certificate of his appointment signed by the governor and attested by the seal of the state. The freeholders of the city and county shall fix reasonable compensation and expenses for the freeholder appointed by the governor and the cost shall be paid equally by the city and county. The appointment of the board shall be completed within thirty days after the certification of the filing of the petition, and at ten o'clock on the second Monday after their appointment the members of the board shall meet in the chamber of the board of aldermen in the city hall of the city and shall proceed with the discharge of their duties, and shall meet at such other times and places as shall be agreed upon. On the death, resignation or inability of any member of the board to serve, the appointing authority shall select the successor. The board shall prepare and propose a plan for the execution of the powers herein granted and for the adjustment of all matters and issues arising thereunder. The members of the board shall receive no compensation for their services as members, but the necessary expenses of the board shall be paid one-half by the county and one-half by the city on vouchers signed by the chairman of the board. The plan shall be signed in duplicate by the board or a majority thereof, and one copy shall be returned to the officials having general charge of elections in the city, and the other to such officials in the county, within one year after the appointment of the board. Said election officials shall cause separate elections to be held in the city and county, on the day fixed by the freeholders, at which the plan shall be submitted to the qualified voters of the city and county separately. The elections shall not be less than ninety days after the filing of the plan with said officials, and not on or within seventy days of any state or county primary or general election day in the city or county. The plan shall provide for the assessment and taxation of real estate in accordance with the use to which it is being put at the time of the assessment, whether agricultural, industrial or other use, giving due regard to the other provisions of this constitution. If a majority of the qualified electors of the city voting thereon, and a majority of the qualified electors of the county voting thereon at the separate elections shall vote for the plan, then, at such time as shall be prescribed therein, the same shall become the organic law of the territory therein defined, and shall take the place of and supersede all laws, charter provisions and ordinances inconsistent therewith relating to said territory. If the plan be adopted, copies thereof, certified to by said election officials of the city and county, shall be deposited in the office of the secretary of state and recorded in the office of the recorder of deeds for the city, and in the office of the recorder of deeds of the present county, and the courts of this state shall take judicial notice thereof.
+
+> (1954) Where governor did not appoint nineteenth member of board of freeholders within thirty days as required by this section, his appointment on 67th day was valid. State on Inf. Dalton v. Dearing, 364 Mo. 475, 263 S.W.2d 381.
+
+> (1955) Sewer district formed under this section held properly given power to tax tangible personal property as well as real estate. State on Inf. Dalton v. Metropolitan St. L. Sewer Dist. (Mo.), 275 S.W.2d 225.
+
+> (1989) Provision that board of freeholders be property owners violates equal protection clause of Federal Constitution. Quinn v. Millsap, 491 U.S. 95.
+
+> (1990) Provision authorizing appointment of "freeholders" to board is violation of equal protection clause of Federal Constitution. Unconstitutional portion is severable and remainder of section is valid. Millsap v. Quinn, 785 S.W.2d 82 (Mo. banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IX, § 26 (Adopted November 4, 1924).*
+
+### Section 31 Recognition of city of St. Louis as now existing both as a city and as a county.
+
+The city of St. Louis, as now existing, is recognized both as a city and as a county unless otherwise changed in accordance with the provisions of this constitution. As a city it shall continue for city purposes with its present charter, subject to changes and amendments provided by the constitution or by law, and with the powers, organization, rights and privileges permitted by this constitution or by law. As a county, it shall not be required to adopt a county charter but may, except for the office of circuit attorney, amend or revise its present charter to provide for the number, kinds, manner of selection, terms of office and salaries of its county officers, and for the exercise of all powers and duties of counties and county officers prescribed by the constitution and laws of the state.
+
+> (1961) Where property for city park was acquired by condemnation prior to the adoption of the 1875 Constitution, a charter provision adopted under the 1875 constitutional provision controls as to whether or not the city may alter the park for the purpose of creating an expressway or roadway through it. Kirkwood v. City of St. Louis (Mo.), 351 S.W.2d 781.
+
+*05 Dec 2002 · Source: Const. of 1945 (Amended November 5, 2002).*
+
+### Section 32(a) Amendment of charter of St. Louis.
+
+The charter of the city of St. Louis now existing, or as hereafter amended or revised, may be amended or revised for city or county purposes from time to time by proposals therefor submitted by the lawmaking body of the city to the qualified voters thereof, at a general or special election held at least sixty days after the publication of such proposals, and accepted by three-fifths of the qualified electors voting for or against each of said amendments or revisions so submitted.
+
+> (1954) Enactment of RSMo, §§ 82.470 and 82.480 did not amend the charter of St. Louis City in contravention of Art. VI, § 32 of the Const. Petition of City of St. Louis, 364 Mo. 700, 266 S.W.2d 753.
+
+> (1972) City home of rule charter provision which provided that salary of firemen should not be less than those of corresponding ranks of police whose pay scale was set by state legislature is constitutional. State ex rel. St. Louis F. F. Ass'n No. 73 v. Stemmler (Mo.), 479 S.W.2d 456.
+
+*05 Dec 2002 · Source: Const. of 1875, Art. IX § 22 (Amended November 6, 1934) (Amended November 5, 2002).*
+
+### Section 32(b) Revision of charter of St. Louis — officers to complete terms and staff given opportunity for city employment.
+
+In the event of any amendment or revision of the charter of the city of St. Louis which shall reorganize any county office and/or transfer any or all of the duties, powers and functions of any county officer who is then in office, the officer shall serve out the remainder of his or her term, and the amendment or revision of the charter of the city of St. Louis shall take effect, as to such office, upon the expiration of the term of such office holder. In the event of any amendment or revision of the charter of the city of St. Louis which shall reorganize any county office and/or transfer any or all of the duties, powers and functions of any county officer, all of the staff of such office shall be afforded the opportunity to become employees of the city of St. Louis with their individual seniority and compensation unaffected and on such other comparable terms and conditions as may be fair and equitable.
+
+> (1956) City of St. Louis had no authority under § 18, Art. VI to include in a proposed new or revised charter provisions relating to number, kinds, manner of selection, terms of office and salaries of county officers. Stemmler v. Einstein (Mo.), 297 S.W.2d 467.
+
+> (1960) City ordinance granting commission power to establish parking zones, with their time limitations and fixing the fees therefor to be collected through parking meters, held invalid as unlawful delegation of legislative power. Automobile Club of Mo. v. City of St. Louis (Mo.), 334 S.W.2d 355.
+
+*05 Dec 2002 · Source: Const. of 1875, Art. IX § 22 (Amended November 6, 1934) (Amended November 5, 2002).*
+
+### Section 32(c) Effect of revision on retirement.
+
+An amendment or revision adopted pursuant to section 32(a) of this article shall not deprive any person of any right or privilege to retire and to retirement benefits, if any, to which he or she was entitled immediately prior to the effective date of that amendment or revision.
+
+*05 Dec 2002 · (Adopted November 5, 2002).*
+
+### Section 33 Certification, recordation and deposit of amendments and revised charter — judicial notice.
+
+Copies of any new or revised charter of the city of St. Louis or of any amendments to the present, or to any new or revised charter, with a certificate thereto appended, signed by the chief executive and authenticated by the seal of the city, setting forth the submission to and ratification thereof, by the qualified voters of the city shall be made in duplicate, one of which shall be deposited in the office of the secretary of state, and the other, after being recorded in the office of the recorder of deeds of the city, shall be deposited among the archives of the city, and thereafter all courts of this state shall take judicial notice thereof.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. IX, § 21.*
+
+## Article VII — Public Officers
+
+### Section 1 Impeachment — officers liable — grounds.
+
+All elective executive officials of the state, and judges of the supreme court, courts of appeals and circuit courts shall be liable to impeachment for crimes, misconduct, habitual drunkenness, willful neglect of duty, corruption in office, incompetency, or any offense involving moral turpitude or oppression in office.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VII, § 1 (Amended February 26, 1924).*
+
+### Section 2 Power of impeachment — trial of impeachments.
+
+The house of representatives shall have the sole power of impeachment. All impeachments shall be tried before the supreme court, except that the governor or a member of the supreme court shall be tried by a special commission of seven eminent jurists to be elected by the senate. The supreme court or special commission shall take an oath to try impartially the person impeached, and no person shall be convicted without the concurrence of five-sevenths of the court or special commission.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VII, § 2 (Amended February 26, 1924).*
+
+### Section 3 Effect of judgment of impeachment.
+
+Judgment of impeachment shall not extend beyond removal from office, but shall not prevent punishment of such officer by the courts on charges growing out of the same matter.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VII, § 2.*
+
+### Section 4 Removal of officers not subject to impeachment.
+
+Except as provided in this constitution, all officers not subject to impeachment shall be subject to removal from office in the manner and for the causes provided by law.
+
+> (1954) Prosecuting attorney held authorized to prosecute quo warranto proceedings to remove county officers for malfeasance. Conviction is not prerequisite to such proceeding nor is officer entitled to jury trial. State ex Inf. Saunders v. Burgess, 364 Mo. 548, 264 S.W.2d 339.
+
+> (1956) Statutory remedy for removal of officers, adopted under § 4, Art. VII of the Const., is not exclusive and does not limit the jurisdiction of the Supreme Court in quo warranto. State ex Inf. Dalton v. Mosley, 365 Mo. 711, 286 S.W.2d 721.
+
+> (1956) Sheriff who failed to enforce laws against gambling and against lotteries for charitable or civic purposes and who solicited reward for recovery of stolen property held to have forfeited office and could be ousted by quo warranto. State ex Inf. Dalton v. Mosely, 365 Mo. 711, 286 S.W.2d 721.
+
+> (1971) The Supreme Court has jurisdiction to hear quo warranto proceedings to remove county officer. State ex rel. Danforth v. Orton (Mo.), 465 S.W.2d 618.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 7.*
+
+### Section 5 Election contests — executive state officers — other election contests.
+
+Contested elections for governor, lieutenant governor and other executive state officers shall be had before the supreme court in the manner provided by law, and the court may appoint one or more commissioners to hear the testimony. The trial and determination of contested elections of all other public officers in the state, shall be by courts of law, or by one or more of the judges thereof. The general assembly shall designate by general law the court or judge by whom the several classes of election contests shall be tried and regulate the manner of trial and all matters incident thereto; but no law assigning jurisdiction or regulating its exercise shall apply to the contest of any election held before the law takes effect.
+
+> (1953) Circuit court has jurisdiction of contest of election of alderman in city of third class although there is no specific statutory provision for such contests in cities of such class. State ex rel. Book v. Goodman, 364 Mo. 485, 263 S.W.2d 409.
+
+> (2024) Section clearly authorizes general assembly to designate state supreme court as the proper one for election contests involving proposed constitutional amendments and other ballot propositions. Lucas v. Ashcroft, 688 S.W.3d 204 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VIII, § 8 (Amended February 26, 1924).*
+
+### Section 6 Penalty for nepotism.
+
+Any public officer or employee in this state who by virtue of his office or employment names or appoints to public office or employment any relative within the fourth degree, by consanguinity or affinity, shall thereby forfeit his office or employment.
+
+> (1964) Acts of officer will not be declared invalid until question of forfeiture has been judicially determined. State v. King (Mo.), 379 S.W.2d 522.
+
+> (1967) A county court judge is a "public officer" within the meaning of this section of the constitution. State ex rel. Stephens v. Fletchell (Mo.), 412 S.W.2d 423.
+
+> (1976) When sheriff appointed his wife's uncle as deputy sheriff in violation of the constitutional provision which is self-enforcing, he forfeited his office and quo warranto was an appropriate remedy to enforce the resulting forfeiture. State ex Inf. Roberts v. Buckley (Mo.), 533 S.W.2d 551.
+
+> (1994) Although other county commissioners cast sufficient number of votes to assure appointment, when presiding commissioner of county participated in appointment process by voting for the appointment of presiding commissioner's sister-in- law as trustee of county board (a nonpaying position), appointment violated an antinepotism provision of constitution. State ex inf. Attorney General v. Shull, 887 S.W.2d 397 (Mo. en banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 13 (Adopted February 26, 1924).*
+
+### Section 7 Appointment of officers.
+
+Except as provided in this constitution, the appointment of all officers shall be made as prescribed by law.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 9.*
+
+### Section 8 Qualifications for public office — nonresidents.
+
+No person shall be elected or appointed to any civil or military office in this state who is not a citizen of the United States, and who shall not have resided in this state one year next preceding his election or appointment, except that the residence in this state shall not be necessary in cases of appointment to administrative positions requiring technical or specialized skill or knowledge.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VIII, § 10 (Amended February 26 1924).*
+
+### Section 9 Disqualification by federal employment — exceptions.
+
+No person holding an office of profit under the United States shall hold any office of profit in this state, members of the organized militia or of the reserve corps excepted.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 4.*
+
+### Section 10 Equality of sexes in public service.
+
+No person shall be disqualified from holding office in this state because of sex.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VIII, § 11 (Adopted August 2, 1921).*
+
+### Section 11 Oath of office.
+
+Before taking office, all civil and military officers in this state shall take and subscribe an oath or affirmation to support the Constitution of the United States and of this state, and to demean themselves faithfully in office.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 6.*
+
+### Section 12 Tenure of office.
+
+Except as provided in this constitution, and subject to the right of resignation, all officers shall hold office for the term thereof, and until their successors are duly elected or appointed and qualified.
+
+> (1955) Where individual elected to office of circuit clerk and recorder of fourth class county died before qualifying, a vacancy was created so as to authorize appointment of successor by governor. Incumbent held not entitled to hold over in office. State ex Inf. Dalton v. Mouser, 365 Mo. 565, 284 S.W.2d 473.
+
+> (1967) Shortening term of office by amending charter to change term from four years to two years not violative of Art. VII, § 12, of Constitution of Missouri. State ex rel. Voss v. Davis (Mo.), 418 S.W.2d 163.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 5.*
+
+### Section 13 Limitation on increase of compensation and extension of terms of office.
+
+The compensation of state, county and municipal officers shall not be increased during the term of office; nor shall the term of any officer be extended.
+
+> (1952) Clerk of Court of Appeals who exercises some of the sovereign functions of the state, but who does so under the supervision of the court, held not to be a "state officer" or "public officer" within the constitutional provision prohibiting increase in compensation during his term of office. State ex rel. Webb v. Pigg, 363 Mo. 133, 249 S.W.2d 435.
+
+> (1956) Where one legislative act provided for additional duties for election commissioners and another increased their compensation, but neither indicated that the increase was intended as compensation for the additional duties, the compensation did not apply during their terms of office. Mooney v. County of St. Louis (Mo.), 286 S.W.2d 763.
+
+> (2012) Section is not violated by midterm increase in compensation resulting from application of a statutory formula for calculating compensation in place prior to time official was elected or took office. State ex rel. George v. Verkamp, 365 S.W.3d 598 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XIV, § 8.*
+
+### Section 14 Statement of actuary required before retirement benefits substantially changed.
+
+The legislative body which stipulates by law the amount and type of retirement benefits to be paid by a retirement plan covering elected or appointed public officials or both, shall, before taking final action of any substantial proposed change in future benefits, cause to be prepared a statement regarding the cost of such change. Such statement of cost shall be prepared by a qualified actuary with experience in retirement plan financing and such statement shall be available for public inspection. The general assembly shall provide by law applicable standards and requirements governing the preparation, content, and disposition of such statements of cost.
+
+*07 Sep 1978 · (Adopted August 8, 1978).*
+
+## Article VIII — Suffrage and Elections
+
+### Section 1 Time of general elections.
+
+The general election shall be held on the Tuesday next following the first Monday in November of each even year, unless a different day is fixed by law, two-thirds of all members of each house assenting.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VIII, § 1 (Amended February 26, 1924).*
+
+### Section 2 Qualifications of voters — disqualifications.
+
+Only citizens of the United States, including occupants of soldiers' and sailors' homes, over the age of eighteen who are residents of this state and of the political subdivision in which they offer to vote are entitled to vote at all elections by the people, if the election is one for which registration is required if they are registered within the time prescribed by law, or if the election is one for which registration is not required, if they have been residents of the political subdivision in which they offer to vote for thirty days next preceding the election for which they offer to vote: Provided however, no person who has a guardian of his or her estate or person by reason of mental incapacity, appointed by a court of competent jurisdiction and no person who is involuntarily confined in a mental institution pursuant to an adjudication of a court of competent jurisdiction shall be entitled to vote, and persons convicted of felony, or crime connected with the exercise of the right of suffrage may be excluded by law from voting.
+
+> (1963) Resident of rest home who had been declared insane and committed to mental hospital in 1933 and had not since been adjudicated of sound mind but who did not have a guardian of his person or estate at the time he cast his vote was not disqualified under this constitutional provision. New v. Corrough (Mo.), 370 S.W.2d 323.
+
+> (1963) Residents of rest home, owned by county and operated by lessee, who received old age assistance which was paid over to the rest home along with five dollars additional paid by county for each of the residents were not "kept in poor house at public expense" within meaning of this constitutional provision. New v. Corrough (Mo.), 370 S.W.2d 323.
+
+> (1964) In appeal from action to contest county school superintendent election, dicta contained in opinion stated that if § 167.020, RSMo, were construed to prohibit write-in candidates it might be violative of this section and unconstitutional. Kasten v. Guth (Mo.), 375 S.W.2d 110.
+
+> (1966) The term "felon" as used in this article in disqualifying citizens from voting applies to conviction of federal felony even though the same conduct would be only misdemeanor under state law. Bruno v. Murdock (Mo.), 406 S.W.2d 294.
+
+> (1972) A person of the age of 17 years may not register and vote in the primary election even though he will be 18 years of age on or before the general election. Totton v. Murdock (Mo.), 482 S.W.2d 65.
+
+> (1974) Statute requiring voter to make his ballot preference known to judge in primary election held not to violate this provision. State ex rel. McClellan v. Kirkpatrick (Mo.), 504 S.W.2d 83.
+
+*05 Dec 2024 · Source: Const. of 1875, Art. VIII, Sec. 2 (as amended November 4, 1958) (Amended November 5, 1974) (Amended November 5, 2024)*
+
+### Section 3 Methods of voting — single vote for each issue or candidate, no ranking — secrecy of ballot — exceptions.
+
+1. All elections by the people shall be by paper ballot or by any mechanical method prescribed by law.
+2. Voters shall have only a single vote for each issue on which such voter is eligible to vote. Voters shall have the same number of votes for an office as the number of open seats to be elected to such office at that election. Under no circumstance shall a voter be permitted to cast a ballot in a manner that results in the ranking of candidates for a particular office. Notwithstanding any provision of this subsection to the contrary, this subsection shall not apply to any nonpartisan municipal election held in a city that had an ordinance in effect as of November 5, 2024, that permits voters to cast more than a single vote for each issue or candidate on which such voter is eligible to vote.
+3. All election officers shall be sworn or affirmed not to disclose how any voter voted; provided, that in cases of contested elections, grand jury investigations and in the trial of all civil or criminal cases in which the violation of any law relating to elections, including nominating elections, is under investigation or at issue, such officers may be required to testify and the ballots cast may be opened, examined, counted, and received as evidence.
+
+> (1963) While this section permits a limited use of ballots as evidence in the trial of a civil case in which the violation of election laws is at issue, it does not purport to create a cause of action. Nichols v. Reorganized School District No. 1 of Laclede County et al. (Mo.), 364 S.W.2d 9.
+
+> (1967) The 1924 amendment to this section of the constitution does not enlarge the scope of an information in the nature of quo warranto to permit the contest of an election submitting a proposition to consolidate or merge school districts. State ex rel. Anderson v. Consolidated School School Dist. No. 4 of Iron County (Mo.), 417 S.W.2d 657.
+
+*05 Dec 2024 · Source: Const. of 1875, Art. VIII, Sec. 3 (as amended February 26, 1924) (Amended August 3, 1976) (Amended November 5, 2024)*
+
+### Section 4 Privilege of voters from arrest — exceptions.
+
+Voters shall be privileged from arrest while going to, attending and returning from elections, except in cases of treason, felony or breach of the peace.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VIII, § 4 (Amended February 26, 1924).*
+
+### Section 5 Registration of voters.
+
+Registration of voters may be provided for by law.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VIII, § 5 (Amended February 26, 1924).*
+
+### Section 6 Retention of residence for voting purposes.
+
+For the purpose of voting, no person shall be deemed to have gained or lost a residence by reason of his presence or absence while engaged in the civil or military service of this state or of the United States, or in the navigation of the high seas or the waters of the state or of the United States, or while a student of any institution of learning, or kept in a poorhouse or other asylum at public expense, or confined in public prison.
+
+> (1963) Statements of students of Maryville state college to the effect that they "intended" to reside in the Maryville school district could not prevail over admitted facts indicating a residence elsewhere, and they were not entitled to vote in the school district election. New v. Corrough (Mo.), 370 S.W.2d 323.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VIII, § 7 (Amended February 26, 1924).*
+
+### Section 7 Absentee voting.
+
+Qualified electors of the state who are absent, whether within or without the state, may be enabled by general law to vote at all elections by the people.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. VIII, § 9 (Amended February 26, 1924).*
+
+### Section 11 Voter identification, authorized to identify voter and verify citizenship and residency — photo identification permitted.
+
+A person seeking to vote in person in public elections may be required by general law to identify himself or herself and verify his or her qualifications as a citizen of the United States of America and a resident of the state of Missouri by providing election officials with a form of identification, which may include valid government-issued photo identification. Exceptions to the identification requirement may also be provided for by general law.
+
+*08 Dec 2016 · (Adopted November 8, 2016).*
+
+### Section 15 Preamble.
+
+The people of Missouri hereby state our intention that this initiative lead to the adoption of the following U.S. Constitutional Amendment.
+
+> (2001) Article VIII, §§ 15-22 violate the Elections Clause of the United States Constitution. Cook v. Gralike, 531 U.S. 510.
+
+*05 Dec 1996 · (Adopted November 5, 1996).*
+
+### Section 16 Congressional term limits amendment.
+
+(a) No person shall serve in the office of United States Representative for more than three terms, but upon ratification of this amendment no person who has held the office of the United States Representative or who then holds the office shall serve for more than two additional terms.
+(b) No person shall serve in the office of United States Senator for more than two terms, but upon ratification of this amendment no person who has held the office of United States Senator or who then holds the office shall serve in the office for more than one additional term.
+(c) Any state may enact by state constitutional amendment longer or shorter limits than those specified in section "a" or "b" herein.
+(d) This article shall have no time limit within which it must be ratified to become operative upon the ratification of the legislatures of three-fourths of the several States.
+Therefore, We, the people of the State of Missouri, have chosen to amend the state constitution to inform voters regarding incumbent and non-incumbent federal candidates' support for the above proposed CONGRESSIONAL TERM LIMITS AMENDMENT.
+
+> (2001) Article VIII, §§ 15-22 violate the Elections Clause of the United States Constitution. Cook v. Gralike, 531 U.S. 510.
+
+*05 Dec 1996 · (Adopted November 5, 1996).*
+
+### Section 17 Voter instruction on term limits for members of congress — ballots to include "disregarded voters' instruction on term limits", when.
+
+(1) We, the Voters of Missouri, hereby instruct each member of our congressional delegation to use all of his or her delegated powers to pass the Congressional Term Limits Amendment set forth above.
+(2) All primary and general election ballots shall have printed the information "DISREGARDED VOTERS' INSTRUCTION ON TERM LIMITS" adjacent to the name of any United States Senator or Representative who:
+(a) fails to vote in favor of the proposed Congressional Term Limits Amendment set forth above when brought to a vote or;
+(b) fails to second the proposed Congressional Term Limits Amendment set forth above if it lacks for a second before any proceeding of the legislative body or;
+(c) fails to propose or otherwise bring to a vote of the full legislative body the proposed Congressional Term Limits Amendment set forth above if it otherwise lacks a legislator who so proposes or brings to a vote of the full legislative body the proposed Congressional Term Limits Amendment set forth above or;
+(d) fails to vote in favor of all votes bringing the proposed Congressional Term Limits Amendment set forth above before any committee or subcommittee of the respective house upon which he or she serves or;
+(e) fails to reject any attempt to delay, table or otherwise prevent a vote by the full legislative body of the proposed Congressional Term Limits Amendment set forth above or;
+(f) fails to vote against any proposed constitutional amendment that would establish longer term limits than those in the proposed Congressional Term Limits Amendment set forth above regardless of any other actions in support of the proposed Congressional Term Limits Amendment set forth above, or;
+(g) sponsors or cosponsors any proposed constitutional amendment or law that would increase term limits beyond those in the proposed Congressional Term Limits Amendment set forth above, or;
+(h) fails to ensure that all votes on Congressional Term Limits are recorded and made available to the public.
+(3) The information "DISREGARDED VOTERS' INSTRUCTION ON TERM LIMITS" shall not appear adjacent to the names of incumbent candidates for Congress if the Congressional Term Limits Amendment set forth above is before the states for ratification or has become part of the United States Constitution.
+
+> (2001) Article VIII, sections 15-22 violate the Elections Clause of the United States Constitution. Cook v. Gralike, 531 U.S. 510.
+
+*05 Dec 1996 · (Adopted November 5, 1996).*
+
+### Section 18 Voter instruction on term limit pledge for non-incumbents.
+
+(1) Non-incumbent candidates for United States Senator and Representative shall be given an opportunity to take a "Term Limit" pledge regarding "Term Limits" each time they file to run for such office. Those who decline to take the "Term Limits" pledge shall have the information "DECLINED TO PLEDGE TO SUPPORT TERM LIMITS" printed adjacent to their name on every primary and general election ballot.
+(2) The "Term Limits" pledge shall be offered to non-incumbent candidates for United States Senator and Representative until a Constitutional Amendment which limits the number of terms of United States Senators to no more than two and United States Representatives to no more than three shall have become part of our United States Constitution.
+(3) The "Term Limits" pledge that each non-incumbent candidate, set forth above, shall be offered is as follows:
+I support term limits and pledge to use all my legislative powers to enact the proposed Constitutional Amendment set forth in the Term Limits Act of 1996. If elected, I pledge to vote in such a way that the designation "DISREGARDED VOTERS' INSTRUCTION ON TERM LIMITS" will not appear adjacent to my name.
+
+> (2001) Article VIII, §§ 15-22 violate the Elections Clause of the United States Constitution. Cook v. Gralike, 531 U.S. 510.
+
+*05 Dec 1996 · (Adopted November 5, 1996).*
+
+### Section 19 Secretary of state, duties regarding ballot designations.
+
+(1) The Secretary of State shall be responsible to make an accurate determination as to whether a candidate for the federal legislature shall have placed adjacent to his or her name on the election ballot the information "DISREGARDED VOTERS' INSTRUCTION ON TERM LIMITS" or "DECLINED TO PLEDGE TO SUPPORT TERM LIMITS."
+(2) The Secretary of State shall consider timely submitted public comments prior to making the determination required in subsection (1) of this section and may rely on such comments and any information submitted by the candidates in making the determination required in subsection (1).
+(3) The Secretary of State, in accordance with subsection (1) of this section shall determine and declare what information, if any, shall appear adjacent to the names of each incumbent federal legislator if he or she was to be a candidate in the next election. This determination and declaration shall be made in a fashion necessary to ensure the orderly printing of primary and general election ballots with allowance made for all legal action provided in section (5) and (6) below, and shall be based upon each member of Congress's action during their current term of office and any action taken in any concluded term, if such action was taken after the determination and declaration was made by the Secretary of State in a previous election.
+(4) The Secretary of State shall determine and declare what information, if any, will appear adjacent to the names of non-incumbent candidates for the federal legislature, not later than five (5) business days after the deadline for filing for the office.
+(5) If the Secretary of State makes the determination that the information "DISREGARDED VOTERS' INSTRUCTION ON TERM LIMITS" or "DECLINED TO PLEDGE TO SUPPORT TERM LIMITS" shall not be placed on the ballot adjacent to the name of a candidate for the federal legislature, any elector may appeal such decision within five (5) business days to the Missouri Supreme Court as an original action or shall waive any right to appeal such decision; in which case the burden of proof shall be upon the Secretary of State to demonstrate by clear and convincing evidence that the candidate has met the requirements set forth in the Act and therefore should not have the information "DISREGARDED VOTERS' INSTRUCTION ON TERM LIMITS" or "DECLINED TO PLEDGE TO SUPPORT TERM LIMITS" printed on the ballot adjacent to the candidate's name.
+(6) If the Secretary of State determines that the information "DISREGARDED VOTERS' INSTRUCTION ON TERM LIMITS" or "DECLINED TO PLEDGE TO SUPPORT TERM LIMITS" shall be placed on the ballot adjacent to a candidate's name, the candidate may appeal such decision within five (5) business days to the Missouri Supreme Court as an original action or shall waive any right to appeal such decision; in which case the burden of proof shall be upon the candidate to demonstrate by clear and convincing evidence that he or she should not have the information "DISREGARDED VOTERS' INSTRUCTION ON TERM LIMITS" or "DECLINED TO PLEDGE TO SUPPORT TERM LIMITS" printed on the ballot adjacent to the candidate's name.
+(7) The Supreme Court shall hear the appeal provided for in subsection (5) and issue a decision within 60 days. The Supreme Court shall hear the appeal provided for in subsection (6) and issue a decision not later than 61 days before the date of the election.
+
+> (2001) Article VIII, §§ 15-22 violate the Elections Clause of the United States Constitution. Cook v. Gralike, 531 U.S. 510.
+
+*05 Dec 1996 · (Adopted November 5, 1996).*
+
+### Section 20 Automatic repeal.
+
+At such time as the Congressional Term Limits Amendment set forth above has become part of the U.S. Constitution, section 15 through section 22 of this Article automatically shall be repealed.
+
+> (2001) Article VIII, §§ 15-22 violate the Elections Clause of the United States Constitution. Cook v. Gralike, 531 U.S. 510.
+
+*05 Dec 1996 · (Adopted November 5, 1996).*
+
+### Section 21 Legal challenges, jurisdiction.
+
+Any legal challenge to this Amendment shall be filed as an original action before the Supreme Court of this State.
+
+> (2001) Article VIII, §§ 15-22 violate the Elections Clause of the United States Constitution. Cook v. Gralike, 531 U.S. 510.
+
+*05 Dec 1996 · (Adopted November 5, 1996).*
+
+### Section 22 Severability.
+
+If any portion, clause, or phrase of this Amendment is, for any reason, held to be invalid or unconstitutional by a court of competent jurisdiction, the remaining portions, clauses, and phrases shall not be affected, but shall remain in full force and effect.
+
+> (2001) Article VIII, §§ 15-22 violate the Elections Clause of the United States Constitution. Cook v. Gralike, 531 U.S. 510.
+
+*05 Dec 1996 · (Adopted November 5, 1996).*
+
+### Section 23 Campaign contribution limits, establishment of — requirements — complaint process — penalties.
+
+1. This section shall be known as the "Missouri Campaign Contribution Reform Initiative."
+2. The people of the state of Missouri hereby find and declare that excessive campaign contributions to political candidates create the potential for corruption and the appearance of corruption; that large campaign contributions made to influence election outcomes allow wealthy individuals, corporations and special interest groups to exercise a disproportionate level of influence over the political process; that the rising costs of campaigning for political office prevent qualified citizens from running for political office; that political contributions from corporations and labor organizations are not necessarily an indication of popular support for the corporation's or labor organization's political ideas and can unfairly influence the outcome of Missouri elections; and that the interests of the public are best served by limiting campaign contributions, providing for full and timely disclosure of campaign contributions, and strong enforcement of campaign finance requirements.
+3. (1) Except as provided in subdivisions (2), (3) and (4) of this subsection, the amount of contributions made by or accepted from any person other than the candidate in any one election shall not exceed the following:
+(a) To elect an individual to the office of governor, lieutenant governor, secretary of state, state treasurer, state auditor, attorney general, office of state senator, office of state representative or any other state or judicial office, two thousand six hundred dollars.
+(2) (a) No political party shall accept aggregate contributions from any person that exceed twenty-five thousand dollars per election at the state, county, municipal, district, ward, and township level combined.
+(b) No political party shall accept aggregate contributions from any committee that exceed twenty-five thousand dollars per election at the state, county, municipal, district, ward, and township level combined.
+(3) (a) It shall be unlawful for a corporation or labor organization to make contributions to a campaign committee, candidate committee, exploratory committee, political party committee or a political party; except that a corporation or labor organization may establish a continuing committee which may accept contributions or dues from members, officers, directors, employees or security holders.
+(b) The prohibition contained in subdivision (a) of this subsection shall not apply to a corporation that:
+(i) Is formed for the purpose of promoting political ideas and cannot engage in business activities; and
+(ii) Has no security holders or other persons with a claim on its assets or income; and
+(iii) Was not established by and does not accept contributions from business corporations or labor organizations.
+(4) No candidate's candidate committee shall accept contributions from, or make contributions to, another candidate committee, including any candidate committee, or equivalent entity, established under federal law.
+(5) Notwithstanding any other subdivision of this subsection to the contrary, a candidate's candidate committee may receive a loan from a financial institution organized under state or federal law if the loan bears the usual and customary interest rate, is made on a basis that assures repayments, is evidenced by a written instrument, and is subject to a due date or amortization schedule. The contribution limits described in this subsection shall not apply to a loan as described in this subdivision.
+(6) No campaign committee, candidate committee, continuing committee, exploratory committee, political party committee, and political party shall accept a contribution in cash exceeding one hundred dollars per election.
+(7) No contribution shall be made or accepted, directly or indirectly, in a fictitious name, in the name of another person, or by or through another person in such a manner as to conceal the identity of the actual source of the contribution or the actual recipient. Any person who receives contributions for a committee shall disclose to that committee's treasurer, deputy treasurer or candidate the recipient's own name and address and the name and address of the actual source of each contribution such person has received for that committee.
+(8) No anonymous contribution of more than twenty-five dollars shall be made by any person, and no anonymous contribution of more than twenty-five dollars shall be accepted by any candidate or committee. If any anonymous contribution of more than twenty-five dollars is received, it shall be returned immediately to the contributor, if the contributor's identity can be ascertained, and if the contributor's identity cannot be ascertained, the candidate, committee treasurer or deputy treasurer shall immediately transmit that portion of the contribution which exceeds twenty-five dollars to the state treasurer and it shall escheat to the state.
+(9) The maximum aggregate amount of anonymous contributions which shall be accepted per election by any committee shall be the greater of five hundred dollars or one percent of the aggregate amount of all contributions received by that committee in the same election. If any anonymous contribution is received which causes the aggregate total of anonymous contributions to exceed the foregoing limitation, it shall be returned immediately to the contributor, if the contributor's identity can be ascertained, and, if the contributor's identity cannot be ascertained, the committee treasurer, deputy treasurer or candidate shall immediately transmit the anonymous contribution to the state treasurer to escheat to the state.
+(10) Notwithstanding the provisions of subdivision (9) of this subsection, contributions from individuals whose names and addresses cannot be ascertained which are received from a fund-raising activity or event, such as defined in section 130.011, RSMo, as amended from time to time, shall not be deemed anonymous contributions, provided the following conditions are met:
+(a) There are twenty-five or more contributing participants in the activity or event;
+(b) The candidate, committee treasurer, deputy treasurer or the person responsible for conducting the activity or event makes an announcement that it is illegal for anyone to make or receive a contribution in excess of one hundred dollars unless the contribution is accompanied by the name and address of the contributor;
+(c) The person responsible for conducting the activity or event does not knowingly accept payment from any single person of more than one hundred dollars unless the name and address of the person making such payment is obtained and recorded pursuant to the record-keeping requirements of section 130.036, RSMo, as amended from time to time;
+(d) A statement describing the event shall be prepared by the candidate or the treasurer of the committee for whom the funds were raised or by the person responsible for conducting the activity or event and attached to the disclosure report of contributions and expenditures required by section 130.041, RSMo, as amended from time to time. The following information to be listed in the statement is in addition to, not in lieu of, the requirements elsewhere in this chapter relating to the recording and reporting of contributions and expenditures:
+(i) The name and mailing address of the person or persons responsible for conducting the event or activity and the name and address of the candidate or committee for whom the funds were raised;
+(ii) The date on which the event occurred;
+(iii) The name and address of the location where the event occurred and the approximate number of participants in the event;
+(iv) A brief description of the type of event and the fund-raising methods used;
+(v) The gross receipts from the event and a listing of the expenditures incident to the event;
+(vi) The total dollar amount of contributions received from the event from participants whose names and addresses were not obtained with such contributions and an explanation of why it was not possible to obtain the names and addresses of such participants;
+(vii) The total dollar amount of contributions received from contributing participants in the event who are identified by name and address in the records required to be maintained pursuant to section 130.036, RSMo, as amended from time to time.
+(11) No candidate or committee in this state shall accept contributions from any out-of-state committee unless the out-of-state committee from whom the contributions are received has filed a statement of organization pursuant to section 130.021, RSMo, as amended from time to time, or has filed the reports required by sections 130.049 and 130.050, RSMo, as amended from time to time, whichever is applicable to that committee.
+(12) Political action committees shall only receive contributions from individuals; unions; federal political action committees; and corporations, associations, and partnerships formed under chapters 347 to 360, RSMo, as amended from time to time, and shall be prohibited from receiving contributions from other political action committees, candidate committees, political party committees, campaign committees, exploratory committees, or debt service committees. However, candidate committees, political party committees, campaign committees, exploratory committees, and debt service committees shall be allowed to return contributions to a donor political action committee that is the origin of the contribution.
+(13) The prohibited committee transfers described in subdivision (12) of this subsection shall not apply to the following committees:
+(a) The state house committee per political party designated by the respective majority or minority floor leader of the house of representatives or the chair of the state party if the party does not have majority or minority party status;
+(b) The state senate committee per political party designated by the respective majority or minority floor leader of the senate or the chair of the state party if the party does not have majority or minority party status.
+(14) No person shall transfer anything of value to any committee with the intent to conceal, from the Missouri ethics commission, the identity of the actual source. Any violation of this subdivision shall be punishable as follows:
+(a) For the first violation, the Missouri ethics commission shall notify such person that the transfer to the committee is prohibited under this section within five days of determining that the transfer is prohibited, and that such person shall notify the committee to which the funds were transferred that the funds must be returned within ten days of such notification;
+(b) For the second violation, the person transferring the funds shall be guilty of a class C misdemeanor;
+(c) For the third and subsequent violations, the person transferring the funds shall be guilty of a class D felony.
+(15) No person shall make a contribution to a campaign committee, candidate committee, continuing committee, exploratory committee, political party committee, and political party with the expectation that some or all of the amounts of such contribution will be reimbursed by another person. No person shall be reimbursed for a contribution made to any campaign committee, candidate committee, continuing committee, exploratory committee, political party committee, and political party, nor shall any person make such reimbursement except* as provided in subdivision (5) of this subsection.
+(16) No campaign committee, candidate committee, continuing committee, exploratory committee, political party committee, and political party shall knowingly accept contributions from:
+(a) Any natural person who is not a citizen of the United States;
+(b) A foreign government; or
+(c) Any foreign corporation that does not have the authority to transact business in this state pursuant to chapter 347, RSMo, as amended from time to time.
+(17) Contributions from persons under fourteen years of age shall be considered made by the parents or guardians of such person and shall be attributed toward any contribution limits prescribed in this chapter. Where the contributor under fourteen years of age has two custodial parents or guardians, fifty percent of the contribution shall be attributed to each parent or guardian, and where such contributor has one custodial parent or guardian, all such contributors shall be attributed to the custodial parent or guardian.
+(18) Each limit on contributions described in subdivisions (1), (2)(a), and (2)(b) of this subsection shall be adjusted by an amount based upon the average of the percentage change over a four-year period in the United States Bureau of Labor Statistics Consumer Price Index for Kansas City, all items, all consumers, or its successor index, rounded to the nearest lowest twenty-five dollars and the percentage change over a four-year period in the United States Bureau of Labor Statistics Consumer Price Index for St. Louis, all items, all consumers, or its successor index, rounded to the nearest lowest twenty-five dollars. The first adjustment shall be done in the first quarter of 2019, and then every four years thereafter. The secretary of state shall calculate such an adjustment in each limit and specify the limits in rules promulgated in accordance with chapter 536, RSMo, as amended from time to time.
+4. (1) Notwithstanding the provisions of subsection 3 of section 105.957, RSMo, as amended from time to time, any natural person may file a complaint with the Missouri ethics commission alleging a violation of the provisions of Section 3 of this Article by any candidate for elective office, within sixty days prior to the primary election at which such candidate is running for office, until after the general election. Any such complaint shall be in writing, shall state all facts known by the complainant which have given rise to the complaint, and shall be sworn to, under penalty of perjury, by the complainant.
+(2) Within the first business day after receipt of a complaint pursuant to this section, the executive director shall supply a copy of the complaint to the person or entity named in the complaint. The executive director of the Missouri ethics commission shall notify the complainant and the person or entity named in the complaint of the date and time at which the commission shall audit and investigate the allegations contained in the complaint pursuant to subdivision (3) of this subsection.
+(3) Within fifteen business days of receipt of a complaint pursuant to this section, the commission shall audit and investigate the allegations contained in the complaint and shall determine by a vote of at least four members of the commission that there are reasonable grounds to believe that a violation of law has occurred within the jurisdiction of the commission. The respondent may reply in writing or in person to the allegations contained in the complaint and may state justifications to dismiss the complaint. The complainant may also present evidence in support of the allegations contained in the complaint, but such evidence shall be limited in scope to the allegations contained in the original complaint, and such complaint may not be supplemented or otherwise enlarged in scope.
+(4) If, after audit and investigation of the complaint and upon a vote of at least four members of the commission, the commission determines that there are reasonable grounds to believe that a violation of law has occurred within the jurisdiction of the commission, the commission shall proceed with such complaint as provided by sections 105.957 to 105.963, RSMo, as amended from time to time. If the commission does not determine that there are reasonable grounds to believe that such a violation of law has occurred, the complaint shall be dismissed. If a complaint is dismissed, the fact that such complaint was dismissed, with a statement of the nature of the complaint, shall be made public within twenty-four hours of the commission's action.
+(5) Any complaint made pursuant to this section, and all proceedings and actions concerning such a complaint, shall be subject to the provisions of subsection 15 of section 105.961, RSMo, as amended from time to time.
+(6) No complaint shall be accepted by the commission within fifteen days prior to the primary or general election at which such candidate is running for office.
+5. Any person who knowingly and willfully accepts or makes a contribution in violation of any provision of Section 3 of this Article or who knowingly and willfully conceals a contribution by filing a false or incomplete report or by not filing a required report under chapter 130, RSMo, as amended from time to time, shall be held liable to the state in civil penalties in an amount of at least double and up to five times the amount of any such contribution.
+6. (1) Any person who purposely violates the provisions of Section 3 of this Article is guilty of a class A misdemeanor.
+(2) Notwithstanding any other provision of law which bars prosecutions for any offenses other than a felony unless commenced within one year after the commission of the offense, any offense under the provisions of this section may be prosecuted if the indictment be found or prosecution be instituted within three years after the commission of the alleged offense.
+(3) Any prohibition to the contrary notwithstanding, no person shall be deprived of the rights, guarantees, protections or privileges accorded by sections 130.011 to 130.026, 130.031 to 130.068, 130.072, and 130.081, RSMo, as amended from time to time, by any person, corporation, entity or political subdivision.
+7. As used in this section, the following terms have the following meanings:
+(1) "Appropriate officer" or "appropriate officers", the person or persons designated in section 130.026, RSMo, or any successor section, to receive certain required statements and reports;
+(2) "Candidate", an individual who seeks nomination or election to public office. The term "candidate" includes an elected officeholder who is the subject of a recall election, an individual who seeks nomination by the individual's political party for election to public office, an individual standing for retention in an election to an office to which the individual was previously appointed, an individual who seeks nomination or election whether or not the specific elective public office to be sought has been finally determined by such individual at the time the individual meets the conditions described in paragraph (a) or (b) of this subdivision, and an individual who is a write-in candidate as defined in subdivision (26) of this section. A candidate shall be deemed to seek nomination or election when the person first:
+(a) Receives contributions or makes expenditures or reserves space or facilities with intent to promote the person's candidacy for office; or
+(b) Knows or has reason to know that contributions are being received or expenditures are being made or space or facilities are being reserved with the intent to promote the person's candidacy for office; except that, such individual shall not be deemed a candidate if the person files a statement with the appropriate officer within five days after learning of the receipt of contributions, the making of expenditures, or the reservation of space or facilities disavowing the candidacy and stating that the person will not accept nomination or take office if elected; provided that, if the election at which such individual is supported as a candidate is to take place within five days after the person's learning of the above-specified activities, the individual shall file the statement disavowing the candidacy within one day; or
+(c) Announces or files a declaration of candidacy for office.
+(3) "Cash", currency, coin, United States postage stamps, or any negotiable instrument which can be transferred from one person to another person without the signature or endorsement of the transferor.
+(4) "Committee", a person or any combination of persons, who accepts contributions or makes expenditures for the primary or incidental purpose of influencing or attempting to influence the action of voters for or against the nomination or election to public office of one or more candidates or the qualification, passage or defeat of any ballot measure or for the purpose of paying a previously incurred campaign debt or obligation of a candidate or the debts or obligations of a committee or for the purpose of contributing funds to another committee.
+(5) "Committee", does not include:
+(a) A person or combination of persons, if neither the aggregate of expenditures made nor the aggregate of contributions received during a calendar year exceeds five hundred dollars and if no single contributor has contributed more than two hundred fifty dollars of such aggregate contributions;
+(b) An individual, other than a candidate, who accepts no contributions and who deals only with the individual's own funds or property;
+(c) A corporation, cooperative association, partnership, proprietorship, or joint venture organized or operated for a primary or principal purpose other than that of influencing or attempting to influence the action of voters for or against the nomination or election to public office of one or more candidates or the qualification, passage or defeat of any ballot measure, and it accepts no contributions, and all expenditures it makes are from its own funds or property obtained in the usual course of business or in any commercial or other transaction and which are not contributions as defined by subdivision (7) of this section;
+(d) A labor organization organized or operated for a primary or principal purpose other than that of influencing or attempting to influence the action of voters for or against the nomination or election to public office of one or more candidates, or the qualification, passage, or defeat of any ballot measure, and it accepts no contributions, and expenditures made by the organization are from its own funds or property received from membership dues or membership fees which were given or solicited for the purpose of supporting the normal and usual activities and functions of the organization and which are not contributions as defined by subdivision (7) of this section;
+(e) A person who acts as an authorized agent for a committee in soliciting or receiving contributions or in making expenditures or incurring indebtedness on behalf of the committee if such person renders to the committee treasurer or deputy treasurer or candidate, if applicable, an accurate account of each receipt or other transaction in the detail required by the treasurer to comply with all record-keeping and reporting requirements; or
+(f) Any department, agency, board, institution or other entity of the state or any of its subdivisions or any officer or employee thereof, acting in the person's official capacity.
+(6) The term "committee" includes, but is not limited to, each of the following committees: campaign committee, candidate committee, continuing committee and political party committee:
+(a) "Campaign committee", a committee, other than a candidate committee, which shall be formed by an individual or group of individuals to receive contributions or make expenditures and whose sole purpose is to support or oppose the qualification and passage of one or more particular ballot measures in an election or the retention of judges under the nonpartisan court plan, such committee shall be formed no later than thirty days prior to the election for which the committee receives contributions or makes expenditures, and which shall terminate the later of either thirty days after the general election or upon the satisfaction of all committee debt after the general election, except that no committee retiring debt shall engage in any other activities in support of a measure for which the committee was formed;
+(b) "Candidate committee", a committee which shall be formed by a candidate to receive contributions or make expenditures in behalf of the person's candidacy and which shall continue in existence for use by an elected candidate or which shall terminate the later of either thirty days after the general election for a candidate who was not elected or upon the satisfaction of all committee debt after the election, except that no committee retiring debt shall engage in any other activities in support of the candidate for which the committee was formed. Any candidate for elective office shall have only one candidate committee for the elective office sought, which is controlled directly by the candidate for the purpose of making expenditures. A candidate committee is presumed to be under the control and direction of the candidate unless the candidate files an affidavit with the appropriate officer stating that the committee is acting without control or direction on the candidate's part;
+(c) "Continuing committee", a committee of continuing existence which is not formed, controlled or directed by a candidate, and is a committee other than a candidate committee or campaign committee, whose primary or incidental purpose is to receive contributions or make expenditures to influence or attempt to influence the action of voters whether or not a particular candidate or candidates or a particular ballot measure or measures to be supported or opposed has been determined at the time the committee is required to file any statement or report pursuant to the provisions of this chapter. "Continuing committee" includes, but is not limited to, any committee organized or sponsored by a business entity, a labor organization, a professional association, a trade or business association, a club or other organization and whose primary purpose is to solicit, accept and use contributions from the members, employees or stockholders of such entity and any individual or group of individuals who accept and use contributions to influence or attempt to influence the action of voters. Such committee shall be formed no later than sixty days prior to the election for which the committee receives contributions or makes expenditures; and
+(d) "Connected organization", any organization such as a corporation, a labor organization, a membership organization, a cooperative, or trade or professional association which expends funds or provides services or facilities to establish, administer or maintain a committee or to solicit contributions to a committee from its members, officers, directors, employees or security holders. An organization shall be deemed to be the connected organization if more than fifty percent of the persons making contributions to the committee during the current calendar year are members, officers, directors, employees or security holders of such organization or their spouses.
+(7) "Contribution", a payment, gift, loan, advance, deposit, or donation of money or anything of value for the purpose of supporting or opposing the nomination or election of any candidate for public office or the qualification, passage or defeat of any ballot measure, or for the support of any committee supporting or opposing candidates or ballot measures or for paying debts or obligations of any candidate or committee previously incurred for the above purposes. A contribution of anything of value shall be deemed to have a money value equivalent to the fair market value. "Contribution" includes, but is not limited to:
+(a) A candidate's own money or property used in support of the person's candidacy other than expense of the candidate's food, lodging, travel, and payment of any fee necessary to the filing for public office;
+(b) Payment by any person, other than a candidate or committee, to compensate another person for services rendered to that candidate or committee;
+(c) Receipts from the sale of goods and services, including the sale of advertising space in a brochure, booklet, program or pamphlet of a candidate or committee and the sale of tickets or political merchandise;
+(d) Receipts from fund-raising events including testimonial affairs;
+(e) Any loan, guarantee of a loan, cancellation or forgiveness of a loan or debt or other obligation by a third party, or payment of a loan or debt or other obligation by a third party if the loan or debt or other obligation was contracted, used, or intended, in whole or in part, for use in an election campaign or used or intended for the payment of such debts or obligations of a candidate or committee previously incurred, or which was made or received by a committee;
+(f) Funds received by a committee which are transferred to such committee from another committee or other source, except funds received by a candidate committee as a transfer of funds from another candidate committee controlled by the same candidate but such transfer shall be included in the disclosure reports;
+(g) Facilities, office space or equipment supplied by any person to a candidate or committee without charge or at reduced charges, except gratuitous space for meeting purposes which is made available regularly to the public, including other candidates or committees, on an equal basis for similar purposes on the same conditions; and
+(h) The direct or indirect payment by any person, other than a connected organization, of the costs of establishing, administering, or maintaining a committee, including legal, accounting and computer services, fund raising and solicitation of contributions for a committee.
+(8) "Contribution" does not include:
+(a) Ordinary home hospitality or services provided without compensation by individuals volunteering their time in support of or in opposition to a candidate, committee or ballot measure, nor the necessary and ordinary personal expenses of such volunteers incidental to the performance of voluntary activities, so long as no compensation is directly or indirectly asked or given;
+(b) An offer or tender of a contribution which is expressly and unconditionally rejected and returned to the donor within ten business days after receipt or transmitted to the state treasurer;
+(c) Interest earned on deposit of committee funds; or
+(d) The costs incurred by any connected organization listed pursuant to subdivision (4) of subsection 5 of section 130.021, RSMo, as amended from time to time, for establishing, administering or maintaining a committee, or for the solicitation of contributions to a committee which solicitation is solely directed or related to the members, officers, directors, employees or security holders of the connected organization.
+(9) "County", any one of the several counties of this state or the City of St. Louis.
+(l0) "Disclosure report", an itemized report of receipts, expenditures and incurred indebtedness which is prepared on forms approved by the Missouri ethics commission and filed at the times and places prescribed.
+(11) "Election", any primary, general or special election held to nominate or elect an individual to public office, to retain or recall an elected officeholder or to submit a ballot measure to the voters, and any caucus or other meeting of a political party or a political party committee at which that party's candidate or candidates for public office are officially selected. A primary election and the succeeding general election shall be considered separate elections.
+(12) "Expenditure", a payment, advance, conveyance, deposit, donation or contribution of money or anything of value for the purpose of supporting or opposing the nomination or election of any candidate for public office or the qualification or passage of any ballot measure or for the support of any committee which in turn supports or opposes any candidate or ballot measure or for the purpose of paying a previously incurred campaign debt or obligation of a candidate or the debts or obligations of a committee; a payment, or an agreement or promise to pay, money or anything of value, including a candidate's own money or property, for the purchase of goods, services, property, facilities or anything of value for the purpose of supporting or opposing the nomination or election of any candidate for public office or the qualification or passage of any ballot measure or for the support of any committee which in turn supports or opposes any candidate or ballot measure or for the purpose of paying a previously incurred campaign debt or obligation of a candidate or the debts or obligations of a committee. An expenditure of anything of value shall be deemed to have a money value equivalent to the fair market value. "Expenditure" includes, but is not limited to:
+(a) Payment by anyone other than a committee for services of another person rendered to such committee;
+(b) The purchase of tickets, goods, services or political merchandise in connection with any testimonial affair or fund-raising event of or for candidates or committees, or the purchase of advertising in a brochure, booklet, program or pamphlet of a candidate or committee;
+(c) The transfer of funds by one committee to another committee; and
+(d) The direct or indirect payment by any person, other than a connected organization for a committee, of the costs of establishing, administering or maintaining a committee, including legal, accounting and computer services, fund raising and solicitation of contributions for a committee.
+(13) "Expenditure" does not include:
+(a) Any news story, commentary or editorial which is broadcast or published by any broadcasting station, newspaper, magazine or other periodical without charge to the candidate or to any person supporting or opposing a candidate or ballot measure;
+(b) The internal dissemination by any membership organization, proprietorship, labor organization, corporation, association or other entity of information advocating the election or defeat of a candidate or candidates or the passage or defeat of a ballot measure or measures to its directors, officers, members, employees or security holders, provided that the cost incurred is reported pursuant to subsection 2 of section 130.051, RSMo, as amended from time to time;
+(c) Repayment of a loan, but such repayment shall be indicated in required reports;
+(d) The rendering of voluntary personal services by an individual of the sort commonly performed by volunteer campaign workers and the payment by such individual of the individual's necessary and ordinary personal expenses incidental to such volunteer activity, provided no compensation is, directly or indirectly, asked or given;
+(e) The costs incurred by any connected organization listed pursuant to subdivision (4) of subsection 5 of section 130.021, RSMo, as amended from time to time, for establishing, administering or maintaining a committee, or for the solicitation of contributions to a committee which solicitation is solely directed or related to the members, officers, directors, employees or security holders of the connected organization; or
+(f) The use of a candidate's own money or property for expense of the candidate's personal food, lodging, travel, and payment of any fee necessary to the filing for public office, if such expense is not reimbursed to the candidate from any source.
+(14) "Exploratory committees", a committee which shall be formed by an individual to receive contributions and make expenditures on behalf of this individual in determining whether or not the individual seeks elective office. Such committee shall terminate no later than December thirty-first of the year prior to the general election for the possible office.
+(15) "Fund-raising event", an event such as a dinner, luncheon, reception, coffee, testimonial, rally, auction or similar affair through which contributions are solicited or received by such means as the purchase of tickets, payment of attendance fees, donations for prizes or through the purchase of goods, services or political merchandise.
+(16) "In-kind contribution" or "in-kind expenditure", a contribution or expenditure in a form other than money.
+(17) "Labor organization", any organization of any kind, or any agency or employee representation committee or plan, in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work.
+(18) "Loan", a transfer of money, property or anything of ascertainable monetary value in exchange for an obligation, conditional or not, to repay in whole or in part and which was contracted, used, or intended for use in an election campaign, or which was made or received by a committee or which was contracted, used, or intended to pay previously incurred campaign debts or obligations of a candidate or the debts or obligations of a committee.
+(19) "Person", an individual, group of individuals, corporation, partnership, committee, proprietorship, joint venture, any department, agency, board, institution or other entity of the state or any of its political subdivisions, union, labor organization, trade or professional or business association, association, political party or any executive committee thereof, or any other club or organization however constituted or any officer or employee of such entity acting in the person's official capacity.
+(20) "Political action committee", a committee of continuing existence which is not formed, controlled or directed by a candidate, and is a committee other than a candidate committee, political party committee, campaign committee, exploratory committee, or debt service committee, whose primary or incidental purpose is to receive contributions or make expenditures to influence or attempt to influence the action of voters whether or not a particular candidate or candidates or a particular ballot measure or measures to be supported or opposed has been determined at the time the committee is required to file any statement or report pursuant to the provisions of this chapter. Such a committee includes, but is not limited to, any committee organized or sponsored by a business entity, a labor organization, a professional association, a trade or business association, a club or other organization and whose primary purpose is to solicit, accept and use contributions from the members, employees or stockholders of such entity and any individual or group of individuals who accept and use contributions to influence or attempt to influence the action of voters. Such committee shall be formed no later than sixty days prior to the election for which the committee receives contributions or makes expenditures.
+(21) "Political merchandise", goods such as bumper stickers, pins, hats, ties, jewelry, literature, or other items sold or distributed at a fund-raising event or to the general public for publicity or for the purpose of raising funds to be used in supporting or opposing a candidate for nomination or election or in supporting or opposing the qualification, passage or defeat of a ballot measure.
+(22) "Political party", a political party which has the right under law to have the names of its candidates listed on the ballot in a general election.
+(23) "Political party committee", a state, district, county, city, or area committee of a political party, as defined in section 115.603, RSMo, as amended from time to time, which may be organized as a not-for-profit corporation under Missouri law, and which committee is of continuing existence, and has the primary or incidental purpose of receiving contributions and making expenditures to influence or attempt to influence the action of voters on behalf of the political party.
+(24) "Public office" or "office", any state, judicial, county, municipal, school or other district, ward, township, or other political subdivision office or any political party office which is filled by a vote of registered voters.
+(25) "Write-in candidate", an individual whose name is not printed on the ballot but who otherwise meets the definition of candidate in subdivision (2) of this section.
+8. The provisions of this section are self-executing. All of the provisions of this section are severable. If any provision of this section is found by a court of competent jurisdiction to be unconstitutional or unconstitutionally enacted, the remaining provisions of this section shall be and remain valid.
+
+> (2018) Provisions are unconstitutional to the extent they: 1) prohibit corporate or union contributions to certain campaign committees; 2) limit certain contributions to elect single individuals to office in a single election; 3) prohibit persons from making certain contributions to certain committees; 4) prohibit certain committees from accepting certain contributions from certain foreign corporations; and 5) prohibit political action committees from receiving contributions from certain entities. Free and Fair Election Fund, et al., v. Missouri Ethics Comm'n, et al., 903 F.3d 759 (8th Cir.).
+
+> (2019) Subsection 3 of section prohibits contributions from a corporation to a political action committee established, administered, or maintained by the corporation. Missouri Chamber of Commerce and Industry v. Missouri Ethics Comm'n, 581 S.W.3d 89 (Mo.App. W.D.).
+
+*08 Nov 2016 · (Adopted November 8, 2016)
+*Word "expect" appears in the initiative petition language which became constitutional amendment #2 on the November 8, 2016, general election ballot.*
+
+### Section 24 Plurality winner of primary to be candidate at general election — general election winner, how determined — inapplicability, when.
+
+1. The person receiving the greatest number of votes at a primary election as a party candidate for an office shall be the only candidate for that party for the office at the general election. The name of such candidate shall be placed on the official ballot at the general election unless removed or replaced as provided by law.
+2. The person receiving the greatest number of votes at the general election shall be declared the winner.
+3. Notwithstanding any provision of this section to the contrary, this section shall not apply to any nonpartisan municipal election held in a city that had an ordinance in effect as of November 5, 2024, that requires a preliminary election at which more than one candidate advances to a subsequent election.
+
+*05 Dec 2024 · (Adopted November 5, 2024)*
+
+## Article IX — Education
+
+### Section 1(a) Free public schools — age limit.
+
+A general diffusion of knowledge and intelligence being essential to the preservation of the rights and liberties of the people, the general assembly shall establish and maintain free public schools for the gratuitous instruction of all persons in this state within ages not in excess of twenty-one years as prescribed by law.
+
+*02 Sep 1976 · Source: Const. of 1875, Art. XI, §§ 1, 3 (Amended August 3, 1976).*
+
+### Section 1(b) Specific schools — adult education.
+
+Specific schools for any contiguous territory may be established by law. Adult education may be provided from funds other than ordinary school revenues.
+
+> (1957) Power of eminent domain vested in school districts for the selection of sites and location of schools, cannot be controlled by city zoning ordinance. State ex rel. St. Louis Union Trust Co. v. Ferris (Mo.), 304 S.W.2d 896.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 2(a) State board of education — number and appointment of members — political affiliation — terms — reimbursement and compensation.
+
+The supervision of instruction in the public schools shall be vested in a state board of education, consisting of eight lay members appointed by the governor, by and with the advice and consent of the senate; provided, that at no time shall more than four members be of the same political party. The term of office of each member shall be eight years, except the terms of the first appointees shall be from one to eight years, respectively. While attending to the duties of their office, members shall be entitled to receive only actual expenses incurred, and a per diem fixed by law.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XI, § 4.*
+
+### Section 2(b) Commissioner of education — qualification, duties and compensation — appointment and compensation of professional staff — powers and duties of state board of education.
+
+The board shall select and appoint a commissioner of education as its chief administrative officer, who shall be a citizen and resident of the state, and removable at its discretion. The board shall prescribe his duties and fix his compensation, and upon his recommendation shall appoint the professional staff and fix their compensation. The board shall succeed the state board of education heretofore established, with all its powers and duties, and shall have such other powers and duties as may be prescribed by law.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 3(a) Payment and distribution of appropriations and income.
+
+All appropriations by the state for the support of free public schools and the income from the public school fund shall be paid at least annually and distributed according to law.
+
+> (1992) Federally mandated state expenditures for desegregation purposes in the public schools of Kansas City, the City of St. Louis and St. Louis County are state expenditures for free public schools within the meaning of the Missouri Constitution. Such expenditures are part of the funds expended by the state on the public schools, therefore, the Governor has not reduced the total expenditures below the appropriations approved for that purpose. Sikeston R-VI School Dist. v. Ashcroft. 828 S.W.2d 372 (Mo. en banc).
+
+> (1992) Constitutional mandate that funds appropriated to the public schools "be distributed according to law" does not mandate expenditures exclusively through the foundation formula. The foundation formula is only one such law and the United States Constitution is another such law which can direct the distribution of state funds to public schools. Sikeston R-VI School Dist. v. Ashcroft. 828 S.W.2d 372 (Mo. en banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XI, § 2.*
+
+### Section 3(b) Deficiency in provision for eight-month school year — allotment of state revenue for school purposes.
+
+In event the public school fund provided and set apart by law for the support of free public schools, shall be insufficient to sustain free schools at least eight months in every year in each school district of the state, the general assembly may provide for such deficiency; but in no case shall there be set apart less than twenty-five percent of the state revenue, exclusive of interest and sinking fund, to be applied annually to the support of the free public schools.
+
+> (1998) Money sent from federal government to state for federal purposes is not state revenue. Committee for Educational Equality v. State, 967 S.W.2d 62 (Mo.banc).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XI, § 7.*
+
+### Section 3(c) Racial discrimination in employment of teachers.
+
+No school district which permits differences in wages of teachers having the same training and experience because of race or color, shall receive any portion of said revenue or fund.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 4 Public school and seminary funds — certificates of indebtedness — renewals — liquidation — legal investment of funds — tax levy for interest.
+
+All certificates of indebtedness of the state to the public school fund and to the seminary fund are hereby confirmed as sacred obligations of the state to said funds, and they shall be renewed as they mature for such time and at such rate of interest as may be provided by law. The general assembly may provide at any time for the liquidation of said certificates, but all funds derived from such liquidation, and all other funds hereafter accruing to said state school or state seminary funds, except the interest on same, shall be invested only in registered bonds of the United States or the state, bonds of school districts of the state, or bonds or other securities payment of which are fully guaranteed by the United States, of not less than par value. The general assembly may levy an annual tax sufficient to pay the accruing interest of all state certificates of indebtedness.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 26, Art. XI, § 9.*
+
+### Section 5 Public school fund — sources — payment into state treasury — investment — limitation on use of income.
+
+The proceeds of all certificates of indebtedness due the state school fund, and all moneys, bonds, lands, and other property belonging to or donated to any state fund for public school purposes, and the net proceeds of all sales of lands and other property and effects that may accrue to the state by escheat, shall be paid into the state treasury, and securely invested under the supervision of the state board of education, and sacredly preserved as a public school fund the annual income of which shall be faithfully appropriated for establishing and maintaining free public schools, and for no other uses or purposes whatsoever.
+
+> (1953) Use of state and school district funds for transportation of parochial school students by public school bus which also transported public school children held unlawful. McVey v. Hawkins, 364 Mo. 44, 258 S.W.2d 927.
+
+> (1993) Under federal Individuals with Disabilities Education Act, school district was required to provide transportation for pupil from sidewalk in front of parochial school to special education class at the public school and the provision of such transportation does not violate establishment clause of First Amendment or Missouri Constitution. Felter v. Cape Girardeau School Dist., 810 F.Supp. 1062 (E.D. Mo.).
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XI, § 6.*
+
+### Section 6 Seminary fund — sources — payment into state treasury — investment — limitation on use of income.
+
+The proceeds of all certificates of indebtedness due the seminary fund, the net proceeds of all sales of lands granted to the state for the benefit of the state university with its several divisions, as provided by law, and all gifts, grants, bequests, or devises to said seminary fund for the benefit of the university, and not otherwise appropriated by the terms of any such gift, grant, bequest or devise, shall be paid into the state treasury, and securely invested by the board of curators of the state university and sacredly preserved as a seminary fund, the annual income of which shall be faithfully appropriated for maintenance of the state university, and for no other uses or purposes whatsoever.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 7 County and township school funds — liquidation and reinvestment — optional distribution on liquidation — annual distribution of income and receipts.
+
+All real estate, loans, and investments now belonging to the various county and township school funds, except those invested as hereinafter provided, shall be liquidated without extension of time, and the proceeds thereof and the money on hand now belonging to said school funds of the several counties and the city of St. Louis, shall be reinvested in registered bonds of the United States, or in bonds of the state or in approved bonds of any city or school district thereof, or in bonds or other securities the payment of which are fully guaranteed by the United States, and sacredly preserved as a county school fund. Any county or the city of St. Louis by a majority vote of the qualified electors voting thereon may elect to distribute annually to its schools the proceeds of the liquidated school fund, at the time and in the manner prescribed by law. All interest accruing from investment of the county school fund, the clear proceeds of all penalties, forfeitures and fines collected hereafter for any breach of the penal laws of the state, the net proceeds from the sale of estrays, and all other moneys coming into said funds shall be distributed annually to the schools of the several counties according to law.
+
+> (1956) Forfeiture under section 351.215, RSMo, for refusal of officer of corporation to permit stockholder's inspection of books held not subject to section 7, Article IX of the Constitution but affords a right of action in favor of the stockholder. State ex rel. Watkins v. Cassell (A.), 294 S.W.2d 647.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 8 Prohibition of public aid for religious purposes and institutions.
+
+Neither the general assembly, nor any county, city, town, township, school district or other municipal corporation, shall ever make an appropriation or pay from any public fund whatever, anything in aid of any religious creed, church or sectarian purpose, or to help to support or sustain any private or public school, academy, seminary, college, university, or other institution of learning controlled by any religious creed, church or sectarian denomination whatever; nor shall any grant or donation of personal property or real estate ever be made by the state, or any county, city, town, or other municipal corporation, for any religious creed, church, or sectarian purpose whatever.
+
+> (1953) Use of state and school district funds for transportation of parochial school students by public school bus which also transported public school children held unlawful. McVey v. Hawkins, 364 Mo. 44, 258 S.W.2d 927.
+
+> (1953) Evidence reviewed and held to establish that schools taught by nuns of religious order were not in fact free public schools and therefore not entitled to support from public funds. Berghorn v. Reorganized School Dist. No. 8, 364 Mo. 121, 260 S.W.2d 573.
+
+> (1973) The provisions of the state constitution notwithstanding educationally deprived children attending nonpublic schools are entitled to receive allocation of federal funds for programs of special services comparable in quality, scope and opportunity to children in public schools. Barrera v. Wheeler (CA Mo.), 475 F.2d 1338.
+
+> (1973) Payment of taxes by parent who sends his children to religiously oriented schools does not interfere with his constitu- tional right to select such a school for his children. McDonough v. Aylward (Mo.), 500 S.W.2d 721.
+
+> (1974) Held, that portion of section 170.051, RSMo, requiring public school boards to provide textbooks to teachers in private schools violates Art. I, §6, of the Const. of Mo. which prohibits the "support" of any "teacher of any sect". The provision requiring textbooks to be provided to pupils attending private schools violates Art. IX, §8, of the Const. of Mo. which prohibits payment from a public fund in aid of any religious creed, church or sectarian purpose. Paster v. Tussey (Mo.), 512 S.W.2d 97.
+
+> (1974) Memorandum opinion affirming Luetkemeyer et al. v. Kaufmann, 364 F.Supp. 376, which denied right of parochial children to transportation on public school bus, affirmed in memorandum opinion. (U.S.) 95 S.Ct. 167.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XI, § 11.*
+
+### Section 9(a) State university — government by board of curators — number and appointment.
+
+The government of the state university shall be vested in a board of curators consisting of nine members appointed by the governor, by and with the advice and consent of the senate.
+
+> (1966) Board of curators of University of Missouri is authorized by constitution and statute to construct on university property vehicle parking facilities. State ex rel. curators of U of M v. Neill (Mo.), 397 S.W.2d 666.
+
+> (1973) Usage of university standards of student conduct which specifically prohibit indecent conduct or speech to dismiss student for distribution on campus of an allegedly obscene newspaper repug- nant to university held to violate student's first amendment right to disseminate ideas. Papish v. Board of Curators of University of Missouri (U.S.), 93 S.Ct. 1197.
+
+> (1975) Utilization of the state board of mediation as provided in § 105.525, RSMo, held not to be an infringement on the constitu- tional power of the curators of the University of Missouri. Curators of University of Missouri v. Public Service Employees Local No. 45 (Mo.), 520 S.W.2d 54.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XI, § 5.*
+
+### Section 9(b) Maintenance of state university and other educational institutions.
+
+The general assembly shall adequately maintain the state university and such other educational institutions as it may deem necessary.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XI, § 5.*
+
+### Section 10 Free public libraries — declaration of policy — state aid to local public libraries.
+
+It is hereby declared to be the policy of the state to promote the establishment and development of free public libraries and to accept the obligation of their support by the state and its subdivisions and municipalities in such manner as may be provided by law. When any such subdivision or municipality supports a free library, the general assembly shall grant aid to such public library in such manner and in such amounts as may be provided by law.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+## Article X — Taxation
+
+### Section 1 Taxing power — exercise by state and local governments.
+
+The taxing power may be exercised by the general assembly for state purposes, and by counties and other political subdivisions under power granted to them by the general assembly for county, municipal and other corporate purposes.
+
+> (1968) Proposed amendment to Kansas City charter which purported to impose a total earnings tax higher than the tax permitted by statute was invalid. Grant v. Kansas City (Mo.), 431 S.W.2d 89.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 1.*
+
+### Section 2 Inalienability of power to tax.
+
+The power to tax shall not be surrendered, suspended or contracted away, except as authorized by this constitution.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 2.*
+
+### Section 3 Limitation of taxation to public purposes — uniformity — general laws — time for payment of taxes — valuation.
+
+Taxes may be levied and collected for public purposes only, and shall be uniform upon the same class or subclass of subjects within the territorial limits of the authority levying the tax. All taxes shall be levied and collected by general laws and shall be payable during the fiscal or calendar year in which the property is assessed. Except as otherwise provided in this constitution, the methods of determining the value of property for taxation shall be fixed by law.
+
+> (1953) Earnings tax imposed by city of St. Louis under statutory authority held not violative of the due process and uniform tax provisions of the constitution. Walters v. City of St. Louis 364 Mo. 56, 259 S.W.2d 377.
+
+> (1954) City ordinance levying license tax of five dollars a day on photographers who are nonresidents, while resident photographers were taxed at the rate of $20 per year, held discriminatory and violative of commerce provision of federal constitution when applied to business partly conducted in another state. Olan Mills, Inc. v. City of Cape Girardeau, 364 Mo. 1089, 272 S.W.2d 244.
+
+> (1955) Tax imposed by sewer district formed under § 30, Art. VI of Const., of 3 cents on $100 valuation on property in St. Louis County and 2 cents on such property in St. Louis City for general purposes held violative of this provision and tax in excess of 2 cents is void, but this uniformity provision does not apply to special assessments. State on Inf. Dalton v. Metropolitan St. Louis Sewer Dist. (Mo.), 275 S.W.2d 225.
+
+> (1958) Where evidence showed that commercially zoned property in specified city had increased in value far more than that in other localities, an assessment of such commercially zoned property on the basis of revaluation in an effort to fix all assessments in county at 30% of actual value held not violative of the uniformity of taxation or equal protection provisions of the constitution even though other property in county was not reassessed. May Dept. Stores Co. v. State Tax Comm. (Mo.), 308 S.W.2d 748.
+
+> (1961) Sections 144.600 to 144.745, RSMo, as adopted in 1959, imposing a compensating use tax on merchandise stored, used or consumed within this state held arbitrary and invalid insofar as they exempted from the tax the use of merchandise which was subject to the state sales tax which it was intended to complement. Missouri Pacific R.R. Co. v. Morris (Mo.), 345 S.W.2d 52.
+
+> (1964) Where taxable property lying within the boundaries of a county library district was incorporated by annexation into the boundaries of a city which had a tax supported free public library, held that the property was subject to the taxing power of both districts and such interpretation did not violate Art. X, § 3, and Art. I, §§ 2, 10, 26 and 28 of Mo. Const. St. Louis County Library District v. Hopkins (Mo.), 375 S.W.2d 71.
+
+> (1968) Where voters of each of four school districts, prior to consolidation into one district, had adopted tax levies, each different for the respective districts, the respective levies were valid and could continue to be collected after the consolidation and paid to the new district. Lewis County C-I School District v. Normile (Mo.), 431 S.W.2d 118.
+
+> (1972) Tax levies of different amount voted prior to consolidation of school districts do not violate this section since the probation applies only to the taxing authority at the time the levy is made. State ex rel. Fort Osage School District v. Conley (Mo.), 485 S.W.2d 469.
+
+> (1979) Failure of county to reassess homes since 1960 while assessing new homes at one-third their value violated constitutional requirement that taxes be uniform. State ex rel. Casilly v. Riney (Mo.), 576 S.W.2d 325.
+
+> (1990) Where retirement benefits from private nongovernmental employment were subject to income tax and retirement benefits from governmental employment were exempt, tax scheme did not violate constitutional provision that tax be applied uniformly to a class of persons, the legislature's classification of governmental and nongovernmental employees' retirement benefits is reasonable. Schnorbus v. Director of Revenue, 790 S.W.2d 241 (Mo. en banc).
+
+*02 Sep 1982 · Source: Const. of 1875, Art. X, § 3 (Amended August 3, 1982).*
+
+### Section 4(a) Classification of taxable property — taxes on franchises, incomes, excises and licenses.
+
+All taxable property shall be classified for tax purposes as follows: class 1, real property; class 2, tangible personal property; class 3, intangible personal property. The general assembly, by general law, may provide for further classification within classes 2 and 3, based solely on the nature and characteristics of the property, and not on the nature, residence or business of the owner, or the amount owned. Nothing in this section shall prevent the taxing of franchises, privileges or incomes, or the levying of excise or motor vehicle license taxes, or any other taxes of the same or different types.
+
+> (1973) A difference in methods of assessment does not produce subclassification of property in violation of this section. State ex rel. Howard Electric Cooperative v. Riney (Mo.), 490 S.W.2d 1.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 4(b) Basis of assessment of tangible property — real property — taxation of intangibles — limitations.
+
+Property in classes 1 and 2 and subclasses of those classes, shall be assessed for tax purposes at its value or such percentage of its value as may be fixed by law for each class and for each subclass. Property in class 3 and its subclasses shall be taxed only to the extent authorized and at the rate fixed by law for each class and subclass, and the tax shall be based on the annual yield and shall not exceed eight percent thereof. Property in class 1 shall be subclassed in the following classifications:
+(1) Residential property;
+(2) Agricultural and horticultural property;
+(3) Utility, industrial, commercial, railroad, and all other property not included in subclasses (1) and (2) of class 1.
+­­
+­
+
+> (1975) Held a "property" tax must be based on a money value attributed to the property. McKay Buick Inc. v. Spradling (Mo.), 529 S.W.2d 394.
+
+*02 Sep 1982 · Source: Const. of 1945. Superseded § 4, Art. X (Amended November 2, 1922) (Amended August 3, 1982).*
+
+### Section 4(c) Assessment, levy, collection and distribution of tax on intangibles.
+
+All taxes on property in class 3 and its subclasses, and the tax under any other form of taxation substituted by the general assembly for the tax on bank shares, shall be assessed, levied and collected by the state and returned as provided by law, less two percent for collection, to the counties and other political subdivisions of their origin, in proportion to the respective local rates of levy.
+
+> (1990) Constitutional provision permitting substitution of another form of taxation for the tax on bank shares constitutes an exemption from personal property taxation in addition to exemptions enumerated in Art. X, § 6. Mercantile Bank Nat'l Ass'n. v. Berra, 796 S.W.2d 22 (Mo. banc).
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 4(d) Income tax laws, may incorporate federal laws by reference — rates, how set.
+
+In enacting any law imposing a tax on or measured by income, the general assembly may define income by reference to provisions of the laws of the United States as they may be or become effective at any time or from time to time, whether retrospective or prospective in their operation. The general assembly shall in any such law set the rate or rates of such tax. The general assembly may in so defining income make exceptions, additions, or modifications to any provisions of the laws of the United States so referred to and for retrospective exceptions or modifications to those provisions which are retrospective.
+
+*05 Dec 1968 · (Adopted November 5, 1968).*
+
+### Section 5 Taxation of railroads.
+
+All railroad corporations in this state, or doing business therein, shall be subject to taxation for state, county, school, municipal and other purposes, on the real and personal property owned or used by them, and on their gross earnings, their net earnings, their franchises and their capital stock.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 5.*
+
+### Section 6 Property exempt from taxation.
+
+1. All property, real and personal, of the state, counties and other political subdivisions, and nonprofit cemeteries, and all real property used as a homestead as defined by law of any citizen of this state who is a former prisoner of war, as defined by law, and who has a total service-connected disability, shall be exempt from taxation; all personal property held as industrial inventories, including raw materials, work in progress and finished work on hand, by manufacturers and refiners, and all personal property held as goods, wares, merchandise, stock in trade or inventory for resale by distributors, wholesalers, or retail merchants or establishments shall be exempt from taxation; and all property, real and personal, not held for private or corporate profit and used exclusively for religious worship, for schools and colleges, for purposes purely charitable, for agricultural and horticultural societies, or for veterans' organizations may be exempted from taxation by general law. In addition to the above, household goods, furniture, wearing apparel and articles of personal use and adornment owned and used by a person in his home or dwelling place may be exempt from taxation by general law but any such law may provide for approximate restitution to the respective political subdivisions of revenues lost by reason of the exemption. All laws exempting from taxation property other than the property enumerated in this article, shall be void. The provisions of this section exempting certain personal property of manufacturers, refiners, distributors, wholesalers, and retail merchants and establishments from taxation shall become effective, unless otherwise provided by law, in each county on January 1 of the year in which that county completes its first general reassessment as defined by law.
+2. All revenues lost because of the exemption of certain personal property of manufacturers, refiners, distributors, wholesalers, and retail merchants and establishments shall be replaced to each taxing authority within a county from a countywide tax hereby imposed on all property in subclass 3 of class 1 in each county. For the year in which the exemption becomes effective, the county clerk shall calculate the total revenue lost by all taxing authorities in the county and extend upon all property in subclass 3 of class 1 within the county, a tax at the rate necessary to produce that amount. The rate of tax levied in each county according to this subsection shall not be increased above the rate first imposed and will stand levied at that rate unless later reduced according to the provisions of subsection 3. The county collector shall disburse the proceeds according to the revenue lost by each taxing authority because of the exemption of such property in that county. Restitution of the revenues lost by any taxing district contained in more than one county shall be from the several counties according to the revenue lost because of the exemption of property in each county. Each year after the first year the replacement tax is imposed, the amount distributed to each taxing authority in a county shall be increased or decreased by an amount equal to the amount resulting from the change in that district's total assessed value of property in subclass 3 of class 1 at the countywide replacement tax rate. In order to implement the provisions of this subsection, the limits set in section 11(b) of this article may be exceeded, without voter approval, if necessary to allow each county listed in section 11(b) to comply with this subsection.
+3. Any increase in the tax rate imposed pursuant to subsection 2 of this section shall be decreased if such decrease is approved by a majority of the voters of the county voting on such decrease. A decrease in the increased tax rate imposed under subsection 2 of this section may be submitted to the voters of a county by the governing body thereof upon its own order, ordinance, or resolution and shall be submitted upon the petition of at least eight percent of the qualified voters who voted in the immediately preceding gubernatorial election.
+4. As used in this section, the terms "revenues lost" and "lost revenues" shall mean that revenue which each taxing authority received from the imposition of a tangible personal property tax on all personal property held as industrial inventories, including raw materials, work in progress and finished work on hand, by manufacturers and refiners, and all personal property held as goods, wares, merchandise, stock in trade or inventory for resale by distributors, wholesalers, or retail merchants or establishments in the last full tax year immediately preceding the effective date of the exemption from taxation granted for such property under subsection 1 of this section, and which was no longer received after such exemption became effective.
+
+> (1951) Large tract of land (2300 acres) owned by Boy Scout Council and used in connection with scouting program by boys for training purposes held exempt from taxation. St. Louis Council, Boy Scouts v. Burgess, 362 Mo. 146, 240 S.W.2d 684.
+
+> (1952) Enactment appearing at Laws 1945, p. 1023 as § 6098a which imposed premium tax on insurance companies "in lieu of" intangible tax imposed by Chap. 146, RSMo, and exempting intangibles owned by such companies from intangible tax held invalid because conflicting with § 6, Art. X of the Const. Gen. Am. Life Ins. Co. v. Bates, 363 Mo. 143, 249 S.W.2d 458.
+
+> (1952) Airplane manufacturing and assembly plant originally erected on land owned by city and later conveyed to the city which rented it to operator and later sold it, held exempt from taxation while owned by city. School Dist. of Berkeley v. Evans, 363 Mo. 208, 250 S.W.2d 499.
+
+> (1953) Where statute imposing tax on insurance companies was held invalid because violative of this section, repeal of prior section was also invalid, so that prior section continued in effect. Missouri Ins. Co. v. Morris (Mo.), 255 S.W.2d 781.
+
+> (1953) Buildings owned by bible school operated for purpose of training ministers and missionaries and used for housing students and also containing apartments furnished without cost to faculty members and their families held exempt as being exclusively used for school and charitable purposes. Midwest Bible & Missionary Inst. v. Sestric, 364 Mo. 167, 260 S.W.2d 25.
+
+> (1953) Property owned by William Jewell College and leased for use as a foundry and industrial plant held exempt from taxation under special charter provision enacted in 1857 granting tax exemption for lands granted to said college for the benefit of education where rents from such property are used for "the benefit of education". State ex rel. Bannister v. Trustees of William Jewell College, 364 Mo. 199, 260 S.W.2d 479.
+
+> (1954) Section 353.110 is authorized by § 7, Art. X of the Const. and does not conflict with § 6, Art. X. Land Clearance for Redevelopment Auth. v. City of St. Louis (Mo.), 270 S.W.2d 58.
+
+> (1957) Buildings on land owned by the United States, erected by private corporations under lease with government held subject to taxation in this state. Such buildings were properly assessed as real estate. State ex rel. Benson v. Personnel Housing, Inc. (Mo.), 300 S.W.2d 506.
+
+> (1964) Hospital owned and operated by association, facilities of which generally were available only to members who paid monthly dues to the association, was not exempt from taxation though operated at a loss, since not operated exclusively for purposes purely charitable. Frisco Employees' Hospital Ass'n. v. State Tax Com'n. (Mo.), 381 S.W.2d 772.
+
+> (1966) Residential properties owned by charitable hospital and occupied by key personnel necessary to efficient operation who were on call 24 hours a day were used exclusively for charitable purposes and hence exempt from taxation. Bethesda General Hospital v. State Tax Commission (Mo.), 396 S.W.2d 631.
+
+> (1967) The charitable use doctrine depends upon the use made of the property sought to be exempted, and not solely upon the nature or stated purpose of the organization owning the property. Community Memorial Hospital v. City of Moberly (Mo.), 422 S.W.2d 290.
+
+> (1968) Leasehold interest held by private corporation in real estate owned by municipality is within definition of "real property" of § 137.010, RSMo, and is taxable as real property and the exemption accorded the municipality from taxation on its real estate does not extend to a privately owned leasehold in that real estate. Iron County v. State Tax Commission (Mo.), 437 S.W.2d 665.
+
+> (1968) Not-for-profit corporation's property used for housing for the aged was not used for purposes purely charitable and was not exempt from taxation. Defenders' Townhouse, Inc. v. Kansas City (Mo.), 441 S.W.2d 365.
+
+> (1969) Nonprofit corporation which operated housing facilities for low income elderly was not entitled to tax exemption where facility was intended to be completely self-supporting and self-liquidating without any intention that gifts or charity were to be involved. Paraclete Manor of Kansas City v. State Tax Com'n. (Mo.), 447 S.W.2d 311.
+
+> (1975) Youth summer camp owned by religious and charitable organization which did not charge adequate fees to cover costs held to be exempt from taxation. Jewish Community Centers Association v. State Tax Commission (Mo.), 520 S.W.2d 23.
+
+> (1975) Certain hospitals held to qualify as tax-exempt charitable institutions. Residence quarters used by nurses held tax exempt as incident to hospital's basic objectives. Jackson County v. State Tax Commission (Mo.), 521 S.W.2d 378.
+
+> (1975) If any part of property is used for noncharitable purpose, the whole is taxable. City of St. Louis v. State Tax Commission (Mo.), 524. S.W.2d 839.
+
+> (1977) Held, the term "religious worship" has as a minimum requirement a belief in a Supreme Being. Mo. Church of Scientology v. State Tax Comm. (Mo.), 560 S.W.2d 837.
+
+> (1990) Article X, § 4(c), permitting substitution of another form of taxation for the tax on bank shares, constitutes an exemption from personal property taxation in addition to exemptions enumerated in this section. Mercantile Bank Nat'l Ass'n. v. Berra, 796 S.W.2d 22 (Mo. banc).
+
+*02 Dec 2010 · Source: Const. of 1875, Art. X, §§ 6, 7 (Amended November 7, 1972) (Amended August 3, 1982) (Amended November 7, 2006) (Amended November 2, 2010).*
+
+### Section 6(a) Homestead exemption authorized.
+
+The general assembly may provide that a portion of the assessed valuation of real property actually occupied by the owner or owners thereof as a homestead, be exempted from the payment of taxes thereon, in such amounts and upon such conditions as may be determined by law, and the general assembly may provide for certain tax credits or rebates in lieu of or in addition to such an exemption, but any such law shall further provide for restitution to the respective political subdivisions of revenues lost, if any, by reason of the exemption, and any such law may also provide for comparable financial relief to persons who are not the owners of homesteads but who occupy rental property as their homes.
+
+*02 Sep 1982 · (Adopted November 7, 1972) (Amended August 3, 1982).*
+
+### Section 6(b) Intangible property exempt from taxation, when — local governments may be reimbursed, when.
+
+The general assembly may by general law exempt from taxation all intangible property, including taxation on the yield thereof, when owned by:
+(1) Individuals; or
+(2) Labor, agricultural or horticultural organizations; or
+(3) Corporations or associations organized and operated exclusively for religious, charitable, scientific or educational purposes, no part of the net income of which inures to the benefit of any private stockholder or individual; or
+(4) Hospitals which are exempt from payment of Missouri state income tax.
+­­
+­
+
+*07 Dec 1972 · (Adopted November 7, 1972).*
+
+### Section 7 Relief from taxation — forest lands — obsolete, decadent, or blighted areas — limitations — exception.
+
+For the purpose of encouraging forestry when lands are devoted exclusively to such purpose, and the reconstruction, redevelopment, and rehabilitation of obsolete, decadent, or blighted areas, the general assembly by general law may provide for such partial relief from taxation of the lands devoted to any such purpose, and of the improvements thereon, by such method or methods, for such period or periods of time, not exceeding twenty-five years in any instance, and upon such terms, conditions, and restrictions as it may prescribe; provided, however, that in the case of forest lands, the limitation of twenty-five years herein described shall not apply.
+
+> (1954) Section 353.110 is authorized by § 7, Art. X of the Const. and does not conflict with § 6, Art. X. Land Clearance for Redevelopment Auth. v. City of St. Louis (Mo.), 270 S.W.2d 58.
+
+> (1976) The exemption of not-for-profit cemeteries from taxation is from general taxes and not from special tax bills. Lakewood Park Cemetery Assn. v. Met. St. Louis Sewer Dist. (Mo.), 530 S.W.2d 240.
+
+*02 Sep 1976 · Source: Const. of 1945 (Amended August 3, 1976).*
+
+### Section 8 Limitation on state tax rate on tangible property.
+
+The state tax on real and tangible personal property, exclusive of the tax necessary to pay any bonded debt of the state, shall not exceed ten cents on the hundred dollars assessed valuation.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 8.*
+
+### Section 9 Immunity of private property from sale for municipal debts.
+
+Private property shall not be taken or sold for the payment of the corporate debt of a municipal corporation.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 13.*
+
+### Section 10(a) State prohibited from imposing local taxes for local purposes.
+
+Except as provided in this constitution, the general assembly shall not impose taxes upon counties or other political subdivisions or upon the inhabitants or property thereof for municipal, county or other corporate purposes.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 10.*
+
+### Section 10(b) State aid for local purposes.
+
+Nothing in this constitution shall prevent the enactment of general laws directing the payment of funds collected for state purposes to counties or other political subdivisions as state aid for local purposes.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 10(c) Reduction in rates of levy may be required by law.
+
+The general assembly may require by law that political subdivisions reduce the rate of levy of all property taxes the subdivisions impose whether the rate of levy is authorized by this constitution or by law. The general assembly may by law establish the method of increasing reduced rates of levy in subsequent years.
+
+*07 Dec 1978 · (Adopted November 7, 1978).*
+
+### Section 11(a) Taxing jurisdiction of local governments — limitation on assessed valuation.
+
+Taxes may be levied by counties and other political subdivisions on all property subject to their taxing power, but the assessed valuation therefor in such other political subdivisions shall not exceed the assessed valuation of the same property for state and county purposes.
+
+> (1955) Sewer district formed under § 30 of Art. VI of Const. may take the assessment of property by county and city assessors as basis for tax for its general purposes. State on Inf. Dalton v. Metropolitan St. L. Sewer Dist. (Mo.), 275 S.W.2d 225.
+
+> (1974) Held, duty of city not to exceed assessed valuation of property for state and county purpose is self-enforcing. Naegele Outdoor Co., Inc. v. Kansas City (Mo.), 509 S.W.2d 128.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 11 (Amended November 3, 1942).*
+
+### Section 11(b) Limitations on local tax rates.
+
+Any tax imposed upon such property by municipalities, counties or school districts, for their respective purposes, shall not exceed the following annual rates:
+For municipalities—one dollar on the hundred dollars assessed valuation;
+For counties—thirty-five cents on the hundred dollars assessed valuation in counties having three hundred million dollars, or more, assessed valuation and having by operation of law attained the classification of a county of the first class; and fifty cents on the hundred dollars assessed valuation in all other counties;
+For school districts formed of cities and towns, including the school district of the city of St. Louis—two dollars and seventy-five cents on the hundred dollars assessed valuation;
+For all other school districts—sixty-five cents on the hundred dollars assessed valuation.
+
+> (1951) Word "town" as used in limitation on school district tax, is not restricted to incorporated towns, so that school district in unincorporated town could levy tax of $1.00 on $100 valuation without approval of electors. Vanlandingham v. Reorganized School Dist. R-IV (Mo.), 243 S.W.2d 107.
+
+> (1967) This section does not prohibit an overlying district from levying a separate tax so that total tax levied by all districts exceeds limit imposed on "school districts". Three Rivers Junior College District v. Statler (Mo.), 421 S.W.2d 235.
+
+> (2003) Section authorizes a school district to set its property tax levy at $2.75 or less regardless of calculation required by section 22(a) of this article. Thompson v. Hunter, 119 S.W.3d 95 (Mo.banc).
+
+*03 Dec 1998 · Source: Const. of 1875, Art. X, § 11 (Amended November 3, 1942) (Amended January 14, 1966) (Amended October 5, 1971) (Amended November 3, 1998).*
+
+### Section 11(c) Increase of tax rate by popular vote — further limitation by law — exceptions to limitation.
+
+In all municipalities, counties and school districts the rates of taxation as herein limited may be increased for their respective purposes when the rate and purpose of the increase are submitted to a vote and two-thirds of the qualified electors voting thereon shall vote therefor; provided in school districts the rate of taxation as herein limited may be increased for school purposes so that the total levy shall not exceed six dollars on the hundred dollars assessed valuation, except as herein provided, when the rate and the purpose of the increase are submitted to a vote and a majority of the qualified electors voting thereon shall vote therefor; provided, that in any school district where the board of education is not proposing a higher tax rate for school purposes, the last tax rate approved shall continue and the tax rate need not be submitted to the voters; provided, that in school districts where the qualified voters have voted against a proposed higher tax rate for school purposes, then the rate shall remain at the rate approved in the last previous school election except that the board of education shall be free to resubmit any higher tax rate at any time; provided that any board of education may levy a lower tax rate than approved by the voters as authorized by any provision of this section; and provided, that the rates herein fixed, and the amounts by which they may be increased may be further limited by law; and provided further, that any county or other political subdivision, when authorized by law and within the limits fixed by law, may levy a rate of taxation on all property subject to its taxing powers in excess of the rates herein limited, for library, hospital, public health, recreation grounds and museum purposes.
+
+> (1952) In the absence of showing that voters in school district had approved tax levy in excess of 65 cents, mandamus will not lie to compel levy in such amount for purposes of paying judgment against district. State ex rel. Fredericktown Sch. Dist. v. Underwood Sch. Dist. (A.), 250 S.W.2d 843.
+
+> (1955) Under the 1950 amendment to § 11(c), Art. X, of the Const., the tax rate may be increased by a simple majority vote for one year so that total levy will not exceed three times the limit specified, for the purpose of creating a building fund for school buildings. Meaning of "school purposes" discussed extensively. Rathjen v. Reorganized Sch. Dist. R. II, 365 Mo. 518, 284 S.W.2d 516.
+
+> (1974) Held that use of language "school purposes" failed to meet the requirement that the ballot state the purpose of the increase. Street v. Maries County R-1 School Dist. of Maries County (Mo.), 511 S.W.2d 814.
+
+> (1975) Held that federal court had power to set a "maximum tax rate" which district could levy and that overriding of state constitutional provisions is necessary in order to guarantee federal rights. United States v. State of Missouri (C.A. Mo.), 515 F.2d 1365.
+
+> (1981) The 1970 amendment of Art. X, § 11(c) authorizing increase in rate of school district taxation could not be reasonably read to permit indefinite continuation of tax rate approved by voters for limited period of time only and was to be read to permit increase to continue indefinitely only when no time limit was placed on duration. Ederer v. Dalton (Mo.), 618 S.W.2d 644.
+
+*03 Dec 1998 · Source: Const. of 1945 (Amended November 7, 1950) (Amended November 3, 1970) (Amended November 3, 1998).*
+
+### Section 11(d) Tax rate in St. Louis for county purposes.
+
+The city of St. Louis may levy for county purposes, in addition to the municipal rates herein provided, a rate not exceeding the rate allowed for county purposes.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 11 (Amended November 3, 1942).*
+
+### Section 11(e) Exclusion of bonded debt from limitations on tax rates.
+
+The foregoing limitations on rates shall not apply to taxes levied for the purpose of paying any bonded debt.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. X, § 11.*
+
+### Section 11(f) Authorization of local taxes other than ad valorem taxes.
+
+Nothing in this constitution shall prevent the enactment of any general law permitting any county or other political subdivision to levy taxes other than ad valorem taxes for its essential purposes.
+
+> (1953) Act authorizing tax levy by city of 700,000, enacted in 1952 and having an expiration date in 1954 held not local or special law forbidden by the Constitution. Walters v. City of St. Louis, 304 Mo. 56, 259 S.W.2d 377.
+
+> (1968) The enabling legislation for the St. Louis earnings tax does not violate constitutional provisions against arbitrary and unreasonable classification of taxes. Barhorst v. City of St. Louis (Mo.), 423 S.W.2d 843.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 11(g) Operating levy for Kansas City school district may be set by school board.
+
+The school board of any school district whose operating levy for school purposes for the 1995 tax year was established pursuant to a federal court order may establish the operating levy for school purposes for the district at a rate that is lower than the court-ordered rate for the 1995 tax year. The rate so established may be changed from year to year by the school board of the district. Approval by a majority of the voters of the district voting thereon shall be required for any operating levy for school purposes equal to or greater than the rate established by court order for the 1995 tax year. The authority granted in this section shall apply to any successor school district or successor school districts of such school district.
+
+*07 May 1998 · (Adopted April 7, 1998).*
+
+### Section 12(a) Additional tax rates for county roads and bridges — road districts — reduction in rate may be required, how.
+
+In addition to the rates authorized in section 11 for county purposes, the county court in the several counties not under township organization, the township board of directors in the counties under township organization, and the proper administrative body in counties adopting an alternative form of government, may levy an additional tax, not exceeding fifty cents on each hundred dollars assessed valuation, all of such tax to be collected and turned in to the county treasury to be used for road and bridge purposes; provided that, before any such county may increase its tax levy for road and bridge purposes above thirty-five cents it must submit such increase to the qualified voters of that county at a general or special election and receive the approval of a majority of the voters voting on such increase. In addition to the above levy for road and bridge purposes, it shall be the duty of the county court, when so authorized by a majority of the qualified electors of any road district, general or special, voting thereon at an election held for such purpose, to make an additional levy of not to exceed thirty-five cents on the hundred dollars assessed valuation on all taxable real and tangible personal property within such district, to be collected in the same manner as state and county taxes, and placed to the credit of the road district authorizing such levy, such election to be called and held in the manner provided by law provided that the general assembly may require by law that the rates authorized herein may be reduced.
+
+*07 Dec 1978 · Source: Const. of 1875, Art. X, §§ 22, 23 (Adopted November 3, 1908, and November 2, 1920) (Amended November 7, 1978).*
+
+### Section 12(b) Refund of road and bridge taxes.
+
+Nothing in this section shall prevent the refund of taxes collected hereunder to cities and towns for road and bridge purposes.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 13 Tax sales — limitations — contents of notices.
+
+No real property shall be sold for state, county or city taxes without judicial proceedings, unless the notice of sale shall contain the names of all record owners thereof, or the names of all owners appearing on the land tax book, and all other information required by law.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 14 Equalization commission — appointment — duties.
+
+The general assembly shall establish a commission, to be appointed by the governor by and with the advice and consent of the senate, to equalize assessments as between counties and, under such rules as may be prescribed by law, to hear appeals from local boards in individual cases and, upon such appeal, to correct any assessment which is shown to be unlawful, unfair, arbitrary or capricious. Such commission shall perform all other duties prescribed by law.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 15 Definition of "other political subdivision".
+
+The term "other political subdivision," as used in this article, shall be construed to include townships, cities, towns, villages, school, road, drainage, sewer and levee districts and any other public subdivision, public corporation or public quasi-corporation having the power to tax.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 16 Taxes and state spending to be limited — state to support certain local activities — emergency spending and bond payments to be authorized.
+
+Property taxes and other local taxes and state taxation and spending may not be increased above the limitations specified herein without direct voter approval as provided by this constitution. The state is prohibited from requiring any new or expanded activities by counties and other political subdivisions without full state financing, or from shifting the tax burden to counties and other political subdivisions. A provision for emergency conditions is established and the repayment of voter approved bonded indebtedness is guaranteed. Implementation of this section is specified in sections 17 through 24, inclusive, of this article.
+
+*04 Dec 1980 · (Adopted November 4, 1980).*
+
+### Section 17 Definitions.
+
+As used in sections 16 through 24 of Article X:
+(1) "Total state revenues" includes all general and special revenues, license and fees, excluding federal funds, as defined in the budget message of the governor for fiscal year 1980-1981. Total state revenues shall exclude the amount of any credits based on actual tax liabilities or the imputed tax components of rental payments, but shall include the amount of any credits not related to actual tax liabilities.
+(2) "Personal income of Missouri" is the total income received by persons in Missouri from all sources, as defined and officially reported by the United States Department of Commerce or its successor agency.
+(3) "General price level" means the Consumer Price Index for All Urban Consumers for the United States, or its successor publications, as defined and officially reported by the United States Department of Labor, or its successor agency.
+
+> (1997) Local use taxes, local portion of admission fees assessed against riverboat casino passengers and certain state licensing taxes did not qualify as "revenue" to be included in total state revenue for purposes of Hancock Amendment. Funds must be received into state treasury and subject to appropriation to qualify as "revenue". Kelly v. Hanson, 959 S.W.2d 107 (Mo.banc).
+
+> (1997) Term "personal income of Missouri" is defined in Hancock Amendment as figure officially reported by the United States Department of Commerce. Section is not unconstitutionally vague. Missourians for Tax Justice Education Project v. Holden, 959 S.W.2d 100 (Mo.).
+
+*04 Dec 1980 · (Adopted November 4, 1980).
+1997) Term "total state revenues" as used in Hancock Amendment has been judicially interpreted to mean sum of all taxes, excises, customs, duties and other sources of income received by the state in a fiscal year. Section is not unconstitutionally vague. Missourians for Tax Justice Education Project v. Holden, 959 S.W.2d 100 (Mo.).*
+
+### Section 18 Limitation on taxes which may be imposed by general assembly — exclusions — refund of excess revenue — adjustments authorized.
+
+(a) There is hereby established a limit on the total amount of taxes which may be imposed by the general assembly in any fiscal year on the taxpayers of this state. Effective with fiscal year 1981-1982, and for each fiscal year thereafter, the general assembly shall not impose taxes of any kind which, together with all other revenues of the state, federal funds excluded, exceed the revenue limit established in this section. The revenue limit shall be calculated for each fiscal year and shall be equal to the product of the ratio of total state revenues in fiscal year 1980-1981 divided by the personal income of Missouri in calendar year 1979 multiplied by the personal income of Missouri in either the calendar year prior to the calendar year in which appropriations for the fiscal year for which the calculation is being made, or the average of personal income of Missouri in the previous three calendar years, whichever is greater.
+(b) For any fiscal year in the event that total state revenues exceed the revenue limit established in this section by one percent or more, the excess revenues shall be refunded pro rata based on the liability reported on the Missouri state income tax (or its successor tax or taxes) annual returns filed following the close of such fiscal year. If the excess is less than one percent, this excess shall be transferred to the general revenue fund.
+(c) The revenue limitation established in this section shall not apply to taxes imposed for the payment of principal and interest on bonds, approved by the voters and authorized under the provisions of this constitution.
+(d) If responsibility for funding a program or programs is transferred from one level of government to another, as a consequence of constitutional amendment, the state revenue and spending limits may be adjusted to accommodate such change, provided that the total revenue authorized for collection by both state and local governments does not exceed that amount which would have been authorized without such change.
+
+> (1983) Revenue generated in prior years cannot be included in "total state revenues" in fiscal year 1980-1981 for purposes of determining the revenue limit. Buechner v. Bond (Mo. banc), 650 S.W.2d 611.
+
+> (1997) Classification of "income taxpayers" did not warrant strict scrutiny. Section does not violate equal protection clause of constitution. Missourians for Tax Justice Education Project v. Holden, 959 S.W.2d 100 (Mo.).
+
+*04 Dec 1980 · (Adopted November 4, 1980).*
+
+### Section 18(e) Voter approval required for taxes or fees, when, exceptions — compliance procedure, remedies.
+
+1. In addition to the revenue limit imposed by section 18 of this article, the general assembly in any fiscal year shall not increase taxes or fees without voter approval that in total produce new annual revenues greater than either fifty million dollars adjusted annually by the percentage change in the personal income of Missouri for the second previous fiscal year, or one percent of total state revenues for the second fiscal year prior to the general assembly's action, whichever is less. In the event that an individual or series of tax or fee increases exceed the ceiling established in this subsection, the taxes or fees shall be submitted by the general assembly to a public vote starting with the largest increase in the given year, and including all increases in descending order, until the aggregate of the remaining increases and decreases is less than the ceiling provided in this subsection.
+2. The term "new annual revenues" means the net increase in annual revenues produced by the total of all tax or fee increases enacted by the general assembly in a fiscal year, less applicable refunds and less all contemporaneously occurring tax or fee reductions in that same fiscal year, and shall not include interest earnings on the proceeds of the tax or fee increase. For purposes of this calculation, "enacted by the general assembly" shall include any and all bills that are truly agreed to and finally passed within that fiscal year, except bills vetoed by the governor and not overridden by the general assembly. Each individual tax or fee increase shall be measured by the estimated new annual revenues collected during the first fiscal year that it is fully effective. The term "increase taxes or fees" means any law or laws passed by the general assembly after the effective date of this section* that increase the rate of an existing tax or fee, impose a new tax or fee, or broaden the scope of a tax or fee to include additional class of property, activity, or income, but shall not include the extension of an existing tax or fee which was set to expire.
+3. In the event of an emergency, the general assembly may increase taxes, licenses or fees for one year beyond the limit in this subsection under the same procedure specified in section 19 of this article.
+4. Compliance with the limit in this section shall be measured by calculating the aggregate actual new annual revenues produced in the first fiscal year that each individual tax or fee change is fully effective.
+5. Any taxpayer or statewide elected official may bring an action under the provisions of section 23 of this article to enforce compliance with the provisions of this section. The Missouri supreme court shall have original jurisdiction to hear any challenge brought by any statewide elected official to enforce this section. In such enforcement actions, the court shall invalidate the taxes and fees which should have received a public vote as defined in subsection 1 of this section. The court shall order remedies of the amount of revenue collected in excess of the limit in this subsection as the court finds appropriate in order to allow such excess amounts to be refunded or to reduce taxes and/or fees in the future to offset the excess monies collected.
+
+*02 May 1996 · (Adopted April 2, 1996).
+*Effective 05-02-1996*
+
+### Section 19 Limits may be exceeded, when, how.
+
+The revenue limit of section 18 of this article may be exceeded only if all of the following conditions are met: (1) The governor requests the general assembly to declare an emergency; (2) the request is specific as to the nature of the emergency, the dollar amount of the emergency, and the method by which the emergency will be funded; and (3) the general assembly thereafter declares an emergency in accordance with the specifics of the governor's request by a majority vote for fiscal year 1981-1982, thereafter a two-thirds vote of the members elected to and serving in each house. The emergency must be declared in accordance with this section prior to incurring any of the expenses which constitute the emergency request. The revenue limit may be exceeded only during the fiscal year for which the emergency is declared. In no event shall any part of the amount representing a refund under section 18 of this article be the subject of an emergency request.
+
+*04 Dec 1980 · (Adopted November 4, 1980).*
+
+### Section 20 Limitation on state expenses.
+
+No expenses of state government shall be incurred in any fiscal year which exceed the sum of the revenue limit established in sections 18 and 19 of this article plus federal funds and any surplus from a previous fiscal year.
+
+*04 Dec 1980 · (Adopted November 4, 1980).*
+
+### Section 21 State support to local governments not to be reduced, additional activities and services not to be imposed without full state funding.
+
+1. The state is hereby prohibited from reducing the state financed proportion of the costs of any existing activity or service required of counties and other political subdivisions. A new activity or service or an increase in the level of any activity or service beyond that required by existing law shall not be required by the general assembly or any state agency of counties or other political subdivisions, unless a state appropriation is made and disbursed to pay the county or other political subdivision for any increased costs.
+2. Notwithstanding the foregoing prohibitions, before December 31, 2026, the general assembly may by law increase minimum funding for a police force established by a state board of police commissioners to ensure such police force has additional resources to serve its communities.
+
+> (1982) St. Louis Board of Police Commissioners is a state agency for purposes of this section and cannot require the City of St. Louis to increase its level of activities beyond that required by law when the Hancock Amendment became effective; therefore, it is unconstitutional for the Board to require the city to appropriate more than budget certified as of effective date of the Hancock Amendment, and the Board has to look to the General Assembly for fund increase. State ex rel. Sayad v. Zych (Mo. banc), 642 S.W.2d 907.
+
+> (1985) The Hancock Amendment does not prohibit the Judicial Finance Commission from requiring that a county pay attorney fees incurred by the circuit court and judge in defending a federal civil rights action brought by juvenile court employees. In re 1984 Budget for Circuit Court (Mo. banc), 687 S.W.2d 896.
+
+> (2024) The fiscal note summary for Constitutional Amendment No. 4, 2022, constituted an irregularity of sufficient magnitude to cast doubt on the fairness of the election and the validity of the results. The Constitutional Amendment No. 4 results from the 2022 general election are set aside and a special election is ordered to be conducted as part of the general election on November 5, 2024. Lucas v. Ashcroft, 688 S.W.3d 204 (Mo. banc)
+
+*08 Dec 2022 · (Adopted November 4, 1980) (Amended November 8, 2022) (Amended August 6, 2024).*
+
+### Section 22 Political subdivisions to receive voter approval for increases in taxes and fees — rollbacks may be required — limitation not applicable to taxes for bonds.
+
+(a) Counties and other political subdivisions are hereby prohibited from levying any tax, license or fees, not authorized by law, charter or self-enforcing provisions of the constitution when this section is adopted or from increasing the current levy of an existing tax, license or fees, above that current levy authorized by law or charter when this section is adopted without the approval of the required majority of the qualified voters of that county or other political subdivision voting thereon. If the definition of the base of an existing tax, license or fees, is broadened, the maximum authorized current levy of taxation on the new base in each county or other political subdivision shall be reduced to yield the same estimated gross revenue as on the prior base. If the assessed valuation of property as finally equalized, excluding the value of new construction and improvements, increases by a larger percentage than the increase in the general price level from the previous year, the maximum authorized current levy applied thereto in each county or other political subdivision shall be reduced to yield the same gross revenue from existing property, adjusted for changes in the general price level, as could have been collected at the existing authorized levy on the prior assessed value.
+(b) The limitations of this section shall not apply to taxes imposed for the payment of principal and interest on bonds or other evidence of indebtedness or for the payment of assessments on contract obligations in anticipation of which bonds are issued which were authorized prior to the effective date of this section.
+
+> (1983) Voter approval is required before there can be an increase in the current levy of an existing tax above the current levy authorized by law on November 4, 1980, even if increase is within the authorized constitutional and statutory maximum rate. Wenzlaff v. Lawton (Mo. banc), No. 64862, June 30, 1983.
+
+> (2013) Metropolitan sewer district's stormwater user charge implemented without voter approval was a tax rather than a fee and thus unconstitutional under section. Also, section does not authorize courts to order a political subdivision to refund taxes collected in violation of provision. Zweig v. Metropolitan St. Louis Sewer Dist., 412 S.W.3d 223 (Mo.banc).
+
+*04 Dec 1980 · (Adopted November 4, 1980).
+CROSS REFERENCES:
+License or fees adjustment by political subdivision not deemed "increase" as used in Mo. Const., Art. X, § 22, when, RSMo 67.042
+Public record copying fees not deemed to be tax, license or fees as used by Art. X, § 22, RSMo 610.026*
+
+### Section 23 Taxpayers may bring actions for interpretations of limitations.
+
+Notwithstanding other provisions of this constitution or other law, any taxpayer of the state, county, or other political subdivision shall have standing to bring suit in a circuit court of proper venue and additionally, when the state is involved, in the Missouri supreme court, to enforce the provisions of sections 16 through 22, inclusive, of this article and, if the suit is sustained, shall receive from the applicable unit of government his costs, including reasonable attorneys' fees incurred in maintaining such suit.
+
+> (1987) In a suit against a business district to enforce provisions of the Hancock Amendment, it was held that the city in which the district was formed, rather than the district itself, was liable for prevailing plaintiff's attorneys' fees. Gilroy Sims & Assoc. v. Downtown St. Louis, 729 S.W.2d 504 (Mo.App. 1987).
+
+*04 Dec 1980 · (Adopted November 4, 1980).*
+
+### Section 24 Voter approval requirements not exclusive — self-enforceability.
+
+(a) The provisions for voter approval contained in sections 16 through 23, inclusive, of this article do not abrogate and are in addition to other provisions of the constitution requiring voter approval to incur bonded indebtedness and to authorize certain taxes.
+(b) The provisions contained in sections 16 through 23, inclusive, of this article are self-enforcing; provided, however, that the general assembly may enact laws implementing such provisions which are not inconsistent with the purposes of said sections.
+
+*04 Dec 1980 · (Adopted November 4, 1980).*
+
+### Section 25 Sale or transfer of homes or other real estate, prohibition on imposition of any new taxes, when.
+
+After the effective date of this section, the state, counties, and other political subdivisions are hereby prevented from imposing any new tax, including a sales tax, on the sale or transfer of homes or any other real estate.
+
+*02 Dec 2010 · (Adopted November 2, 2010)*
+
+### Section 26 Prohibition on new or local sales, use, or other similar transaction-based tax not subject to such tax as of January 1, 2015.
+
+In order to prohibit an increase in the tax burden on the citizens of Missouri, state and local sales and use taxes (or any similar transaction-based tax) shall not be expanded to impose taxes on any service or transaction that was not subject to sales, use or similar transaction-based tax on January 1, 2015.
+
+*08 Dec 2016 · (Adopted November 8, 2016).*
+
+## Article XI — Corporations
+
+### Section 1 Definition of "corporation".
+
+The term "corporation," as used in this article, shall be construed to include all joint stock companies or associations having any powers or privileges not possessed by individuals or partnerships.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, § 11.*
+
+### Section 2 Organization of corporations by general law — special laws relating to corporations — invalidation of unexercised charters and franchises.
+
+Corporations shall be organized only under general laws. No corporation shall be created, nor shall any existing charter be extended or amended by special law; nor shall any law remit the forfeiture of any charter granted by special act. All existing charters, or grants of special or exclusive privileges, under which a bona fide organization was not completed, and business was not being done in good faith at the adoption of this constitution, shall thereafter have no validity.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, §§ 1, 2, 3.*
+
+### Section 3 Exercise of police power with respect to corporations.
+
+The exercise of the police power of the state shall never be surrendered, abridged, or construed to permit corporations to infringe the equal rights of individuals, or the general well-being of the state.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, § 5.*
+
+### Section 4 Corporations subject to eminent domain — trial by jury.
+
+The exercise of the power and right of eminent domain shall never be construed or abridged to prevent the taking by law of the property and franchises of corporations and subjecting them to public use. The right of trial by jury shall be held inviolate in all trials of claims for compensation, when the rights of any corporation are affected by any exercise of said power of eminent domain.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, § 4.*
+
+### Section 6 Cumulative voting authorized unless alternate method provided by law — exceptions.
+
+In all elections for directors or managers of any corporation, each shareholder shall have the right to cast as many votes in the aggregate as shall equal the number of shares held by him, multiplied by the number of directors or managers to be elected, and may cast the whole number of votes, either in person or by proxy for one candidate, or distribute such votes among two or more candidates; and such directors or managers shall not be elected in any other manner unless an alternative method of electing and removing directors and managers is adopted as provided by law; provided, that this section shall not apply to cooperative associations, societies or exchanges organized under the law.
+
+> (1963) Provisions in articles of incorporation of general business corporations providing for the issuance of two classes of common stock, one with voting rights and one without, were not invalid as being in violation of this section or against public policy. Shapiro v. Tropicana Lanes, Inc. (Mo.), 371 S.W.2d 237.
+
+*01 Sep 1988 · Source: Const. of 1875, Art. XII, § 6 (Amended August 2, 1988).*
+
+### Section 7 Consideration for corporate stock and debts — fictitious issues — antecedent debts — increases of stock or bonds — issuance of preferred stock.
+
+No corporation shall issue stock, or bonds or other obligations for the payment of money, except for money paid, labor done or property actually received; and all fictitious issues or increases of stock or indebtedness shall be void; provided, that no such issue or increase made for valid bona fide antecedent debts shall be deemed fictitious or void. The stock or bonded indebtedness of corporations shall not be increased nor shall preferred stock be issued, except according to general law.
+
+> (1966) In the absence of actual fraud in the sale of shares to officers and key employees of corporation under stock option plan, the judgment of the board of directors as to the value of the consid- eration received for the shares will not be interfered with. Saigh v. Busch (Mo.), 403 S.W.2d 559.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, §§ 8, 10.*
+
+### Section 8 Limitation of liability of stockholders.
+
+No stockholder or subscriber to stock of a corporation shall be individually liable in any amount in excess of the amount originally subscribed on such stock.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, § 9.*
+
+### Section 9 Public highways — common carriers — regulations.
+
+All railways in this state are hereby declared public highways, and railroad corporations common carriers. Laws shall be enacted to correct abuses and prevent unjust discrimination and extortion in the rates of freight and passenger tariffs on all railroads in this state.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, § 14.*
+
+### Section 10 Consolidation of domestic with foreign railroad corporations — jurisdiction of Missouri courts — notice of consolidation.
+
+If any railroad corporation organized under the laws of this state shall consolidate by sale or otherwise, with any railroad corporation organized under the laws of any other state, or of the United States, the same shall not thereby become a foreign corporation, but the courts of this state shall retain jurisdiction in all matters which may arise as if said consolidation had not taken place. No consolidation shall take place, except upon at least sixty days public notice to all stockholders, in the manner provided by law.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, § 18.*
+
+### Section 11 Local consent for street railroads.
+
+No law shall grant the right to construct and operate a street railroad within any city, town, village, or on any public highway, without first acquiring the consent of the local authorities having control of the street or highway, and the franchises so granted shall not be transferred without similar assent first obtained.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, § 20.*
+
+### Section 12 Prohibition of discrimination, favoritism and preferences.
+
+No discrimination in charges or facilities in transportation shall be made between transportation corporations and individuals, or in favor of either, by abatement, drawback or otherwise; and no common carrier, or any lessee, manager or employee thereof, shall make any preference in furnishing cars or motive power.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, § 23.*
+
+### Section 13 Exclusion of state from banking.
+
+No state bank shall be created, nor shall the state own or be liable for any stock in any corporation, joint stock company, or association for banking purposes.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XII, § 25.*
+
+## Article XII — Amending the Constitution
+
+### Section 1 SCHEDULE — Supersession of prior constitutional provisions.
+
+The constitution of 1875 and all amendments thereto except as hereinafter provided shall be superseded by this constitution.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 1 Limitation on revision and amendment.
+
+This constitution may be revised and amended only as therein provided.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XV, § 1 (Amended November 2, 1920).*
+
+### Section 2 SCHEDULE — Effect on existing laws.
+
+All laws in force at the time of the adoption of this constitution and consistent therewith shall remain in full force and effect until amended or repealed by the general assembly. All laws inconsistent with this constitution, unless sooner repealed or amended to conform with this constitution, shall remain in full force and effect until July 1, 1946.
+
+*27 Feb 1945 · Source: Const. of 1875, Sch. § 1.*
+
+### Section 2(a) Proposal of amendments by general assembly.
+
+Constitutional amendments may be proposed at any time by a majority of the members-elect of each house of the general assembly, the vote to be taken by yeas and nays and entered on the journal.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XV, § 2 (Amended November 2, 1920).*
+
+### Section 2(b) Submission of amendments proposed by general assembly or by the initiative.
+
+All amendments proposed by the general assembly or by the initiative shall be submitted to the electors for their approval or rejection by official ballot title as may be provided by law, on a separate ballot without party designation, at the next general election, or at a special election called by the governor prior thereto, at which he may submit any of the amendments. No such proposed amendment shall contain more than one amended and revised article of this constitution, or one new article which shall not contain more than one subject and matters properly connected therewith. If possible, each proposed amendment shall be published once a week for two consecutive weeks in two newspapers of different political faith in each county, the last publication to be not more than thirty nor less than fifteen days next preceding the election. If there be but one newspaper in any county, publication for four consecutive weeks shall be made. If a majority of the votes cast thereon is in favor of any amendment, the same shall take effect at the end of thirty days after the election. More than one amendment at the same election shall be so submitted as to enable the electors to vote on each amendment separately.
+
+> (1956) Where publication of proposed amendment was defective in several counties but publication was had in one or more newspapers in every county the court held that the constitutional and statutory provisions prescribing the manner of publication were directory and that there had been a sufficient and substantial compliance therewith. State ex rel. Board of Fund Commissioners v. Holman (Mo.), 296 S.W.2d 482.
+
+> (1956) An amendment of a section of the constitution is not invalid though it modifies other provisions of the constitution if it deals with only one subject and matters properly connected therewith. State ex rel. Board of Fund Commissioners v. Holman (Mo.), 296 S.W.2d 482.
+
+> (1956) Adoption of § 37(a), Art. III, held valid against the charge that the proposal combined into one proposition the incurrence of indebtedness and issuance of bonds for distinct and different purposes not germane one to the other in violation of this section. State ex rel. Board of Fund Commissioners v. Holman (Mo.), 296 S.W.2d 482.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XV, § 2 (Amended November 2, 1920).*
+
+### Section 3 SCHEDULE — Effect on existing terms of office.
+
+The terms of all persons holding public office to which they have been elected or appointed at the time this constitution shall take effect shall not be vacated or otherwise affected thereby.
+
+*27 Feb 1945 · Source: Const. of 1945.*
+
+### Section 3(a) Referendum on constitutional convention — qualifications of delegates — selection of nominees for district delegates and delegates-at-large — election procedure.
+
+At the general election on the first Tuesday following the first Monday in November 1962, and every twenty years thereafter, the secretary of state shall, and at any general or special election the general assembly by law may, submit to the electors of the state the question "Shall there be a convention to revise and amend the constitution?" The question shall be submitted on a separate ballot without party designation, and if a majority of the votes cast thereon is for the affirmative, the governor shall call an election of delegates to the convention on a day not less than three nor more than six months after the election on the question. At the election the electors of the state shall elect fifteen delegates-at-large and the electors of each state senatorial district shall elect two delegates. Each delegate shall possess the qualifications of a senator; and no person holding any other office of trust or profit (officers of the organized militia, school directors, justices of the peace and notaries public excepted) shall be eligible to be elected a delegate. To secure representation from different political parties in each senatorial district, in the manner prescribed by its senatorial district committee each political party shall nominate but one candidate for delegate from each senatorial district, the certificate of nomination shall be filed in the office of the secretary of state at least thirty days before the election, each candidate shall be voted for on a separate ballot bearing the party designation, each elector shall vote for but one of the candidates, and the two candidates receiving the highest number of votes in each senatorial district shall be elected. Candidates for delegates-at-large shall be nominated by nominating petitions only, which shall be signed by electors of the state equal to five percent of the legal voters in the senatorial district in which the candidate resides until otherwise provided by law, and shall be verified as provided by law for initiative petitions, and filed in the office of the secretary of state at least thirty days before the election. All such candidates shall be voted for on a separate ballot without party designation, and the fifteen receiving the highest number of votes shall be elected. Not less than fifteen days before the election, the secretary of state shall certify to the county clerk of the county the name of each person nominated for the office of delegate from the senatorial district in which the county, or any part of it, is included, and the names of all persons nominated for delegates-at-large.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XV, §§ 3, 4 (Amended November 2, 1920).*
+
+### Section 3(b) Convention of delegates — quarters — oath — compensation — quorum — vote required — organization, employees, printing — public sessions — rules — vacancies.
+
+The delegates so elected shall be convened at the seat of government by proclamation of the governor within six months after their election. The facilities of the legislative chambers and legislative quarters shall be made available for the convention and the delegates. Upon convening all delegates shall take an oath or affirmation to support the Constitution of the United States and of the state of Missouri, and to discharge faithfully their duties as delegates to the convention, and shall receive for their services the sum of ten dollars per diem and mileage as provided by law for members of the general assembly. A majority of the delegates shall constitute a quorum for the transaction of business, and no constitution or amendment to this constitution shall be submitted to the electors for approval or rejection unless by the assent of a majority of all the delegates-elect, the yeas and nays being entered on the journal. The convention may appoint such officers, employees and assistants as it may deem necessary, fix their compensation, provide for the printing of its documents, journals, proceedings and a record of its debates, and appropriate money for the expenditures incurred. The sessions of the convention shall be held with open doors, and it shall determine the rules of its own proceedings, choose its own officers, and be the judge of the election, returns and qualifications of its delegates. In case of a vacancy by death, resignation or other cause, the vacancy shall be filled by the governor by the appointment of another delegate of the political party of the delegate causing the vacancy.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XV, § 3 (Amended November 2, 1920).*
+
+### Section 3(c) Submission of proposal adopted by convention — time of election — effective date.
+
+Any proposed constitution or constitutional amendment adopted by the convention shall be submitted to a vote of the electors of the state at such time, in such manner and containing such separate and alternative propositions and on such official ballot as may be provided by the convention, at a special election not less than sixty days nor more than six months after the adjournment of the convention. Upon the approval of the constitution or constitutional amendments the same shall take effect at the end of thirty days after the election. The result of the election shall be proclaimed by the governor.
+
+*27 Feb 1945 · Source: Const. of 1875, Art. XV, § 3 . (As amended November 2, 1920)*
+
+### Section 4 SCHEDULE — Effect on certain existing courts.
+
+All courts of common pleas now existing, the St. Louis courts of criminal correction, and all circuit court circuits as now established, shall continue until changed or abolished by law. The justices of the peace shall continue to hold their offices and receive the emoluments thereof until their terms of office expire, upon which their records shall be transferred to the magistrate courts.
+
+*27 Feb 1945 · Source: Const of 1875, Sch. §§ 4, 5.*
+
+### Section 5 SCHEDULE — Effect on existing rights, claims.
+
+All rights, claims, causes of action and obligations existing and all contracts, prosecutions, recognizances and other instruments executed or entered into and all indictments which shall have been found and informations which shall have been filed and all actions which shall have been instituted and all fines, taxes, penalties and forfeitures assessed, levied, due or owing prior to the adoption of this constitution shall continue to be as valid as if this constitution had not been adopted.
+
+*27 Feb 1945 · Source: Const. of 1875, Sch. §§ 1, 2.*
+
+### Section 6 SCHEDULE — Reimbursement for expenses of constitutional election.
+
+The general assembly shall appropriate out of the general revenue fund of the state a sum sufficient to reimburse the various counties for the sums legally and properly paid by them to the judges and clerks of the special election called for the purpose of adopting or rejecting this constitution.
+
+*27 Feb 1945 · (Done in convention, September 28, 1944).*
+
+## Article XIII — Public Employees
+
+### Section 1 Medical benefits may be authorized for state officers, employees and their dependents.
+
+Other provisions of this constitution to the contrary notwithstanding, the general assembly may provide or contract for health insurance benefits, including but not limited to hospital, chiropractic, surgical, medical, optical, and dental benefits, for officers and employees of the state and their dependents, including those employees of entities controlled by boards or commissions created by this constitution.
+
+*06 Dec 1984 · (Adopted November 6, 1984).*
+
+### Section 2 Medical benefits may be authorized for political subdivision officers, employees and their dependents.
+
+Other provisions of this constitution to the contrary notwithstanding, the general assembly may authorize any county, city or other political corporation or subdivision to provide or contract for health insurance benefits, including but not limited to hospital, chiropractic, surgical, medical, optical, and dental benefits, for officers and employees and their dependents.
+
+*06 Dec 1984 · (Adopted November 6, 1984).*
+
+### Section 3 Compensation of state elected officials, general assembly members and judges to be set by Missouri Citizens' Commission on Compensation — members qualifications, terms, removal, vacancies, duties — procedure.
+
+1. Other provisions of this constitution to the contrary notwithstanding, in order to ensure that the power to control the rate of compensation of elected officials of this state is retained and exercised by the tax paying citizens of the state, after the effective date of this section no elected state official, member of the general assembly, or judge, except municipal judges, shall receive compensation for the performance of their duties other than in the amount established for each office by the Missouri citizens' commission on compensation for elected officials established pursuant to the provisions of this section. The term "compensation" includes the salary rate established by law, milage allowances, per diem expense allowances.
+2. There is created a commission to be known as the "Missouri Citizens' Commission on Compensation for Elected Officials". The Commission shall be selected in the following manner:
+(1) One member of the commission shall be selected at random by the secretary of state from each congressional district from among those registered voters eligible to vote at the time of selection. The secretary of state shall establish policies and procedures for conducting the selection at random. In making the selections, the secretary of state shall establish a selection system to ensure that no more than five of the members shall be from the same political party. The policies shall include, but not be limited to, the method of notifying persons selected and for providing for a new selection if any person declines appointment to the commission;
+(2) One member shall be a retired judge appointed by the judges of the supreme court, en banc;
+(3) Twelve members shall be appointed by the governor, by and with the advice and consent of the senate. Not more than six of the appointees shall be members of the same political party. Of the persons appointed by the governor, one shall be a person who has had experience in the field of personnel management, one shall be a person who is representative of organized labor, one shall be a person representing small business in this state, one shall be the chief executive officer of a business doing an average gross annual business in excess of one million dollars, one shall be a person representing the health care industry, one shall be a person representing agriculture, two shall be persons over the age of sixty years, four shall be citizens of a county of the third classification, two of such citizens selected from a county of the third classification shall be selected from north of the Missouri River and two shall be selected from south of the Missouri River. No two persons selected to represent a county of the third classification shall be from the same county nor shall such persons be appointed from any county represented by an appointment to the commission by the secretary of state pursuant to subdivision (1) of this subsection.
+3. All members of the commission shall be residents and registered voters of the state of Missouri. Except as otherwise specifically provided in this section, no state official, no member of the general assembly, no active judge of any court, no employee of the state or any of its institutions, boards, commissions, agencies or other entities, no elected or appointed official or employee of any political subdivision of the state, and no lobbyist as defined by law shall serve as a member of the commission. No immediate family member of any person ineligible for service on the commission under the provisions of this subsection may serve on the commission. The phrase "immediate family" means the parents, spouse, siblings, children, or dependant relative of the person whether or not living in the same household.
+4. Members of the commission shall hold office for a term of four years. No person may be appointed to the commission more than once. No member of the commission may be removed from office during the term for which appointed except for incapacity, incompetence, neglect of duty, malfeasance in office, or for a disqualifying change of residence. Any action for removal shall be brought by the attorney general at the request of the governor and shall be heard in the circuit court for the county in which the accused commission member resides.
+5. The first appointments to the commission shall be made not later than February 1, 1996, and not later than February first every four years thereafter. All appointments shall be filed with the secretary of state, who shall call the first meeting of the commission not later than March 1, 1996, and shall preside at the first meeting until the commission is organized. The members of the commission shall organize and elect a chairperson and such other officers as the commission finds necessary.
+6. Upon a vacancy on the commission, a successor shall be selected and appointed to fill the unexpired term in the same manner as the original appointment was made. The appointment to fill a vacancy shall be made within thirty days of the date the position becomes vacant.
+7. Members of the commission shall receive no compensation for their services but shall be reimbursed for their actual and necessary expenses incurred in the performance of their duties from appropriations made for that purpose.
+8. The commission shall, beginning in 1996, and every two years thereafter, review and study the relationship of compensation to the duties of all elected state officials, all members of the general assembly, and all judges, except municipal judges, and shall fix the compensation for each respective position. The commission shall file its initial schedule of compensation with the secretary of state and the revisor of statutes no later than the first day of December, 1996, and by the first day of December each two years thereafter. The schedule of compensation shall become effective unless disapproved by concurrent resolution adopted by a two-thirds majority vote the general assembly before February 1 of the year following the filing of the schedule. Each schedule shall be published by the secretary of state as a part of the session laws of the general assembly and may also be published as a separate publication at the discretion of the secretary of state. The schedule shall also be published by the revisor of statutes as a part of the revised statutes of Missouri. The schedule shall apply and represent the compensation for each affected person beginning on the first day of July following the filing of the schedule. In addition to any compensation established by the schedule, the general assembly may provide by appropriation for periodic uniform general cost-of-living increases or decreases for all employees of the state of Missouri and such cost-of-living increases or decreases may also be extended to those persons affected by the compensation schedule fixed by the commission. No cost-of-living increase or decrease granted to any person affected by the schedule shall exceed the uniform general increase or decrease provided for all other state employees by the general assembly.
+9. Prior to the filing of any compensation schedule, the commission shall hold no less than four public hearings on such schedule, at different geographical locations within the state, within the four months immediately preceding the filing of the schedule. All meetings, actions, hearings, and business of the commission shall be open to the public, and all records of the commission shall be available for public inspection.
+10. Until the first day of July next after the filing of the first schedule by the commission, compensation of the persons affected by this section shall be that in effect on the effective date of this amendment.
+11. Schedules filed by the commission shall be subject to referendum upon petition of the voters of this state in the same manner and under the same conditions as a bill enacted by the general assembly.
+12. Beginning January 1, 2007, any public official subject to this provision who is convicted in any court of a felony which occurred while in office or who has been removed from office for misconduct or following impeachment shall be disqualified from receiving any pension from the state of Missouri.
+13. No compensation schedule filed by the commission after the effective date of this subsection shall take effect for members of the general assembly until January 1, 2009.
+
+> (1999) Section did not create enforceable right of retired judge to increased compensation under schedule in absence of additional appropriation to fund the increase. Also, section limits discretion of General Assembly to fund the schedule by requiring application of amounts appropriated to increase existing compensation levels by same pro rata amount. Weinstock v. Holden, 995 S.W.2d 411 (Mo.banc).
+
+*07 Dec 2006 · (Adopted November 8, 1994) (Amended November 7, 2006).*
+
+## Article XIV — Marijuana Use and Regulation
+
+### Section 1 Right to access medical marijuana.
+
+1. Purposes.
+This section is intended to permit state-licensed physicians and nurse practitioners to recommend marijuana for medical purposes to patients with serious illnesses and medical conditions. The section allows patients with qualifying medical conditions the right to discuss freely with their physicians and nurse practitioners the possible benefits of medical marijuana use, the right of their physicians and nurse practitioners to provide professional advice concerning the same, and the right to use medical marijuana for treatment under the supervision of a physician or nurse practitioner.
+This section is intended to make only those changes to Missouri laws that are necessary to protect patients, their primary caregivers, and their physicians and nurse practitioners from civil and criminal penalties, and to allow for the limited legal production, distribution, sale and purchase of marijuana for medical use. This section is not intended to change current civil and criminal laws governing the use of marijuana for nonmedical purposes. The section does not allow for the public use of marijuana and driving under the influence of marijuana.
+2. Definitions.
+(1) "Administer" means the direct application of marijuana to a qualifying patient by way of any of the following methods:
+(a) Ingestion of capsules, teas, oils, and other marijuana-infused products;
+(b) Vaporization or smoking of dried flowers, buds, plant material, extracts, oils, and other marijuana-infused products;
+(c) Application of ointments or balms;
+(d) Transdermal patches and suppositories;
+(e) Consuming marijuana-infused food products; or
+(f) Any other method recommended by a qualifying patient's physician or nurse practitioner.
+(2) "Church" means a permanent building primarily and regularly used as a place of religious worship.
+(3) "Daycare" means a child-care facility, as defined by section 210.201, RSMo, or successor provisions, that is licensed by the state of Missouri.
+(4) "Department" means the department of health and senior services, or its successor agency.
+(5) "Entity" means a natural person, corporation, professional corporation, nonprofit corporation, cooperative corporation, unincorporated association, business trust, limited liability company, general or limited partnership, limited liability partnership, joint venture, or any other legal entity.
+(6) "Flowering plant" means a marijuana plant from the time it exhibits the first signs of sexual maturity through harvest.
+(7) "Infused preroll" means a consumable or smokable marijuana product, generally consisting of: (1) a wrap or paper, (2) dried flower, buds, and/or plant material, and (3) a concentrate, oil or other type of marijuana extract, either within or on the surface of the product. Infused prerolls may or may not include a filter or crutch at the base of the product.
+(8) "Marijuana" or "marihuana" means Cannabis indica, Cannabis sativa, and Cannabis ruderalis, hybrids of such species, and any other strains commonly understood within the scientific community to constitute marijuana, as well as resin extracted from the marijuana plant and marijuana-infused products. "Marijuana" or "marihuana" do not include industrial hemp, as defined by Missouri statute, or commodities or products manufactured from industrial hemp.
+(9) "Marijuana-infused products" means products that are infused, dipped, coated, sprayed, or mixed with marijuana or an extract thereof, including, but not limited to, products that are able to be vaporized or smoked, edible products, ingestible products, topical products, suppositories, and infused prerolls.
+(10) "Medical facility" means any medical marijuana cultivation facility, medical marijuana dispensary facility, or medical marijuana-infused products manufacturing facility, as defined in this section.
+(11) "Medical marijuana cultivation facility" means a facility licensed by the department to acquire, cultivate, process, package, store on site or off site, transport to or from, and sell marijuana, marijuana seeds, and marijuana vegetative cuttings (also known as clones) to a medical marijuana dispensary facility, medical marijuana testing facility, medical marijuana cultivation facility, or to a medical marijuana-infused products manufacturing facility. A medical marijuana cultivation facility's authority to process marijuana shall include the production and sale of prerolls, but shall not include the manufacture of marijuana-infused products.
+(12) "Medical marijuana dispensary facility" means a facility licensed by the department to acquire, process, package, store on site or off site, sell, transport to or from, and deliver marijuana, marijuana seeds, marijuana vegetative cuttings (also known as clones), marijuana-infused products, and drug paraphernalia used to administer marijuana as provided for in this section to a qualifying patient, a primary caregiver, anywhere on the licensed property or to any address as directed by the patient or primary caregiver, so long as the address is a location allowing for the legal possession of marijuana, another medical marijuana dispensary facility, a marijuana testing facility, a medical marijuana cultivation facility, or a medical marijuana-infused products manufacturing facility. Dispensary facilities may receive transaction orders at the dispensary in person, by phone, or via the internet, including from a third party. A medical marijuana dispensary facility's authority to process marijuana shall include the production and sale of prerolls, but shall not include the manufacture of marijuana-infused products.
+(13) "Medical marijuana-infused products manufacturing facility" means a facility licensed by the department to acquire, process, package, store on site or off site, manufacture, transport to or from, and sell marijuana-infused products to a medical marijuana dispensary facility, a marijuana testing facility, a medical marijuana cultivation facility, or to another medical marijuana-infused products manufacturing facility.
+(14) "Marijuana testing facility" means a facility certified by the department to acquire, test, certify, and transport marijuana, including those originally licensed as a medical marijuana testing facility.
+(15) "Medical use" means the production, possession, delivery, distribution, transportation, or administration of marijuana or a marijuana-infused product, or drug paraphernalia used to administer marijuana or a marijuana-infused product, for the benefit of a qualifying patient to mitigate the symptoms or effects of the patient's qualifying medical condition.
+(16) "Nurse practitioner" means an individual who is licensed and in good standing as an advanced practice registered nurse, or successor designation, under Missouri law.
+(17) "Owner" means an individual who has a financial (other than security interest, lien, or encumbrance) or voting interest in ten percent or greater of a marijuana facility.
+(18) "Physician" means an individual who is licensed and in good standing to practice medicine or osteopathy under Missouri law.
+(19) "Physician or nurse practitioner certification" means a document, whether handwritten, electronic or in another commonly used format, signed by a physician or a nurse practitioner and stating that, in the physician's or nurse practitioner's professional opinion, the patient suffers from a qualifying medical condition.
+(20) "Preroll" means a consumable or smokable marijuana product, generally consisting of: (1) a wrap or paper and (2) dried flower, buds, and/or plant material. Prerolls may or may not include a filter or crutch at the base of the product.
+(21) "Primary caregiver" means an individual twenty-one years of age or older who has significant responsibility for managing the well-being of a qualifying patient and who is designated as such on the primary caregiver's application for an identification card under this section or in other written notification to the department.
+(22) "Qualifying medical condition" means the condition of, symptoms related to, or side-effects from the treatment of:
+(a) Cancer;
+(b) Epilepsy;
+(c) Glaucoma;
+(d) Intractable migraines unresponsive to other treatment;
+(e) A chronic medical condition that causes severe, persistent pain or persistent muscle spasms, including but not limited to those associated with multiple sclerosis, seizures, Parkinson's disease, and Tourette's syndrome;
+(f) Debilitating psychiatric disorders, including, but not limited to, posttraumatic stress disorder, if diagnosed by a state licensed psychiatrist;
+(g) Human immunodeficiency virus or acquired immune deficiency syndrome;
+(h) A chronic medical condition that is normally treated with a prescription medication that could lead to physical or psychological dependence, when a physician or nurse practitioner determines that medical use of marijuana could be effective in treating that condition and would serve as a safer alternative to the prescription medication;
+(i) Any terminal illness; or
+(j) In the professional judgment of a physician or nurse practitioner, any other chronic, debilitating or other medical condition, including, but not limited to, hepatitis C, amyotrophic lateral sclerosis, inflammatory bowel disease, Crohn's disease, Huntington's disease, autism, neuropathies, sickle cell anemia, agitation of Alzheimer's disease, cachexia, and wasting syndrome.
+(23) "Qualifying patient" means an individual diagnosed with at least one qualifying medical condition.
+(24) "Unduly burdensome" (when referring to a facility licensee or certificate holder) means the measures necessary to comply with the rules or ordinances adopted pursuant to this section subject the party to such a high investment or expense of money, time, or any other resource or asset that a reasonably prudent businessperson would not operate the facility; and (when referring to qualifying patients, primary caregivers, physicians, nurse practitioners, or other party) "unduly burdensome" means the measures necessary to comply with the rules or ordinances adopted pursuant to this section undermine the purpose of this section.
+3. Creating Patient Access to Medical Marijuana.
+(1) In carrying out the implementation of this section, the department shall have the authority to:
+(a) Grant or refuse state licenses and certifications for the cultivation, manufacture, dispensing, sale, testing, tracking, and transportation of marijuana and marijuana-infused products for medical use, as provided by this section and general law; suspend, impose an authorized fine, restrict, or revoke such licenses and certifications upon a violation of this section, general law, or a rule promulgated pursuant to this section; and impose any administrative penalty authorized by this section or any general law enacted or rule promulgated pursuant to this section, so long as any procedure related to a suspension or revocation includes a reasonable cure period, not less than thirty days, prior to the suspension or revocation, except in instances where there is a credible and imminent threat to public health or public safety.
+(b) Promulgate rules and emergency rules necessary for the proper regulation and control of the cultivation, manufacture, dispensing, and sale of marijuana for medical use and for the enforcement of this section so long as patient access is not restricted unreasonably and such rules are reasonably necessary for patient safety or to restrict access to only licensees and qualifying patients.
+(c) Develop such forms, certificates, licenses, identification cards, and applications as are necessary for, or reasonably related to, the administration of this section or any of the rules promulgated under this section.
+(d) Require a seed-to-sale tracking system that tracks medical marijuana from either the seed or immature plant stage until the medical marijuana or medical marijuana-infused product is sold to a qualifying patient or primary caregiver to ensure that no medical marijuana grown by a medical marijuana cultivation facility or manufactured by a medical marijuana-infused products manufacturing facility is sold or otherwise transferred except by a medical marijuana dispensary facility. The department shall certify, if possible, at least two commercially available systems to licensees as compliant with its tracking standards and issue standards for the creation or use of other systems by licensees.
+(e) Issue standards for the secure transportation of marijuana and marijuana-infused products. The department shall certify entities which demonstrate compliance with its transportation standards to transport marijuana and marijuana-infused products to or from a medical marijuana cultivation facility, a medical marijuana-infused products manufacturing facility, a medical marijuana dispensary facility, a marijuana testing facility, or another entity with a transportation certification. The department shall develop or adopt from any other governmental agency such safety and security standards as are reasonably necessary for the transportation of marijuana and marijuana-infused products. Any entity licensed or certified pursuant to this section shall be allowed to transport and store marijuana, marijuana seeds, marijuana vegetative cuttings (also known as clones) and marijuana-infused products for purposes related to transportation in compliance with department regulations on storage of marijuana and marijuana-infused products.
+(f) The department may charge a fee not to exceed $5,000 for any certification issued pursuant to this section.
+(g) Prepare and transmit annually a publicly available report accounting to the governor for the efficient discharge of all responsibilities assigned to the department under this section.
+(h) Establish a lottery selection process to select medical marijuana licensee and certificate applicants, only in cases where more applicants apply than the minimum number of licenses or certificates as calculated by this section. To be eligible for the medical marijuana license lottery process, an applicant cannot have an owner who has pleaded or been found guilty of a disqualifying felony. A "disqualifying felony offense" is a violation of, and conviction or guilty plea to, state or federal law that is, or would have been, a felony under Missouri law, regardless of the sentence imposed, unless the department determines that:
+a. The person's conviction was for a marijuana offense, other than provision of marijuana to a minor; or
+b. The person's conviction was for a non-violent crime for which he or she was not incarcerated and that is more than five years old; or
+c. More than five years have passed since the person was released from parole or probation, and he or she has not been convicted of any subsequent felony criminal offenses.
+The department may consult with and rely on the records, advice, and recommendations of the attorney general and the department of public safety, or their successor entities, in carrying out the provisions of this subdivision.
+In establishing a lottery selection process to select medical marijuana licensee and certificate applicants and awarding licenses and certificates, the department may consult or contract with other public agencies with relevant expertise. The department shall lift or ease any limit on the number of licensees or certificate holders in order to meet the demand for marijuana for medical use by qualifying patients.
+(2) The department shall issue any rules or emergency rules necessary for the implementation and enforcement of this section and to ensure the right to, availability, and safe use of marijuana for medical use by qualifying patients. In developing such rules or emergency rules, the department may consult with other public agencies. In addition to any other rules or emergency rules necessary to carry out the mandates of this section, the department may issue rules or emergency rules relating to the following subjects:
+(a) Compliance with, enforcement of, or violation of any provision of this section or any rule issued pursuant to this section, including procedures and grounds for denying, suspending, imposing an authorized fine, and restricting, or revoking a state license or certification issued pursuant to this section, so long as any procedure related to a suspension or revocation includes a reasonable cure period, not less than thirty days, prior to the suspension or revocation, except in instances where there is a credible and imminent threat to public health or public safety;
+(b) Specifications of duties of officers and employees of the department;
+(c) Instructions or guidance for local authorities and law enforcement officers;
+(d) Requirements for inspections, investigations, searches, seizures, and such additional enforcement activities as may become necessary from time to time;
+(e) As otherwise authorized by this section or general law, administrative penalties and policies for use by the department;
+(f) Prohibition of misrepresentation and unfair practices;
+(g) Control of informational and product displays on licensed premises provided that the rules may not prevent or unreasonably restrict appropriate signs on the property of the medical marijuana dispensary facility, product display and examination by the qualifying patient and/or primary caregiver, listings in business directories including phone books, listings in marijuana-related or medical publications, or the sponsorship of health or not for profit charity or advocacy events. While the department shall have the general power to regulate the advertising and promotion of marijuana sales, under all circumstances, any such regulation shall be no more stringent than comparable state regulations on the advertising and promotion of alcohol sales;
+(h) Development of individual identification cards for owners, officers, managers, contractors, employees, and other support staff of entities licensed or certified pursuant to this section, including a fingerprint-based federal and state criminal record check in accordance with U.S. Public Law 92-544, or its successor provisions, as may be required by the department prior to issuing a card and procedures to ensure that cards for new applicants are issued within fourteen days. Applicants licensed pursuant to this section shall submit fingerprints to the Missouri state highway patrol for the purpose of conducting a state and federal fingerprint-based criminal background check. The Missouri state highway patrol, if necessary, shall forward the fingerprints to the Federal Bureau of Investigation (FBI) for the purpose of conducting a fingerprint-based criminal background check. Fingerprints shall be submitted pursuant to section 43.543, RSMo, or its successor provisions, and fees shall be paid pursuant to section 43.530, RSMo, or its successor provisions. Unless otherwise required by law, no individual shall be required to submit fingerprints more than once;
+(i) Security requirements for any premises licensed or certified pursuant to this section, including, at a minimum, lighting, physical security, video, alarm requirements, and other minimum procedures for internal control as deemed necessary by the department to properly administer and enforce the provisions of this section, including reporting requirements for changes, alterations, or modifications to the premises;
+(j) Regulation of the storage of, warehouses for, and transportation of marijuana for medical use;
+(k) Sanitary requirements for, including, but not limited to, the preparation of medical marijuana-infused products;
+(l) The specification of acceptable forms of picture identification that a medical marijuana dispensary facility may accept when verifying a sale;
+(m) Labeling and packaging standards;
+(n) Records to be kept by licensees and the required availability of the records;
+(o) State licensing procedures, including procedures for renewals, reinstatements, initial licenses, and the payment of licensing fees;
+(p) The reporting and transmittal of tax payments;
+(q) Authorization for the department of revenue to have access to licensing information to ensure tax payment and the effective administration of this section; and
+(r) Such other matters as are necessary for the fair, impartial, stringent, and comprehensive administration of this section.
+(3) The department shall issue rules or emergency rules for a medical marijuana and medical marijuana-infused products independent testing and certification program for medical marijuana licensees and requiring licensees to test medical marijuana using one or more impartial, independent laboratories to ensure, at a minimum, that products sold for human consumption do not contain contaminants that are injurious to health, to ensure correct labeling and measure potency. The department shall not require any medical marijuana or medical marijuana-infused products to be tested more than once prior to sale.
+(4) The department shall issue rules or emergency rules to provide for the certification of and standards for marijuana testing facilities, including the requirements for equipment and qualifications for personnel, but shall not require certificate holders to have any federal agency licensing or have any relationship with a federally licensed testing facility. The department shall certify, if possible, at least two entities as marijuana testing facilities. No marijuana testing facility shall be owned by an entity or entities under substantially common control, ownership, or management as a medical marijuana cultivation facility, medical marijuana-infused product manufacturing facility, or medical marijuana dispensary facility.
+(5) Any information released by the department related to patients may only be for a purpose authorized by federal law and this section, including verifying that a person who presented a patient identification card to a state or local law enforcement official is lawfully in possession of such card. Beginning December 8, 2022, all public records produced or retained pursuant to this section are subject to the general provisions of the Missouri Sunshine Law, chapter 610, RSMo, or its successor provisions. Notwithstanding the foregoing, records containing proprietary business information obtained from an applicant or licensee shall be closed. For documents submitted on or after December 8, 2022, the applicant or licensee shall label business information it believes to be proprietary prior to submitting it to the department. For documents submitted prior to December 8, 2022, the applicant or licensee may advise the department, through a department approved process, of any records previously submitted by the applicant or licensee it believes contain proprietary business information. Proprietary business information shall include sales information, financial records, tax returns, credit reports, license applications, cultivation information unrelated to product safety, testing results unrelated to product safety, site security information and plans, and individualized consumer information. The presence of proprietary business information shall not justify the closure of public records:
+(a) Identifying the applicant or licensee;
+(b) Relating to any citation, notice of violation, tax delinquency, or other enforcement action;
+(c) Relating to any public official's support or opposition relative to any applicant, licensee, or their proposed or actual operations;
+(d) Where disclosure is reasonably necessary for the protection of public health or safety; or
+(e) That are otherwise subject to public inspection under other applicable law.
+(6) Within one hundred eighty days of December 6, 2018, the department shall make available to the public license application forms and application instructions for medical marijuana cultivation facilities, marijuana testing facilities, medical marijuana dispensary facilities, and medical marijuana-infused products manufacturing facilities.
+(7) Within one hundred eighty days of December 6, 2018, the department shall make available to the public application forms and application instructions for qualifying patient, qualifying patient cultivation, and primary caregiver identification cards. Within two hundred ten days of December 6, 2018, the department shall begin accepting applications for such identification cards.
+(8) An entity may apply to the department for and obtain one or more licenses to grow marijuana as a medical marijuana cultivation facility. Each facility in operation shall require a separate license, but multiple licenses may be utilized in a single facility. Each indoor facility utilizing artificial lighting may be limited by the department to thirty thousand square feet of flowering plant canopy space. Each outdoor facility utilizing natural lighting may be limited by the department to two thousand eight hundred flowering plants. Each greenhouse facility using a combination of natural and artificial lighting may be limited by the department, at the election of the licensee, to two thousand eight hundred flowering plants or thirty thousand square feet of flowering plant canopy. The license shall be valid for three years from its date of issuance and shall be renewable, except for good cause. The department shall charge each applicant a nonrefundable fee of ten thousand dollars per license application or renewal for all applicants filing an application within three years of December 6, 2018, and shall charge each applicant a nonrefundable fee of five thousand dollars per license application or renewal thereafter. Once granted, the department shall charge each licensee an annual fee of twenty-five thousand dollars per facility license. Application and license fees shall be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency. An entity or entities under substantially common control, ownership, or management may not be an owner of more than ten percent of the total marijuana cultivation facility licenses outstanding under both sections 1 and 2 of this Article at any given time, rounded down to the nearest whole number.
+(9) An entity may apply to the department for and obtain one or more licenses to operate a medical marijuana dispensary facility. Each facility in operation shall require a separate license. A license shall be valid for three years from its date of issuance and shall be renewable, except for good cause. The department shall charge each applicant a nonrefundable fee of six thousand dollars per license application or renewal for each applicant filing an application within three years of December 6, 2018, and shall charge each applicant a nonrefundable fee of three thousand dollars per license application or renewal thereafter. Once granted, the department shall charge each licensee an annual fee of ten thousand dollars per facility license. Application and license fees shall be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency. An entity or entities under substantially common control, ownership, or management may not be an owner of more than ten percent of the total marijuana dispensary facility licenses outstanding under both sections 1 and 2 of this Article at any given time, rounded down to the nearest whole number.
+(10) An entity may apply to the department for and obtain one or more licenses to operate a medical marijuana-infused products manufacturing facility. Each facility in operation shall require a separate license. A license shall be valid for three years from its date of issuance and shall be renewable, except for good cause. The department shall charge each applicant a nonrefundable fee of six thousand dollars per license application or renewal for each applicant filing an application within three years of December 6, 2018, and shall charge each applicant a nonrefundable fee of three thousand dollars per license application or renewal thereafter. Once granted, the department shall charge each licensee an annual fee of ten thousand dollars per facility license. Application and license fees shall be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency. An entity or entities under substantially common control, ownership, or management may not be an owner of more than ten percent of the total marijuana-infused products manufacturing facility licenses outstanding under both sections 1 and 2 of this Article at any given time, rounded down to the nearest whole number.
+(11) Any applicant for a license authorized by this section may prefile their application fee with the department beginning 30 days after December 6, 2018.
+(12) Except for good cause, a qualifying patient or his or her primary caregiver may obtain an identification card from the department to cultivate up to six flowering marijuana plants, six nonflowering marijuana plants (over fourteen inches tall), and six clones (plants under fourteen inches tall) for the exclusive use of that qualifying patient. The card shall be valid for three years from its date of issuance and shall be renewable with the submittal of a new or updated physician or nurse practitioner certification. The department shall charge a fee for the card of fifty dollars, with such rate to be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency.
+(13) The department may set a limit on the amount of marijuana that may be purchased by or on behalf of a single qualifying patient in a thirty-day period, provided that limit is not less than six ounces of dried, unprocessed marijuana, or its equivalent. Any such limit shall not apply to a qualifying patient with written certification from a physician or nurse practitioner that there are compelling reasons why the qualifying patient needs a greater amount than the limit established by the department.
+(14) The department may set a limit on the amount of marijuana that may be possessed by or on behalf of each qualifying patient, provided that limit is not less than a sixty-day supply of dried, unprocessed marijuana, or its equivalent. A primary caregiver may possess a separate legal limit for each qualifying patient under their care and a separate legal limit for themselves if they are a qualifying patient. Qualifying patients cultivating marijuana for medical use may possess up to a ninety-day supply, so long as the supply remains on property under their control. Any such limit shall not apply to a qualifying patient with written certification from an independent physician or nurse practitioner that there are compelling reasons for additional amounts. Possession of between the legal limit and up to twice the legal limit shall subject the possessor to department sanctions, including an administrative penalty of up to two hundred dollars and loss of their patient identification card for up to a year. Purposefully possessing amounts in excess of twice the legal limit shall be punishable as an infraction under applicable law.
+(15) The department may restrict the aggregate number of licenses granted for medical marijuana cultivation facilities and comprehensive marijuana cultivation facilities authorized by section 2 combined, provided, however, that the number may not be limited to fewer than one license per every one hundred thousand inhabitants, or any portion thereof, of the state of Missouri, according to the most recent census of the United States. A decrease in the number of inhabitants in the state of Missouri shall have no impact.
+(16) The department may restrict the aggregate number of licenses granted for medical marijuana-infused products manufacturing facilities and comprehensive marijuana-infused products manufacturing facilities authorized by section 2 combined, provided, however, that the number may not be limited to fewer than one license per every seventy thousand inhabitants, or any portion thereof, of the state of Missouri, according to the most recent census of the United States. A decrease in the number of inhabitants in the state of Missouri shall have no impact.
+(17) The department may restrict the aggregate number of licenses granted for medical marijuana dispensary facilities and comprehensive marijuana dispensary facilities authorized by section 2 combined, provided, however, that the number may not be limited to fewer than twenty-four licenses in each United States congressional district in the state of Missouri pursuant to the map of each of the eight congressional districts as drawn and effective on December 6, 2018. Future changes to the boundaries of or the number of congressional districts shall have no impact.
+(18) The department shall begin accepting license and certification applications for medical marijuana dispensary facilities, marijuana testing facilities, medical marijuana cultivation facilities, medical marijuana-infused products manufacturing facilities, seed-to-sale tracking systems, and for transportation of marijuana no later than two hundred forty days after December 6, 2018. Applications for licenses and certifications under this section shall be approved or denied by the department no later than one hundred fifty days after their submission. If the department fails to carry out its nondiscretionary duty to approve or deny an application within one hundred fifty days of submission, an applicant may immediately seek a court order compelling the department to approve or deny the application.
+(19) Qualifying patients under this section shall obtain an identification card or cards from the department. The department shall charge a fee of twenty-five dollars per card. Such fee may be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor or its successor agency. Cards shall be valid for three years and may be renewed with a new physician or nurse practitioner certification. Upon receiving an application for a qualifying patient identification card or qualifying patient cultivation identification card, the department shall, within thirty days, either issue the card or provide a written explanation for its denial. If the department fails to deny and fails to issue a card to an eligible qualifying patient within thirty days, then their physician or nurse practitioner certification shall serve as their qualifying patient identification card or qualifying patient cultivation identification card for up to one year from the date of physician or nurse practitioner certification. All initial applications for or renewals of a qualifying patient identification card or qualifying patient cultivation identification card shall be accompanied by a physician or nurse practitioner certification that is less than thirty days old.
+(20) Primary caregivers under this section shall obtain an identification card from the department. Cards shall be valid for three years. The department shall charge a fee of twenty-five dollars per card. Such fee may be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency. Upon receiving an application for a primary caregiver identification card, the department shall, within thirty days, either issue the card or provide a written explanation for its denial.
+(21) Except as otherwise provided in this Article, all marijuana for medical use sold in Missouri shall be cultivated in a licensed medical marijuana cultivation facility located in Missouri.
+(22) Except as otherwise provided in this Article, all marijuana-infused products for medical use sold in the state of Missouri shall be manufactured in a medical marijuana-infused products manufacturing facility.
+(23) The denial of a license, license renewal, or identification card by the department shall be appealable to the administrative hearing commission, or its successor entity. Following the exhaustion of administrative review, denial of a license, license renewal, or identification card by the department shall be subject to judicial review as provided by law.
+(24) No elected official shall interfere directly or indirectly with the department's obligations and activities under this section.
+(25) The department shall not have the authority to apply or enforce any unduly burdensome rule or regulation or administrative penalty upon any one or more licensees or certificate holders, any qualifying patients, or their primary caregivers, or act to undermine the purposes of this section.
+4. Taxation and Reporting.
+(1) A tax is levied upon the retail sale of marijuana for medical use sold at medical marijuana dispensary facilities within the state. The tax shall be at a rate of four percent of the retail price. The tax shall be collected by each licensed medical marijuana dispensary facility and paid to the department of revenue. After retaining no more than two percent for its actual collection costs, amounts generated by the medical marijuana tangible personal property retail sales tax levied in this section shall be deposited by the department of revenue into the Missouri veterans' health and care fund. Licensed entities making retail sales within the state shall be allowed approved credit for returns provided the tax was paid on the returned item and the purchaser was given the refund or credit.
+(2) There is hereby created in the state treasury the "Missouri Veterans' Health and Care Fund", which shall consist of taxes and fees collected under this section. The state treasurer shall be custodian of the fund, and he or she shall invest monies in the fund in the same manner as other funds are invested. Any interest and monies earned on such investments shall be credited to the fund. Notwithstanding any other provision of law, any monies remaining in the fund at the end of a biennium shall not revert to the credit of the general revenue fund. The commissioner of administration is authorized to make cash operating transfers to the fund for purposes of meeting the cash requirements of the department in advance of it receiving annual application, licensing, and tax revenue, with any such transfers to be repaid as provided by law. The fund shall be a dedicated fund and shall stand appropriated without further legislative action as follows:
+(a) First, to the department, an amount necessary for the department to carry out this section, including repayment of any cash operating transfers, payments made through contract or agreement with other state and public agencies necessary to carry out this section, and a reserve fund to maintain a reasonable working cash balance for the purpose of carrying out this section;
+(b) Next, the remainder of such funds shall be transferred to the Missouri veterans commission for health and care services for military veterans, including the following purposes: operations, maintenance and capital improvements of the Missouri veterans homes, the Missouri service officer's program, and other services for veterans approved by the commission, including, but not limited to, health care services, mental health services, drug rehabilitation services, housing assistance, job training, tuition assistance, and housing assistance to prevent homelessness. The Missouri veterans commission shall contract with other public agencies for the delivery of services beyond its expertise.
+(c) All monies from the taxes authorized under this subsection shall provide additional dedicated funding for the purposes enumerated above and shall not replace existing dedicated funding.
+(3) For all retail sales of marijuana for medical use, a record shall be kept by the seller which identifies, by secure and encrypted patient number issued by the seller to the qualifying patient involved in the sale, all amounts and types of marijuana involved in the sale and the total amount of money involved in the sale, including itemizations, taxes collected and grand total sale amounts. All such records shall be kept on the premises in a readily available format and be made available for review by the department and the department of revenue upon request. Such records shall be retained for five years from the date of the sale.
+(4) The tax levied pursuant to this subsection is separate from, and in addition to, any general state and local sales and use taxes that apply to retail sales, which shall continue to be collected and distributed as provided by general law.
+(5) Except as authorized in this subsection, no additional taxes shall be imposed on the sale of marijuana for medical use.
+(6) The fees and taxes provided for in this Article XIV, Section 1 shall be fully enforceable notwithstanding any other provision in this Constitution purportedly prohibiting or restricting the taxes and fees provided for herein.
+(7) The unexpended balance existing in the fund shall be exempt from the provisions of section 33.080, RSMo, or its successor provisions, relating to the transfer of unexpended balances to the general revenue fund.
+(8) For taxpayers authorized to do business pursuant to this Article, the amount that would have been deducted in the computation of federal taxable income pursuant to 26 U.S.C. Section 280E of the Internal Revenue Code as in effect on January 1, 2021, or successor provisions, but is disallowed because cannabis is a controlled substance under federal law, shall be subtracted from the taxpayer's federal adjusted gross income, in determining the taxpayer's Missouri adjusted gross income.
+5. Additional Patient, Physician, Nurse Practitioner, Caregiver and Provider Protections.
+(1) Except as provided in this section, the possession of marijuana in quantities less than the limits of this section, or established by the department, and transportation of marijuana by the qualifying patient or primary caregiver shall not subject the possessor to arrest, criminal or civil liability, or sanctions under Missouri law, provided that the possessor produces on demand to the appropriate authority a valid qualifying patient identification card; a valid qualifying patient cultivation identification card; a valid physician or nurse practitioner certification while making application for an identification card; or a valid primary caregiver identification card. Production of the respective substantially equivalent identification card or authorization issued by another state or political subdivision of another state shall also meet the requirements of this subdivision and shall allow for the purchase of medical marijuana for use by a non-resident patient from a medical marijuana dispensary facility as permitted by this section and in compliance with department regulations.
+(2) No patient shall be denied access to or priority for an organ transplant or other medical care because they hold a qualifying patient identification card or use marijuana for medical use.
+(3) A physician or nurse practitioner shall not be subject to criminal or civil liability or sanctions under Missouri law or discipline by the Missouri state board of registration for the healing arts, the Missouri state board of nursing, or their respective successor agencies, for owning, operating, investing in, being employed by, or contracting with any entity licensed or certified pursuant to this section or issuing a physician or nurse practitioner certification to a patient diagnosed with a qualifying medical condition in a manner consistent with this section and legal standards of professional conduct.
+(4) A health care provider shall not be subject to civil or criminal prosecution under Missouri law, denial of any right or privilege, civil or administrative penalty or sanction, or disciplinary action by any accreditation or licensing board or commission for owning, operating, investing in, being employed by, or contracting with any entity licensed or certified pursuant to this section or providing health care services that involve the medical use of marijuana consistent with this section and legal standards of professional conduct.
+(5) A marijuana testing facility shall not be subject to civil or criminal prosecution under Missouri law, denial of any right or privilege, civil or administrative penalty or sanction, or disciplinary action by any accreditation or licensing board or commission for providing laboratory testing services that relate to the medical use of marijuana consistent with this section and otherwise meeting legal standards of professional conduct.
+(6) A health care provider shall not be subject to mandatory reporting requirements for the medical use of marijuana by nonemancipated qualifying patients under eighteen years of age in a manner consistent with this section and with consent of a parent or guardian.
+(7) A primary caregiver shall not be subject to criminal or civil liability or sanctions under Missouri law for purchasing, transporting, or administering marijuana for medical use to a qualifying patient or participating in the patient cultivation of up to six flowering marijuana plants, six nonflowering marijuana plants (over fourteen inches tall), and six clones (plants under fourteen inches tall) per patient and no more than twenty-four flowering plants for more than one qualifying patient in a manner consistent with this section and generally established legal standards of personal or professional conduct.
+(8) Notwithstanding any provision of Article V to the contrary, an attorney shall not be subject to disciplinary action by the Supreme Court of Missouri, the office of chief disciplinary counsel, the state bar association, any state agency, or any professional licensing body for any of the following:
+(a) Owning, operating, investing in, being employed by, or contracting with prospective or licensed marijuana testing facilities, medical marijuana cultivation facilities, medical marijuana dispensary facilities, medical marijuana-infused products manufacturing facilities, or transportation certificate holders;
+(b) Counseling, advising, and/or assisting a client in conduct permitted by Missouri law that may violate or conflict with federal or other law, as long as the attorney advises the client about that federal or other law and its potential consequences;
+(c) Counseling, advising, and/or assisting a client in connection with applying for, owning, operating, or otherwise having any legal, equitable, or beneficial interest in marijuana testing facilities, medical marijuana cultivation facilities, medical marijuana dispensary facilities, medical marijuana-infused products manufacturing facilities, or transportation certificates; or
+(d) Counseling, advising or assisting a qualifying patient, primary caregiver, physician, nurse practitioner, health care provider or other client related to activity that is no longer subject to criminal penalties under Missouri law pursuant to this Article.
+(9) Actions and conduct by qualifying patients, primary caregivers, marijuana testing facilities, medical marijuana cultivation facilities, medical marijuana-infused products manufacturing facilities, or medical marijuana dispensary facilities licensed or registered with the department, or their employees or agents, as permitted by this section and in compliance with department regulations and other standards of legal conduct, shall not be subject to criminal or civil liability or sanctions under Missouri law, except as provided for by this section.
+(10) Nothing in this section shall provide immunity for negligence, either common law or statutorily created, nor criminal immunities for operating a vehicle, aircraft, dangerous device, or navigating a boat under the influence of marijuana.
+(11) It is the public policy of the state of Missouri that contracts related to marijuana for medical use that are entered into by qualifying patients, primary caregivers, marijuana testing facilities, medical marijuana cultivation facilities, medical marijuana-infused products manufacturing facilities, or medical marijuana dispensary facilities and those who allow property to be used by those entities, should be enforceable. It is the public policy of the state of Missouri that no contract entered into by qualifying patients, primary caregivers, marijuana testing facilities, medical marijuana cultivation facilities, medical marijuana-infused products manufacturing facilities, or medical marijuana dispensary facilities, or by a person who allows property to be used for activities that are exempt from state criminal penalties by this section, shall be unenforceable on the basis that activities related to medical marijuana may be prohibited by federal law.
+(12) In the process of requesting a search or arrest warrant relating to the production, possession, transportation or storage of marijuana, a state or local law enforcement official shall verify with the department whether the targeted person is a qualifying patient or primary caregiver holding an identification card allowing for cultivation of marijuana plants under subdivision (12) of subsection 3 of this section, and shall inform the issuing authority accordingly when making the warrant request. Evidence of marijuana alone, without specific evidence indicating that the marijuana is outside of what is lawful for medical or adult use, cannot be the basis for a search of a patient or non-patient, including their home, vehicle or other property. Lawful marijuana related activities cannot be the basis for a violation of parole, probation, or any type of supervised release. State and local law enforcement shall only have access to such department information as is necessary to confirm whether the targeted person holds registration card.
+(13) Registered qualifying patients on bond for pre-trial release, on probation, or other form of supervised release shall not be prohibited from legally using a lawful marijuana product as a term or condition of release, probation, or parole. An alternative sentencing drug court program may not prohibit individuals under its jurisdiction from using a lawful marijuana product as long as the individual is a registered qualifying patient.
+(14) A family court participant or party who requires treatment for a qualified medical condition in accordance with this section shall not be required to refrain from using medical marijuana as a term or condition of successful completion of the family court program. The status and conduct of a qualified patient who acts in accordance with this section shall not, by itself, be used to restrict or abridge custodial or parental rights to minor children in any action or proceeding under the jurisdiction of a family court under chapter 487, RSMo, including domestic matters under chapter 452, RSMo, or a juvenile court under chapter 211, RSMo, or successor provisions.
+(15) A person shall not be denied adoption, custody, or visitation rights relative to a minor solely for conduct that is permitted by this section.
+(16) No person shall be denied their rights under Article 1, Section 23 of the Missouri Constitution, or successor provisions, solely for conduct that is permitted by this section.
+6. Legislation.
+Nothing in this section shall limit the general assembly from enacting laws consistent with this section, or otherwise effectuating the patient rights of this section. The legislature shall not enact laws that hinder the right of qualifying patients to access marijuana for medical use as granted by this section.
+7. Additional Provisions.
+(1) Nothing in this section permits a person to:
+(a) Consume marijuana for medical use in a jail or correctional facility;
+(b) Undertake any task under the influence of marijuana when doing so would constitute negligence or professional malpractice; or
+(c) Operate, navigate, or be in actual physical control of any dangerous device or motor vehicle, aircraft or motorboat while under the influence of marijuana. Notwithstanding the foregoing, an arrest or a conviction of a person who has a valid qualifying patient identification card for any applicable offenses shall require evidence that the person was in fact under the influence of marijuana at the time the person was in actual physical control of the dangerous device or motor vehicle, aircraft or motorboat and not solely on the presence of tetrahydrocannabinol (THC) or THC metabolites, or a combination thereof, in the person's system; or
+(d) Bring a claim against any employer, former employer, or prospective employer for wrongful discharge, discrimination, or any similar cause of action or remedy, based on the employer, former employer, or prospective employer prohibiting the employee, former employee, or prospective employee from being under the influence of marijuana while at work or disciplining the employee or former employee, up to and including termination from employment, for working or attempting to work while under the influence of marijuana.
+(2) No medical marijuana cultivation facility, marijuana testing facility, medical marijuana dispensary facility, or medical marijuana-infused products manufacturing facility, or entity with a transportation certification shall be owned, in whole or in part, or have as an officer, director, board member, manager, or employee, any individual with a disqualifying felony offense. A "disqualifying felony offense" is a violation of, and conviction or guilty plea to, state or federal law that is, or would have been, a felony under Missouri law, regardless of the sentence imposed, unless the department determines that:
+(a) The person's conviction was for the medical use of marijuana or assisting in the medical use of marijuana; or
+(b) The person's conviction was for a nonviolent crime for which he or she was not incarcerated and that is more than five years old; or
+(c) More than five years have passed since the person was released from parole or probation, and he or she has not been convicted of any subsequent criminal offenses.
+The department may consult with and rely on the records, advice and recommendations of the attorney general and the department of public safety, or their successor entities, in applying this subdivision.
+(3) No medical marijuana cultivation facility, medical marijuana dispensary facility, or medical marijuana-infused products manufacturing facility shall manufacture, package or label marijuana or marijuana-infused products in a false or misleading manner. No person shall sell any product in a manner designed to cause confusion between a marijuana or marijuana-infused product and any product not containing marijuana. A violation of this subdivision shall be punishable by an appropriate and proportional department sanction, up to and including an administrative penalty of five thousand dollars and loss of license.
+(4) All edible marijuana-infused products shall be sold in individual, child-resistant containers that are labeled with dosage amounts, instructions for use, and estimated length of effectiveness. All marijuana and marijuana-infused products shall be sold in containers clearly and conspicuously labeled as mandated by the department as containing "Marijuana", or a "Marijuana-Infused Product". Violation of this prohibition shall subject the violator to department sanctions, including an administrative penalty of five thousand dollars.
+(5) No individual shall serve as the primary caregiver for more than six qualifying patients. No primary caregiver cultivating marijuana for more than one qualifying patient may exceed a total of twenty-four flowering plants.
+(6) A person who smokes medical marijuana in a public place, other than in an area licensed for such activity by the department or by local authorities having jurisdiction over the licensing or permitting of said activity, is subject to a civil penalty not exceeding one hundred dollars.
+(7) No person shall extract resins from marijuana using dangerous materials or combustible gases without a medical marijuana-infused products manufacturing facility license. Violation of this prohibition shall subject the violator to department sanctions, including an administrative penalty of one thousand dollars for a patient or primary caregiver and ten thousand dollars for a facility licensee and, if applicable, loss of their identification card, certificate, or license for up to one year.
+(8) All qualifying patient cultivation shall take place in an enclosed, locked facility that is equipped with security devices that permit access only by the qualifying patient or by such patient's primary caregiver. Two qualifying patients, who both hold valid qualifying patient cultivation identification cards, may share one enclosed, locked facility. Primary caregivers cultivating marijuana for more than one qualifying patient may cultivate each respective qualifying patient's flowering plants in a single, enclosed locked facility subject to the limits of subsection 3, paragraph 12.
+(9) No medical marijuana cultivation facility, medical marijuana dispensary facility, medical marijuana-infused products manufacturing facility, marijuana testing facility, or entity with a transportation certification shall assign, sell, give, lease, sublicense, or otherwise transfer its license or certificate to any other entity without the express consent of the department, not to be unreasonably withheld.
+(10) (a) Unless allowed by the local government, no new medical marijuana cultivation facility, marijuana testing facility, medical marijuana dispensary facility, or medical marijuana-infused products manufacturing facility shall be initially sited within one thousand feet of any then-existing elementary or secondary school, child day-care center, or church. In the case of a freestanding facility, the distance between the facility and the school, daycare, or church shall be measured from the external wall of the facility structure closest in proximity to the school, daycare, or church to the closest point of the property line of the school, daycare, or church. If the school, daycare, or church is part of a larger structure, such as an office building or strip mall, the distance shall be measured to the entrance or exit of the school, daycare, or church closest in proximity to the facility. In the case of a facility that is part of a larger structure, such as an office building or strip mall, the distance between the facility and the school, daycare, or church shall be measured from the property line of the school, daycare, or church to the facility's entrance or exit closest in proximity to the school, daycare, or church. If the school, daycare, or church is part of a larger structure, such as an office building or strip mall, the distance shall be measured to the entrance or exit of the school, daycare, or church closest in proximity to the facility. Measurements shall be made along the shortest path between the demarcation points that can be lawfully traveled by foot. No local government shall prohibit medical marijuana cultivation facilities, marijuana testing facilities, medical marijuana-infused products manufacturing facilities, or medical marijuana dispensary facilities, or entities with a transportation certification either expressly or through the enactment of ordinances or regulations that make their operation unduly burdensome in the jurisdiction. However, local governments may enact ordinances or regulations not in conflict with this section, or with regulations enacted pursuant to this section, governing the time, place, and manner of operation of such facilities in the locality. A local government may establish civil penalties for violation of an ordinance or regulations governing the time, place, and manner of operation of a medical marijuana cultivation facility, marijuana testing facility, medical marijuana-infused products manufacturing facility, medical marijuana dispensary facility, or entity holding a transportation certification that may operate in such locality.
+(b) The only local government ordinances or regulations that are binding on a medical facility are those of the local government where the medical facility is physically located.
+(11) Unless superseded by federal law or an amendment to this Constitution, a physician or nurse practitioner shall not certify a qualifying condition for a patient by any means other than providing a physician or nurse practitioner certification for the patient, whether handwritten, electronic, or in another commonly used format.
+(12) A physician or nurse practitioner shall not issue a certification for the medical use of marijuana for a nonemancipated qualifying patient under the age of eighteen without the written consent of the qualifying patient's parent or legal guardian. The department shall not issue a qualifying patient identification card on behalf of a nonemancipated qualifying patient under the age of eighteen without the written consent of the qualifying patient's parent or legal guardian. Such card shall be issued to one of the parents or guardians and not directly to the patient. Only a parent or guardian may serve as a primary caregiver for a nonemancipated qualifying patient under the age of eighteen. Only the qualifying patient's parent or guardian shall purchase or possess medical marijuana for a nonemancipated qualifying patient under the age of eighteen. A parent or guardian shall supervise the administration of medical marijuana to a nonemancipated qualifying patient under the age of eighteen.
+(13) Nothing in this section shall be construed as mandating health insurance coverage of medical marijuana for qualifying patient use.
+(14) Real and personal property used in the cultivation, manufacture, transport, testing, distribution, sale, and administration of marijuana for medical use or for activities otherwise in compliance with this section shall not be subject to asset forfeiture solely because of that use.
+(15) Unless a failure to do so would cause an employer to lose a monetary or licensing-related benefit under federal law, an employer may not discriminate against a person in hiring, termination or any term or condition of employment or otherwise penalize a person, if the discrimination is based upon either of the following:
+(a) The person's status as a qualifying patient or primary caregiver who has a valid identification card, including the person's legal use of a lawful marijuana product off the employer's premises during nonworking hours, unless the person was under the influence of medical marijuana on the premises of the place of employment or during the hours of employment; or
+(b) A positive drug test for marijuana components or metabolites of a person who has a valid qualifying patient identification card, unless the person used, possessed, or was under the influence of medical marijuana on the premises of the place of employment or during the hours of employment.
+Nothing in this subdivision shall apply to an employee in a position in which legal use of a lawful marijuana product affects in any manner a person's ability to perform job-related employment responsibilities or the safety of others, or conflicts with a bona fide occupational qualification that is reasonably related to the person's employment.
+(16) The enactment of section 2 of this Article and concurrent amendments to section 1 of this Article shall have no effect upon any valid contract, claim, or cause of action instituted prior to the effective date of this section.
+8. Federal Legalization.
+If federal law, rules, or regulations are amended to allow the interstate commerce of marijuana or marijuana-infused products or the importation or exportation of marijuana or marijuana-infused products into or out of the state of Missouri, the provisions and intent of this section shall, to the extent possible, remain in full effect, unless explicitly preempted by such federal law, rule, or regulation. If federal law, rules, or regulations are amended as provided above, any marijuana or marijuana-infused products imported into this state shall be subject to the same testing standards and seed to sale tracking system required under this section for marijuana and marijuana-infused products produced within the state. Unless federal law, rules, or regulations explicitly require otherwise, no entity shall sell, transport, produce, distribute, deliver, or cultivate marijuana or marijuana-infused products without an applicable license or certificate as required under this section. In addition, any raw biomass of marijuana or marijuana flower imported from out-of-state shall be received only by a licensed cultivation facility, while all batch oil, infused marijuana products and any marijuana product in any other form shall be received only by a licensed manufacturing facility.
+9. Severability.
+The provisions of this section are severable, and if any clause, sentence, paragraph or section of this measure, or an application thereof, is adjudged invalid by any court of competent jurisdiction, the other provisions shall continue to be in effect to the fullest extent possible.
+
+*08 Dec 2022 · (Adopted November 6, 2018) (Amended November 8, 2022)*
+
+### Section 2 Marijuana legalization, regulation, and taxation.
+
+1. Purpose.
+The purpose of this section is to make marijuana legal under state and local law for adults twenty-one years of age or older, and to control the commercial production and distribution of marijuana under a system that licenses, regulates, and taxes the businesses involved while protecting public health. The intent is to prevent arrest and penalty for personal possession and cultivation of limited amounts of marijuana by adults twenty-one years of age or older; remove the commercial production and distribution of marijuana from the illicit market; prevent revenue generated from commerce in marijuana from going to criminal enterprises; prevent the distribution of marijuana to persons under twenty-one years of age; prevent the diversion of marijuana to illicit markets; protect public health by ensuring the safety of marijuana and products containing marijuana; and ensure the security of marijuana facilities. To the fullest extent possible, this section shall be interpreted in accordance with the purpose and intent set forth in this section.
+This section is not intended to allow for the public use of marijuana, driving while under the influence of marijuana, the use of marijuana in the workplace, or the use of marijuana by persons under twenty-one years of age.
+2. Definitions.
+(1) "Church" means a permanent building primarily and regularly used as a place of religious worship.
+(2) "Comprehensive facility" means a comprehensive marijuana cultivation facility, comprehensive marijuana dispensary facility, or a comprehensive marijuana-infused products manufacturing facility.
+(3) "Comprehensive marijuana cultivation facility" means a facility licensed by the department to acquire, cultivate, process, package, store on site or off site, transport to or from, and sell marijuana, marijuana seeds, marijuana vegetative cuttings (also known as clones) to a medical facility, comprehensive facility, or marijuana testing facility. A comprehensive marijuana cultivation facility need not segregate or account for its marijuana products as either non-medical marijuana or medical marijuana. A comprehensive marijuana cultivation facility's authority to process marijuana shall include the creation of prerolls, but shall not include the manufacture of marijuana-infused products.
+(4) "Comprehensive marijuana dispensary facility" means a facility licensed by the department to acquire, process, package, store on site or off site, sell, transport to or from, and deliver marijuana, marijuana seeds, marijuana vegetative cuttings (also known as clones), marijuana-infused products, and drug paraphernalia used to administer marijuana as provided for in this section to a qualifying patient or primary caregiver, as those terms are defined in section 1 of this Article, or to a consumer, anywhere on the licensed property or to any address as directed by the patient, primary caregiver, or consumer and consistent with the limitations of this Article and as otherwise allowed by law, to a comprehensive facility, a marijuana testing facility, or a medical facility. Comprehensive dispensary facilities may receive transaction orders at the dispensary directly from the consumer in person, by phone, or via the internet, including from a third party. A comprehensive marijuana dispensary facility need not segregate or account for its marijuana products as either non-medical marijuana or medical marijuana, but shall collect all appropriate tangible personal property sales tax for each sale, as set forth in this Article and provided for by general or local law. A comprehensive marijuana dispensary facility's authority to process marijuana shall include the creation of prerolls.
+(5) "Comprehensive marijuana-infused products manufacturing facility" means a facility licensed by the department to acquire, process, package, store, manufacture, transport to or from a medical facility, comprehensive facility, or marijuana testing facility, and sell marijuana-infused products, prerolls, and infused prerolls to a marijuana dispensary facility, a marijuana testing facility, or another marijuana-infused products manufacturing facility. A comprehensive marijuana-infused products manufacturing facility need not segregate or account for its marijuana products as either non-medical marijuana or medical marijuana.
+(6) "Consumer" means a person who is at least twenty-one years of age.
+(7) "Daycare" means a child-care facility, as defined by section 210.20l, RSMo, or successor provisions, that is licensed by the state of Missouri.
+(8) "Department" means the department of health and senior services, or its successor agency.
+(9) "Entity" means a natural person, corporation, professional corporation, nonprofit corporation, cooperative corporation, unincorporated association, business trust, limited liability company, general or limited partnership, limited liability partnership, joint venture, or any other legal entity.
+(10) "Flowering plant" means a marijuana plant from the time it exhibits the first signs of sexual maturity through harvest.
+(11) "Infused preroll" means a consumable or smokable marijuana product, generally consisting of: (l) a wrap or paper, (2) dried flower, buds, and/or plant material, and (3) a concentrate, oil or other type of marijuana extract, either within or on the surface of the product. Infused prerolls may or may not include a filter or crutch at the base of the product.
+(12) "Local government" means, in the case of an incorporated area, a village, town, or city and, in the case of an unincorporated area, a county.
+(13) "Marijuana" or "marihuana" means Cannabis indica, Cannabis sativa, and Cannabis ruderalis, hybrids of such species, and any other strains commonly understood within the scientific community to constitute marijuana, as well as resin extracted from the marijuana plant and marijuana-infused products. "Marijuana" or "marihuana" do not include industrial hemp, as defined by Missouri statute, or commodities or products manufactured from industrial hemp.
+(14) "Marijuana accessories" means any equipment, product, material, or combination of equipment, products, or materials, which is specifically designed for use in planting, propagating, cultivating, growing, harvesting, manufacturing, compounding, converting, producing, processing, preparing, testing, analyzing, packaging, repackaging, storing, containing, ingesting, inhaling, or otherwise introducing marijuana into the human body.
+(15) "Marijuana facility" means a comprehensive marijuana cultivation facility, comprehensive marijuana dispensary facility, marijuana testing facility, comprehensive marijuana-infused products manufacturing facility, microbusiness wholesale facility, microbusiness dispensary facility, or any other type of marijuana-related facility or business licensed or certified by the department pursuant to this section, but shall not include a medical facility licensed under section l of this Article.
+(16) "Marijuana-infused products" means products that are infused, dipped, coated, sprayed, or mixed with marijuana or an extract thereof, including, but not limited to, products that are able to be vaporized or smoked, edible products, ingestible products, topical products, suppositories, and infused prerolls.
+(17) "Marijuana microbusiness facility" means a facility licensed by the department as a microbusiness dispensary facility or microbusiness wholesale facility, as defined in this section.
+(18) "Microbusiness dispensary facility" means a facility licensed by the department to acquire, process, package, store on site or off site, sell, transport to or from, and deliver marijuana, marijuana seeds, marijuana vegetative cuttings (also known as clones), marijuana-infused products, and drug paraphernalia used to administer marijuana as provided for in this section to a consumer, qualifying patient, as that term is defined in section 1 of this Article, or primary caregiver, as that term is defined in section l of this Article, anywhere on the licensed property or to any address as directed by the consumer, qualifying patient, or primary caregiver and, consistent with the limitations of this Article and as otherwise allowed by law, a microbusiness wholesale facility, or a marijuana testing facility. Microbusiness dispensary facilities may receive transaction orders at the dispensary directly from the consumer in person, by phone, or via the internet, including from a third party. A microbusiness dispensary facility's authority to process marijuana shall include the creation of prerolls.
+(19) "Microbusiness wholesale facility" means a facility licensed by the department to acquire, cultivate, process, package, store on site or off site, manufacture, transport to or from, deliver, and sell marijuana, marijuana seeds, marijuana vegetative cuttings (also known as clones), and marijuana-infused products to a microbusiness dispensary facility, other microbusiness wholesale facility, or marijuana testing facility. A microbusiness wholesale facility may cultivate up to 250 flowering marijuana plants at any given time. A microbusiness wholesale facility's authority to process marijuana shall include the creation of prerolls and infused prerolls.
+(20) "Marijuana testing facility" means a facility certified by the department to acquire, test, certify, and transport marijuana, including those originally certified as a medical marijuana testing facility.
+(21) "Owner" means an individual who has a financial (other than a security interest, lien, or encumbrance) or voting interest in ten percent or greater of a marijuana facility.
+(22) "Preroll" means a consumable or smokable marijuana product, generally consisting of: (l) a wrap or paper and (2) dried flower, buds, and/or plant material. Prerolls may or may not include a filter or crutch at the base of the product.
+(23) "Unduly burdensome" means that the measures necessary to comply with the rules or ordinances adopted pursuant to this section subject licensees or potential licensees to such a high investment of money, time, or any other resource or asset that a reasonably prudent businessperson would not operate the marijuana facility.
+3. Limitations.
+(1) Except as otherwise provided in this Article, this section does not preclude, limit, or affect laws that assign liability relative to, prohibit, or otherwise regulate:
+(a) Delivery or distribution of marijuana or marijuana accessories, with or without consideration, to a person younger than twenty-one years of age;
+(b) Purchase, possession, use, or transport of marijuana or marijuana accessories by a person younger than twenty-one years of age;
+(c) Consumption of marijuana by a person younger than twenty-one years of age;
+(d) Operating or being in physical control of any motor vehicle, train, aircraft, motorboat, or other motorized form of transport while under the influence of marijuana. Notwithstanding the foregoing, a conviction of a person who is at least twenty-one years of age for any applicable offenses shall require evidence that the person was in fact under the influence of marijuana at the time the person was in physical control of the motorized form of transport and not solely on the presence of tetrahydrocannabinol (THC) or THC metabolites, or a combination thereof, in the person's system;
+(e) Consumption of marijuana while operating or being in physical control of a motor vehicle, train, aircraft, motorboat, or other motorized form of transport while it is being operated;
+(f) Smoking marijuana within a motor vehicle, train, aircraft, motorboat, or other motorized form of transport while it is being operated;
+(g) Possession or consumption of marijuana or possession of marijuana accessories on the grounds of a public or private preschool, elementary or secondary school, institution of higher education, in a school bus, or on the grounds of any correctional facility;
+(h) Smoking marijuana in a location where smoking tobacco is prohibited;
+(i) Consumption of marijuana in a public place, other than in an area licensed by the authorities having jurisdiction over the licensing and/or permitting of said activity, as set forth in subsection 5 of this section;
+(j) Conduct that endangers others;
+(k) Undertaking any task while under the influence of marijuana, if doing so would constitute negligence, recklessness, or professional malpractice; or
+(l) Performing solvent-based extractions on marijuana using solvents other than water, glycerin, propylene glycol, vegetable oil, or food-grade ethanol, unless licensed for this activity by the department.
+(2) This section does not limit any privileges, rights, immunities, or defenses of a person or entity as provided in section l of this Article, or any other law of this state allowing for or regulating marijuana for medical use.
+(3) This section does not require an employer to permit or accommodate conduct otherwise allowed by this section in any workplace or on the employer's property. This section does not prohibit an employer from disciplining an employee for working while under the influence of marijuana. This section does not prevent an employer from refusing to hire, discharging, disciplining, or otherwise taking an adverse employment action against a person with respect to hire, tenure, terms, conditions, or privileges of employment because that person was working while under the influence of marijuana.
+(4) This section allows an entity to prohibit or otherwise limit the consumption, cultivation, distribution, processing, sale, or display of marijuana, marijuana-infused products, and marijuana accessories on private property the entity owns, leases, occupies, or manages, except that a lease agreement executed after the effective date of this section may not prohibit a tenant from lawfully possessing and consuming marijuana by means other than smoking.
+(5) The enactment of this section and all concurrent amendments to section 1 of this Article shall have no effect upon any valid contract, claim, or cause of action instituted prior to the effective date of this section.
+4. Regulation of Marijuana.
+(1) In carrying out the implementation of this section and as conditioned herein, the department shall have the authority to:
+(a) Grant or refuse state licenses for the cultivation, manufacture, dispensing, and sale of marijuana; suspend, restrict, or revoke such licenses upon a violation of this section or a rule promulgated pursuant to this section; and impose any reasonable administrative penalty authorized by this section or any general law enacted or rule promulgated pursuant to this section, so long as any procedure related to a suspension or revocation includes a reasonable cure period, not less than thirty days, prior to the suspension or revocation, except in instances where there is a credible and imminent threat to public health or public safety;
+(b) Promulgate rules and emergency rules necessary for the proper regulation and control of the cultivation, manufacture, dispensing, and sale of marijuana and for the enforcement of this section so long as such rules are reasonable and not unduly burdensome;
+(c) Develop such forms, certificates, licenses, identification cards, and applications as are necessary for, or reasonably related to, the administration of this section or any of the rules promulgated under this section;
+(d) Require a seed-to-sale tracking system that tracks marijuana from either the seed or immature plant stage until the marijuana or marijuana-infused product is sold to a qualified patient, primary caregiver, or consumer to ensure that no marijuana grown by a medical marijuana cultivation facility, comprehensive marijuana cultivation facility, or microbusiness wholesale facility, or manufactured by a medical marijuana-infused products manufacturing facility, a comprehensive marijuana-infused products manufacturing facility, or a microbusiness wholesale facility is sold or otherwise transferred to a consumer, qualified patient, or primary caregiver except by a medical marijuana dispensary facility, a comprehensive dispensary facility, or a microbusiness dispensary facility. The department shall certify all commercially available tracking systems that are compliant with its tracking standards and issue standards for the creation or use of other systems by licensees;
+(e) Issue standards for the secure transportation of marijuana and marijuana-infused products. The department shall certify entities that demonstrate compliance with its transportation standards to transport marijuana and marijuana-infused products to or from a comprehensive facility, medical facility, microbusiness facility, another entity with a transportation certification, or any entity licensed pursuant to paragraph (g) of this subdivision. The department shall develop or adopt from any other governmental agency such safety and security standards as are reasonably necessary for the transportation and temporary storage of marijuana and marijuana-infused products. Any entity licensed or certified pursuant to this section shall be allowed to transport its own inventory and products in compliance with department transportation rules and store marijuana and marijuana-infused products for the purposes related to transportation in compliance with department regulations on secure storage of marijuana and marijuana-infused products;
+(f) Promulgate rules and emergency rules specific to the licensing, regulation, and oversight of marijuana microbusiness facilities;
+(g) Provide for the issuance of additional types or classes of licenses to operate marijuana-related businesses that:
+a. Allow for only transportation, delivery, or storage of marijuana; or
+b. Are intended to facilitate scientific research or education.
+(h) Prepare and transmit annually a publicly available report accounting to the governor, the general assembly, and the public for the efficient discharge of all responsibilities assigned to the department under this section. The report shall provide aggregate data for each type of license (medical, comprehensive, and microbusiness) and facility (dispensary, cultivation, manufacturers, wholesalers). Only non-identifying information shall be provided regarding any marijuana facility owners;
+(i) Establish a lottery selection process to select comprehensive facility licenses, certificate holders, marijuana microbusiness licensees, but not medical facility licensees that are converting to comprehensive licenses pursuant to this subsection. To become eligible for any license lottery selection process, an owner cannot have pleaded guilty or been found guilty of a disqualifying felony, as that term is defined in subsection 9 of this section.
+(j) In developing a lottery selection process to award licenses and certificates, the department may consult or contract with other public agencies with relevant expertise.
+(k) While not required as a prerequisite to participation in a comprehensive license lottery, every comprehensive license applicant shall submit to the department a voluntary plan to promote and encourage participation in the regulated marijuana industry by people from communities that have been disproportionately impacted by marijuana prohibition. The plan may include strategies to address geographical defined communities that have been disproportionately impacted by marijuana prohibition; provide for ownership opportunities for disproportionately impacted communities; and provide for employment, supplier, and vendor opportunities for individuals and businesses in communities that have been disproportionately impacted by marijuana prohibition. If licensed, any voluntary applicant plan shall be enforceable by the department.
+(l) Notwithstanding other grants of authority herein, neither the department nor any governmental body may restrict the production or use of marijuana and marijuana-infused products based solely upon THC content.
+(m) Set a limit on the amount of marijuana that may be purchased in a single transaction provided that limit is not less than three ounces of dried, unprocessed marijuana, or its equivalent.
+(n) Regulate the advertising and promotion of marijuana sales, but any such regulation shall be no more stringent than comparable state regulations on the advertising and promotion of alcohol sales.
+(2) The department shall issue, at a minimum, the same number of comprehensive marijuana cultivation facility licenses as were authorized or issued for medical marijuana cultivation facilities under section 1 of this Article as of December 7, 2022, the same number of comprehensive marijuana-infused products manufacturing facility licenses as were authorized or issued for medical marijuana-infused products manufacturing facilities under section 1 of this Article as of December 7, 2022, the same number of comprehensive marijuana dispensary facility licenses with the same congressional distribution requirements as were authorized or issued for medical marijuana dispensary facilities under section l of this Article as of December 7, 2022, in addition to the minimum number of marijuana microbusiness licenses as are required under this section. The department may lift or ease any limit on the number of licensees or certificate holders in order to meet the demand for marijuana in the state and to ensure a competitive market while also preventing an over-concentration of marijuana facilities within the boundaries of any particular local government.
+(3) If comprehensive facility licenses become available because the number of total issued licenses in any respective category falls below the minimum required under this section or the department determines more comprehensive facility licenses are necessary to meet the requirements of subdivision (2) of this subsection, the department shall award by lottery at least fifty percent of any new licenses available to satisfy the minimum requirement to applicants who are owners of a marijuana microbusiness facility that has been in operation for at least one year and is in good standing with the department and is otherwise qualified for the license.
+(4) The department may issue any rules or emergency rules necessary for the implementation and enforcement of this section and to ensure the right to, availability, and safe use of marijuana by consumers. In developing such rules or emergency rules, the department may consult or contract with other public agencies. In addition to any other rules or emergency rules necessary to carry out the mandates of this section, the department shall issue rules or emergency rules relating to the following subjects:
+(a) Procedures for issuing a license and for renewing, suspending, and revoking a license, so long as any procedure related to a suspension or revocation includes a reasonable cure period, not less than thirty days, prior to the suspension or revocation, except in instances where there is a credible and imminent threat to public health or public safety;
+(b) Requirements and standards for safe cultivation, processing, and distribution of marijuana and marijuana-infused products by marijuana facilities, including health standards to ensure the safe preparation of marijuana-infused products;
+(c) Testing, packaging, and labeling standards, procedures, and requirements for marijuana and marijuana-infused products and a requirement that a representative sample of marijuana be tested by a marijuana testing facility to ensure public health;
+(d) Labeling standards that protect public health by requiring the listing of pharmacologically active ingredients, including, but not limited to, tetrahydrocannabinol (THC), cannabidiol (CBD), and other cannabinoid content, the THC and other cannabinoid amount in milligrams per serving, the number of servings per package, and quantity limits per sale to comply with the allowable possession amount;
+(e) Requirements that packaging and labels shall not be made to be attractive to children, required warning labels, and that marijuana and marijuana-infused products be sold in resealable, child-resistant packaging to protect public health;
+(f) Security requirements, including lighting, physical security, and alarm requirements, and requirements for securely transporting marijuana between marijuana facilities;
+(g) Record keeping requirements for marijuana facilities and monitoring requirements to track the transfer of marijuana by licensees;
+(h) A plan to promote and encourage ownership and employment in the marijuana industry by people from political subdivisions and districts that are economically distressed and to positively impact those political subdivisions and districts;
+(i) Administrative penalties as authorized by this section for failure to comply with any rule promulgated pursuant to this section or for any violation of rules and regulations adopted pursuant to this section by a licensee, including authorized administrative fines and suspension, revocation, or restriction of a license. The licensee may choose to challenge any penalties imposed by the department through the administrative hearing commission, or its successor entity. Pursuant to section 536. l00, RSMo, or its successor provisions, any licensee who has exhausted all administrative remedies provided by law and who is aggrieved by a final decision in a contested case is entitled to judicial review;
+(j) Reporting and transmittal of tax payments required under this section;
+(k) Authorization for the department of revenue to have access to licensing information to ensure tax payment and the effective administration of this section; and
+(l) Such other matters as are necessary for the fair, impartial, stringent, and comprehensive administration of this section.
+(5) The department shall issue rules or emergency rules for a marijuana and marijuana-­infused products independent testing and certification program for marijuana facility licensees and requiring licensees to test marijuana using one or more impartial, independent laboratory or laboratories to ensure, at a minimum, correct labeling, potency measurement, and that products sold for human consumption do not contain contaminants that are potentially injurious to public health.
+(6) The department shall issue rules or emergency rules to provide for the certification of and standards for marijuana testing facilities, including the requirements for equipment and qualifications for personnel, but shall not require certificate holders to have any federal agency licensing or have any relationship with a federally licensed testing facility. No marijuana testing facility shall be owned by an entity or entities under substantially common control, ownership, or management as a marijuana cultivation facility, marijuana-infused products manufacturing facility, marijuana microbusiness facility, or marijuana dispensary facility.
+(7) All public records produced or retained pursuant to this section are subject to the general provisions of the Missouri Sunshine Law, chapter 610, RSMo, or its successor provisions. Notwithstanding the foregoing, public records containing proprietary business information obtained from an applicant or licensee shall be closed. The applicant or licensee shall label business information it believes to be proprietary prior to submitting it to the department. Proprietary business information shall include sales information, financial records, tax returns, credit reports, license applications, cultivation information unrelated to product safety, testing results unrelated to product safety, site security information and plans, and individualized consumer information. The presence of proprietary business information shall not justify the closure of public records:
+(a) Identifying the applicant or licensee;
+(b) Relating to any citation, notice of violation, tax delinquency, or other enforcement action;
+(c) Relating to any public official's support or opposition relative to any applicant, licensee, or their proposed or actual operations;
+(d) Where disclosure is reasonably necessary for the protection of public health or safety; or
+(e) That are otherwise subject to public inspection under applicable law.
+(8) Within one hundred and eighty days of the effective date of this section, the department shall make available to the public license application forms and application instructions for marijuana microbusiness facilities. Within two hundred and seventy days of the effective date of this section, the department shall start accepting such applications from applicants.
+(9) An entity may apply to the department for and obtain one or more licenses to grow marijuana as a comprehensive marijuana cultivation facility. Each facility in operation shall require a separate license, but multiple licenses may be utilized in a single facility. Each indoor facility utilizing artificial lighting may be limited by the department to thirty thousand square feet of flowering plant canopy space. Each outdoor facility utilizing natural lighting may be limited by the department to two thousand eight hundred flowering plants. Each greenhouse facility using a combination of natural and artificial lighting may be limited by the department, at the election of the licensee, to two thousand eight hundred flowering plants or thirty thousand square feet of flowering plant canopy. The license shall be valid for three years from its date of issuance and shall be renewable, except for good cause. The department shall charge each applicant a non-refundable fee of twelve thousand dollars per license application or renewal for all applicants filing an application within three years of the effective date of this section and shall charge each applicant a non-refundable fee of five thousand dollars per license application or renewal thereafter. Once granted, the department shall charge each licensee an annual fee of twenty-five thousand dollars per facility license. Application and license fees shall be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency. An entity may not be an owner of more than ten percent of the total marijuana cultivation facility licenses outstanding under both sections 1 and 2 of this Article at any given time, rounded down to the nearest whole number.
+(10) An entity may apply to the department for and obtain one or more licenses to operate a comprehensive marijuana dispensary facility. Each facility in operation shall require a separate license. A license shall be valid for three years from its date of issuance and shall be renewable, except for good cause. The department shall charge each applicant a non-refundable fee of seven thousand dollars per license application or renewal for each applicant filing an application within three years of the effective date of this section and shall charge each applicant a non-refundable fee of three thousand dollars per license application or renewal thereafter. Once granted, the department shall charge each licensee an annual fee of ten thousand dollars per facility license. Application and license fees shall be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency. An entity may not be an owner of more than ten percent of the total marijuana dispensary facility licenses outstanding under both sections l and 2 of this Article at any given time, rounded down to the nearest whole number.
+(11) An entity may apply to the department for and obtain one or more licenses to operate a comprehensive marijuana-infused products manufacturing facility. Each facility in operation shall require a separate license. A license shall be valid for three years from its date of issuance and shall be renewable, except for good cause. The department shall charge each applicant a non-refundable fee of seven thousand dollars per license application or renewal for each applicant filing an application within three years of the effective date of this section and shall charge each applicant a non-refundable fee of three thousand dollars per license application or renewal thereafter. Once granted, the department shall charge each licensee an annual fee of ten thousand dollars per facility license. Application and license fees shall be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency. An entity may not be an owner of more than ten percent of the total marijuana-infused products manufacturing facility licenses outstanding under both sections l and 2 of this Article at any given time, rounded down to the nearest whole number.
+(12) An entity may apply to the department for and obtain only one license to operate a marijuana microbusiness facility, which may be either a microbusiness dispensary facility or a microbusiness wholesale facility. A marijuana microbusiness facility licensee may engage in all of the activities allowed under the license or it may apply for and engage in a subset of the activities allowed if the applicant or license holder so chooses. A microbusiness wholesale facility may cultivate, process, manufacture, transport, and sell marijuana and marijuana-infused products to any other marijuana microbusiness facility. A microbusiness dispensary facility licensee may acquire from any other microbusiness facility, process, package, deliver, and sell marijuana and marijuana-infused products to any other marijuana microbusiness facility, or directly to qualified patients, their primary caregiver, or consumers. A marijuana microbusiness license shall be valid for three years from its date of issuance and shall be renewable, except for good cause. The department shall charge each applicant a fee of one thousand five hundred dollars per license application and for each subsequent license renewal application thereafter. Any applicant that meets the criteria to apply for a marijuana microbusiness facility license but is not chosen by the lottery system may have their application fee refunded. Once granted, the department shall charge each licensee an annual fee of one thousand five hundred dollars per facility license, but there shall be no annual fee assessed for the first year of licensure. Application and license fees shall be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency. An entity may not be an owner of more than one marijuana microbusiness facility license. An owner of a marijuana microbusiness facility may not also be an owner of another licensed marijuana facility or medical facility regulated under this Article. However, the owner of a marijuana microbusiness facility may apply for a license or licenses for other marijuana or medical marijuana facilities under this Article. If granted one or more of these licenses, the marijuana microbusiness facility owner shall transition to other licensed operations on a reasonably practical timetable established by the department, and surrender its marijuana microbusiness facility license to the department for issuance to an applicant for a marijuana microbusiness facility. In addition to other requirements established by this section, an applicant for a marijuana microbusiness license shall be majority owned by individuals who each meet at least one of the following qualifications:
+(a) Have a net worth of less than $250,000 and have had an income below two hundred and fifty percent of the federal poverty level, or successor level, as set forth in the applicable calendar year's federal poverty income guidelines published by the U.S. Department of Health and Human Services or its successor agency, for at least three of the ten calendar years prior to applying for a marijuana microbusiness facility license; or
+(b) Have a valid service-connected disability card issued by the United States Department of Veterans Affairs, or successor agency; or
+(c) Be a person who has been, or a person whose parent, guardian or spouse has been arrested for, prosecuted for, or convicted of a non-violent marijuana offense, except for a conviction involving provision of marijuana to a minor, or a conviction of driving under the influence of marijuana. The arrest, charge, or conviction must have occurred at least one year prior to the effective date of this section; or
+(d) Reside in a ZIP code or census track area where:
+a. Thirty percent or more of the population lives below the federal poverty level; or
+b. The rate of unemployment is fifty percent higher than the state average rate of unemployment; or
+c. The historic rate of incarceration for marijuana-related offenses is fifty percent higher than the rate for the entire state; or
+(e) Graduated from a school district that was unaccredited, or had a similar successor designation, at the time of graduation, or has lived in a zip code containing an unaccredited school district, or similar successor designation, for three of the past five years.
+(13) The department may restrict the aggregate number of licenses granted for marijuana microbusiness facilities, provided, however, that the number may not be limited to fewer than the following number of licenses in each United States congressional district in the state of Missouri pursuant to the map of each of the eight congressional districts as drawn and effective on December 6, 2018:
+(a) Six, once the department begins issuing licenses for marijuana microbusiness facilities under this subsection, at least two of which shall be a microbusiness dispensary facility, and at least four of which will be a microbusiness wholesale facility. The department shall issue the first group of microbusiness licenses no later than three hundred days after the effective date of this section;
+(b) An additional six following the first two hundred and seventy days after the department begins issuing licenses for marijuana microbusiness facilities under this subsection, at least two of which shall be a microbusiness dispensary facility, and at least four of which will be a microbusiness wholesale facility, but only after the chief equity officer, or his or her designee, conducts a review and certifies that previous microbusiness licenses were awarded to and are being operated by eligible applicants in good standing; and
+(c) An additional six after the first five hundred and forty-eight days after the department begins issuing licenses for marijuana microbusiness facilities under this subsection, at least two of which shall be a microbusiness dispensary facility, and at least four of which will be a microbusiness wholesale facility, but only after the chief equity officer, or his or her designee, conducts a review and certifies that previous microbusiness licenses were awarded to and are being operated in good standing by eligible applicants.
+Future changes to the boundaries or the number of congressional districts shall have no impact on microbusiness license numbers or distribution. The eligibility review set forth in this subdivision shall be conducted by the chief equity officer within sixty days of issuance of the licenses. The chief equity officer shall publish in a manner available to the public the results of the review that contains only aggregate information on licensee eligibility criteria.
+(14) Within 60 days after the effective date of this section, the department shall appoint a chief equity officer. The chief equity officer shall assist with the development and implementation of programs to inform the public of the opportunities available to those people who meet the criteria set forth in paragraph (12) of this subsection. The chief equity officer shall establish public education programming and targeted technical assistance programming dedicated to providing communities that have been impacted by marijuana prohibition with information detailing the licensing process and informing individuals of the support and resources that the office can provide to individuals and entities interested in participating in activity licensed under this Article. The chief equity officer shall provide a report to the department, no later than January l, 2024, and annually thereafter, of their and the department's activities in ensuring compliance with the applicant criteria set forth in paragraph (12) of this subsection, and the department shall provide such report to the legislature. The chief equity officer may only be removed for cause and the department shall not interfere with the officer's lawful official activities under this section.
+(15) Any medical marijuana cultivation facility, medical marijuana dispensary facility, and medical marijuana-infused products manufacturing facility, holding an active facility license under section 1 of this Article shall have the right to convert their license to a comprehensive marijuana license, and any entity certified by the department to conduct medical marijuana testing, transportation or seed-to-sale tracking, as of the effective date of this section shall be deemed certified to conduct those activities with respect to all marijuana;
+(16) Upon the effective date of this section, any existing medical facility licensee may request its medical facility license convert to that of a comprehensive facility license. Conversion requests not processed within sixty days of department receipt shall be deemed approved.
+(17) With the exception of microbusiness licenses, and consistent with any limitations set forth in this section, for the first five hundred and forty-eight days after the department begins issuing licenses for marijuana facilities under this section, the department may only issue a license:
+(a) For a comprehensive marijuana cultivation facility to an entity holding a medical marijuana cultivation facility license issued pursuant to section l of this Article seeking to convert its licensure to that of a comprehensive marijuana cultivation facility at the same location;
+(b) For a comprehensive marijuana dispensary facility to an entity holding a medical marijuana dispensary facility license issued pursuant to section 1 of this Article seeking to convert its licensure to that of a comprehensive marijuana dispensary facility at the same location; and
+(c) For a comprehensive marijuana-infused products manufacturing facility to an entity holding a medical marijuana-infused products manufacturing facility license issued pursuant to section l of this Article seeking to convert its licensure to that of a comprehensive marijuana­infused products manufacturing facility at the same location.
+(18) The department shall issue a license to each request for a conversion to a comprehensive marijuana facility license pursuant to subdivision (15) of this subsection if the applicant is in good standing with the department.
+(19) Notwithstanding the provisions of section 1 of this Article, if an existing medical marijuana dispensary facility is located in a jurisdiction that prohibits non-medical retail marijuana facilities under this section, or is otherwise prevented from operating a comprehensive marijuana dispensary facility at the same location as the existing medical marijuana dispensary facility, the medical marijuana dispensary facility may apply to the department for a comprehensive marijuana dispensary license pursuant to subdivision (15) of this subsection in a new location within the same congressional district, and such application shall be granted so long as the new location meets all the requirements of this section and department regulations.
+(20) In addition to the foregoing, if the department has reason to believe that the conversion of a medical facility into a comprehensive facility might limit or restrict access to an adequate supply of marijuana and marijuana-infused products at a reasonable cost to qualifying patients, as defined in section l of this Article, the department may request a plan from the medical facility licensee which explains how the applicant would serve both the medical and adult-use markets, while maintaining adequate supply at a reasonable cost to qualifying patients.
+(21) Comprehensive marijuana facilities licensed to distribute marijuana, marijuana-­infused products, and marijuana accessories directly to consumers pursuant to this section may also distribute marijuana, marijuana-infused products, and marijuana accessories to qualifying patients and primary caregivers consistent with section 1 of this Article and department regulation.
+(22) The department may charge a fee not to exceed two thousand five hundred dollars for any certification issued pursuant to this section. This fee limitation shall be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency.
+(23) Within thirty days of December 8, 2022, the department shall make available to the public application forms and application instructions for personal cultivation registration cards. Within sixty days of December 8, 2022, the department shall begin accepting applications for such registration cards.
+(24) Except for good cause, a person at least twenty-one years of age may obtain a registration card from the department to cultivate up to six flowering marijuana plants, six nonflowering marijuana plants (over fourteen inches tall), and six clones (plants under fourteen inches tall) for non-commercial use, provided:
+(a) The plants and any marijuana produced by the plants in excess of three ounces are kept at one private residence, are in a locked space, and are not visible by normal, unaided vision from a public place; and
+(b) Not more than twelve flowering marijuana plants are kept in or on the grounds of a private residence at one time.
+The card shall be valid for twelve months from its date of issuance and shall be renewable. The department shall charge an annual fee for the card of one hundred dollars, with such rate to be increased or decreased each year by the percentage of increase or decrease from the end of the previous calendar year of the Consumer Price Index, or successor index as published by the U.S. Department of Labor, or its successor agency.
+(25) All marijuana sold in Missouri pursuant to this section shall be cultivated in Missouri.
+(26) All marijuana-infused products sold in Missouri pursuant to this section shall be manufactured in Missouri.
+(27) The denial of a license or license renewal by the department shall be appealable. The applicant may choose to challenge any denial by the department through the administrative hearing commission, or successor entity. Pursuant to section 536.l00, RSMo, or its successor provisions, any licensee who has exhausted all administrative remedies provided by law and who is aggrieved by a final decision in a contested case is entitled to judicial review.
+(28) No elected official shall interfere directly or indirectly with the department's obligations and activities under this section.
+(29) To minimize the potential for undue political influence in awarding licenses, the department shall review license applications using reasonable safeguards that ensure the identity of the applicant and its principal owners, officers, and managers are not identified to the application reviewer.
+(30) To ensure the consistent protection of public health and public safety, the department shall have the sole authority within the state of Missouri to issue licenses for marijuana facilities and certifications pursuant to this section.
+(31) The department shall not have the authority to promulgate, apply, or enforce any rule or regulation that is unduly burdensome or act to undermine the purposes of this section.
+5. Local Control.
+(1) (a) Except as provided in this subsection, a local government may prohibit the operation of all microbusiness dispensary facilities or comprehensive marijuana dispensary facilities regulated under this section from being located within its jurisdiction either through referral of a ballot question to the voters by the governing body or through citizen petition, provided that citizen petitions are otherwise generally authorized by the laws of the local government. Such a ballot question shall be voted on only during the regularly scheduled general election held on the first Tuesday after the first Monday in November of a presidential election year, starting in 2024, thereby minimizing additional local governmental cost or expense. A citizen petition to put before the voters a ballot question prohibiting microbusiness dispensary facilities or comprehensive marijuana dispensary facilities shall be signed by at least five percent of the qualified voters in the area proposed to be subject to the prohibition, determined on the basis of the number of votes cast for governor in such locale at the last gubernatorial election held prior to the filing of the petition. The local government shall count the petition signatures and give legal notice of the election as provided by applicable law. Denial of ballot access shall be subject to judicial review.
+(b) Whether submitted by the governing body or by citizen's petition, the question shall be submitted in the following form: "Shall (insert name of local government) ban all non-­medical microbusiness dispensary facilities and comprehensive marijuana dispensary facilities from being located within (insert name of local government and, where applicable, its "unincorporated areas") and forgo any additional related local tax revenue? ( ) Yes ( ) No." If at least sixty percent of the votes cast on the question by the qualified voters voting thereon are in favor of the question, then the ban shall go into effect as provided by law. If a question receives less than the required sixty percent, then the jurisdiction shall have no power to ban non-medical microbusiness dispensary facilities or comprehensive marijuana facilities regulated under this section, unless voters at a subsequent general election on the first Tuesday after the first Monday in November of a presidential election year approve a ban on non-medical retail marijuana facilities submitted to them by the governing body or by citizen petition.
+(2) (a) A local government may repeal an existing ban by its own ordinance or by a vote of the people, either through referral of a ballot question to the voters by the governing body or through citizen petition, provided that citizen petitions are otherwise generally authorized by the laws of the local government. In the case of a referral of a ballot question by the governing body or citizen petition to repeal an existing ban, the question shall be voted on only during the regularly scheduled general election held on the first Tuesday after the first Monday in November of a presidential election year. A citizen petition to put before the voters a ballot question repealing an existing ban shall be signed by at least five percent of the qualified voters in the area subject to the ban, determined on the basis of the number of votes cast for governor in such locale at the last gubernatorial election held prior to the filing of the petition. The local government shall count the petition signatures and give legal notice of the election as provided by applicable law. Denial of ballot access shall be subject to judicial review.
+(b) Whether submitted by the governing body or by citizen's petition, the question shall be submitted in the following form: "Shall (insert name of local government) allow non-medical microbusiness dispensary facilities and comprehensive marijuana dispensary facilities to be located within (insert name of local government and where applicable, its "unincorporated areas") as regulated by state law? ( ) Yes ( ) No." If a majority of the votes cast on the question by the qualified voters voting thereon are in favor of the question, then the ban shall be repealed.
+(3) The only local government ordinances and regulations that are binding on a marijuana facility are those of the local government where the marijuana facility is located.
+(4) Unless allowed by the local government, no new marijuana facility shall be initially sited within one thousand feet of any then-existing elementary or secondary school, child day-care center, or church. In the case of a freestanding facility, the distance between the facility and the school, daycare, or church shall be measured from the external wall of the facility structure closest in proximity to the school, daycare, or church to the closest point of the property line of the school, daycare, or church. If the school, daycare, or church is part of a larger structure, such as an office building or strip mall, the distance shall be measured to the entrance or exit of the school, daycare, or church closest in proximity to the facility. In the case of a facility that is part of a larger structure, such as an office building or strip mall, the distance between the facility and the school, daycare, or church shall be measured from the property line of the school, daycare, or church to the facility's entrance or exit closest in proximity to the school, daycare, or church. If the school, daycare, or church is part of a larger structure, such as an office building or strip mall, the distance shall be measured to the entrance or exit of the school, daycare, or church closest in proximity to the facility. Measurements shall be made along the shortest path between the demarcation points that can be lawfully traveled by foot.
+(5) Except as otherwise provided in this subsection, no local government shall prohibit marijuana facilities or entities with a transportation certification either expressly or through the enactment of ordinances or regulations that make their operation unduly burdensome in the jurisdiction. However, local governments may enact ordinances or regulations not in conflict with this section, or with regulations enacted pursuant to this section, governing the time, place, and manner of operation of such facilities in the locality. A local government may establish civil penalties for violation of an ordinance or regulations governing the time, place, and manner of operation of a marijuana facility or entity holding a transportation certification that may operate in such locality.
+(6) Local governments may enact ordinances or regulations not in conflict with this section, or with regulations enacted pursuant to this section, governing:
+(a) The time and place where marijuana may be smoked in public areas within the locality; and
+(b) The consumption of marijuana-infused products within designated areas, including the preparation of culinary dishes or beverages by local restaurants for on-site consumption on the same day it is prepared.
+6. Taxation and Reporting.
+(1) A tax shall be levied upon the retail sale of non-medical marijuana sold to consumers at marijuana facilities licensed pursuant to this section within the state. The tax shall be at a rate of six percent of the retail price. The tax shall be collected by each licensed retail marijuana facility and paid to the department of revenue. After retaining no more than two percent of the total tax collected or its actual collection costs, whichever is less, amounts generated by the marijuana tangible personal property retail sales tax levied in this section shall be deposited by the department of revenue into the veterans, health, and community reinvestment fund created under this subsection. Licensed entities making non-medical retail sales within the state shall be allowed approved credit for returns provided the tax was paid on the returned item and the purchaser was given the refund or credit. This tax shall not apply to medical marijuana dispensed to a registered qualifying patient or caregiver.
+(2) There is hereby created in the state treasury the "Veterans, Health, and Community Reinvestment Fund" which shall consist of taxes and fees collected under this section. The state treasurer shall be custodian of the fund, and he or she shall invest monies in the fund in the same manner as other funds are invested. Any interest and moneys earned on such investments shall be credited to the fund. Notwithstanding any other provision of law, any monies remaining in the fund at the end of a biennium shall not revert to the credit of the general revenue fund. The commissioner of administration is authorized to make cash operating transfers to the fund for purposes of meeting the cash requirements of the department in advance of it receiving application, licensing, and tax revenue, with any such transfers to be repaid as provided by law. The fund shall be a dedicated fund and shall be distributed as follows:
+(a) First, as determined by appropriation, to the department an amount necessary for the department to carry out its responsibilities under this section, including repayment of any cash operating transfers, payments made through contract or agreement with other state and public agencies necessary to carry out this section, and a reserve fund to maintain a reasonable working cash balance for the purpose of carrying out this section;
+(b) Second, as determined by appropriation, to governmental entities in amounts necessary for carrying out responsibilities in the expungement of criminal history records under this section;
+(c) Next, the remaining fund balance shall be distributed in thirds as follows:
+a. One-third of the remainder of the fund balance shall be transferred to the Missouri veterans commission and allied state agencies, as determined by appropriation, exclusively for health care and other services for military veterans and their dependent families;
+b. One-third of the remainder of the fund balance to the department to provide grants to agencies and not-for-profit organizations, whether government or community-based, to increase access to evidence-based low-barrier drug addiction treatment, prioritizing medically proven treatment and overdose prevention and reversal methods and public or private treatment options with an emphasis on reintegrating recipients into their local communities, to support overdose prevention education, and to support job placement, housing, and counseling for those with substance use disorders. Agencies and organizations serving populations with the highest rates of drug-related overdose shall be prioritized to receive the grants; and
+c. One-third of the remainder of the fund balance to the Missouri public defender system. Any moneys credited to the Missouri public defender system shall be used only for legal assistance for low-income Missourians, shall not be diverted to any other purpose.
+(d) All monies from the taxes and fees authorized hereunder shall provide new and additional funding for the purposes enumerated above and shall not replace existing funding.
+(e) The unexpended balance existing in the fund shall be exempt from the provisions of section 33.080, RSMo, or its successor provisions, relating to the transfer of unexpended balances to the general revenue fund.
+(3) For all retail sales of marijuana, a record shall be kept by the seller of all amounts and types of marijuana involved in the sale and the total amount of money involved in the sale, including itemizations, taxes collected, and grand total sale amounts. All such records shall be kept on the premises in a readily available format and be made available for review by the department and the department of revenue upon request. Such records shall be retained for five years from the date of the sale.
+(4) The tax levied pursuant to this subsection is separate from and in addition to any general state and local sales and use taxes that apply to retail sales, which shall continue to be collected and distributed as provided by general law.
+(5) Pursuant to Article III, Section 49 of this Constitution, the governing body of any local government is authorized to impose, by ordinance or order, an additional sales tax in an amount not to exceed three percent on all tangible personal property retail sales of adult use marijuana sold in such political subdivision. The tax authorized by this paragraph shall be in addition to any and all other tangible personal property retail sales taxes allowed by law, except that no ordinance or order imposing a tangible personal property retail sales tax under the provisions of this paragraph shall be effective unless the governing body of the political subdivision submits to the voters of the political subdivision, at a municipal, county or state general, primary or special election, a proposal to authorize the governing body of the political subdivision to impose a tax. Any additional local retail sales tax shall be collected pursuant to general laws for the collection of local sales taxes.
+(6) Except as authorized in this Article, no additional taxes shall be imposed on the sale of marijuana.
+(7) The fees and taxes provided for in this section shall be fully enforceable notwithstanding any other provision in this Constitution purportedly prohibiting or restricting the taxes and fees provided for herein.
+(8) For taxpayers authorized to do business pursuant to this Article, the amount that would have been deducted in the computation of federal taxable income pursuant to 26 U.S.C. Section 280E of the Internal Revenue Code as in effect on January 1, 2021, or successor provisions, but is disallowed because cannabis is a controlled substance under federal law, shall be subtracted from the taxpayer's federal adjusted gross income, in determining the taxpayer's Missouri adjusted gross income.
+7. Additional Protections.
+(1) A marijuana testing facility shall not be subject to civil or criminal prosecution under Missouri law, denial of any right or privilege, civil or administrative penalty or sanction, or disciplinary action by any accreditation or licensing board or commission for providing laboratory testing services that relate to marijuana consistent with this section and otherwise meeting legal standards of professional conduct.
+(2) Notwithstanding any provision of Article V to the contrary, an attorney shall not be subject to disciplinary action by the Supreme Court of Missouri, the office of chief disciplinary counsel, the state bar association, any state agency or any professional licensing body for any of the following:
+(a) Owning, operating, investing in, being employed by, or contracting with prospective or licensed marijuana testing facilities, marijuana cultivation facilities, marijuana dispensary facilities, marijuana-infused products manufacturing facilities, marijuana microbusiness facilities, or transportation certificate holders;
+(b) Counseling, advising, and/or assisting a client in conduct permitted by Missouri law that may violate or conflict with federal or other law, as long as the attorney advises the client about that federal or other law and its potential consequences;
+(c) Counseling, advising, and/or assisting a client in connection with applying for, owning, operating, or otherwise having any legal, equitable, or beneficial interest in marijuana testing facilities, marijuana cultivation facilities, marijuana dispensary facilities, marijuana-­infused products manufacturing facilities, marijuana microbusiness facilities, or transportation certificates; or
+(d) Counseling, advising or assisting a qualifying patient, primary caregiver, physician, nurse practitioner, health care provider, consumer, or other client related to activity that is no longer subject to criminal penalties under Missouri law pursuant to this Article.
+(3) Actions and conduct by marijuana facilities licensed or otherwise certified by the department, or their employees or agents, as permitted by this section and in compliance with department regulations and other standards of legal conduct, shall not be subject to criminal or civil liability or sanctions under Missouri law, except as provided for by this section.
+(4) The department may not promulgate a rule that requires a consumer to provide a marijuana facility with identifying information other than identification to determine the consumer's age.
+(5) It is the public policy of the state of Missouri that contracts related to marijuana that are entered into by marijuana facilities and those who allow property to be used by those entities should be enforceable. It is the public policy of the state of Missouri that no contract entered into by marijuana facilities, or by a person who allows property to be used for activities that are exempt from state criminal penalties by this section, shall be unenforceable on the basis that activities related to marijuana may be prohibited by federal law.
+(6) Prior to requesting a search or arrest warrant relating to cultivation of marijuana plants, a state or local law enforcement official shall verify with the department whether the targeted person holds a registration card allowing for cultivation of flowering marijuana plants under this section, and shall inform the issuing authority when making the warrant request. Evidence of marijuana alone, without specific evidence indicating that the marijuana is outside of what is lawful for medical or adult use, cannot be the basis for a search of a patient or non-patient, including their home, vehicle or other property. Lawful marijuana related activities cannot be the basis for a violation of parole, probation, or any type of supervised release. State and local law enforcement shall have access to such department information as is necessary to confirm whether the targeted person holds a registration card. Each time a state or local law enforcement officer executes a search warrant authorizing entry upon premises for an alleged marijuana offense, the officer must first knock or announce their presence or purpose prior to entering the premises.
+(7) (a) After executing a search warrant for an alleged marijuana offense, or conducting a warrantless search for an alleged marijuana offense, the officer shall report the following information to the agency that employs the officer:
+a. The reasons for the warrant or, in the case of a warrantless search, a detailed account of either the probable cause or exigent circumstances, if any, which lead to the warrantless search;
+b. Whether any marijuana was discovered during the course of the search;
+c. Whether any marijuana was seized during the search, and if so, the amount seized;
+d. Whether any other contraband was discovered or seized in the course of the search, and if seized, a description of the contraband;
+e. A description of the tactics used by law enforcement to enter the property;
+f. Whether an arrest was made as a result of the search; and
+g. If an arrest was made, the crime suspected.
+(b) Each law enforcement agency shall compile the data described in paragraph (a) of this subdivision for the calendar year into a report and shall submit the report to the attorney general no later than March first of the following calendar year. The attorney general shall determine the format that all law enforcement agencies shall use to submit the report.
+(c) The attorney general shall submit a summary of the annual reports of law enforcement agencies to the governor, the general assembly, and each law enforcement agency no later than June first of each year. The summary shall include the total number of such warrants executed by each agency in the previous calendar year for alleged marijuana offenses, and a compilation of the information reported by law enforcement agencies pursuant to paragraph (b) of this subdivision.
+8. Legislation.
+Nothing in this section shall limit the general assembly from enacting laws consistent with the purposes and provisions of this section.
+9. Additional Provisions.
+(1) No owner of a marijuana facility or entity with a transportation certification shall be an individual with a disqualifying felony offense. A "disqualifying felony offense" is a violation of, and conviction or guilty plea to, state or federal law that is, or would have been, a felony under Missouri law, regardless of the sentence imposed, unless the department determines that:
+(a) The person's conviction was for a marijuana offense that has been expunged or is currently eligible for expungement under this section; or
+(b) The person's conviction was for a non-violent crime for which he or she was not incarcerated and that is more than five years old; or
+(c) More than five years have passed since the person was released from parole or probation, and he or she has not been convicted of any subsequent felony criminal offenses.
+The department may consult with and rely on the records, advice, and recommendations of the attorney general and the department of public safety, or their successor entities, in carrying out the provisions of this subdivision.
+(2) Owners licensed pursuant to this section shall submit fingerprints to the Missouri state highway patrol for the purpose of conducting a state and federal fingerprint-based criminal record check in accordance with U.S. Public Law 92-544, or its successor provisions. The Missouri state highway patrol, if necessary, shall forward the fingerprints to the Federal Bureau of Investigation (FBI) for the purpose of conducting a fingerprint-based criminal background check. Fingerprints shall be submitted pursuant to section 43.543, RSMo, or its successor provisions, and fees shall be paid pursuant to section 43.530, RSMo, or its successor provisions. Unless otherwise required by law, no individual shall be required to submit fingerprints more than once.
+(3) No marijuana facility shall manufacture, package, or label marijuana or marijuana-­infused products in a false or misleading manner. No person shall sell any product in a manner designed to cause confusion between marijuana or a marijuana-infused product and any product not containing marijuana. A violation of this subdivision shall be punishable by an appropriate and proportional department sanction, up to and including an administrative penalty of five thousand dollars and loss of license.
+(4) No marijuana facility may sell edible marijuana-infused candy in shapes or packages that are attractive to children or that are easily confused with commercially sold candy that does not contain marijuana. A violation of this subdivision shall be punishable by an appropriate and proportional department sanction, up to and including an administrative penalty of five thousand dollars and loss of license.
+(5) All marijuana and marijuana-infused products shall be sold in individual, child-­resistant containers that are labeled with serving amounts, instructions for use, and estimated length of effectiveness. All marijuana and marijuana-infused products shall be sold in containers clearly and conspicuously labeled, as mandated by the department, as containing "Marijuana" or a "Marijuana-Infused Product". Violation of this subdivision shall subject the violator to department sanctions, including an administrative penalty of five thousand dollars.
+(6) A marijuana facility may not allow cultivation, manufacturing, sale, or display of marijuana, marijuana-infused products, or marijuana accessories to be visible from a public place outside of the marijuana facility without the use of binoculars, aircraft, or other optical aids.
+(7) A marijuana facility may not cultivate, manufacture, test, sell, or store marijuana at any location other than a physical address approved by the department and within an enclosed area that is secured in a manner that prevents access by persons not permitted by the marijuana facility to access the area.
+(8) A marijuana facility shall secure every entrance to the facility so that access to areas containing marijuana is restricted to employees and other persons permitted by the marijuana facility to access the area and to agents of the department or state and local law enforcement officers and emergency personnel and shall secure its inventory and equipment during and after operating hours to deter and prevent theft of marijuana, marijuana-infused products, and marijuana accessories.
+(9) No marijuana facility may refuse representatives of the department the right to inspect the licensed premises or to audit the books and records of the marijuana facility. A facility that holds licenses issued under sections 1 and 2 of this Article shall comply with inspection regulations and standards issued pursuant to both sections.
+(10) No marijuana facility, or entity with a certification, shall assign, sell, give, lease, sublicense, or otherwise transfer its license or certificate to any other entity without the express consent of the department, not to be unreasonably withheld.
+(11) Real and personal property used in the cultivation, manufacture, transport, testing, distribution, sale, and administration of marijuana for activities otherwise in compliance with this section shall not be subject to asset forfeiture solely because of that use.
+(12) No person shall extract resins from marijuana using dangerous materials or combustible gases without a medical marijuana-infused products manufacturing facility license, marijuana-infused products manufacturing facility license, or a marijuana microbusiness wholesale facility license. Violation of this prohibition shall subject the violator to department sanctions, including an administrative penalty of one thousand dollars for an individual and ten thousand dollars for a facility licensee and, if applicable, loss of certificate or license for up to one year.
+10. Personal Use of Marijuana.
+(1) Subject to the limitations in subsection 3 of this section, the following acts by a person at least twenty-one years of age are not unlawful and shall not be an offense under state law or the laws of any local government within the state or be a basis to impose a civil fine, penalty, or sanction, or be a basis to detain, search, or arrest, or otherwise deny any right or privilege, or to seize or forfeit assets under state law or the laws of any local government:
+(a) Purchasing, possessing, consuming, using, ingesting, inhaling, processing, transporting, delivering without consideration, or distributing without consideration three ounces or less of dried, unprocessed marijuana, or its equivalent;
+(b) Possessing, transporting, planting, cultivating, harvesting, drying, processing, or manufacturing up to six flowering marijuana plants, six nonflowering marijuana plants (over fourteen inches tall), and six clones (plants under fourteen inches tall) provided the person is registered with the department for cultivation of marijuana plants under this section, provided:
+a. The plants and any marijuana produced by the plants in excess of three ounces are kept at one private residence, are in a locked space, and are not visible by normal, unaided vision from a public place; and
+b. Not more than twice the number of allowable plants under paragraph (b) of this subdivision are kept in or on the grounds of a private residence at one time.
+(c) Assisting another person who is at least twenty-one years of age in, or allowing property to be used for, any of the acts permitted by this section; and
+(d) Purchasing, possessing, using, delivering, distributing, manufacturing, transferring, or selling to persons twenty-one years of age or older marijuana accessories.
+(2) A person who, pursuant to this section, cultivates marijuana plants that are visible by normal, unaided vision from a public place is subject to a civil penalty not exceeding two hundred and fifty dollars and forfeiture of the marijuana.
+(3) A person who, pursuant to this section, cultivates marijuana plants that are not kept in a locked space is subject to a civil penalty not exceeding two hundred and fifty dollars and forfeiture of the marijuana.
+(4) A person who smokes marijuana in a public place, other than in an area licensed for such activity by the authorities having jurisdiction over the licensing and/or permitting of said activity, is subject to a civil penalty not exceeding one hundred dollars.
+(5) A person who is under twenty-one years of age who possesses, uses, ingests, inhales, transports, delivers without consideration or distributes without consideration three ounces or less of marijuana, or possesses, delivers without consideration, or distributes without consideration marijuana accessories is subject to a civil penalty not to exceed one hundred dollars and forfeiture of the marijuana. Any such person shall be provided the option of attending up to four hours of drug education or counseling in lieu of the fine.
+(6) Subject to the limitations of this section, a person who possesses not more than twice the amount of marijuana allowed pursuant to this subsection, produces not more than twice the amount of marijuana allowed pursuant to this subsection, delivers without receiving any consideration or remuneration to a person who is at least twenty-one years of age not more than twice the amount of marijuana allowed by this subsection, or possesses with intent to deliver not more than twice the amount of marijuana allowed by this subsection:
+(a) For a first violation, is subject to a civil infraction punishable by a civil penalty not exceeding two hundred and fifty dollars and forfeiture of the marijuana;
+(b) For a second violation, is subject to a civil infraction punishable by a civil penalty not exceeding five hundred dollars and forfeiture of the marijuana;
+(c) For a third or subsequent violation, is subject to a misdemeanor punishable by a fine not exceeding one-thousand dollars and forfeiture of the marijuana;
+(d) A person under twenty-one years of age is subject to a civil penalty not to exceed two hundred and fifty dollars. Any such person shall be provided the option of attending up to eight hours of drug education or counseling in lieu of the fine; and
+(e) In lieu of payment, penalties under this subsection may be satisfied by the performance of community service. The rate of pay-down associated with said service option will be the greater of $15 or the minimum wage in effect at the time of judgment.
+(7) (a) Any person currently incarcerated in a prison, jail or halfway house, whether by trial or open or negotiated plea:
+a. Who would not have been guilty of an adult or juvenile offense, had sections 1 and 2 of this Article been in effect at the time of the offense; or
+b. Who would have been guilty of a lesser adult or juvenile offense had sections 1 and 2 of this Article been in effect at the time of the offense; or
+c. Who is serving a sentence for a marijuana offense which is a misdemeanor, a class E felony, or a class D felony, or successor designations, involving possession of three pounds or less of marijuana, excluding offenses involving distribution or delivery to a minor, any offenses involving violence, or any offense of operating a motor vehicle while under the influence of marijuana;
+­­
+­
+(b) Any person currently on probation or parole for a marijuana law violation, whether by trial or open or negotiated plea:
+a. Who would not have been guilty of an adult or juvenile offense, had sections 1 and 2 of this Article been in effect at the time of the offense; or
+b. Who would have been guilty of a lesser adult or juvenile offense had sections 1 and 2 of this Article been in effect at the time of the offense; or
+c. Who was convicted or plead guilty to a marijuana offense which is a misdemeanor, a class E felony, or a class D felony, or successor designations, involving the possession of three pounds or less of marijuana, excluding distribution or delivery to a minor or any offense of operating a motor vehicle while under the influence of marijuana;
+­­
+­
+(8) (a) Within six months of the effective date of this section, the circuit courts of this state shall order the expungement of the criminal history records of all misdemeanor marijuana offenses for any person who is no longer incarcerated or under the supervision of the department of corrections. Within twelve months of the effective date of this section, the circuit courts of this state shall order the expungement of criminal history records for all persons no longer incarcerated or under the supervision of the department of corrections but who have completed their sentence for any felony marijuana offenses and any marijuana offenses that would no longer be a crime after the effective dates of sections 1 and 2 of this Article, excluding distribution or delivery to a minor, any such offenses involving violence, or any offense of operating a motor vehicle while under the influence of marijuana. For all class A, class B and class C, or successor designations, felony marijuana offenses, and for all class D, or successor designation, felony marijuana offenses for possession of more than three pounds of marijuana, the circuit courts of this state shall order expungement of criminal history records upon the completion of the person's incarceration, including any supervised probation or parole. For the purposes of this subdivision, "criminal history record" means all information documenting an individual's contact with the criminal justice system, including data regarding identification, arrest or citation, arraignment, judicial disposition, custody, and supervision.
+(b) An expungement order shall be legally effective immediately and the person whose record is expunged shall be treated in all respects as if he or she had never been arrested, convicted, or sentenced for the offense, and the conviction and sentence shall be vacated as legally invalid. The court shall issue an order to expunge all records and files related to the arrest, citation, investigation, charge, adjudication of guilt, criminal proceedings, and probation related to the sentence. The court shall provide notice of the expungement to the person who is the subject of the record at the person's last known address, the arresting agency, prosecuting attorneys, central state depository of criminal records, and any other entity that may have a record related to the order to expunge. The central state depository of criminal records shall provide notice of the expungement to the Federal Bureau of lnvestigation's National Crime Information Center, or its successor agency. The court shall issue the person a certificate stating that the offense for which the person was convicted has been expunged and that its effect is to annul the record of arrest, conviction, and sentence.
+(c) The effect of such expungement shall be to restore such person to the status the person occupied prior to such arrest, plea, or conviction and as if such event had never taken place. Such person shall not be required to acknowledge the existence of such a criminal history record or answer questions about the record in any application for employment, license, or civil right or privilege or in an appearance as a witness in any proceeding or hearing, and may deny the existence of the record regardless of whether the person has received notice from the court that an expungement order has been issued on the person's behalf.
+(d) No person shall be prosecuted again for any offense which has been vacated or expunged.
+(e) The court shall keep a special index of cases that have been expunged together with the expungement order and the certificate issued pursuant to this subsection. The index shall list only the name of the person convicted of the offense, his or her date of birth, the docket number, and the criminal offense that was the subject of the expungement. The special index and related documents shall be confidential and shall be physically and electronically segregated in a manner that ensures confidentiality and that limits access to authorized persons. The court may permit special access to the index and the documents for research purposes pursuant to the rules for public access to court records. The index and documents made available by the court may not include any identifying information.
+(9) A person currently under parole, probation, or other state supervision, or released awaiting trial or other hearing, may not be punished or otherwise penalized based solely on conduct that is permitted by this section.
+(10) No conduct permitted by this section shall constitute the basis for detention, search, or arrest; and except when law enforcement is investigating whether a person is operating a motor vehicle, train, aircraft, motorboat, or other motorized form of transport while under the influence of marijuana, the odor of marijuana or burnt marijuana, the possession or suspicion of possession of marijuana without evidence of a quantity in excess of the lawful amount, or the possession of multiple containers of marijuana without evidence of quantity in excess of the lawful amount shall not individually or in combination with each other constitute reasonably articulable suspicion of a crime. Marijuana and marijuana-infused products as permitted by this section are not contraband nor subject to seizure.
+(11) A person shall not be denied eligibility in public assistance programs or public benefits based solely on conduct that is permitted by this Article, unless required by federal law.
+(12) No person shall be denied their rights under Article 1, Section 23 of the Missouri Constitution, solely for conduct that is permitted by this section.
+(13) No person shall be denied parental rights, custody of, or visitation with a minor child by a state or local government executive agency based solely on conduct that is permitted by this section, unless the person's behavior is such that it creates an unreasonable danger to a minor child that can be established by clear and convincing evidence.
+11. Interstate Commerce.
+If federal law, rules, or regulations are amended to allow the interstate commerce of marijuana or marijuana-infused products or the importation or exportation of marijuana or marijuana-infused products into or out of the state of Missouri, the provisions and intent of this section shall, to the extent possible, remain in full effect, unless explicitly preempted by such federal law, rule, or regulation. If federal law, rules, or regulations are amended as provided above, any marijuana or marijuana-infused products imported into this state shall be subject to the same testing standards and seed-to-sale tracking system required under this section for marijuana and marijuana-infused products produced within the state. Unless federal law, rules, or regulations explicitly require otherwise, no entity shall sell, transport, produce, distribute, deliver, or cultivate marijuana or marijuana-infused products without an applicable license or certificate as required under this section. In addition, any raw biomass of marijuana or marijuana flower imported from out-of-state shall be received only by a licensed cultivation facility, while all batch oil, infused marijuana products and any marijuana product in any other form shall be received only by a licensed manufacturing facility.
+12. Severability.
+The provisions of this section are severable, and if any clause, sentence, paragraph or section of this measure, or an application thereof, is adjudged invalid by any court of competent jurisdiction, the other provisions shall continue to be in effect to the fullest extent possible.
+13. Effective Date.
+The provisions of this section shall become effective thirty days after the election, as provided by this Constitution.
+
+*08 Dec 2022 · (Adopted November 8, 2022)*

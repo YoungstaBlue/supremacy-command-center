@@ -1,3 +1,6 @@
 
 # Confidential case data must never be committed here
 cases/
+
+# Raw artifact downloads used by scripts/reference-sync/build.py (regenerable)
+snapshots/

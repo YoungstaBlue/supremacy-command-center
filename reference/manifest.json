@@ -1,0 +1,902 @@
+{
+  "artifacts": {
+    "pinned-index": {
+      "title": "Pinned Index",
+      "url": "https://claude.ai/artifact/DcLcETGacVTGCMALwawUGF",
+      "kind": "html",
+      "shelf": "Hubs and indexes",
+      "volume": null,
+      "note": "Compiled table of contents for every pinned volume, tool and archive.",
+      "synced": "2026-10-06T13:48:38Z",
+      "source_files": [
+        {
+          "path": "reference/pinned-index/source/index.html",
+          "bytes": 21813,
+          "sha256": "eba37a92938a748052bcce2dc92c9bcce8d07b5f33c2982a2e6efd32cd7f6a3d"
+        }
+      ],
+      "source_bytes": 21813,
+      "generated": [
+        "reference/pinned-index/pinned-index.md"
+      ],
+      "generated_bytes": 6772
+    },
+    "lawmind-reference-library": {
+      "title": "LawMind Reference Library",
+      "url": "https://claude.ai/artifact/VSM13DCS42DoMBRnPRp932",
+      "kind": "html",
+      "shelf": "Hubs and indexes",
+      "volume": null,
+      "note": "Master index for the twelve LawMind volumes, with provenance and known-defect notes.",
+      "synced": "2026-10-06T13:48:38Z",
+      "source_files": [
+        {
+          "path": "reference/lawmind-reference-library/source/index.html",
+          "bytes": 28272,
+          "sha256": "e3c410564b470d4751f1c3cd7d2ffd5e48d0688332eae947bed0a0d7847b1702"
+        }
+      ],
+      "source_bytes": 28272,
+      "generated": [
+        "reference/lawmind-reference-library/lawmind-reference-library.md"
+      ],
+      "generated_bytes": 15285
+    },
+    "master-legal-index": {
+      "title": "Master Legal Index",
+      "url": "https://claude.ai/artifact/LM4doubHgswPPA8U4jFwFh",
+      "kind": "jsdata",
+      "shelf": "Hubs and indexes",
+      "volume": null,
+      "note": "Reference Volume I: Missouri and federal rules, statutes, claim elements, landmark cases, deadlines and terms.",
+      "synced": "2026-10-06T13:48:39Z",
+      "source_files": [
+        {
+          "path": "reference/master-legal-index/source/index.html",
+          "bytes": 48165,
+          "sha256": "d76689241868e8e98d88756fe2a7b6ffacc3d23c280154167e58dd2f2ce9814e"
+        }
+      ],
+      "source_bytes": 48165,
+      "generated": [
+        "reference/master-legal-index/data.json",
+        "reference/master-legal-index/master-legal-index.md"
+      ],
+      "generated_bytes": 88186
+    },
+    "lawmind-compendium": {
+      "title": "The LawMind Compendium",
+      "url": "https://claude.ai/artifact/KbFR8VxXTgxyK8FpGXE5Ma",
+      "kind": "slides",
+      "shelf": "Hubs and indexes",
+      "volume": null,
+      "note": "Slide deck tying the dictionaries, encyclopedia, statutes, case summaries and audits together.",
+      "synced": "2026-10-06T13:48:39Z",
+      "source_files": [
+        {
+          "path": "reference/lawmind-compendium/source/index.html",
+          "bytes": 37414,
+          "sha256": "73069fbaa2c8d15e95d4c96163cabddc6387b701d5ab3fe52ff8aa0708978178"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/deck.json",
+          "bytes": 1713,
+          "sha256": "95908956e3e8237931d387ed3f384656f8ed8cc5698a16668fa5c37fd15acd59"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/architecture.html",
+          "bytes": 1201,
+          "sha256": "fb7bb98eff28f42e5a2a9dc7c58242724a7b6f1801b4337f510b342b34933b08"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/cases-al.html",
+          "bytes": 1188,
+          "sha256": "6d9d753583b336c23935ba541ad919e08ab2fff4ebb35971cf7ff6d3ffa4c340"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/cases-mz.html",
+          "bytes": 1188,
+          "sha256": "4e8a56056abd4f80b80e999515d5cbb58ce102d7b3c27b6b12be619675795baa"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/closing.html",
+          "bytes": 741,
+          "sha256": "038f27a647369ca09ecc544fc49ce9dd5dec8fcc9c71101ac556bc96cad62d24"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/cover.html",
+          "bytes": 1118,
+          "sha256": "045a6df4804cdf9c071d10190e459cf840c8a6943ea0390a8823d7d23a2c5fe9"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/dict-ac.html",
+          "bytes": 1188,
+          "sha256": "e92a94957224098b4dc577288b56ce15c90ac1889cdee16fb3ce717ebe3d0e33"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/dict-di.html",
+          "bytes": 1188,
+          "sha256": "4c7e405a46c466d1d30254e1490ceefc0344d5a6e323cfa47a6748917c502fab"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/dict-jp.html",
+          "bytes": 1188,
+          "sha256": "0a88f635fe757790c238b8f3121bbf34dc4b92e60b973b73418b8cebd303095d"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/dict-qz.html",
+          "bytes": 1188,
+          "sha256": "7f2838922a29f4d1eee3abf04f2f6c5361b7e24b28d77ff169971fd58a69a741"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/encyclopedia.html",
+          "bytes": 1230,
+          "sha256": "ca89f416acb09f28f043754f3dc4752508330263231f1b770ca37571bae73b80"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/fed-statutes-1.html",
+          "bytes": 1179,
+          "sha256": "23429653478a4b59c16a7e3ced3a694b7f1f88efb0a0ae60b8f803380c677251"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/fed-statutes-2.html",
+          "bytes": 1182,
+          "sha256": "f5a75addfeb02e5bd245dfc05caeebdb3279b4d992919fd6bd48984f258e6455"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/fed-statutes-3.html",
+          "bytes": 1183,
+          "sha256": "b07037af680b90827d94baa962322bbe3d950c6ef1f77886bf63191269a5e430"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/gap-audit.html",
+          "bytes": 1153,
+          "sha256": "c8190eb615db91059654d7824511b6099cb8383718f033dcd06ed9dfeb2053d9"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/maxims.html",
+          "bytes": 1167,
+          "sha256": "59de13f660a790c2b42422c40a115bae8cf5c534aa9336ebf8d85c11fc151735"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/mo-ucc-statutes.html",
+          "bytes": 1199,
+          "sha256": "6c2d59a53a254d5457bef63a0332d8fe5162e18b14c8311929016c95b2631217"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/part1-intro.html",
+          "bytes": 736,
+          "sha256": "9c36d6f1fa595172dcd61538fb83937248bf49632c86d3f39ab61d3999d0ad64"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/part2-intro.html",
+          "bytes": 745,
+          "sha256": "7803509fe2a44a1741d5b027174fe92ac83e629329705da06e121616fcd4542e"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/part3-intro.html",
+          "bytes": 735,
+          "sha256": "3ee134686242e278d6818874ad9676f373c6304e9aa7309a88f100fe471a8dc8"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/part4-intro.html",
+          "bytes": 715,
+          "sha256": "4cf26302919cb9c25420e1e5c16578dc5dcaed6a66826f7434f18706b4235cbf"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/part5-reference-library.html",
+          "bytes": 1332,
+          "sha256": "3ebc3dacbd43baadf3e8ffeed2dc3c4cd115e88f8ab9feabef8ff86b90b3571f"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/part6-intro.html",
+          "bytes": 736,
+          "sha256": "ea6721a3c923246c47529e06747a56d7b1fa736b42364fe82f7f0b93230ec458"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/platform-audit.html",
+          "bytes": 1166,
+          "sha256": "fae977a6e34cc1e7810d8db2eaa46e976bfd31944b5f4af5fb95c7179a5a79b3"
+        },
+        {
+          "path": "reference/lawmind-compendium/source/project/slides/toc.html",
+          "bytes": 1976,
+          "sha256": "a7af1525ad892580ced867e96fe5897f35135eb497e316f2539f535fea05f896"
+        }
+      ],
+      "source_bytes": 65749,
+      "generated": [
+        "reference/lawmind-compendium/lawmind-compendium.md"
+      ],
+      "generated_bytes": 7402
+    },
+    "missouri-law-library-ingestion-map": {
+      "title": "Missouri Law Library — Ingestion Map",
+      "url": "https://claude.ai/artifact/5hPcFHoerc9wu8s8GDtCu1",
+      "kind": "docs",
+      "shelf": "Hubs and indexes",
+      "volume": null,
+      "note": "Claude Doc: where every Missouri and federal source stands, gaps, and the ingestion order.",
+      "synced": "2026-10-06T13:48:39Z",
+      "source_files": [
+        {
+          "path": "reference/missouri-law-library-ingestion-map/source/index.html",
+          "bytes": 19007,
+          "sha256": "76fc9d14358a01779998c429cf4a67723c6bca02591b607f66703634ba9e4361"
+        },
+        {
+          "path": "reference/missouri-law-library-ingestion-map/source/doc.xml",
+          "bytes": 44610,
+          "sha256": "94441523b5ae6b120de4599af840b61fed13296044326060abd36dd26e14f2ae"
+        }
+      ],
+      "source_bytes": 63617,
+      "generated": [
+        "reference/missouri-law-library-ingestion-map/missouri-law-library-ingestion-map.md"
+      ],
+      "generated_bytes": 11342
+    },
+    "latin-maxims": {
+      "title": "LawMind Latin Maxims",
+      "url": "https://claude.ai/artifact/3CPpV6VLEsKzqRnNj3iukF",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 5",
+      "note": null,
+      "synced": "2026-10-06T13:49:03Z",
+      "source_files": [
+        {
+          "path": "reference/latin-maxims/source/index.html",
+          "bytes": 99763,
+          "sha256": "0b0b535fc7b6804443345e5926acd5753d2a18d9ffa0a5e51828cbd291e742f5"
+        }
+      ],
+      "source_bytes": 99763,
+      "generated": [
+        "reference/latin-maxims/latin-maxims.md"
+      ],
+      "generated_bytes": 65380
+    },
+    "annotated-statute-book": {
+      "title": "Annotated Statute Book",
+      "url": "https://claude.ai/artifact/WTDztHyYz9nnPM73GDNutW",
+      "kind": "jsonblock",
+      "shelf": "Missouri primary law",
+      "volume": null,
+      "note": "Reference Volume III: statutes and rules the cases turn on, interpreting cases, definitions, encyclopedia, Latin, deadlines.",
+      "synced": "2026-10-06T13:49:31Z",
+      "source_files": [
+        {
+          "path": "reference/annotated-statute-book/source/index.html",
+          "bytes": 737126,
+          "sha256": "2470136760587ec950756131a2696d5975718f897a828c71c46d7f5517afbbf3"
+        }
+      ],
+      "source_bytes": 737126,
+      "generated": [
+        "reference/annotated-statute-book/annotated-statute-book.md",
+        "reference/annotated-statute-book/data.json"
+      ],
+      "generated_bytes": 1410249
+    },
+    "statute-shelf": {
+      "title": "The Statute Shelf",
+      "url": "https://claude.ai/artifact/KgpnZbDueKbwyx8JY8xvkA",
+      "kind": "jsdata",
+      "shelf": "Missouri primary law",
+      "volume": null,
+      "note": "Five books: Missouri statutes, legal dictionary, thesaurus, Latin phrasebook, RSMo chapter catalog.",
+      "synced": "2026-10-06T13:49:31Z",
+      "source_files": [
+        {
+          "path": "reference/statute-shelf/source/index.html",
+          "bytes": 217800,
+          "sha256": "feb39d8c401721f1ac83d1d4279b1201f733d58b38505b6bae17f4b931a73ab1"
+        }
+      ],
+      "source_bytes": 217800,
+      "generated": [
+        "reference/statute-shelf/data.json",
+        "reference/statute-shelf/statute-shelf.md"
+      ],
+      "generated_bytes": 396458
+    },
+    "missouri-statute-browser": {
+      "title": "Missouri Statute Browser",
+      "url": "https://claude.ai/artifact/MrUhWNjSgPV7AqMzbwUjAn",
+      "kind": "jsdata",
+      "shelf": "Missouri primary law",
+      "volume": null,
+      "note": "Full-text statutes cited across the matters, with revisor.mo.gov links.",
+      "synced": "2026-10-06T13:49:31Z",
+      "source_files": [
+        {
+          "path": "reference/missouri-statute-browser/source/index.html",
+          "bytes": 57455,
+          "sha256": "658dc7a22e3d611b552b78298f3bbdfd42f13a604c37b3d82978574825861a9b"
+        }
+      ],
+      "source_bytes": 57455,
+      "generated": [
+        "reference/missouri-statute-browser/data.json",
+        "reference/missouri-statute-browser/missouri-statute-browser.md"
+      ],
+      "generated_bytes": 99020
+    },
+    "missouri-statutes-cited": {
+      "title": "Missouri Statutes, Cited Sections",
+      "url": "https://claude.ai/artifact/U2s6nSvToqLjdYCptWwU4p",
+      "kind": "html",
+      "shelf": "Missouri primary law",
+      "volume": null,
+      "note": "Master Doc 007, Missouri part: the fifteen RSMo sections cited in filings, checked against the citation log.",
+      "synced": "2026-10-06T13:49:31Z",
+      "source_files": [
+        {
+          "path": "reference/missouri-statutes-cited/source/index.html",
+          "bytes": 91220,
+          "sha256": "9617bc5aaed35db2686426cdbf6ac26d5c41e7e25755fb8c4c591187e80d69d9"
+        }
+      ],
+      "source_bytes": 91220,
+      "generated": [
+        "reference/missouri-statutes-cited/missouri-statutes-cited.md"
+      ],
+      "generated_bytes": 68644
+    },
+    "us-code-verbatim": {
+      "title": "U.S. Code Verbatim Archive",
+      "url": "https://claude.ai/artifact/1BcZCFXBQDepJHXUPzgxUm",
+      "kind": "html",
+      "shelf": "Federal primary law",
+      "volume": null,
+      "note": "Master Doc 007, federal part: seven federal statutes captured from two official publishers and hashed.",
+      "synced": "2026-10-06T13:49:31Z",
+      "source_files": [
+        {
+          "path": "reference/us-code-verbatim/source/index.html",
+          "bytes": 59033,
+          "sha256": "cd0123d646eada8c61ce93425646d3762703d14f14515b7fad65dc28d9e0fedc"
+        }
+      ],
+      "source_bytes": 59033,
+      "generated": [
+        "reference/us-code-verbatim/us-code-verbatim.md"
+      ],
+      "generated_bytes": 44733
+    },
+    "legal-terms-glossary": {
+      "title": "Legal Terms Glossary",
+      "url": "https://claude.ai/artifact/S2zZ3h9Kj1iahnREptHKMt",
+      "kind": "jsdata",
+      "shelf": "Glossaries",
+      "volume": null,
+      "note": "Statutory and plain-English definitions of the key terms across the matters.",
+      "synced": "2026-10-06T13:49:31Z",
+      "source_files": [
+        {
+          "path": "reference/legal-terms-glossary/source/index.html",
+          "bytes": 43227,
+          "sha256": "81172d7bd8602709861318e414c2eeebd1d5666dbc0329c737b68c14b37cbf90"
+        }
+      ],
+      "source_bytes": 43227,
+      "generated": [
+        "reference/legal-terms-glossary/data.json",
+        "reference/legal-terms-glossary/legal-terms-glossary.md"
+      ],
+      "generated_bytes": 70297
+    },
+    "dictionary-a-c": {
+      "title": "LawMind Dictionary A–C",
+      "url": "https://claude.ai/artifact/WfqU4uVNiFJh4BZE9fiLm6",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 1",
+      "note": null,
+      "synced": "2026-10-06T13:48:44Z",
+      "source_files": [
+        {
+          "path": "reference/dictionary-a-c/source/index.html",
+          "bytes": 5890796,
+          "sha256": "9eef30db114c5444ff31e494e744ec56149abc47e5d739efbead94b890656212"
+        }
+      ],
+      "source_bytes": 5890796,
+      "generated": [
+        "reference/dictionary-a-c/dictionary-a-c.md"
+      ],
+      "generated_bytes": 4696933
+    },
+    "dictionary-d-i": {
+      "title": "LawMind Dictionary D–I",
+      "url": "https://claude.ai/artifact/GTjkqarjDYTh8VcsJYqt3i",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 2",
+      "note": null,
+      "synced": "2026-10-06T13:48:50Z",
+      "source_files": [
+        {
+          "path": "reference/dictionary-d-i/source/index.html",
+          "bytes": 7271239,
+          "sha256": "a1c3411608dcebe40a65889154155c811102050a4e1265e044678057b33d795e"
+        }
+      ],
+      "source_bytes": 7271239,
+      "generated": [
+        "reference/dictionary-d-i/dictionary-d-i.md"
+      ],
+      "generated_bytes": 5856523
+    },
+    "dictionary-j-p": {
+      "title": "LawMind Dictionary J–P",
+      "url": "https://claude.ai/artifact/AyuRcUqfUxzecAw6Aoq8et",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 3",
+      "note": null,
+      "synced": "2026-10-06T13:48:57Z",
+      "source_files": [
+        {
+          "path": "reference/dictionary-j-p/source/index.html",
+          "bytes": 6421677,
+          "sha256": "9c33dec149fe4ece1958b2ddcab36235d035b79b498c3aac190885447e6efc26"
+        }
+      ],
+      "source_bytes": 6421677,
+      "generated": [
+        "reference/dictionary-j-p/dictionary-j-p.md"
+      ],
+      "generated_bytes": 5092568
+    },
+    "dictionary-q-z": {
+      "title": "LawMind Dictionary Q–Z",
+      "url": "https://claude.ai/artifact/1pJTUVUvj7dnkYhhYRjhr5",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 4",
+      "note": null,
+      "synced": "2026-10-06T13:49:03Z",
+      "source_files": [
+        {
+          "path": "reference/dictionary-q-z/source/index.html",
+          "bytes": 5672773,
+          "sha256": "eb3b67afd14f42fdd02a67d79f3ae4f03329f747e4c23b0986664fbff01ac8fd"
+        }
+      ],
+      "source_bytes": 5672773,
+      "generated": [
+        "reference/dictionary-q-z/dictionary-q-z.md"
+      ],
+      "generated_bytes": 4517975
+    },
+    "encyclopedia": {
+      "title": "LawMind Encyclopedia",
+      "url": "https://claude.ai/artifact/SS3tsJvyqUXNCQxhucfZiB",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 6",
+      "note": null,
+      "synced": "2026-10-06T13:49:05Z",
+      "source_files": [
+        {
+          "path": "reference/encyclopedia/source/index.html",
+          "bytes": 2634980,
+          "sha256": "3f451644a400cbcd6e7f57468524867c7e901bf24f008a464e69edc02d6e6878"
+        }
+      ],
+      "source_bytes": 2634980,
+      "generated": [
+        "reference/encyclopedia/encyclopedia.md"
+      ],
+      "generated_bytes": 2402480
+    },
+    "missouri-ucc-statutes": {
+      "title": "LawMind Missouri & UCC Statutes",
+      "url": "https://claude.ai/artifact/XXTiorXmcmRCBnmKMxHLPd",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 7",
+      "note": null,
+      "synced": "2026-10-06T13:49:06Z",
+      "source_files": [
+        {
+          "path": "reference/missouri-ucc-statutes/source/index.html",
+          "bytes": 1439246,
+          "sha256": "e9fe06dcd168eaf8c05e1104fed8fdcadb910f6e33e437c8c3090713da0b9f07"
+        }
+      ],
+      "source_bytes": 1439246,
+      "generated": [
+        "reference/missouri-ucc-statutes/missouri-ucc-statutes.md"
+      ],
+      "generated_bytes": 1186382
+    },
+    "federal-statutes-1": {
+      "title": "LawMind Federal Statutes I",
+      "url": "https://claude.ai/artifact/H2uWvAUjP8f2yeXgH45zdQ",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 8·I",
+      "note": null,
+      "synced": "2026-10-06T13:49:10Z",
+      "source_files": [
+        {
+          "path": "reference/federal-statutes-1/source/index.html",
+          "bytes": 7907183,
+          "sha256": "ae14968195ff749cde07aa2c35e6a8c9602c1b6ceeeca9ecf1051d85b57bdc85"
+        }
+      ],
+      "source_bytes": 7907183,
+      "generated": [
+        "reference/federal-statutes-1/federal-statutes-1.md"
+      ],
+      "generated_bytes": 7492407
+    },
+    "federal-statutes-2": {
+      "title": "LawMind Federal Statutes II",
+      "url": "https://claude.ai/artifact/PhEj4efH9JhcmXui35oy5e",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 8·II",
+      "note": null,
+      "synced": "2026-10-06T13:49:14Z",
+      "source_files": [
+        {
+          "path": "reference/federal-statutes-2/source/index.html",
+          "bytes": 7999671,
+          "sha256": "622b6787c322e58d357b9adf7a6e27adc558968704f8e9c949fe0e376bcc863e"
+        }
+      ],
+      "source_bytes": 7999671,
+      "generated": [
+        "reference/federal-statutes-2/federal-statutes-2.md"
+      ],
+      "generated_bytes": 7512633
+    },
+    "federal-statutes-3": {
+      "title": "LawMind Federal Statutes III",
+      "url": "https://claude.ai/artifact/5F9pi1TM343tpfwEx55oz1",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 8·III",
+      "note": null,
+      "synced": "2026-10-06T13:49:18Z",
+      "source_files": [
+        {
+          "path": "reference/federal-statutes-3/source/index.html",
+          "bytes": 8149668,
+          "sha256": "b453566dd1d050daeabf07c725b9c1a58cae75e3dd9d9a90f1550f05a6661bb2"
+        }
+      ],
+      "source_bytes": 8149668,
+      "generated": [
+        "reference/federal-statutes-3/federal-statutes-3.md"
+      ],
+      "generated_bytes": 7541862
+    },
+    "case-summaries-a-l": {
+      "title": "LawMind Case Summaries A–L",
+      "url": "https://claude.ai/artifact/8xfTaeco1b4VQdFN3wK9qu",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 9",
+      "note": null,
+      "synced": "2026-10-06T13:49:23Z",
+      "source_files": [
+        {
+          "path": "reference/case-summaries-a-l/source/index.html",
+          "bytes": 5683993,
+          "sha256": "18d619f36ffdb1bd7388a5fa03f3fa1d616659d2db0249fe1fe0db88abfaeffc"
+        }
+      ],
+      "source_bytes": 5683993,
+      "generated": [
+        "reference/case-summaries-a-l/case-summaries-a-l.md"
+      ],
+      "generated_bytes": 4738226
+    },
+    "case-summaries-m-z": {
+      "title": "LawMind Case Summaries M–Z",
+      "url": "https://claude.ai/artifact/9vuqGv67JcEAp4snfQwEpz",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "volume": "Vol. 10",
+      "note": null,
+      "synced": "2026-10-06T13:49:28Z",
+      "source_files": [
+        {
+          "path": "reference/case-summaries-m-z/source/index.html",
+          "bytes": 6197511,
+          "sha256": "b809199ae95dee7bbd682f0937e4f6384bac2d5f983ca681096822484d67e7ac"
+        }
+      ],
+      "source_bytes": 6197511,
+      "generated": [
+        "reference/case-summaries-m-z/case-summaries-m-z.md"
+      ],
+      "generated_bytes": 5105409
+    },
+    "missouri-law-library": {
+      "title": "Missouri Law Library",
+      "url": "https://claude.ai/artifact/VDHKvXbCV8VG68xufvh8vL",
+      "kind": "rsmo",
+      "shelf": "Missouri primary law",
+      "volume": null,
+      "note": "Every RSMo section and every Missouri Constitution section as captured from revisor.mo.gov.",
+      "synced": "2026-10-06T13:49:31Z",
+      "source_files": [
+        {
+          "path": "reference/missouri-law-library/source/index.html",
+          "bytes": 22098,
+          "sha256": "ec4e6c4b73c16ffdc8b14250d09fd2f4d7133ca67a51170f70a3268b4a95d03a"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/index.json",
+          "bytes": 2939724,
+          "sha256": "1838c33ee55ea0fa205eb8995baaca267c3b69297b130803aadcbd31b62218ed"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/constitution.json",
+          "bytes": 953379,
+          "sha256": "1ff2bcc4e4ec7989645a5fdcb1804873b7e1826b317ef28eb3e86c5cb12b8a1b"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/I.json",
+          "bytes": 108721,
+          "sha256": "b9e2aa5c59074110b0941ea72d1b3592bd30ea647ebfd3c9f7f819a63e2de227"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/II.json",
+          "bytes": 390002,
+          "sha256": "012a4430cbc097aac96e8dc71bbd6451e482f1f82d48f49efee0554f315e2635"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/III.json",
+          "bytes": 170609,
+          "sha256": "99b3d2cec28e7a67fabb485acda666ec230512d78c950d2f8888eafc6fedfe66"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/IV.json",
+          "bytes": 756827,
+          "sha256": "ff2a5a4f3219fdf0ee6771181804c2a231150918754ee1a24ea44d22964826b5"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/IX.json",
+          "bytes": 1295335,
+          "sha256": "b5d4fc7d557e57cd4cd095dc0a33c247ac58e3d4e9e041213b4e1cbcaf3e7bc6"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/V.json",
+          "bytes": 580576,
+          "sha256": "defc9978cf575a75dd71553d23f0b8525198c1a7ebd3e08bc8ae00f6b516e7f7"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/VI.json",
+          "bytes": 3317003,
+          "sha256": "783348004d4ae06fb7fd455c344f52f797555f997c90af87b1420f8dda20d207"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/VII.json",
+          "bytes": 3076362,
+          "sha256": "ec69507e237b30faf90ec024b57080c53803f148a0a49b29b6fa9b250bdda04c"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/VIII.json",
+          "bytes": 1126645,
+          "sha256": "925170d49f46935e85af846bbbe5fd0de555b2c27af2ed6ba094c932c1e1f141"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/X.json",
+          "bytes": 2878202,
+          "sha256": "06eee5c8739d6cde326a223a4b43df5574f308c9965caee71405dc7110560385"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XI.json",
+          "bytes": 3478635,
+          "sha256": "b02dd0efa674711188f28efbdfab1e2529aa2617778c2315dcffde0b84017332"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XII.json",
+          "bytes": 4745190,
+          "sha256": "9e80ed845a38b9b7130d5ac1e5fab6c86551cae941bd6ab13a7b01c23072ceaa"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XIII.json",
+          "bytes": 393920,
+          "sha256": "8c54c1e925bc8ecc09c62509ae812b964353fc16cc5cec4d97652e36b8b67688"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XIV.json",
+          "bytes": 1311781,
+          "sha256": "34e70d0c272e6b2843712e753192c70d06ead0ada354449dd6e9223cc37b2645"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XIX.json",
+          "bytes": 2208749,
+          "sha256": "f6c45862a5ace6088fccddb411ef2cfac2d4cf12f6580ec861fe1ad22b1a511d"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XL.json",
+          "bytes": 2304104,
+          "sha256": "0b4f5708d492b77dd5d5f83c99e6123481d0a0b86c4378e54edfabb2897bc6c1"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XLI.json",
+          "bytes": 263474,
+          "sha256": "a857d2f046cfad1792da230c3d8534d42656a0939ea0709021ba78d3ea2ab55c"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XV.json",
+          "bytes": 980472,
+          "sha256": "e2d24703b666ac2c29711f7da2e9b673e6b1011ac25f4eb190dbdc0249eacd8b"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XVI.json",
+          "bytes": 1262560,
+          "sha256": "23054c4504deab38503416eca9b9994ad6a076f4b86aa67209008813c7acede3"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XVII.json",
+          "bytes": 1214729,
+          "sha256": "d66187ea8cdf39eda7c402bb0bf275b0ad0697d30f2a82ca790494ae8f0f6cd8"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XVIII.json",
+          "bytes": 1416209,
+          "sha256": "b030532cb5e533db9d9dfc084f83fccddea456039cc52048e83f59d9e47aa70a"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XX.json",
+          "bytes": 348381,
+          "sha256": "b066d780a04701ceff077ddebc61dcd52890760131784257287aefb09b07a603"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXI.json",
+          "bytes": 962364,
+          "sha256": "357c7e4cfc4c27a516e346a3ee7c216a27a1043a4308806153629bab94efdfa5"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXII.json",
+          "bytes": 2911803,
+          "sha256": "c968753b832b223a6f6750c8c557db6e2916616d40374b873636e90d9c114333"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXIII.json",
+          "bytes": 1876110,
+          "sha256": "31169a54a265b621d7c8932e8dc4f5892d1e95f1d78be724c3fb645a90d2f298"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXIV.json",
+          "bytes": 4686777,
+          "sha256": "38fa325977fbefdd3ea9483048a375124b815afb150b43ceff9e42fa7467e8ad"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXIX.json",
+          "bytes": 1177255,
+          "sha256": "f9e22b70d83316490c9da7081483dbb637bc274e1c57ea7406c779ed1564f4e4"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXV.json",
+          "bytes": 1413986,
+          "sha256": "4a5f0f63826451d472688910afeed14c5165c18590706d1ff3c7d62a47bb6401"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXVI.json",
+          "bytes": 2773976,
+          "sha256": "daf6e004968dd2a69d49c36dd52024ac3b298f34b999ff230ac77b69fea9fa89"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXVII.json",
+          "bytes": 267666,
+          "sha256": "509c185ddf9910df0f7e38dd2ef4fad0107e8c482c03cda2e847cad939ee0dfa"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXVIII.json",
+          "bytes": 314490,
+          "sha256": "ce8bf046a56c6a69cf15f9cadec66b875e124b115d15ef78bf6a83b536c4ecde"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXX.json",
+          "bytes": 875026,
+          "sha256": "28aec99dfafc6b767f6456b3a31050ac94bb0e6233bacf42e27c8835492d3f1a"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXXI.json",
+          "bytes": 1165461,
+          "sha256": "097609393c6cbee2354b20eee2eda0d62ba7daa31416e5429d7999b779b6dec8"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXXII.json",
+          "bytes": 783204,
+          "sha256": "2b42d2bff51223366fbfbd57f49ffd029cdf234e9b9cc77b1bbbdfbcff0cf291"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXXIII.json",
+          "bytes": 223875,
+          "sha256": "4d125d0224fdc2d70e408a43696b13c9459ce49cbe09028853eda57231939054"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXXIV.json",
+          "bytes": 38071,
+          "sha256": "de4fe76e0619400c8b27550d772fbf71505063e46bdccd4f7b1e85474ca615f4"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXXIX.json",
+          "bytes": 130530,
+          "sha256": "6cb6a9ceeeab55a3866952ddd5e602521c11ea1c70f04af5b468de68215de4ed"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXXV.json",
+          "bytes": 640350,
+          "sha256": "3e0b9bfd46282e1991b8c5caffd11daaa03a54915d0dd9fdf74aec56cd7449ae"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXXVI.json",
+          "bytes": 914227,
+          "sha256": "c8c0ad3a7d9b324dbbda3690f17ebe57041ea1c8d0aba0af70c9e01b904fc379"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXXVII.json",
+          "bytes": 575420,
+          "sha256": "acddd8e3ade34a1e7444b57ec89d2f2020e9f8541e832b9dce9533043a2b4421"
+        },
+        {
+          "path": "reference/missouri-law-library/source/data/t/XXXVIII.json",
+          "bytes": 1705413,
+          "sha256": "f3aa107acc5ae86c59babab60924f0c0cdb0252d4e0c72ee52a9fee11a019080"
+        }
+      ],
+      "source_bytes": 60979691,
+      "generated": [
+        "reference/missouri-law-library/constitution.md",
+        "reference/missouri-law-library/missouri-law-library.md",
+        "reference/missouri-law-library/rsmo/title-I.md",
+        "reference/missouri-law-library/rsmo/title-II.md",
+        "reference/missouri-law-library/rsmo/title-III.md",
+        "reference/missouri-law-library/rsmo/title-IV.md",
+        "reference/missouri-law-library/rsmo/title-IX.md",
+        "reference/missouri-law-library/rsmo/title-V.md",
+        "reference/missouri-law-library/rsmo/title-VI.md",
+        "reference/missouri-law-library/rsmo/title-VII.md",
+        "reference/missouri-law-library/rsmo/title-VIII.md",
+        "reference/missouri-law-library/rsmo/title-X.md",
+        "reference/missouri-law-library/rsmo/title-XI.md",
+        "reference/missouri-law-library/rsmo/title-XII.md",
+        "reference/missouri-law-library/rsmo/title-XIII.md",
+        "reference/missouri-law-library/rsmo/title-XIV.md",
+        "reference/missouri-law-library/rsmo/title-XIX.md",
+        "reference/missouri-law-library/rsmo/title-XL.md",
+        "reference/missouri-law-library/rsmo/title-XLI.md",
+        "reference/missouri-law-library/rsmo/title-XV.md",
+        "reference/missouri-law-library/rsmo/title-XVI.md",
+        "reference/missouri-law-library/rsmo/title-XVII.md",
+        "reference/missouri-law-library/rsmo/title-XVIII.md",
+        "reference/missouri-law-library/rsmo/title-XX.md",
+        "reference/missouri-law-library/rsmo/title-XXI.md",
+        "reference/missouri-law-library/rsmo/title-XXII.md",
+        "reference/missouri-law-library/rsmo/title-XXIII.md",
+        "reference/missouri-law-library/rsmo/title-XXIV.md",
+        "reference/missouri-law-library/rsmo/title-XXIX.md",
+        "reference/missouri-law-library/rsmo/title-XXV.md",
+        "reference/missouri-law-library/rsmo/title-XXVI.md",
+        "reference/missouri-law-library/rsmo/title-XXVII.md",
+        "reference/missouri-law-library/rsmo/title-XXVIII.md",
+        "reference/missouri-law-library/rsmo/title-XXX.md",
+        "reference/missouri-law-library/rsmo/title-XXXI.md",
+        "reference/missouri-law-library/rsmo/title-XXXII.md",
+        "reference/missouri-law-library/rsmo/title-XXXIII.md",
+        "reference/missouri-law-library/rsmo/title-XXXIV.md",
+        "reference/missouri-law-library/rsmo/title-XXXIX.md",
+        "reference/missouri-law-library/rsmo/title-XXXV.md",
+        "reference/missouri-law-library/rsmo/title-XXXVI.md",
+        "reference/missouri-law-library/rsmo/title-XXXVII.md",
+        "reference/missouri-law-library/rsmo/title-XXXVIII.md"
+      ],
+      "generated_bytes": 56179464
+    }
+  },
+  "generated_by": "scripts/reference-sync/build.py",
+  "updated": "2026-10-06T13:49:31Z"
+}

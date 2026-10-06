@@ -1,0 +1,5071 @@
+# Title XV — Lands, Levees, Drainage, Sewers And Public Water Supply
+
+Source: https://claude.ai/artifact/VDHKvXbCV8VG68xufvh8vL (`data/t/XV.json`). Verify any section against revisor.mo.gov before citing.
+
+## Chapter 241 — Swamplands, Islands and Abandoned Riverbeds
+
+### 241.010 Reclamation of swamplands by counties.
+
+In order to provide for the reclamation of all overflowed and swamp lands which were granted to the state of Missouri for that purpose by an act of congress, entitled "An act to enable the state of Arkansas and other states to reclaim the swamp lands within their limits", approved September 28, 1850, all of said lands in this state are hereby donated to the counties in which they may be respectively situated, and shall be the absolute property of such counties for the purposes designated in sections 241.010 to 241.280; and the secretary of state is hereby required to furnish to the clerks of all the county commissions a certified copy of the approved and corrected list of swamplands in each county, whenever called on for such list by the said clerk or clerks.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12752)
+Prior revisions: 1929 § 11128; 1919 § 6992; 1909 § 7995*
+
+### 241.020 Duty of governor and secretary of state as to lists and plats.
+
+Whenever the situation, description and quantity of said lands are made known to the governor, as soon as he shall receive from the government of the United States lists and plats of said lands, he shall cause such lists and plats to be filed in the office of the secretary of state, and the secretary of state shall furnish such information and copies of such lists and plats to the county commissions respectively of the counties in which said lands severally lie; and said lists and plats shall be received in all the courts of this state as prima facie evidence of the title in said counties to said lands.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12757)
+Prior revisions: 1929 § 11133; 1919 § 6997; 1909 § 8000*
+
+### 241.030 Secretary of state to act as swampland agent — his duties.
+
+1. It is made the duty of the secretary of state of this state to act as swampland agent, to locate such public lands as the state of Missouri may be authorized to locate under the provisions of the act of congress of September 28, 1850, granting swamp and overflow lands to the state of Missouri, and other acts of congress since that time passed, relating to said lands, and to obtain the right of the state under said acts, and settle and adjust any and all claims the state of Missouri may have against the United States growing out of said grant of land. He is hereby authorized to obtain such proof from the various county commissions as is necessary to secure the indemnity from the general government under the act of March 2, 1855, and is hereby authorized to employ assistants for the performance of the duties required of him in sections 241.010 to 241.280, subject to the approval of the governor.
+2. He shall receive all moneys, scrip or certificates of indemnity on account of swamp and overflowed lands sold by the government of the United States since the donation of such lands to the state of Missouri, and deposit the moneys or scrip so obtained in the state treasury, to the credit of the county in whose favor the same is drawn, and cancel all records in his office on which indemnity has been received. He shall locate all certificates of indemnity received as aforesaid in the name of the county in whose favor said certificate is drawn, making said location from sight or personal knowledge of the same, and deposit the certificate of said location in the state treasury, subject to the orders of the respective county commissions, and he shall immediately notify said county commissions of all deposits made in conformity with sections 241.010 to 241.280.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12775)
+Prior revisions: 1929 § 11151; 1919 § 7015; 1909 § 8018*
+
+### 241.040 Governor to relinquish title to certain lands, when.
+
+The governor of the state is hereby authorized to relinquish the title of the state to such swamp and overflowed lands as may have been sold by the general government since the passage of the law donating said lands to the state in which they lie, whenever the counties interested in said lands may, by an order of the county commission, authorize him so to do.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12774)
+Prior revisions: 1929 § 11150; 1919 § 7014; 1909 § 8017*
+
+### 241.050 Duty of treasurer.
+
+It is made the duty of the treasurer of this state to pay said money or scrip mentioned in section 241.030 to the authorized agents of the counties to which such money or scrip may be made payable by the provisions of sections 241.010 to 241.280.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12776)
+Prior revisions: 1929 § 11152; 1919 § 7016; 1909 § 8019*
+
+### 241.060 Expenses, how paid.
+
+All expenses incurred by the secretary of state in performing the duties under the law relating to the disposition of overflowed and swamp lands shall be paid from the state treasury upon warrants upon the general revenues of the state.
+
+*Effective 8/28/1949 · (RSMo 1939 § 12777, A. 1949 S.B. 1081)
+Prior revisions: 1929 § 11153; 1919 § 7017; 1909 § 8020*
+
+### 241.070 Compensation of persons appointed to designate lands.
+
+Whenever the lands contemplated in sections 241.010 to 241.280, in any county, shall have been designated and reported by the person or persons appointed in such county for that purpose, the county commission shall audit the account of such person, and allow such reasonable compensation for such services as they may deem just, to be paid from the county treasury.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12758)
+Prior revisions: 1929 § 11134; 1919 § 6998; 1909 § 8001*
+
+### 241.080 Title to be conveyed by patents.
+
+In order to convey to the different counties in the state of Missouri a complete title to all the swamp and overflowed lands which have been granted and patented to the state of Missouri by an act of congress, entitled "An act to enable the state of Arkansas and other states to reclaim the swamp lands within their limits", approved September 28, 1850, the secretary of state is hereby directed to prepare a patent or patents, embracing all the swamp or overflowed lands lying within the limits of the several counties of this state, conveying thereby all the title and interest of the state of Missouri in and to such lands, to the counties in which such lands may lie, and when such patents have been prepared as provided in sections 241.010 to 241.280, they shall be presented to and signed by the governor of this state, attested by the secretary of state, and recorded by the secretary of state in his office.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12780)
+Prior revisions: 1929 § 11156; 1919 § 7020; 1909 § 8023*
+
+### 241.090 Preparation of patents.
+
+Whenever possible so to do, all the overflowed and swamp lands situate in any one county shall be included in one patent and described numerically by sections, townships and ranges, having due regard for county lines.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12781)
+Prior revisions: 1929 § 11157; 1919 § 7021; 1909 § 8024*
+
+### 241.100 Lands hereafter patented to be also conveyed.
+
+It shall be the duty of the officers named in section 241.080 to convey by patent or patents, as provided in said section, all such overflowed and swamp lands as may hereafter be patented to the state of Missouri by the government of the United States, to the respective counties in which the same may lie.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12782)
+Prior revisions: 1929 § 11158; 1919 § 7022; 1909 § 8025*
+
+### 241.110 County recorder to record patents.
+
+It shall be the duty of the secretary of state to forward all patents, when the same shall be executed and recorded as required by sections 241.010 to 241.280, to the clerks of the several county commissions of this state, and so soon as the same shall be received by said clerks, the several county commissions shall cause the same to be duly recorded in the recorder's office of their respective counties, as other conveyances are required by law to be recorded.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12783)
+Prior revisions: 1929 § 11159; 1919 § 7023; 1909 § 8026*
+
+### 241.120 Patents to be evidence of title.
+
+All patents issued, executed and duly recorded, as required by sections 241.010 to 241.280, or a certified copy of the same, which shall include all the land therein described, or which shall include any separate and distinct description of the lands therein described, either under the hand of the secretary of state or the recorder of the proper county, shall be received and read in all courts in this state as prima facie evidence of the title in the counties where such overflowed and swamp lands severally lie.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12784)
+Prior revisions: 1929 § 11160; 1919 § 7024; 1909 § 8027*
+
+### 241.130 Construction of this law.
+
+Nothing in this law shall be so construed as to require the secretary of state to patent to the several counties, as provided in sections 241.010 to 241.280, any swamp or overflowed lands heretofore patented to the several counties in which such lands lie or which have been patented to any person or persons by the state, nor shall the secretary of state issue patents to any individuals for any overflowed or swamp lands situate in the various counties in this state.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12786)
+Prior revisions: 1929 § 11162; 1919 § 7026; 1909 § 8029*
+
+### 241.140 County recorder to be lawful custodian.
+
+In all counties where lands have been sold, patents issued, and the same have been recorded, the clerk of the county commission in whose office any such records may now remain, or that hereafter may be made under the laws respecting the sale of swamp and overflowed lands, the issuing of patents therefor, and providing for the record thereof, shall, upon application of the recorder of deeds of such county, or the clerk of the circuit court when ex officio recorder of such county, deliver up to said recorder, or clerk when ex officio recorder, all completed record books of such patents, with the indices and abstracts thereof, and upon the completion of each and every such record book, until all the swamp and overflowed lands in each and every county to which this law applies shall be sold, patents issued, and the same shall be recorded, the clerk of the county commission shall deliver the records thereof to the recorder of deeds, or the clerk of the circuit court when ex officio recorder of the county, with the indices and abstracts of such recorders, for which said recorder, or clerk, when ex officio recorder, shall give the clerk of the county commission a receipt, which he shall file in his office and the said recorder of deeds, or clerk of the circuit court when ex officio recorder, shall be the lawful custodian of all such records received by him, and certified copies of the same shall be received in evidence in all courts of this state, and shall have the same force and effect in all matters of law and equity as if said records had been made by the recorder of deeds, or clerk of the circuit court when ex officio recorder, under the laws of this state providing for the recording of conveyances of real estate.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12788)
+Prior revisions: 1929 § 11164; 1919 § 7028; 1909 § 8031*
+
+### 241.150 Control over patented lands vested in county commissions.
+
+The several county commissions shall have full power and control over all such overflowed and swamp lands patented to their respective counties under the provisions of sections 241.010 to 241.280, and to sell and dispose of the same in like manner and with like effect as is or may be provided by law for the conveyance of other real estate belonging to their respective counties.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12785)
+Prior revisions: 1929 § 11161; 1919 § 7025; 1909 § 8028
+CROSS REFERENCE:
+Swamplands may be appropriated for purpose of constructing levee, 245.540*
+
+### 241.155 County commission may employ counsel, when.
+
+The county commission of any county in this state owning swamp or overflowed lands may employ special counsel or attorneys to represent the county in prosecuting or defending any suit by or against the county for the recovery or preservation of the swamp or overflowed lands, and quieting the title of the county thereto and may pay the special counsel or attorneys reasonable compensation for their services, to be paid out of any funds arising from the sale of the swamp or overflowed lands, or out of the general revenue fund of the county.
+
+*Effective 8/28/1957 · (L. 1957 p. 580)*
+
+### 241.160 Sale of public lands by county commission — procedure.
+
+Whenever, in the judgment of said county commission, it shall be to the interest of said counties to do so, they shall order the sheriff to sell the same at public vendue to the highest bidder, after giving sixty days' notice, by publication in some newspaper published in the county, if there be one, or if there be no such paper published in the county, then by at least ten written or printed handbills put up at ten public places within the county, containing a general description of the lands to be sold, by section, township and range. Such lands shall be sold in such quantities, at such times and places, and on such terms as they may think proper, and as set forth in such notice, with or without draining or reclaiming the same, as in their discretion they may think most conducive to the interest of their respective counties; and all sales made under the provisions of sections 241.010 to 241.280 shall conform to the subdivisions prescribed by the laws of the United States; provided, however, that no land shall be sold under the provisions of said sections for less than one dollar and twenty-five cents per acre; and provided further, that the county commissions of the several counties in this state may, if in their judgment it is deemed advisable, sell any of the swamp or overflowed lands in their counties at private sale, without advertisement as provided in this section, at a price not less than one dollar and twenty-five cents per acre; provided further, that in all cases where the county commissions of this state have, prior to 1880, sold or disposed of any such swamplands in their respective counties and issued, or caused to be issued, patents for the same, and the patentees, or those holding under them, have been claiming such lands and paying county and state taxes thereon for more than twenty years, such grant shall be deemed and held to be good and valid, and no action shall be maintained for the purpose of setting aside or calling in question such patent or patents.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12754)
+Prior revisions: 1929 § 11130; 1919 § 6994; 1909 § 7997*
+
+### 241.170 County commissions may cancel contracts, upon conditions.
+
+In every case where persons have become the purchasers of swamp and overflowed lands in the several counties in this state, on credit, either in whole or in part, and shall, by death or otherwise, become unable to pay for the same, the county commission of such county, on the application of such purchaser, or, in case of death, of his or her legal representatives, is hereby authorized to cancel the contract, in whole or in part, upon these conditions: The said commission shall not, in any case, pay back any money or interest that has been paid upon said contract, nor rescind a contract for timbered land, when the timber or any portion of it has been removed since the sale of said land by said commission, without full indemnity being made therefor; and whenever any such sale is cancelled the county commission may resell said land as provided in section 241.160.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12770)
+Prior revisions: 1929 § 11146; 1919 § 7010; 1909 § 8013*
+
+### 241.180 Cancellation of contract when process cannot be served, how.
+
+If the purchaser of any swamplands has absented himself from this state, so that no process at law can be served on him, the county commission of the county where the said swampland lies may, upon the application of anyone who may have become surety for the purchase of said lands, cancel the contract on such terms as may be deemed equitable and not inconsistent with the provisions of sections 241.010 to 241.280, as provided in section 241.160.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12771)
+Prior revisions: 1929 § 11147; 1919 § 7011; 1909 § 8014*
+
+### 241.190 Insufficient title cause for cancellation.
+
+Whenever the county commissions of this state shall have sold swamp or overflowed lands to which they are unable to make a good and sufficient title, the said commissions are hereby authorized and empowered, with the consent of the purchaser, or, in the case of his or her death or absence from the state, then with the consent of his or her sureties or legal representative, to cancel said contract.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12772)
+Prior revisions: 1929 § 11148; 1919 § 7012; 1909 § 8015*
+
+### 241.200 Power to cancel discretionary with commission.
+
+This law shall not be so construed as to make it obligatory upon any county commission to rescind or cancel any contract or sale heretofore made, but the same shall be wholly discretionary with said commission, having in view the best interests of the county.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12773)
+Prior revisions: 1929 § 11149; 1919 § 7013; 1909 § 8016*
+
+### 241.210 Lands may be resold, when — conditions.
+
+In all cases where swamplands have been or may hereafter be sold, which had been previously sold and patented by any county commission in this state, to a bona fide purchaser, it shall be the duty of the county commission of the county in which such sales were made, upon proper application of the subsequent purchaser, accompanied by the proper proof, showing the facts, to draw a warrant on the county treasury in favor of the person who paid the same, for the amount of such purchase money actually paid into the county treasury; provided, that such person in whose favor such warrant is drawn shall relinquish all interest and title in such land in favor of the county or the prior purchaser holding a prior patent to such lands.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12779)
+Prior revisions: 1929 § 11155; 1919 § 7019; 1909 § 8022*
+
+### 241.220 Issuance of patent, how.
+
+Whenever full payment shall be made for any of said land by the purchaser thereof, the county commission shall cause the clerk of said commission to issue to the purchaser or purchasers, his or their heirs or assigns, a patent for the same, which patent shall be signed by the presiding commissioner of the county commission, countersigned by the clerk thereof, and recorded in the swamp land patent book, in the office of the county clerk.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12755)
+Prior revisions: 1929 § 11131; 1919 § 6995; 1909 § 7998*
+
+### 241.230 Errors in description, how corrected.
+
+The county commission of any county in this state, authorized by law to sell and make title to bona fide purchasers to any swamp and overflowed lands granted by the state to the county for the purposes of reclamation, shall, by an order of record, upon sufficient proof being made by the owner of any swamp and overflowed lands undertaken to be sold, that an error has been made in the description of such lands, correct such error or misdescription wherever it occurs, whether in record of entry, certificate of purchase, patent, or the record thereof; provided, such correction shall not prejudice the rights of other parties.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12787)
+Prior revisions: 1929 § 11163; 1919 § 7027; 1909 § 8030*
+
+### 241.240 Net proceeds of sales to county school fund.
+
+The net proceeds of the sales of all such lands, after defraying the expenses of draining, reclaiming, surveying and selling the same, as provided in sections 241.010 to 241.280, shall be paid into the county treasury and become a part of the county school fund of the county.
+
+*Effective 8/28/1949 · (RSMo 1939 § 12756, A. 1949 S.B. 1081)
+Prior revisions: 1929 § 11132; 1919 § 6996; 1909 § 7999*
+
+### 241.250 Drainage and reclamation commissioners, appointment, duties.
+
+As soon as the several county commissions shall be furnished with the proper description of lands contemplated in section 241.010, they may have said overflowed and swamp lands drained and reclaimed, so as to render them tillable, or otherwise subservient to the purposes of sections 241.010 to 241.280, and for that purpose may appoint one or more drainage and reclamation commissioners, who shall, under the direction of the county commission, superintend the draining and surveying of said lands.
+
+*Effective 8/28/1986 · (RSMo 1939 § 12753, A.L. 1986 H.B. 1554 Revision)
+Prior revisions: 1929 § 11129; 1919 § 6993; 1909 § 7996*
+
+### 241.260 County commissions may borrow money, how.
+
+To enable the county commissions to carry the provisions of sections 241.010 to 241.280 into effect, they shall have power to borrow money, and to issue bonds of the county therefor, in the manner and to the extent provided in Sections 26(e) and 27 of Article VI of the Constitution.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12762)
+Prior revisions: 1929 § 11138; 1919 § 7002; 1909 § 8005*
+
+### 241.270 Landowners may protest, when — proceedings.
+
+1. If the owners of any lands through which any ditch or levee is proposed to be made or cut, by virtue of any of the provisions of sections 241.010 to 241.280, shall notify the drainage and reclamation commissioners that he objects to the making of such levee or cutting such ditch, such commissioners shall apply to an associate circuit judge of the county in which such land may be situated for a summons for a jury to inquire into the damages such owner may sustain by the making of such levee or the cutting of such ditch, or both; and it shall be the duty of such associate circuit judge to issue a summons, under his hand, to the sheriff of said county, commanding him to summon a jury of eighteen good and lawful persons, to meet at a time and place, upon such land, to be specified in the summons, at the time and place specified; such drainage and reclamation commissioners and the owner of such land shall proceed to select a jury of twelve persons out of the number thus summoned, and the associate circuit judge shall administer an oath to them to faithfully and impartially inquire into the amount of damages the owner of such land will sustain by reason of the making of such levee or ditch, and the jury shall render their verdict in writing, and shall specify therein the amount of damages they assess.
+2. The selection of such jury, and the trial in such case, shall be conducted in the same manner that other civil cases are tried and conducted in the associate divisions of the circuit courts, and the associate circuit judge shall make an entry on his docket of the verdict of the jury and other proceedings in such case.
+3. A transcript of such proceedings shall be filed in the office of the clerk of the county commission, and if the county commission shall be of opinion that it is best to pay such damages, such county commission shall issue a warrant on the county treasury, in favor of the party entitled thereto, for the amount of damages assessed, as aforesaid, and also a warrant in favor of the officers for the fees to which they may be entitled in any such case, which amount shall be paid out of any money in the treasury arising from the sale of land by virtue of sections 241.010 to 241.280, and not otherwise appropriated, and shall be paid by the treasurer to the parties entitled to the same, from whom he shall take, and file in his office, a receipt for such payment; and when such damages are paid, or tendered in money and refused, such ditch or levee may be made, and the owner of such land shall be forever barred from maintaining any action for the making such levee or the cutting such ditch; and if such money is tendered, and the parties entitled thereto shall refuse to accept the same, such money shall remain in the county treasury, subject to the order of the parties thereto entitled; provided, however, that should such jury fail or refuse to find any damages, such complainant shall pay all costs necessarily incurred in the proceedings; provided, that the complainant may have an appeal according to law.
+
+*Effective 8/28/1986 · (RSMo 1939 § 12759, A.L. 1945 p. 1110, A.L. 1986 H.B. 1554 Revision)
+Prior revisions: 1929 § 11135; 1919 § 6999; 1909 § 8002*
+
+### 241.290 Abandoned riverbeds and islands granted counties for schools.
+
+All lands belonging to the state, not otherwise appropriated under the laws thereof, which have been formed by the recession and abandonment of their waters of the old beds of lakes and rivers in this state, or by the formation of islands in the navigable waters of the state, are hereby granted and transferred to the respective counties in which such lands are located, to be held by such counties for school purposes.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12789)
+Prior revisions: 1929 § 11165; 1919 § 7029; 1909 § 8032*
+
+### 241.291 Mississippi and Missouri River islands to conservation commission or park board, exceptions — to county, when.
+
+1. Notwithstanding the provisions of sections 241.290 to 241.340, all lands belonging to the state, not otherwise appropriated, which have been formed by the formation of islands in the Missouri and Mississippi rivers within this state are hereby granted and transferred to the Missouri conservation commission for wildlife purposes. If the commission certifies that such islands have no present or potential value for wildlife use or recreation involving wildlife species, the islands shall then be transferred to the state park board for recreational purposes. If the park board certifies that the islands are of no present or potential value for recreational purposes, they shall be transferred to the respective counties in which they are located.
+2. All islands formed in the Missouri and Mississippi rivers within this state after September 28, 1971, are the property of the state, and shall pass to the conservation commission or the state park board for wildlife or recreational purposes respectively in the same manner as provided in subsection 1 of this section for islands already formed, and if certified by both the conservation commission and the park board as having no value for wildlife or recreational purposes, they shall pass to the counties in which they are located, for the purpose and subject to the power of survey and sale, as provided in sections 241.291, 241.309 and 241.311.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 140 §§ 1, 2)*
+
+### 241.300 Future abandoned riverbeds and islands granted counties.
+
+All lands that may hereafter form by the recession from and abandonment of the bed of any lake or river, and islands which may hereafter form in the navigable waters of said state, which would otherwise have become the property of the state, shall pass in the same manner as in the case of such lands already formed, to the counties in which they are situated, for the purpose and subject to the power of survey and sale, as provided in sections 241.290 to 241.340.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12792)
+Prior revisions: 1929 § 11168; 1919 § 7032; 1909 § 8035*
+
+### 241.309 Counties may sell land, how — proceeds, how used.
+
+All counties in which such islands are situated may, subject to the provisions of section 241.311, cause them to be appropriately surveyed and sell and convey them in the same manner as lands are sold under the provisions of section 241.310, and for the same purposes.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 140 § 3)*
+
+### 241.310 Lands may be sold, how — disposition of proceeds.
+
+All counties in which any such lands are situated shall have the power to cause the same to be appropriately surveyed, and to sell and convey them in the same manner that the swamplands acquired under the act of congress of September 28, 1850, entitled "An act to enable the state of Arkansas and other states to reclaim the swamp and overflowed lands in their limits", afterward donated to the counties in which they were situated, or conveyed; and the proceeds of all such sales shall become a part of the swampland school funds of the counties in which said lands are situated.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12790)
+Prior revisions: 1929 § 11166; 1919 § 7030; 1909 § 8033*
+
+### 241.311 Land to be auctioned to highest bidder.
+
+Any land sold under the provisions of sections 241.291, 241.309 and 241.311 or under the provisions of sections 241.290 to 241.340, shall be sold only at public auction to the highest bidder.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 140 § 4)*
+
+### 241.320 Lands to be surveyed, how.
+
+In surveying the lands and islands referred to in sections 241.290 to 241.340 the surveyor shall connect the survey thereof with some established section, quarter section, meander or other United States survey corner conveniently near or adjacent to the land or island to be surveyed; he shall meander islands and such lake and riverbed lands as may abut on a navigable river or lake; he shall subdivide such lands into sections and quarter sections by producing and extending the lines of the surveys made by the United States surveyors over such islands and lands from the shore from which said islands or lands may be surveyed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12793)
+Prior revisions: 1929 § 11169; 1919 § 7033; 1909 § 8036*
+
+### 241.330 Limitation against counties.
+
+No statute of limitations shall begin to run against the counties in which any such lands are situated to prevent them from recovering or acquiring such lands, for twenty years after the passage of this law; but after that date such counties, as to such lands, shall be subject to the same limitation laws as private individuals.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12791)
+Prior revisions: 1929 § 11167; 1919 § 7031; 1909 § 8034*
+
+### 241.340 County commission may employ surveyors and attorneys.
+
+The county commission may employ surveyors to survey said lands and islands, and attorneys to represent them in any suits pertaining thereto, and shall pay such surveyors and attorneys reasonable compensation for their services, to be paid out of any funds arising out of the sale of such lands and islands, or out of the general revenue fund of the county as may be agreed upon at the time such surveyors and attorneys are employed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12803)
+Prior revisions: 1929 § 11179; 1919 § 7043; 1909 § 8046*
+
+## Chapter 242 — Drainage Districts Organized in Circuit Court
+
+### 242.010 Owner defined — delegation of representation and voting rights.
+
+1. The word "owner" as used in sections 242.010 to 242.690 shall mean the owner of the freehold estate, as appears by the deed record, and it shall not include reversioners, remaindermen, trustees, or mortgagees, who shall not be counted and need not be notified by publication, or served by process, but shall be represented by the present owners of the freehold estate in any proceeding under said sections.
+2. Owners of property, located in whole or in part within the drainage district and owned by a corporation, partnership, joint venture, or any other form of ownership other than individual ownership, may delegate through procedures allowed as provided by the laws of this state an individual to exercise representation and voting on behalf of the corporation, partnership, joint venture, or other entity in matters requiring public vote involving the drainage district. For purposes of drainage districts organized pursuant to the laws of this state, any individual so recognized by the corporation, partnership, joint venture, or other entity as having the responsibilities of representing the property owner before the board of supervisors of the drainage district shall in all respects be treated by laws of this state as the owner of the property, and shall be entitled to all benefits and privileges allowed by law, including serving on the board of supervisors if so elected.
+
+*Effective 8/28/2002 · (RSMo 1939 § 12364, A.L. 2002 S.B. 941)
+Prior revisions: 1929 § 10783; 1919 § 4415*
+
+### 242.020 Formation of drainage districts.
+
+1. The owners of a majority of the acreage in any contiguous body of swamp, wet or overflowed lands, or lands subject to overflow, situate in one or more counties in this state, may form a drainage district for the purpose of having such lands and other property reclaimed and protected from the effects of water, for sanitary or agricultural purposes, or when the same may be conducive to the public health, convenience or welfare, or of public utility or benefit, by drainage or otherwise, and for that purpose they may make and sign articles of association, in which shall be stated: The name of the district, and the number of years the same is to continue; the boundary lines of the proposed drainage district; the names of the owners of lands or other property in said district, together with a description of the lands and other property owned by each; when the name of the owner of any of said lands or other property is unknown, this fact shall be set out in said articles; said articles shall further state that the owners of real estate and other property within said district whose names are subscribed to said articles are willing to and do obligate themselves to pay the tax or taxes which may be assessed against their respective lands or other property to pay the expense of organizing and of making and maintaining the improvements that may be necessary to effect the reclamation of said lands and other property, so formed into a drainage district, and to drain and to protect the same from the effects of water, and said articles of association shall contain a prayer, praying that the lands and other property described therein be declared a drainage district under the provisions of sections 242.010 to 242.690.
+2. After said articles of association and petition have been so signed the same shall be filed in the office of the circuit clerk of the county in which such lands and other property are situate; or, if such lands and other property be composed of tracts or parcels situate in two or more different counties then in the office of the clerk of the circuit court of the county in which there are situate more of said lands and other property than in any other county.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12324)
+Prior revisions: 1929 § 10743; 1919 § 4378; 1909 § 5496*
+
+### 242.030 Notice of application — form.
+
+1. Immediately after such articles of association shall have been filed, the clerk in whose office the articles of association have been filed shall give notice by causing publication to be made once a week for four consecutive weeks in some newspaper published in each county in which are situate lands and other property of the district, the last insertion to be made at least fifteen days prior to the first day of the next regular term of the circuit court at which said articles of association and petition are to be heard; said notice shall be substantially in the following form and it shall be deemed sufficient for all purposes of sections 242.010 to 242.690:
+­
+­
+2. The circuit court of the county in which said articles of association have been filed shall thereafter maintain and have original and exclusive jurisdiction coextensive with the boundaries and limits of said district without regard to county lines, for all purposes of sections 242.010 to 242.690; provided, that where lands in different counties are sought to be incorporated in the same district, it shall not be necessary to include all of the lands and other property in said proposed drainage district in the notice published in the different counties, but only such lands and other property in the district as are situate in the respective counties.
+
+*Effective 1/2/1979 · (RSMo 1939 § 12325, A.L. 1978 H.B. 1634)
+Effective 1-2-79*
+
+### 242.040 Objections — procedure.
+
+1. Any owner of real estate or other property in said proposed district, who may not have signed said articles of association, objecting to the organization and incorporation of said drainage district, shall, on or before the first day of the term of court at which the cause is to be heard, file his objection or objections why such drainage district should not be organized and incorporated. Such objection or objections shall be limited to a denial of the statements in the articles of association, and shall be heard by the court in a summary manner, without unnecessary delay, and in case all such objections are overruled, the circuit court shall by its order, duly entered of record, duly declare and decree said drainage district a public corporation of this state, for a term not exceeding the time mentioned in said articles of association signed and filed. If the court finds that the property set out in said articles of association should not be incorporated into a drainage district, it shall dismiss said proceedings and adjudge the costs against the signers of said articles of association in proportion to the acreage represented by each.
+2. Any person having signed the articles of association shall have no right to have said proceedings dismissed as to him without the written consent of the majority in acreage of the owners who signed said articles. The articles of association may be amended as any other pleading.
+3. Within sixty days after the said district has been declared a corporation by the court, the clerk thereof shall transmit to the secretary of state a certified copy of the findings and decree of the court incorporating said district, and the same shall be filed in the office of the secretary of state in the same manner as articles of incorporation are now required to be filed under the general law concerning corporations.
+4. A copy of said findings and decree, together with a plat of the district, shall also be filed in the office of the county recorder in each of the counties having lands and other property in said district, where the same shall become a permanent record, and each such recorder shall receive a fee of one dollar for filing and preserving the same.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12326)
+Prior revisions: 1929 § 10745; 1919 § 4380; 1909 § 5499*
+
+### 242.050 Annexation of land to organize district.
+
+1. The board of supervisors of any drainage district organized under the provisions of sections 242.010 to 242.690, for and in its behalf, or the owners of a majority of the acres in any tract or tracts of swamp, wet or overflow lands or lands subject to overflow lying adjacent to such district, or having an outlet in common with lands in the district, shall have the right to file a petition in the office of the clerk of the court organizing such district, asking that the boundary lines of such district be changed or extended so as to annex and include such lands. Said petition shall describe the boundary lines of the tract or tracts sought to be annexed and state the names of the owners of such tracts together with descriptions of tracts owned by each; when the name or names of any owner or owners of any such lands or other property are unknown this fact shall be set out in said petition.
+2. As soon as said petition has been filed the clerk of the court shall give notice of such filing by causing publication to be made once a week for four consecutive weeks in some newspaper published in each county in which any part of the lands sought to be annexed are situate; said notice need not contain the names of the owners of said lands and other property or descriptions of tracts owned by each, but it will be sufficient to describe said lands by sections and parts of sections; the notice shall state the purpose of the petition, that the lands will be rendered liable to taxation to pay the cost of making and maintaining the improvement found necessary to drain and reclaim said lands, and that any owner of said lands shall have the right to file objections to said petition on or before fifteen days after the last publication of the notice, which said date of filing objections shall be stated in said notice.
+3. Any owners of land, or other property sought to be annexed, not petitioning, or the board of supervisors of the district, if not petitioning, shall have the right to file objections within fifteen days after the last publication of the notice herein provided for but not thereafter, setting out why said petition should not be granted. Such objection shall be limited to a denial of the statements in the petition and shall be heard and determined by the court as early and speedily as possible, at either a regular, adjourned or special term, and the court shall annex all lands and other property described in the petition that are found to be swamp, wet or overflow lands or lands subject to overflow, or lands having an outlet in common with lands in the district.
+4. After such extension or extensions have been made, the board of supervisors of the district shall proceed to reclaim the lands and other property in the district as enlarged, by either constructing and putting into force or completing the improvements set out in the plan for reclamation already adopted or to be adopted, or by formulating and adopting enlargements, additions and extensions to drains, channels, levees or other improvements in the plan already adopted, and thereafter the same shall be proceeded with in the same manner or as nearly as possible, as provided by sections 242.010 to 242.690.
+5. Any petition filed under this section, all maps, profiles and reports of the chief engineer of such district, and records of the board shall be deemed prima facie evidence in all proceedings under this section as to all facts therein. The term "lying adjacent to the district" as used herein shall be construed by the courts to mean situate nearby or in the vicinity of any drainage district, or touching such district in part or in whole.
+6. Any owner of lands or other property, or the board of supervisors, for and on behalf of the district, shall have the right to appeal from the finding or decree of the court extending or refusing to extend the boundary lines of such district, said appeal to be prosecuted the same as provided for appeals under the civil code.
+7. The amendments contained herein are declared to be remedial in character, shall be liberally construed by the courts promptly and shall apply to districts already organized, in process of organization or to be hereafter organized by circuit courts of this state.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12365)
+Prior revisions: 1929 § 10784; 1919 § 4416*
+
+### 242.060 Consolidation of adjacent districts.
+
+1. Any two or more adjacent districts, whether incorporated in the same or different counties, may be united and consolidated in one district, and such new district and the board of supervisors thereof shall have the rights, powers and privileges of any districts organized under sections 242.010 to 242.690.
+2. In order to effect such consolidation, the board of supervisors of each of the original districts shall call an election in the same manner as elections for supervisors, stating the time, place and object of such election. If a majority of the acreage voting in each district vote in favor of the proposition to unite and consolidate such districts, the board of supervisors of each district shall present a petition to the circuit court of the county in which the greatest amount of the land is located, accompanied with a complete return of said election, in which petition shall be stated the name of the original district, when incorporated, the names of the owners of the lands and the boundaries of the district.
+3. When said petition has been filed the circuit clerk shall give notice of such filing in the manner provided for giving notice in section 242.030, said notice to state the contents of said petition and the objects sought and the date on which said matter is to be heard.
+4. Any person owning land in either of said districts, on or before the date set out in the notice on which said matter is set to be heard may file objections to the regularity or sufficiency of any of the proceedings had in the premises, and if such objections are overruled, or if no objections are made, the court shall make an order that any two or more of the several districts so asking to be united shall be united and consolidated as one district, under some appropriate designation, with all the rights, powers and privileges of such districts organized under sections 242.010 to 242.690 and, except as hereinafter provided, the lands so included in the new district shall be subject to all liens, liabilities and obligations of the original districts, and a new board of supervisors shall be elected, as is now provided in case of election of supervisors, and all orders made in regard to extension of time, boundaries or uniting districts shall be spread on the records of the circuit court, and a certified copy thereof shall be filed with the recorder of deeds of each county in which any of such land is located, and also with the secretary of state, and said recorder shall receive a fee of one dollar for filing and preserving such certificate; provided, however, that if any district included in any consolidated district shall have issued bonds which are outstanding at the time of such consolidation, the taxes levied to pay such bonds and the interest thereon shall be an obligation of only the property within such component district.
+
+*Effective 8/28/1959 · (RSMo 1939 § 12372, A.L. 1959 H.B. 312)
+Prior revisions: 1929 § 10791; 1919 § 4421; 1909 § 5501
+CROSS REFERENCE:
+Consolidation of adjoining districts and reorganization under Chap. 242, 243.450*
+
+### 242.070 Reorganization of districts.
+
+Any drainage district of Missouri heretofore organized, in process of organization or that may hereafter be organized under the provisions of any previous or existing laws of this state, either general or special, may elect in the manner herein provided to become and be reorganized under the provisions of sections 242.010 to 242.690; provided, that such reorganization shall not be required of districts heretofore organized or in process of organization at the time of passage of this law under the provisions of article 1, chapter 41, of the Revised Statutes of 1909, but all such districts shall have the right to proceed under the provisions of said sections.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12379)
+Prior revisions: 1929 § 10798; 1919 § 4428*
+
+### 242.080 Reorganized districts — articles of association.
+
+1. Any drainage district heretofore organized and any district that is now in process of organization or any drainage district that may hereafter be organized under any previous or existing law of this state may organize under the provisions of sections 242.010 to 242.690, and after so organized shall be entitled to the benefits of all of the provisions of said sections and any or all laws amendatory hereof.
+2. The owners of a majority of acreage of any existing drainage district may make and sign articles of association in which shall be stated: The name of the district, which shall be the same as the name it bears when such articles of association are made, and the number of years such district is to continue, which shall in no event be for fewer years than the life of any of its existing obligations. Such articles shall also state that the boundaries of the district will be the same as the boundaries of the present organization and that the description of the land and other property and the owners thereof are such as are described in the present record of the district as now organized and said articles of association shall contain a petition, praying that the lands of said drainage district be declared a drainage district under the provisions of said sections.
+3. After such articles of association have been so signed, the same shall be filed in the office of the clerk of the circuit court of the county in which such lands are situate, or, if such lands be situate in two or more counties, then in the office of the clerk of the circuit court of the county in which there are situate more of said lands than in any other county.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12380)
+Prior revisions: 1929 § 10799; 1919 § 4429*
+
+### 242.090 Notice of reorganization hearing — form.
+
+Immediately after such articles of association have been filed the circuit clerk in whose office the same have been filed shall give notice in the manner and for the time specified in section 242.030, said notice to be in substantially the following form, which shall be deemed sufficient for all the purposes of sections 242.010 to 242.690:
+­
+­
+­­
+­
+
+*Effective 1/2/1979 · (RSMo 1939 § 12381, A.L. 1978 H.B. 1634)
+Prior revisions: 1929 § 10800; 1919 § 4430
+Effective 1-2-79*
+
+### 242.100 Procedure after notice of reorganization.
+
+After said notice has been so given the matter shall be proceeded with in the same manner as is provided for where articles of association for the formation of a drainage district have been filed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12382)
+Prior revisions: 1929 § 10801; 1919 § 4431*
+
+### 242.110 Records and funds delivered to secretary of board.
+
+Immediately after the election of the board of supervisors as provided for in section 242.100, and the election of a president and secretary, and the secretary has filed the necessary bond and it has been approved, he shall call upon the county clerk or other person who may be in charge of the records of the district for all records, contracts, files, books, plats, maps and every article of record belonging to said district, and the county clerk or other person in charge of such records shall immediately deliver to said secretary of the district all such records and take the receipt of the secretary therefor. Said secretary shall also call upon the county treasurer or other person who has control of the funds of the district, for the transfer of all funds of the district to him and said treasurer or other person shall immediately transfer such funds, taking the receipt of the secretary for such funds.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12383)
+Prior revisions: 1929 § 10802; 1919 § 4432*
+
+### 242.120 Liability of reorganized district — consolidation.
+
+When an existing drainage district has been reorganized under sections 242.010 to 242.690 the board of supervisors will not be required to follow such steps or requirements of sections 242.010 to 242.690 as are inconsistent with or rendered unnecessary, by the work that has already been done in the district; provided, that no such change of organization shall have the effect of in any way invalidating any indebtedness, liability, or contract of any nature incurred under its former organization, but all such indebtedness, liability or contract shall attach to and become the debt or liability of the new organization until the same is fully paid and discharged, and all debts owing to, and all rights and privileges and immunities held or enjoyed by the old district under its former organization shall be held and enjoyed by the new district when the same shall organize under the provisions of said sections; provided further, that no right of action shall exist nor remedy be allowed against any such reorganized district by virtue of any contract or contracts made by, or on behalf of, any such reorganized district prior to its reorganization as herein provided for, which did not exist or was not allowed by statute against such district prior to the time of its reorganization as herein provided for; and provided further, that two or more drainage districts, whether located in the same or different counties, may unite in formulating and signing articles of association for the reorganization of such districts under the provisions of sections 242.070 to 242.120, 242.510 to 242.530, and sections 242.680 and 242.690 and the land and other property of such districts may be combined into one and the same district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12384)
+Prior revisions: 1929 § 10803; 1919 § 4433*
+
+### 242.130 Extending time of corporate existence.
+
+1. Whenever the board of supervisors of any district organized under sections 242.010 to 242.690 or any previous enactment of the general assembly of the state of Missouri providing for the organization of drainage districts by the circuit courts, finds that, in order to either raise funds to complete the plan for reclamation, pay for works already completed, pay bonds outstanding and interest thereon, or interest on the same, restore any works or construct new works or for any other cause, the time for which any such drainage district has been incorporated should be extended, such board shall call a meeting of landowners of the district in the same manner as is provided for in section 242.150; the notice shall state the time, place and purpose of such meeting, and that if the majority of acres represented at said meeting be cast in favor of such extension of the district's corporate existence a petition will be presented to the court organizing the district, asking for such extension of time.
+2. Such meeting shall be conducted in the same manner as is provided in section 242.150 for the election of supervisors, except that one member of the board of supervisors shall act as chairman of such meeting and the secretary of the board or his deputy shall act as clerk; and if a majority of the acreage represented at such meeting shall vote in favor of such extension the board of supervisors shall within forty-five days before the next term of the circuit court file a petition with the clerk of said court praying for the extension of the corporate existence of the district, and after the filing of such petition the same proceeding shall be had as is provided for in sections 242.030 and 242.040 relating to articles of association and incorporation of the district.
+3. If such petition be granted by the court, within twenty days thereafter the circuit clerk shall transmit a copy of the decree to the secretary of the board of supervisors who shall transmit a copy of the same to the secretary of state and to the recorder of deeds of each county having land or other property in the district, who shall file and preserve the same in his office, and for such service he shall receive a fee of one dollar. In case the court should find that such extensions should not be allowed said petition shall be dismissed and the cost incurred in the case be paid by the district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12373)
+Prior revisions: 1929 § 10792; 1919 § 4422*
+
+### 242.140 Drainage district may be dissolved, when.
+
+1. The incorporation of every drainage district, heretofore or hereafter incorporated under and by virtue of the provisions of sections 242.010 to 242.690, shall be dissolved if, at any time before bonds are issued and negotiated to construct the works and improvements as provided by the plan of reclamation adopted by its board of supervisors, the owners of a majority of the acres of land within said drainage district petition the circuit court, wherein said drainage district was incorporated, for a dissolution thereof; provided, that upon the filing of any such petition, said circuit court shall, before dissolving said corporation ascertain and determine the amount of money in the treasury of, or owing to, said corporation, and the amount of all warrants issued and unpaid by it and the amount of the debts and other obligations owing by it; and, if said amount of money in the treasury and owing to said corporation, is in excess of the amount of said warrants, debts and other obligations, said circuit court shall order said warrants, debts and other obligations to be forthwith paid and discharged, and said excess divided among all the owners of land in said drainage district who paid the same thereto, in the proportions in which they paid the same; but, if said amount of money, in the treasury and owing to said corporation, is not sufficient to pay and discharge said warrants, debts and other obligations then said circuit court shall order said board of supervisors to levy and collect a uniform tax upon each and every acre of land within said drainage district, sufficient in amount to pay said deficiency, and to thereupon pay the same.
+2. At any time during the corporate life of such drainage district, when all outstanding bonds shall have been paid and when all other indebtedness of said district shall have been paid or when there is sufficient money on hand to pay any and all outstanding indebtedness, and when there is sufficient money on hand to pay the costs and expenses of the dissolution of said corporation as herein provided, the board of supervisors may, and, on a petition of one-tenth of the landowners, owning one-tenth of the lands in said district, shall, call a meeting of the landowners in said district for the purpose of determining whether or not said district shall be dissolved and its corporate life terminated, first giving three weeks' notice of the object, purpose and place of such meeting by notices printed for three weeks successively in some newspaper or newspapers printed and published in the county or counties in which said drainage district lies; provided, however, that not more than one such meeting for purposes of dissolution shall be held each year.
+3. If a majority of the landowners voting at said meeting and owning a majority of the acres of land in said district voting at said meeting vote in favor of the dissolution of the incorporation of said drainage district, the board of supervisors shall cause to be filed in the circuit court wherein said drainage district was incorporated, a petition setting out the facts: that there are no outstanding bonds of said district; that there is no other outstanding indebtedness of said district, or that there is sufficient money on hand to pay any outstanding indebtedness, as the case may be, and that there is sufficient money on hand to pay the cost and expenses of such dissolution; that due notice has been given or the clerk thereof in vacation shall cause notice to be given by publication in some newspaper printed and published in said county for four successive weeks, the last publication being not less than fifteen days before the day to which said petition is made returnable, directed to the creditors, landowners and all persons interested, of the filing of said petition, its object and purpose, and ordering them to show cause, if any there be, on said first day, why said corporation should not be dissolved.
+4. If, upon a hearing of said petition, the court find the facts aforesaid and find that there are no outstanding debts and that there is sufficient money to pay the expenses of dissolution, it shall enter its order dissolving said corporation. If it find there is sufficient money on hand to pay all outstanding debts it shall order said debts paid and thereafter, on proper showing of their payment, enter its order of dissolution. Any excess of money on hand shall be distributed as herein provided; provided, the foregoing provision of dissolution shall not be effective until the bridges across the drainage ditches in such district are sufficient and in a reasonable state of repair.
+
+*Effective 1/2/1979 · (RSMo 1939 § 12361, A.L. 1978 H.B. 1634)
+Prior revision: 1929 § 10780
+Effective 1-2-79*
+
+### 242.150 Election of board of supervisors.
+
+Within thirty days after any drainage district shall have been organized and incorporated under the provisions of section 242.040 the circuit clerk of the county in which the articles of association have been filed shall, upon giving notice by causing publication to be made once a week for two consecutive weeks in some newspaper published in each county in which lands of the district are situate, the last insertion to be at least ten days before the day of such meeting, call a meeting of the owners of real estate or other property situate in said district, at a day and hour specified in some public place in the county in which the district was organized, for the purpose of electing a board of five supervisors, to be composed of owners of real estate in said district, two of whom at least shall be residents of the county or counties in which such district is situate, or some adjoining counties; the landowners, when assembled, shall organize by the election of a chairman and secretary of the meeting who shall conduct the election; at such election each and every acre of land in the district shall represent one share, and each owner shall be entitled to one vote in person or by proxy for every acre of land owned by him in such district, and the five persons receiving the highest number of votes shall be declared elected as supervisors; and said supervisors shall immediately by lot determine the terms of their office, which shall be respectively one, two, three, four and five years, and they shall serve until their successors shall have been elected and qualified.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12327)
+Prior revisions: 1929 § 10746; 1919 § 4381; 1909 § 5507*
+
+### 242.160 Election of supervisors — electors.
+
+In the same month of each year after the election of the first board of supervisors, the board of supervisors shall call a meeting of the owners of land and other property in the district, in the same manner as is provided for in section 242.150, and such owners shall meet at the time and place fixed by the board of supervisors and elect one supervisor therefor in like manner as prescribed in section 242.150, who shall hold his office for five years or until his successor is elected and qualified; and in case of a vacancy in any office of supervisors the remaining supervisors may fill such vacancy until the next annual meeting, when a successor shall be elected for the unexpired term; provided, that after the report of the commissioners has been confirmed by the court under the provisions of section 242.280, only the land and other property having benefits assessed against it shall be entitled to vote at the annual meetings held under the provisions of this section.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12328)
+Prior revisions: 1929 § 10747; 1919 § 4382; 1909 § 5508*
+
+### 242.170 Vacancy resulting from void election — how filled.
+
+The provisions of section 245.065 relating to vacancies in office of members of the board of supervisors of levee districts resulting from improper election shall apply, insofar as practicable to drainage districts organized under the provisions of sections 242.010 to 242.690.
+
+*Effective 8/28/1949 · (RSMo 1939 § 12498, A. 1949 S.B. 1082)
+Prior revisions: 1929 § 10908; 1919 § 4602*
+
+### 242.180 Supervisors to take oath.
+
+Each supervisor before entering upon his official duties shall take and subscribe to an oath before some officer authorized by law to administer oaths, that he will honestly, faithfully, and impartially perform the duties devolving upon him in office as supervisor of the drainage district in which he was elected, and that he will not neglect any of the duties imposed upon him by sections 242.010 to 242.690.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12329)
+Prior revisions: 1929 § 10748; 1919 § 4383; 1909 § 5509*
+
+### 242.190 Supervisors — powers and duties.
+
+1. In order to effect the drainage, protection and reclamation of the land and other property in the district subject to tax, the board of supervisors is authorized and empowered to clean out, straighten, widen, change the course and flow, alter or deepen any ditch, drain, river, watercourse, pond, lake, creek, bayou or natural stream in or out of said district; to fill up any creek, drain, channel, river, watercourse or natural stream; and to concentrate, divert or divide the flow of water in or out of said district; to construct and maintain main and lateral ditches, canals, levees, dikes, dams, sluices, revetments, reservoirs, holding basins, floodways, pumping stations and syphons and any other works and improvements deemed necessary to preserve and maintain the works in or out of said district; to construct or enlarge or cause to be constructed or enlarged any and all bridges that may be needed in or out of said district across any drain, ditch, canal, floodway, holding basin, excavation, public highway, railroad right-of-way, tract, grade, fill or cut; to construct roadways over levees and embankments; to construct any and all of said works and improvements across, through or over any public highway, railroad right-of-way, track, grade, fill or cut in or out of said district; to remove any fence, building or other improvements in or out of said district, and shall have the right to hold, control and acquire by donation or purchase and, if need be, condemn any land, easement, railroad right-of-way, sluice, reservoir, holding basin or franchise in or out of said district for right-of-way, holding basin or for any of the purposes herein provided, or for material to be used in constructing and maintaining said works and improvements for draining, protecting and reclaiming the lands in said district.
+2. The board of supervisors shall also have the power and authority to hold and control all water power created by the construction of works of the district, and shall have power to construct and maintain hydroelectric power plant or plants for the purpose of developing such power for the use of the district, and to use any funds in the treasury of the district not otherwise appropriated for the construction and maintenance of such power plant or plants, and the board may lease any surplus power in excess of that required for the uses of the district, and the proceeds of such lease or leases shall be placed in the treasury of the district.
+3. The board may condemn for the use of the district, any land or property within or without the district not acquired or condemned by the court on the report of the commissioners assessing benefits and damages and shall follow the procedure that is now provided by law for the appropriation of land or other property taken for telegraph, telephone and railroad rights-of-way.
+4. The board of supervisors may invest any funds not immediately required for the payment of the operating expenses of the district in the following:
+(1) Bonds, notes or certificates of indebtedness which are direct obligations of the United States or bonds or other indebtedness, the principal and interest of which are unconditionally guaranteed by the United States;
+(2) Accounts of any savings and loan association organized under the laws of this state or another state, or the United States, which holds a certificate of insurance from the Federal Savings and Loan Insurance Corporation;
+(3) Savings accounts and time deposits, including time certificates of deposit in banking institutions.
+
+*Effective 8/28/1969 · (RSMo 1939 § 12349, A.L. 1969 H.B. 53)
+Prior revisions: 1929 § 10768; 1919 § 4402; 1909 § 5513
+CROSS REFERENCES:
+Bi-state development agency, bonds of, investment in authorized, 70.377
+Multinational banks, securities and obligations of, investment in, when, 409.950
+Savings accounts in insured savings and loan associations, investment in authorized, 369.194*
+
+### 242.200 Board to elect president and secretary — report — compensation.
+
+1. The board of supervisors immediately after their election shall choose one of their number president of the board, and elect some suitable person secretary, who shall serve until the secretary's successor is elected and qualified, and who shall be a resident of the county or counties in which the district is situate or of an adjoining county and may or may not be a member of the board.
+2. Such board shall adopt a seal with a suitable device, and shall keep a record of all its proceedings, which shall be open to the inspection of all owners of real estate and other property of the district, as well as to all other interested parties.
+3. The board shall report to the landowners at the annual meeting held pursuant to the provisions of section 242.160 what work has been done, either by the engineers or otherwise.
+4. At the annual meeting held pursuant to the provisions of section 242.160, the compensation to be received by the members of the board for their services while actually engaged in work for the district shall be determined.
+
+*Effective 8/28/2002 · (RSMo 1939 § 12330, A.L. 1983 H.B. 236, A.L. 2002 S.B. 941)
+Prior revisions: 1929 § 10749; 1919 § 4384; 1909 § 5510*
+
+### 242.210 Secretary-treasurer of board — annual audit — warrants, form.
+
+1. The secretary of the board of supervisors in any drainage district shall hold the office of treasurer of such district, except as otherwise provided herein, and the treasurer shall receive and receipt for all the drainage taxes collected by the county collector or collectors of revenue, and the treasurer shall also receive and receipt for the proceeds of all tax sales made pursuant to the provisions of sections 242.010 to 242.690.
+2. The treasurer shall receive a salary, payable monthly, such as the board of supervisors may fix, and all necessary expenses; the board of supervisors shall furnish the secretary and treasurer the necessary office room, furniture, stationery, maps, plats, typewriter, and postage, which office shall be in the county, or one of the counties, in which such district is situate, or in an adjoining county, and the district records shall be kept in such office.
+3. The treasurer may appoint, by and with the advice and consent of the board of supervisors, one or more deputies as may be necessary, whose salary or salaries and necessary expenses shall be paid by the district.
+4. The treasurer shall give bond in such amount as shall be fixed by the board of supervisors, conditioned that the treasurer will well and truly account for and pay out, as provided by law, all moneys received by the treasurer as taxes from the county collector or collectors, and the proceeds from the tax sales of delinquent taxes, and from any other source whatever on any account or claim of said district, which bond shall be signed by at least two sureties, approved and accepted by the board of supervisors, and the bond shall be in addition to the bond for the proceeds of sales of bonds, which is required by section 242.480. The bond of the treasurer may, if the board shall so direct, be furnished by a surety or bonding company, which shall be approved by the board of supervisors; bond shall be placed and remain in the custody of the president of the board of supervisors, and shall be kept separate from all papers in custody of the secretary and treasurer.
+5. The treasurer shall deposit all funds received by the treasurer in some bank, banks, or trust company to be designated by the board of supervisors. All interest accruing on such funds shall, when paid, be credited to the district.
+6. It shall be the duty of the board of supervisors to audit or have audited the books of the treasurer of the district each year and make report thereof to the landowners at the annual meeting and publish a statement within thirty days thereafter, showing the amount of money received, the amount paid out during such year, and the amount in the treasury at the beginning and end of the year, and file a copy of such statement in the office of the county clerk of each county containing land embraced in the district.
+7. The treasurer of the district shall pay out funds of the district only on warrants issued by the district, said warrants to be signed by the president of the board of supervisors and attested by the signature of the secretary and treasurer. All warrants shall be in the following form:
+­
+­
+
+*Effective 8/28/2002 · (RSMo 1939 § 12348, A.L. 1969 H.B. 53, A.L. 2002 S.B. 941)
+Prior revisions: 1929 § 10767; 1919 § 4401; 1909 § 5533*
+
+### 242.220 Chief engineer and assistants — appointment — duties.
+
+1. Within sixty days after organizing the board of supervisors shall appoint a competent civil engineer as chief engineer, who may be an individual, copartnership or corporation, and who shall engage such assistants as the board of supervisors may approve. The chief engineer shall have control of the engineering work in said district. The chief engineer may, by and with the consent of the board of supervisors, consult any eminent engineer or engineers and obtain his or their opinion and advice concerning the reclamation of lands in said district.
+2. The said engineer or engineers shall make all necessary surveys of the lands within the boundary lines of said district, as described by the articles of association, and of all lands adjacent thereto that may or will be improved or reclaimed in part or in whole by any system of drainage or levees that may be outlined and adopted, and said engineer or engineers, shall make a report in writing to the board of supervisors with maps and profiles of said surveys, which report shall contain a plan for draining, leveeing and reclaiming the lands and property described in the articles of association or adjacent thereto from overflow of or damage by water; said maps and profiles shall also indicate, so far as necessary, the physical characteristics of the lands, and location of any public roads, railroads and other rights-of-way, roadways and other property or improvements located on such lands.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12331)
+Prior revisions: 1929 § 10750; 1919 § 4385; 1909 § 5511*
+
+### 242.230 Engineer's annual report — adoption of plan for reclamation — supplemental plans authorized.
+
+The chief engineer shall make a report in writing to the board of supervisors once every twelve months and more often if said board shall so require. Upon receipt of the final report of said engineer concerning surveys made of the lands and other property contained in the district organized, and plans for reclaiming the same, the board of supervisors shall adopt such report or any modification thereof approved by the chief engineer after consulting with the chief engineer or someone representing the chief engineer, and thereafter such adopted report shall be the plan for draining, leveeing or reclaiming such lands and other property from overflow or damage by water, and it shall after such adoption be known and designated as "the plan for reclamation", which plan shall be filed with the secretary of the board of supervisors and copied by the secretary into the records of the district. Supplemental plans for draining, leveeing, or reclaiming some or all of the lands and other property in the district from overflow or damage by water may be adopted by the board of supervisors from time to time as deemed necessary by the board of supervisors. The aforesaid supplemental plans may supplement, alter or modify the plan for reclamation and shall become a part thereof.
+
+*Effective 8/28/2008 · (RSMo 1939 § 12332, A.L. 1977 S.B. 2, A.L. 2008 S.B. 939)
+Prior revisions: 1929 § 10751; 1919 § 4386; 1909 § 5512*
+
+### 242.240 Filing of reclamation report — appointment of commissioners.
+
+1. Within twenty days after the adoption of the plan of reclamation the secretary of the board of supervisors shall prepare and transmit a certified copy thereof to the circuit clerk of the court organizing the drainage district, and at the same time the board of supervisors shall file with the circuit clerk a petition asking the judge of the court to appoint commissioners to appraise the lands within and without the district to be acquired for rights-of-way, holding basins and other drainage works of the district, and to assess benefits and damages accruing to all lands in the district and other property by reason of the execution of the plan of reclamation.
+2. Within thirty days after the filing of such petition the court shall, by an order, appoint three commissioners, who shall be persons residing within the state of Missouri, and who shall not be landowners in the district nor of kin within the fourth degree of consanguinity to any person owning land in the district. A majority of the commissioners shall constitute a quorum and shall control the action of the board on all questions.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12334, A.L. 1978 H.B. 1634, A.L. 1990 H.B. 1070)
+Prior revisions: 1929 § 10753; 1919 § 4388; 1909 § 5514*
+
+### 242.250 Organization of commissioners — duties of secretary of board of supervisors.
+
+1. Said circuit clerk upon the filing of said order of appointment shall notify each of said commissioners of his appointment by written or printed notice, and in the same he shall state the time and place for the first meeting of said commissioners.
+2. The secretary of the board of supervisors or his deputy shall attend such meeting, and shall furnish to said commissioners a complete list of lands, all corporate and other property described in the articles of association or adjacent thereto that will be affected by carrying out and putting into force the plan for reclamation, and the names of the owners of such property, as were contained in the articles of association, at the date of the decree of the court incorporating the district. Said secretary shall also furnish said commissioners a copy of the plan for reclamation, with maps and profiles in his office.
+3. The commissioners at said meeting, or within ten days thereafter, shall each take and subscribe to an oath that they will faithfully and impartially discharge their duties as such commissioners and make a true report of the work done by them. The said commissioners shall also at said meeting elect one of their own number chairman, and the secretary of the board of supervisors, or his deputy, shall be ex officio secretary of said board of commissioners during their continuance in office.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12335)
+Prior revisions: 1929 § 10754; 1919 § 4389; 1909 § 5515*
+
+### 242.260 Commissioners to inspect district and assess benefits and damages — file report.
+
+1. Within thirty days after qualifying, as provided for in section 242.250, the commissioners shall begin their duties. They may at any time call upon the attorney of the district for legal advice and information relative to their duties, and the chief engineer or one of his assistants shall accompany the commissioners at all times and render his opinion in writing when called for.
+2. The commissioners shall proceed to view the premises and determine the value of all land and other property, within or without the district, to be acquired and used for rights-of-way, holding basins or other works set out in the plan for reclamation. They shall assess the amount of benefits, and the amount of damages, if any, that will accrue to each governmental lot, forty-acre tract or other subdivision of land according to ownership, public highways, railroad and other rights-of-way, railroad roadways and other property from carrying out and putting into effect the plan for reclamation heretofore adopted.
+3. The commissioners in assessing the benefits to lands, public highways, railroad and other rights-of-way, railroad roadways and other property not traversed by such works and improvements as provided for in the plan for reclamation, shall not consider what benefits will be derived by such property after other ditches, improvements or other plans for reclamation shall have been constructed, but they shall assess only such benefits as will be derived from the construction of the works and improvements set out in the plan for reclamation, or as the same may afford an outlet for drainage or protection from overflow of such property. The commissioners shall give due consideration and credit to any other drains, ditch or ditches, levee or levees or other systems of reclamation which may have already been constructed and which afford partial or complete protection to any tract or parcel of land in the new district. The public highways, railroad and other rights-of-way, roadways, railroad and other property shall be assessed according to the increased physical efficiency and decreased maintenance cost of roadways by reason of the protection to be derived from the proposed works and improvements. The commissioners shall have no power to change the plan for reclamation heretofore provided for.
+4. The board of commissioners shall prepare a report of their findings, which shall be arranged in tabular form, the columns of which shall be headed as follows: Column one, "owner of property assessed"; column two, "description of property assessed"; column three, "number of acres assessed"; column four, "amount of benefits assessed"; column five, "number acres taken for right-of-way"; column six, "value of property taken"; column seven, "damages".
+5. They shall also by and with the advice of the engineer of the district estimate the cost of works set out in the plan for reclamation, which estimates shall include the cost of property required for rights-of-way, holding basins and other works and damages, and the probable expenses of organization and administration, as estimated by the board of supervisors, and shall tabulate the same. The report shall be signed by at least a majority of the commissioners and filed in the office of the circuit clerk of the court organizing the drainage district.
+6. The secretary of the board of supervisors, or his deputy, shall accompany the commissioners while engaged in their duties, and shall perform all clerical work of the board; he shall also, under the advice, supervision and direction of the attorney for the district, prepare their report.
+7. The board of commissioners shall report to the board of supervisors the number of days each had been employed and the actual expenses incurred. Each commissioner shall be paid an amount set by the court for each day for his services, and necessary expenses in addition thereto.
+
+*Effective 8/28/1985 · (RSMo 1939 § 12336, A.L. 1985 H.B. 378)
+Prior revisions: 1929 § 10755; 1919 § 4390; 1909 § 5516*
+
+### 242.270 Notice of commissioners' report — form — publication.
+
+Upon the filing of the report of the commissioners, the clerk of said circuit court shall give notice thereof by causing publication to be made once a week for three consecutive weeks in some newspaper, published in each county in the district. It shall not be necessary for said clerk to name the parties interested, but it shall be sufficient to say:
+­
+­
+­­
+­
+
+*Effective 8/28/1939 · (RSMo 1939 § 12337)
+Prior revisions: 1929 § 10756; 1919 § 4391; 1909 § 5517*
+
+### 242.280 Exceptions heard and determined by circuit court — procedure.
+
+1. The drainage district or any owner of land or other property in said district, may file exceptions to said report or to any assessment for either benefits or damages, within ten days after the last day of publication of the notice provided for in the preceding section. All exceptions shall be heard by the court and determined in a summary manner so as to carry out liberally the purposes and needs of the district, and if it appears to the satisfaction of the court, after having heard and determined all of said exceptions, that the estimated cost of constructing the improvement contemplated in the plan for reclamation is less than the benefits assessed against the land and other property in said district, then the court shall approve and confirm said commissioners' report as so modified and amended.
+2. The court may at any time before final confirmation or approval refer the report back to the commissioners with or without instructions, and when the report is again filed, notice shall be given in the form and for the time provided in section 242.270. Exceptions to the second report shall be filed within ten days after the date of the last day of publication, and heard and determined in a summary manner.
+3. The court shall adjudge and apportion the costs incurred by the exceptions filed and shall condemn any land or other property, within or without the boundary lines of the district, that is shown by the report of the commissioners to be needed for rights-of-way, holding basins and other works, or that may be needed for material to be used in constructing said works, following, as nearly as possible, the procedure that is now provided for by law for the appropriation of land and other property taken for telegraph, telephone and railroad rights-of-way.
+4. The clerk of said circuit court shall transmit a certified copy of the court decree and copy of the commissioners' report, as confirmed or amended by the court, to the secretary of the board of supervisors of the district, who shall make and transmit a certified copy of the said decree and that part of the said report affecting land in each county to the recorder of each county having lands in the district, or affected by the said report, where the same shall become a permanent record and each such recorder shall receive a fee of one dollar for receiving, filing and preserving the same.
+5. Any person may appeal from the judgment of the court, and upon such appeal there may be determined either or both of the following questions: First, whether just compensation has been allowed for property appropriated and, second, whether proper damages have been allowed for property prejudicially affected by the improvements.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12338)
+Prior revisions: 1929 § 10757; 1919 § 4392; 1909 § 5518*
+
+### 242.290 Court to declare corporation dissolved — costs not to exceed benefits.
+
+If, after determining the objections made to the commissioners' report, the court shall find that the estimated costs of works and improvements as reported by the board of commissioners, or as amended by the court, exceed the estimated benefits, the court shall then render its decree, declaring the incorporation of the district to be dissolved as soon as all costs incurred, which shall include court costs and all obligations and expenses incurred in behalf of the district by the board of supervisors shall have been paid, and if the uniform tax levied under the provisions of section 242.430 be found insufficient to pay all such costs, the board of supervisors shall make such additional uniform tax levies as will be necessary to pay such deficiency; provided, that in estimating the cost of constructing the works and improvements of the district the amount of interest that might accrue upon bonds that may be issued by the board of supervisors under the provisions of sections 242.010 to 242.690 shall not be considered as a part of the cost of construction.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12362)
+Prior revisions: 1929 § 10781; 1919 § 4413*
+
+### 242.300 Decree or order of court may be amended or changed.
+
+1. Any decree or order of the court organizing any drainage district, confirming the report of commissioners, extending or changing the boundary lines of the district, reorganizing a district or otherwise pertaining to any procedure of the district may be amended or changed at any time by the court, by correcting the names of the landowners, by adding or amending any such names, or by adding, amending or correcting the description of any lands within the district, or that are alleged to be within the boundary of such district, or any other way amend or change any decree of the court pertaining to the district that may be deemed necessary to better carry out and fulfill the objects and designs of the drainage district without impairing the obligations of the district and without relieving the security of any obligations executed by or in behalf of any such districts.
+2. When any such amendments are desired, the board of supervisors shall present a petition to the court organizing the district, in which shall be set forth the amendments or changes desired with the names of the owners and description of lands to be affected by the proposed amendments, changes or corrections; each owner of such lands not a party to the original proceedings shall be served, if a resident of this state, in the manner provided for by section 506.150, and if a nonresident, in the manner now provided by subsection 6 of section 506.160, or by publication as provided by section 242.030; if unknown, service shall be by publication in the manner provided for in section 242.030; any landowner objecting to the petition may file objections within fifteen days after the last publication of the notice or if personal service is had, within fifteen days after service is had.
+3. The matters in said petition and all objections if any be filed shall be heard and determined by the court in a summary manner and as speedily as possible. Any number of amendments or corrections may be included in one petition, and any such amendments or corrections may be allowed or rejected as may be found just and right by the court.
+
+*Effective 8/28/1949 · (RSMo 1939 § 12366, A. 1949 S.B. 1082)
+Prior revision: 1929 § 10785*
+
+### 242.310 Amendment of plan of reclamation procedure — appointment of commissioners.
+
+1. The board of supervisors for and in behalf of any drainage district, organized under sections 242.010 to 242.690, may file a petition in the office of the clerk of the court organizing said district, asking permission to amend or change the plan for reclamation. Said petition shall specifically set forth the change or amendment desired and in case commissioners have already appraised the values of lands to be taken for works set out in the plan for reclamation sought to be amended and assessed the benefits and damages to the lands, said petition shall ask for the appointment of three commissioners to appraise the land to be taken for use in the district, assess benefits and damages accruing to the lands of and property affected by the proposed amendment or change.
+2. Upon the filing of the said petition the clerk of said circuit court shall cause a notice to be given to all the owners of land and other property situated in said district. Said notice shall be given by publication in some newspaper published in the county in which said district was organized and said notice may be in the following form, and shall be deemed sufficient for all purposes herein:
+­
+­
+­­
+­
+3. Any owner of land or property affected by the proposed change or amendment shall have a right to file his objections to the granting of the prayer of said petition within ten days after the last publication of the notice herein provided for. Said court shall hear said petition and any objections that may be filed against said petition in a summary manner, and if it should appear from the testimony offered that the objections should be sustained and that the plan for reclamation should not be changed, or amended, then the court shall dismiss the petition. But if it shall appear from the testimony offered that the prayer of said petition should be granted in whole or in part, the court shall allow and decree such change, or amendment. The clerk of said circuit court shall make a certified copy of such finding and judgment and furnish the same to the secretary of the board of supervisors who shall preserve the same in his office.
+4. At the same session of the court at which the plan for reclamation is amended, changed or extended, the court may appoint three commissioners who shall possess the qualifications defined in section 242.240, to view the lands and other property affected by such change in the plan for reclamation and to assess said lands and property with the benefits and damages accruing thereto on account of the execution of the plan for reclamation as changed or amended, and said commissioners shall make a report to the court of their finding, after which the same proceeding shall be had concerning said report as is now provided for hearing objections to original reports appraising lands and assessing benefits and damages; provided, that if said district shall have outstanding any bonds or other negotiable evidences of indebtedness, any new assessment of benefit made in accordance with this section shall not diminish the total amount of the unpaid assessed benefits in said districts more than ten percent, or below one hundred and twenty-five percent, of the amount of the principal of such bond and other negotiable certificates of indebtedness issued by said district.
+
+*Effective 1/2/1979 · (RSMo 1939 § 12367, A.L. 1978 H.B. 1634)
+Prior revision: 1929 § 10786
+Effective 1-2-79*
+
+### 242.320 Assessed damages paid before appropriating land.
+
+1. The board of supervisors of drainage districts organized under sections 242.010 to 242.690 shall not have the right to enter upon or appropriate any land for rights-of-way, holding basins or other works of the districts, until the prices awarded to the owners of such land shall have been paid to such owners or into the hands of the circuit clerks of the courts organizing such districts for the use of such owners; and if the sums awarded be not so paid within five years from the date of filing the commissioners' reports, all proceedings as to the taking of such property for rights-of-way, holding basins and other works not so paid for shall abate at the cost of said district. Whenever any land is acquired by any district under the provisions of said sections and the price of such property has been paid the owner by the district, the title, use, possession and enjoyment of such property shall pass from the owner and be vested in the district, and subject to its use, profit, employment and final disposition.
+2. The price awarded for all land acquired by any district for rights-of-way, holding basins, or other works and the amount of damages assessed by the board of commissioners and confirmed by the court to any tract or parcel of land or other property in the district, shall be paid in cash to the owner thereof or to the clerk of the court for the use of such owner, and that portion of any tract or parcel of land or other property not taken for use of the district shall be assessed for the benefits accruing in accordance with the provisions of sections 242.010 to 242.690.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12353)
+Prior revisions: 1929 § 10772; 1919 § 4405*
+
+### 242.330 Board of supervisors — powers, contracts — duties of chief engineer — state or federal aid.
+
+1. The board of supervisors of said district shall have full power and authority to build, construct, excavate and complete all or any works and improvements which may be needed to carry out, maintain and protect the plan for reclamation. To accomplish that end the said board of supervisors is hereby authorized and empowered to employ men and teams and to purchase machinery, employ men to operate same and directly have charge of and construct the works and improvements, or by the use of other or more efficient means than provided for in the plans adopted.
+2. They may, in their discretion, let the contract for such works and improvements either as a whole or in sections, and when such contract or contracts are let, they shall be advertised and let to the lowest and best bidder, who shall give a good and approved bond, with ample security, conditioned that he will well and promptly carry out the contract for such work and improvements, which contract shall be in writing and to which shall be attached and made a part thereof, complete plans and specifications of the work to be done and the improvements to be made under said contract, which plans and specifications shall be prepared by the chief engineer and shall be incorporated in and attached to the contract, which contract shall be prepared by the attorney for the district, and before the work is commenced shall be approved by the board of supervisors and signed by the president of the board and the contractor, and shall be executed in duplicate.
+3. The chief engineer shall be the superintendent of all the works and improvements, and shall, whenever required, and at least once each year, make a full report to said board of all work done and improvements made and make such suggestions and recommendations to the board as he may deem proper. However, if and when the state of Missouri or the United States of America or any subdivision, department, division or agency thereof is willing to construct the works and improvements provided for in the plan for reclamation or any part thereof, the board of supervisors of the district is authorized to cooperate with the agency to the fullest extent and is hereby granted power and authority to accept any such work in aid of the project, irrespective of whether it be by way of grant of funds, labor, work, materials or otherwise and may, in the discretion of the board of supervisors, give such assurances as may be required to obtain the construction of the works and improvements provided for in the plan for reclamation.
+
+*Effective 8/28/1976 · (RSMo 1939 § 12339, A.L. 1976 S.B. 915)
+Prior revisions: 1929 § 10758; 1919 § 4393; 1909 § 5526*
+
+### 242.335 District may contract with political subdivisions or other districts for outlets — costs determined, how.
+
+Drainage districts organized or incorporated under this chapter may contract with each other, and with any political subdivision of this or any other state, and with districts organized or incorporated under any other law of this state or under the laws of any other state, for such outlets as the one may need and the other can furnish on such terms as may be deemed to be just and fair. The cost of obtaining the outlets shall be paid for as are other expenses of the district or political subdivision for making improvements. If the districts or district and political subdivision cannot agree upon the compensation to be paid for the outlet, the district supplying the outlet, by action in the circuit court of the county wherein the district or political subdivision for which the outlet is supplied is organized or located, may recover from the district or political subdivision fair and just compensation for supplying the outlet. Any compensation received by the district shall be applied to improving its ditches or levees or reducing taxation or indebtedness.
+
+*Effective 8/28/1971 · (L. 1953 p. 546 § 242.195, A.L. 1959 S.B. 182, A.L. 1971 H.B. 137)*
+
+### 242.340 Board of supervisors may amend plan for reclamation — limitations.
+
+1. Whenever it shall appear to the board of supervisors, after the plan for reclamation has been filed with the clerk of the court organizing said district and work has progressed thereunder, that some of the ditches or other improvements called for in said plan are inadequate and are not affording or giving to the lands adjacent to such ditch or ditches or other improvements, substantially the same outlets for drainage or protection from overflow that are afforded other lands in the district equally taxed, the board of supervisors of said districts shall have the power, authority and right, upon the recommendation of its chief engineer, to enlarge or cause to be enlarged any ditches or other improvements set out in the plan for reclamation and to construct or cause to be constructed such additional ditches, levees, canals and other improvements that may be necessary to afford such lands substantially equal outlets for drainage and protection from overflow that are afforded the other lands in said district, equally taxed, as a whole.
+2. A description of said additional ditches and improvements found to be necessary by the board of supervisors and its chief engineer shall be filed with the secretary of the board of supervisors and entered upon the record of said board, and a certified copy thereof shall be filed with the clerk of the circuit court organizing said district, and thereafter shall be a part of the plan for reclamation.
+3. The cost of said additional ditches and improvements shall be paid for out of the benefits assessed against all the lands in said district as finally confirmed by the circuit court organizing said district, in the same proportion and in the same manner as is provided for in the constructing of ditches, levees and other improvements called for in the original plan for reclamation; provided however, that the cost of constructing the additional ditches and other improvements herein provided for, shall not be levied against lands that have been annexed or added to the district after it was organized, unless the additional ditches and other improvements to be constructed shall directly benefit the annexed lands.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12350)
+Prior revision: 1929 § 10769*
+
+### 242.350 Bridges over drainage works — how built or enlarged.
+
+1. All bridges contemplated by sections 242.010 to 242.690 and all enlargements of bridges already in existence shall be built and enlarged according to and in compliance with the plans, specifications and orders made or approved by the chief engineer of the district.
+2. If any such bridge shall belong to any corporation, or be needed over a public highway or right-of-way of any corporation, the secretary of said board of supervisors shall give such corporation notice by delivering to its agent or officer, in any county wherein said district is situate, the order of the board of supervisors of said district declaring the necessity for the construction or enlargement of said bridge. A failure to construct or enlarge such bridge within the time specified in such order shall be taken as a refusal to do said work by said corporation, and thereupon the said board of supervisors shall proceed to let the work of constructing or enlarging the same at the expense of the corporation for the cost thereof, which costs shall be collected by said board of supervisors from said corporation, by suit therefor, if necessary. But before said board of supervisors shall let such work, it shall give some agent or officer of said corporation, now authorized by the laws of this state to accept service of summons for said corporation, at least twenty days' actual notice of the time and place of letting such work.
+3. Any owner of land within or without the district may, at his own expense, and in compliance with the terms and provisions of sections 242.010 to 242.690, construct a bridge across any drain, ditch, canal or excavation in or out of said district.
+4. All drainage districts shall have full authority to construct and maintain any ditch or lateral provided in its plan for reclamation, across any of the public highways of this state, without proceedings for the condemnation of the same, or being liable for damages therefor. Within ten days after a dredge boat or any other excavating machine shall have completed a ditch across any public highway, a bridge adjudged sufficient by the county commission of said county or counties shall be constructed over such drainage ditch where the same crosses such highway, and after such bridge has been constructed it shall become a part of the road over which it is constructed and shall be maintained by the authority authorized by law to maintain the road of which it becomes a part.
+5. When any drainage district has heretofore constructed or shall hereafter construct a bridge over a drainage ditch where the same crosses any public highway, said drainage district shall not be under obligation thereafter to further maintain or reconstruct any such bridge or bridges for more than twenty years after it first constructed or constructs such bridge at said place. If said bridge has been constructed by the drainage district and has become a part of said road and is then destroyed the authorities having control of the road are authorized, if they desire, to reconstruct such bridge, provided, however, the word corporation as used in this section shall not apply to the state or any political or civil subdivision thereof.
+
+*Effective 8/28/1949 · (RSMo 1939 § 12354, A.L. 1949 p. 260)
+Prior revisions: 1929 § 10773; 1919 § 4406; 1909 § 5503*
+
+### 242.360 Embankments to be raised at expense of owner.
+
+When any right-of-way has been obtained under sections 242.010 to 242.690, over any embankment belonging to any person, railroad, tramway or other corporation, it shall be the duty of the owner of such embankment to so raise at the expense of the owner, said embankment so that same will conform with the levee of said district, and if such person or corporation shall fail or refuse to raise such embankment in the manner herein provided, said district may within three months after it has finished the building of its own levee enter upon and raise the embankment of said person or corporation to conform with said district levee. And the cost for such construction shall be a first lien upon the property of said person or corporation and such cost may be enforced in any court of competent jurisdiction.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12355)
+Prior revisions: 1929 § 10774; 1919 § 4407*
+
+### 242.370 Existing drains may be connected.
+
+1. At the time of the construction, in any district incorporated under sections 242.010 to 242.690, of the plan for reclamation herein referred to, all ditches or systems of drainage already constructed in said district and all watercourses shall, if necessary to the drainage of any of the lands in said district, be connected with and made a part of the works and improvements of the plan of drainage of said district.
+2. But no ditches, drains or systems of drainage constructed in said district after the completion of the aforesaid plan of drainage of said district, shall be connected therewith, unless the consent of the board of supervisors shall be first had and obtained, which consent shall be in writing and shall particularly describe the method, terms and conditions of such connection, and shall be approved by the chief engineer. Said connection, if made, shall be in strict accord with the method, terms and conditions laid down in said consent.
+3. If the landowner or owners wishing to make such connection are refused by the board of supervisors or decline to accept the consent granted, the said landowner or owners may file a petition for such connection in the circuit court having jurisdiction in said district, and the matter in dispute shall in a summary manner be decided by said court which decision shall be final and binding on the district and landowner or owners.
+4. No connection with the works or improvements of said plan of drainage of said district or with any ditch, drain or artificial drainage wholly within said district shall be made, caused or effected by any landowner or owners, company or corporation, municipal or private, by means of or with any ditch, drain, cut, fill, roadbed, levee, embankment or artificial drainage, wholly without the limits of said district, unless such connection is consented to by the board of supervisors, or in the manner herein provided.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12376)
+Prior revisions: 1929 § 10795; 1919 § 4425; 1909 § 5531*
+
+### 242.380 Board may appoint overseers — duties.
+
+1. For the purpose of preserving any ditch, drain, dike, levee or other work constructed or erected under the provisions of sections 242.010 to 242.690, the board of supervisors shall have power to appoint an overseer or overseers of the district, who shall hold their positions at the will of the board.
+2. It shall be the duty of such overseer or overseers to keep the ditches, drains, levees, dikes and other works of the district in good repair, and remove all obstructions from ditches, drains or watercourses within or without said district that may affect the works of the district. It shall be the further duty of said appointees to report at such times as the board may require the condition of the levees, drains and other works of the district assigned to each by the board; to make such examinations of all levees during high water periods as he may be directed by the board of supervisors; and upon any emergency or danger to levees or other works of the district, of which the overseer has charge, he may call out all able-bodied men over sixteen years of age and under fifty years within the district, and compel such persons to perform such work as said overseer may deem necessary to be made in order to protect the levees, grades or other works of the district.
+3. Any person who shall refuse to perform such work assigned to him by said overseer shall be deemed guilty of a misdemeanor and upon affidavit made before any associate circuit judge of the county by the overseer or any other person, that the offender has defaulted in obeying such call or summons of said overseer, said associate circuit judge shall issue a warrant for the arrest of such offender, and upon conviction before said associate circuit judge, upon information or any other modes provided by law for trials of cases of misdemeanor, he shall be fined in any sum not less than twenty nor more than one hundred dollars, or imprisonment in the county jail not less than fifteen nor more than sixty days, or both such fine and imprisonment, at the discretion of the associate circuit judge. For each day's work any person shall perform under such requisition, he shall be paid the sum of one dollar and fifty cents out of the funds of the district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12368)
+Prior revisions: 1929 § 10787; 1919 § 4417*
+
+### 242.390 Board of supervisors to employ attorney — duties.
+
+The board of supervisors within sixty days after organizing shall employ an attorney to act for the district and to advise said board. Such employment shall be evidenced by an agreement in writing, which, as far as possible, shall specify the exact amount to be paid to said attorney for all services and expenses. Such attorney shall conduct all legal proceedings and suits in court where the district is a party or interested, and shall in all legal matters advise the said board of supervisors, all officers, employees or agents of said district and board, and generally look after and attend to all matters of a legal nature for said board and district. When the said board may deem it necessary, they may, by and with the advice of said attorney, and under the like terms and conditions as above set forth, employ another attorney or attorneys.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12351)
+Prior revisions: 1929 § 10770; 1919 § 4403; 1909 § 5529*
+
+### 242.400 Board to provide for compensation of employees and fees of officers.
+
+The board of supervisors, except where otherwise provided shall, by resolution, at time of hiring or appointing, provide for the compensation for work done and necessary expense incurred by any officer, engineer, attorney or other employee and shall also pay the fees, per diem and necessary expenses of all court and county officers who may by virtue of sections 242.010 to 242.690 render service to said district. It is understood that the ordinary fee statute does not apply to services rendered under sections 242.010 to 242.690 by any county officer, but each such officer shall receive only a reasonable compensation for services actually rendered, the same to be fixed by the court in which the proceeding is pending, except where otherwise provided in sections 242.010 to 242.690; that said corporation or petitioners for corporations may prepare, write or print all copies of petitions, writs, orders and decrees or other papers, and furnish same to the clerk or other officer for his use, and in such event said officer shall be entitled to receive as compensation for issuing the said writs and copies of petitions, decrees, orders or other papers, only the reasonable value of the services actually rendered.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12363)
+Prior revisions: 1929 § 10782; 1919 § 4414; 1909 § 5527
+CROSS REFERENCE:
+Fees of county and circuit clerks, 246.020, 246.030*
+
+### 242.410 Board may remove any officer or employee.
+
+The board of supervisors may at any time remove any officer, attorney or other employee appointed or employed by said board.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12375)
+Prior revisions: 1929 § 10794; 1919 § 4424; 1909 § 5528*
+
+### 242.420 Board to keep record of proceedings.
+
+The board of supervisors of any district organized under sections 242.010 to 242.690 shall cause to be kept a well-bound book, entitled "Record of board of supervisors of ______ district", in which shall be recorded minutes of all meetings, proceedings, certificates, bonds given by all employees and any and all corporate acts, which record or records shall at all times be open to the inspection of anyone interested, whether taxpayer or bondholder.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12352)
+Prior revisions: 1929 § 10771; 1919 § 4404; 1909 § 5530*
+
+### 242.430 Tax levied by board for cost of organization.
+
+1. The board of supervisors of any drainage district organized under the provisions of sections 242.010 to 242.690 shall, as soon as elected and qualified, levy a uniform tax of not more than eight dollars per acre upon each acre of land within such district, as defined by the articles of association to be used for the purpose of paying expenses incurred or to be incurred in organizing said district, making surveys of the same and assessing benefits and damages and to pay other expenses necessary to be incurred before said board shall be empowered by section 242.450 to provide funds to pay the total cost of works and improvements of the district.
+2. In case the boundary lines of the district be extended under the provisions of section 242.050, so as to include lands and other property not described and contained in the articles of association, the same uniform tax shall be made on such lands and other property as soon as same shall have been annexed and included in the district.
+3. Such tax shall be due and payable as soon as assessed and if not paid by December thirty-first of the year in which it has been levied, the same shall become delinquent. It shall become a lien on the land and other property against which it is assessed and shall be collected in the same manner as the annual installment of tax. In case the sum received from such assessment exceeds the total cost of items for which the same has been levied, the surplus shall be placed in the general fund of the district and used to pay cost of construction; provided, that if the corporation of the district be dissolved, as provided for in section 242.290, the amount of surplus, if there be any, shall be prorated and refunded to the landowners paying such uniform tax.
+
+*Effective 8/28/2008 · (RSMo 1939 § 12333, A.L. 1959 H.B. 314, A.L. 2008 S.B. 939)
+Prior revisions: 1929 § 10752; 1919 § 4387; 1909 § 5538*
+
+### 242.440 Cost of organization, how paid.
+
+Nothing in sections 242.010 to 242.690 shall authorize or be construed to authorize any uniform tax or any tax of any kind to pay any expenses mentioned or referred to in section 242.430, in addition to or in excess of the uniform tax of one dollar per acre upon each acre of land within such districts mentioned in said section 242.430.
+
+*Effective 8/28/1959 · (L. 1943 p. 519 § 12362A, A.L. 1959 H.B. 314)*
+
+### 242.450 Organization of commissioners — duties of secretary of board of supervisors — additional tax levy, when.
+
+1. After the list of lands, and other property, with the assessed benefits and the decree and judgment of court, have been filed in the office of the county recorder as provided in section 242.280, then the board of supervisors shall without any unnecessary delay, levy a tax of such portion of said benefits on all lands, railroad and other property in the district to which benefits have been assessed, as may be found necessary by the board of supervisors to pay the costs of the completion of the proposed works and improvements as shown in said plan for reclamation and in carrying out the objects of said district, and plus ten percent of said total amount for emergencies. The tax shall be apportioned to and levied on each tract of land or other property in said district in proportion to the benefits assessed and not in excess thereof.
+2. Notwithstanding the limitations of sections 242.280 and 242.290 or any tax levy limitation contained in this chapter, the board of supervisors, having levied a tax pursuant to paragraph 1 of this section, may levy a new tax of such portion of the assessed benefits on all lands, railroad and other property in the district to which benefits have been assessed whenever it is found necessary by the board of supervisors to pay the cost of replacing, repairing and reconstructing drainage works and improvements called for and completed pursuant to the plan for reclamation originally adopted by the board of supervisors and in carrying out the objects of said district. The tax levied under this paragraph shall be apportioned to and levied on each tract of land or other property in said district in proportion to the benefits assessed.
+3. In case bonds are issued as provided herein and hereafter, then the amount of the interest, as estimated by said board of supervisors, which will accrue on such bonds shall be included and added to the tax levied under either paragraph 1 or 2 of this section, but the interest to accrue on account of the issuing of said bonds shall not be construed as a part of the costs of construction in determining whether or not the expenses and costs of making said improvements are or are not equal to or in excess of the benefits assessed.
+4. The secretary of the board of supervisors, as soon as and whenever said total tax is levied, shall, at the expense of the district, prepare a list of all taxes levied, in the form of a well-bound book, which book shall be endorsed and named "Drainage Tax Record of ______ Drainage District ______", which endorsement shall also be printed or written at the top of each page in said book, and shall be signed and certified by the president and secretary of the board of supervisors, attested by the seal of the district, and the same shall thereafter become a permanent record in the office of said secretary.
+
+*Effective 8/28/1977 · (RSMo 1939 § 12340, A.L. 1977 S.B. 2)
+Prior revisions: 1929 § 10759; 1919 § 4394; 1909 § 5519*
+
+### 242.460 Levy of annual installment of tax — form of tax certificate.
+
+1. The said board of supervisors shall each year thereafter determine, order and levy the amount of the annual installment of the total taxes levied under section 242.450; which shall become due and be collected during said year at the same time that state and county taxes are due and collected, which said annual installment and levy shall be evidenced and certified by the said board not later than September thirtieth of each year to the collector of revenue of each county, or township, in which lands and other property of said district are situate.
+2. The certificate of said installment tax shall be in substantially the following form:
+­
+­
+­­
+­
+(1) The names of the present owners of said lands and other property so far as now known;
+(2) The descriptions of the said lands and other property opposite the names of said owners;
+(3) The amount of said annual installment tax levied on each tract of land or piece of property;
+(4) The amount of maintenance tax;
+(5) A blank column in which the collector shall record the several amounts as collected by him;
+(6) A blank column in which the collector shall record the date of payment of the different sums;
+(7) A blank column in which the collector shall record the names of the person or persons paying the several amounts, if other than the person whose name appears in column one hereof.
+3. The columns in which the annual installment tax and the maintenance tax, if any, appear shall be correctly totaled and the total amount shall correspond to the amount set out in the above-mentioned certificate. The said certificate and table shall be prepared in the form of a well-bound book, which shall be endorsed and named "Drainage Tax Book, ______ Drainage District ______ County, or ______ Township of ______ County, Missouri, for the year 20______.", which endorsement shall also be printed at the top of each page in said book.
+
+*Effective 8/28/2017 · (RSMo 1939 § 12341, A.L. 1953 p. 539, A.L. 2017 S.B. 112)
+Prior revisions: 1929 § 10760; 1919 § 4395; 1909 § 5520*
+
+### 242.470 Additional drainage tax levy, when.
+
+1. Where the works set out in the plan for reclamation of any drainage district is found insufficient to reclaim in whole or in part any or all of the land and other property of the district the board of supervisors shall have the right to formulate new or amended plans containing new ditches, levees or other works, or providing for the enlargement of existing ditches, levees or other works, and additional assessments may be made in conformity with the provisions of section 242.260, the same to be made in proportion to the increased benefits accruing to the lands and other property because of the additional works.
+2. If it should be found at any time that the amount of total tax levied under the provisions of section 242.450 is insufficient to pay cost of works set out in the plan for reclamation or additional work done under the provisions of this section the board of supervisors may make an additional levy to provide funds to complete the work; provided, the total of all levies of such tax does not exceed the total amount of benefits assessed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12374)
+Prior revisions: 1929 § 10793; 1919 § 4423; 1909 § 5505*
+
+### 242.480 Issuance and payment of bonds — treasurer, duties.
+
+1. The board of supervisors may, if in their judgment it seems best, issue bonds not to exceed ninety percent of the total amount of the taxes levied under the provisions of section 242.450, in denominations of not less than one hundred dollars, bearing interest from date at a rate not to exceed six percent per annum, payable semiannually, to mature at annual intervals within twenty years, commencing after a period of years not later than five years, to be determined by the board of supervisors, both principal and interest payable at some convenient banking house or trust company's office to be named in said bonds, which said bonds shall be signed by the president of the board of supervisors, attested with the seal of said district and by the signature of the secretary of the said board.
+2. All of said bonds shall be executed and delivered to the treasurer of said district, who shall sell the same in such quantities and at such dates as the board of supervisors may deem necessary to meet the payments for the works and improvements in the district. Said bonds shall not be sold for less than ninety-five cents on the dollar, with accrued interest, shall show on their face the purpose for which they are issued, and shall be payable out of money derived from the aforesaid taxes.
+3. A sufficient amount of the drainage tax shall be appropriated by the board of supervisors for the purpose of paying the principal and interest of the said bonds and the same shall, when collected, be preserved in a separate fund for that purpose and no other. All bonds and coupons not paid at maturity shall bear interest at the rate of six percent per annum from maturity until paid, or until sufficient funds have been deposited at the place of payment and the said interest shall be appropriated by the board of supervisors out of the penalties and interest collected on delinquent taxes or any other available funds of the district. Any expense incurred in paying said bonds and interest thereon and a reasonable compensation to the bank or trust company for paying same, shall be paid out of other funds in the hands of the treasurer and collected for the purpose of meeting the expenses of administration.
+4. It shall be the duty of said board of supervisors in making the annual tax levy, as heretofore provided, to take into account the maturing bonds and interest on all bonds, and to make ample provisions in advance for the payment thereof. In case the proceeds of the original tax levy made under the provisions of section 242.450 are not sufficient to pay the principal and interest of all bonds issued, then the board of supervisors shall make such additional levy or levies upon benefits assessed as are necessary for this purpose, and under no circumstances shall any tax levies be made that will in any manner or to any extent impair the security of said bonds or the fund available for the payment of the principal and interest of the same.
+5. Said treasurer shall, at the time of the receipt by him of said bonds, execute and deliver to the president of the board of supervisors of the said district, a bond with good and sufficient sureties, to be approved by the said board of supervisors, conditioned that he shall account for and pay over as required by law and as ordered to do by said board of supervisors any and all money received by him on the sale of such bonds, or any of them, and that he will only sell and deliver such bonds to the purchaser or purchasers thereof under and according to the terms herein prescribed, and that he will return, duly cancelled, any and all bonds not sold to the board of supervisors when ordered by said board so to do, which said bond shall remain in the custody of the said president of said board of supervisors, who shall produce the same for inspection or for the use as evidence whenever and wherever legally requested so to do.
+6. The said treasurer shall promptly report all sales of bonds to the board of supervisors, which board shall, at reasonable times thereafter, prepare and issue warrants in substantially the forms provided in section 242.210 for the payment of the maturing bonds so sold and the interest payments coming due on all bonds sold. Each of said warrants shall specify what bonds and accruing interest it is to pay, and the said treasurer shall place sufficient funds at the place of payment to pay the maturing bonds and coupons when due as well as a reasonable compensation to the bank or trust company for paying same.
+7. The successor in office of any such treasurer shall not be entitled to said bonds or the proceeds thereof until he shall have complied with all the foregoing provisions applicable to his predecessor in office.
+8. The aforesaid bond of said treasurer, may, if the said board shall so direct, be furnished by a surety or bonding company, which may be approved by said board of supervisors; provided, if it should be deemed more expedient to the board of supervisors, as to money derived from the sale of bonds issued, said board may, by resolution, select some suitable bank or banks or other depositary, as temporary treasurer or treasurers, to hold and disburse said moneys on the orders of the board as the work progresses, until such fund is exhausted or transferred to the treasurer by order of the said board of supervisors.
+9. The funds derived from the sale of said bonds or any of them shall be used for the purpose of paying the cost of the drainage works and improvements and such costs, expenses, fees and salaries as may be authorized by law and used for no other purpose.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12369)
+Prior revisions: 1929 § 10788; 1919 § 4418; 1909 § 5525
+CROSS REFERENCES:
+Bond issues, proceeds and moneys for interest and sinking fund to be kept separate, 108.180 to 108.230
+Funding and refunding bonds authorized, payment thereof, 108.140 to 108.160*
+
+### 242.485 Additional bond issue authorized, when — form of ballot.
+
+1. The board of supervisors may, if in their judgment it seems best, issue additional bonds which do not exceed ninety percent of the amount of new taxes levied pursuant to paragraph 2 of section 242.450. The funds derived from the sale of said bonds shall be used only to pay the costs of replacing, repairing, and reconstructing the drainage works and improvements called for and completed pursuant to the plan for reclamation originally adopted by the board of supervisors.
+2. The board of supervisors shall issue such additional bonds only if, at a meeting called for such purpose, the issuance of the bonds obtains the approval of the owners of two-thirds of the acreage in the district having benefits assessed against it. The owners of property within the district shall vote at such meeting in the manner provided in sections 242.150 and 242.160.
+3. Notice for the meeting referred to in paragraph 2 shall be in substantially the following form:
+­
+­
+4. The secretary shall cause the notice of the meeting to be published once a week for two consecutive weeks in some newspaper published in each county in which lands of the district are situated, the last insertion to be at least ten days before the day of such meeting.
+5. The bonds shall be issued in all other respects pursuant to and in accordance with the provisions of section 242.480.
+
+*Effective 8/28/1977 · (L. 1977 S.B. 2)*
+
+### 242.490 Levy of maintenance tax — procedure.
+
+1. To maintain and preserve the ditches, drains, levees or other improvements made pursuant to sections 242.010 to 242.690 and to strengthen, repair and restore the same, when needed, and for the purpose of defraying the current expenses of the district, the board of supervisors may, upon the completion of such improvements and on or before the first day of September in each year thereafter, levy a tax upon each tract or parcel of land and upon corporate property within the district to be known as a "maintenance tax". The maintenance tax shall be apportioned upon the basis of the net assessments of benefits accruing for original construction or subsequently adjusted reassessments, shall not exceed twenty percent thereof in any one year and shall be certified to the collector of the revenue of each county in which lands of the district are situated in the same book in like manner and at the same time as the annual installment tax is certified, but in a separate column, under the heading "maintenance tax".
+2. The collector shall demand and collect the maintenance tax and make return thereof and shall receive the same compensation therefor and be liable for the same penalties for failure or neglect so to do as is provided in this section for the annual installment tax, except that after all annual installments of the total tax have become due, and thereafter it is only desired and necessary to levy and collect such maintenance tax, the board of supervisors of such drainage districts may, by resolution, provide that in the tax books containing the maintenance tax, it shall be sufficient if the several governmental lots, forty-acre tracts or other subdivisions of land as they appear in the decree of the circuit court organizing the district, be conveniently combined and described together, if contiguous, according to each ownership, and the names of the owners thereof as they may appear in the deed records, may be used in such tax book, and the certificate thereof, as provided by section 242.460 may conform thereto. The amount of the maintenance tax levied against such combined tracts shall be the same as the aggregate of the tax if levied against each separate tract and errors in the combined descriptions of such lands or in the names of the owners thereof, or in the amount of such maintenance tax as they appear in such book, shall not affect the validity of such tax or the lien thereof, and any such errors may at any time be corrected by resolution of the board of supervisors of such drainage district.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12370, A.L. 1990 S.B. 777)
+Prior revisions: 1929 § 10789; 1919 § 4419*
+
+### 242.492 Processing fee authorized for certain assessed tracts, amount.
+
+In addition to any maintenance tax imposed under section 242.490, the board of supervisors may set an annual processing fee for assessed tracts when the board determines that the costs of preparation and processing of the district's maintenance tax statement for such tracts exceed the amount of tax imposed. The amount of the fee shall be determined by the board of supervisors at the meeting in which the board sets the maintenance tax under section 242.490. Such fee shall be used solely to reimburse the district for the costs associated with processing annual maintenance statements.
+
+*Effective 8/28/2006 · (L. 2006 S.B. 1002)*
+
+### 242.500 Petition for reassessment of benefits — appointment of commissioners.
+
+1. Whenever the board of supervisors of any district in existence as of August 28, 2008, or organized under this chapter after August 28, 2008, on behalf of the district, or the owners of twenty-five percent or more of the acreage of the lands in the district shall file a petition with the circuit clerk in whose office the articles of association were filed, stating that there has been a material change in the values of all or some of the property in the district since the last previous assessment of benefits or readjustment of the assessment of benefits and praying for a readjustment of the assessment of benefits of the property identified in the petition for the purpose of making a more equitable basis for the levy of the maintenance tax or for the purpose of levying a new tax to pay the costs of the completion of the proposed works and improvements as shown in the supplemental plan for reclamation adopted by the board of supervisors pursuant to section 242.230, or for both of the aforesaid purposes, the circuit clerk shall give notice of the filing and hearing of the petition in the manner and for the time provided for in section 242.030. The notice may be in the following form:
+­
+­
+­­
+­
+2. Thereupon the court shall appoint three commissioners, possessing the qualifications of commissioners appointed under section 242.240 to make such readjustment of assessments in the manner provided in section 242.260 with respect to the lands identified in the petition and the commissioners shall make their report, and the same proceedings shall be had thereon, as nearly as may be, as are herein provided for the assessment of benefits accruing for original construction; provided, that in making the readjustment of the assessment of benefits, the commissioners shall not be limited to the aggregate amount of the original or any readjustment of the assessment of benefits, and may assess the amount of benefits that will accrue from carrying out and putting into effect such supplemental plan for reclamation adopted by the board of supervisors pursuant to section 242.230. After the making of such readjustment, the limitation of twenty percent of the annual maintenance tax which may be levied shall apply to the amount of benefits as readjusted, and the limitation of the tax which may be levied for payment of the costs of the completion of the proposed works and improvements as shown in the aforesaid supplemental plan for reclamation shall apply to the amount of the benefits as readjusted. There shall be no such readjustment of benefits oftener than once in a year. The list of lands, and other property, with the readjusted assessed benefits and the decree and judgment of the court, shall be filed in the office of the county recorder as provided in section 242.280.
+
+*Effective 8/28/2008 · (RSMo 1939 § 12371, A.L. 1977 S.B. 2, A.L. 1978 H.B. 1634, A.L. 1985 H.B. 378, A.L. 1990 S.B. 777, A.L. 2008 S.B. 939)
+Prior revisions: 1929 § 10709; 1919 § 4420*
+
+### 242.502 Supervisors to levy tax on readjusted benefits — levy, how determined.
+
+1. If the board of supervisors deem it necessary, the board shall, without unnecessary delay, levy a tax of such portion of said readjusted assessed benefits on all lands, railroad and other property in the district to which benefits have been assessed, as may be found necessary by the board of supervisors to pay the costs of the completion of the proposed works and improvements as shown in the supplemental plan for reclamation adopted by the board of supervisors pursuant to section 242.230 and in carrying out the objects of said district, and plus ten percent of said total amount for emergencies. The tax levied pursuant to this section shall be apportioned to and be levied on each tract of land or property in said district in proportion to the readjusted assessed benefits, provided that the amount of such tax levied pursuant to this section, when added to any taxes previously levied and remaining unpaid at the time of the levy provided for in this section, shall not exceed the total amount of the readjusted assessed benefits.
+2. The tax shall be levied in the manner provided in sections 242.450 and 242.460.
+
+*Effective 8/28/1977 · (L. 1977 S.B. 2)*
+
+### 242.504 Supervisors may issue bonds, limitation on.
+
+1. The board of supervisors may, if in their judgment it seems best, issue bonds which, when added to the bonded indebtedness then outstanding, do not exceed ninety percent of the total amount of taxes levied pursuant to section 242.502. The funds derived from the sale of said bonds shall be used to pay the costs of drainage works and improvements as shown in the supplemental plan for reclamation adopted by the board of supervisors pursuant to section 242.230 and to refund outstanding protested warrants.
+2. The bonds shall be issued pursuant to and in accordance with the provisions of section 242.480.
+
+*Effective 8/28/1977 · (L. 1977 S.B. 2)*
+
+### 242.506 Supervisors may levy new tax — procedure.
+
+1. Notwithstanding the limitations of sections 242.280 and 242.290 or any tax levy limitation contained in this chapter, the board of supervisors, having levied a tax pursuant to section 242.502, may levy a new tax and, if necessary, issue additional bonds whenever it is found necessary by the board of supervisors to pay the cost of replacing, repairing and reconstructing the drainage works and improvements called for and completed pursuant to the supplemental plan for reclamation adopted by the board of supervisors. Any tax levied pursuant to this section shall be apportioned to and levied on each tract of land or property in said district in proportion to the readjusted assessed benefits. The tax authorized by this section shall be levied in the manner provided by sections 242.450 and 242.460.
+2. The additional bonds authorized in paragraph 1 of this section shall be issued pursuant to and in accordance with the provisions of sections 242.480 and 242.485, provided that the additional bonds do not exceed ninety percent of the amount of new taxes levied pursuant to this section.
+
+*Effective 8/28/1977 · (L. 1977 S.B. 2)*
+
+### 242.510 Districts organized prior to April 8, 1905 — tax levy.
+
+In all cases where drainage districts have been organized under proceedings in any circuit court of the state, prior to April 8, 1905, the board of supervisors, instead of having commissioners appointed to assess benefits or damages, may, for the purpose of constructing drainage works in their district, as well as for purpose of maintaining and keeping same in repair, and for paying principal and interest upon bonds, if any are issued, levy each year, so long as necessary, a level rate of taxation, not exceeding one dollar in any one year, upon each acre of the lands in said district, and which levy shall be made and certified by such board to the collector of revenue of the proper county not later than the first day of September of each year, and which shall by the clerk be extended upon the tax books of the county for that year and collected by the collector in the same manner as other taxes.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12386)
+Prior revisions: 1929 § 10805; 1919 § 4435; 1909 § 5535*
+
+### 242.520 Districts organized prior to April 8, 1905 — limitation on indebtedness.
+
+1. In drainage districts so making level assessments, the board of supervisors thereof may, with the consent of the owners of not less than three-fifths of the lands embraced in such districts, given at an election held in the district for that purpose, upon a notice, the same as required for the election of supervisors, for the purpose of constructing new works or of repairing or extending old ones, as well as for making surveys and acquiring rights-of-way, borrow upon the credit of the district a sum or sums the principal of which shall at no time exceed six dollars for each acre in the district. In voting at such an election, or at any election by the landowners, any landowner, not present, may vote by written proxy.
+2. Loans negotiated under this section shall not run longer than twenty years nor bear more than six percent semiannual interest, nor shall the bonds be sold for less than ninety cents on the dollar clear to the district. Upon negotiating any such loan, it shall be the duty of the board of supervisors to make a levy of such sum, not exceeding fifty cents per acre in any one year, as will be sufficient to pay the principal and interest on such bonds as they mature.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12387)
+Prior revisions: 1929 § 10806; 1919 § 4436; 1909 § 5536*
+
+### 242.530 Districts formed prior to April 8, 1905, may proceed as heretofore.
+
+Nothing contained in sections 242.510 and 242.520 shall be construed as preventing the board of supervisors and other officers of any drainage district formed prior to April 8, 1905, from proceeding under the act to which this is amendatory, and to that end they may prepare and file revised topographical surveys and plans of drainage for their district, such revised surveys and plans to embrace and use as far as practicable those already made.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12388)
+Prior revisions: 1929 § 10807; 1919 § 4437; 1909 § 5537*
+
+### 242.540 Collection of drainage tax.
+
+1. It shall be the duty of the collector of revenue of each county in which lands or other property of any drainage district organized under sections 242.010 to 242.690 are situate to receive the drainage tax book each year, and he is hereby empowered and it shall be his duty to promptly and faithfully collect the tax therein set out and to exercise all due diligence in so doing. He is further directed and ordered to demand and collect such taxes at the same time that he demands and collects state and county taxes due on the same lands and other properties. Where any tract or part thereof has been divided and sold or transferred, the collector shall receive taxes on any part of any tract, piece or parcel of land or other property, charged with such taxes and give his receipt accordingly. The above and foregoing drainage tax book shall be the warrant and authority of the collector for making such demand and collection.
+2. The said collector shall make due return of all drainage tax books each year to the secretary of the board of supervisors of the aforesaid drainage district, and shall pay over and account for all moneys collected thereon each year to the treasurer of said district at the same time when he pays over state and county taxes. Said collector shall in said drainage tax book, verify by affidavit his said return.
+3. The said secretary shall each year, within ten days after the return of said collector is delivered to him, prepare and certify to said collector a drainage back tax book containing the list of lands and other property so returned by said collector as delinquent, deliver the same to him and take his receipt therefor, and said collector shall proceed to collect such delinquent drainage taxes and demand payment therefor in the same manner as herein provided for the collection of current drainage taxes.
+4. Before receiving the aforesaid drainage tax book the collector of each county in which lands or other property of the drainage district are located shall execute to the board of supervisors of the district a bond with at least two good and sufficient sureties in a sum that is equal to the probable amount of any annual installment of said tax to be collected by him during any one year, conditioned that said collector shall pay over and account for all taxes so collected by him according to law. Said bond after approval by said board of supervisors shall be deposited with the secretary of the board of supervisors, who shall be custodian thereof and who shall produce same for inspection and use as evidence whenever and wherever lawfully requested to do.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12342)
+Prior revisions: 1929 § 10761; 1919 § 4396; 1909 § 5520*
+
+### 242.550 Collector — failure to pay tax, penalty.
+
+If any county collector of the revenues refuses, fails or neglects to make prompt payment of the tax or any part thereof collected under sections 242.010 to 242.690 to the secretary, then he shall pay a penalty of ten percent on the amount of his delinquency. The penalty shall at once become due and payable and both he and his securities shall be liable therefor on his bond.
+
+*Effective 8/28/1961 · (RSMo 1939 § 12344, A.L. 1955 p. 605, A.L. 1961 p. 444)
+Prior revisions: 1929 § 10763; 1919 § 4398; 1909 § 5521*
+
+### 242.560 Current and delinquent taxes — collection — procedure.
+
+1. In counties where the provisions of chapter 65 are, or may hereafter be in force, the secretary of the board of supervisors shall extend all drainage taxes under the provisions of sections 242.010 to 242.690 on separate tax books for the respective townships in which such lands are situate, and such tax books shall be certified to the collector-treasurer at the same time and in the same manner as provided for county collectors.
+2. Such taxes shall be collected by such collector-treasurer at the same time and in the same manner as state and county taxes are collected, and each collector-treasurer shall give bond, have the same authority to collect such taxes, receive the same compensation therefor and pay over such taxes to the secretary of board of supervisors, as provided for county collectors under said sections, and shall be subject to the same penalties and liabilities. Such collector-treasurer shall make due return of such tax books under oath in the same manner as required of county collectors.
+3. The delinquent drainage taxes shall be certified by the secretary of the board of supervisors to the county collector-treasurer of delinquent taxes, who shall collect such delinquent drainage taxes at the same time and in the same manner as is herein provided for the collection of the delinquent drainage taxes in counties not under the provisions of chapter 65. The said collector-treasurer of delinquent taxes shall give bond, have the same authority to collect such taxes, receive the same compensation therefor and pay over the said taxes to the treasurer of the drainage district as is provided for county collectors under sections 242.010 to 242.690, and shall be subject to the same penalties and liabilities.
+4. All township drainage tax books, and the return of the collectors of such books, shall be taken as prima facie evidence in all courts of all matters therein contained, and that the delinquent tax shown in such books was properly levied and extended against such lands and remains unpaid. The lien of such tax shall be enforced and suits to collect such delinquent tax shall be instituted and prosecuted in the same manner provided by said sections, except such suits shall be instituted by the drainage district on tax bills duly made out and certified by the county collector-treasurer of delinquent taxes.
+
+*Effective 8/28/2005 · (RSMo 1939 § 12377, A.L. 2005 H.B. 58 merged with S.B. 210)
+Prior revisions: 1929 § 10796; 1919 § 4426*
+
+### 242.570 Payment of drainage tax — procedure.
+
+1. Any person or corporation, copartnership or other parties owning lands and other property assessed for the construction of any ditch or other improvement under the provisions of sections 242.010 to 242.690, shall have the privilege of paying such tax assessment to the treasurer of the board of supervisors at any time on or before a date to be fixed by the board of supervisors and the amount to be paid shall be the full amount of the tax levied, less any amount added thereto to meet interest.
+2. When such tax assessment has been paid, the secretary of the board shall enter upon the drainage tax record opposite each tract for which payment is made the words "paid in full", and such tax assessment shall be deemed satisfied, and the secretary of the board of supervisors shall also make or cause to be made the same entry opposite each tract for which payment is made in the table included in the certificate filed in the office of the recorder of deeds, under the provisions of section 242.590.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12378)
+Prior revisions: 1929 § 10797; 1919 § 4427*
+
+### 242.580 Drainage tax, when delinquent — penalty.
+
+All taxes provided for in sections 242.010 to 242.690 remaining unpaid after December thirty-first of the year for which said taxes were levied shall become delinquent and bear a penalty of one percent per month on the amount of said taxes from date of delinquency until paid. In computing said penalty each fractional part of a month shall be counted as a full month.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12343)
+Prior revisions: 1929 § 10762; 1919 § 4397*
+
+### 242.590 Drainage tax to constitute a lien — certification of drainage tax record.
+
+1. All drainage taxes provided for in sections 242.010 to 242.690, together with all penalties for default in payment of the same, all costs in collecting the same, including a reasonable attorney's fee, to be fixed by the court and taxed as costs in the action brought to enforce payment, shall, from date of filing the certificate herein described in the office of the recorder of deeds for the county wherein the lands and properties are situate, until paid, constitute a lien, to which only the lien of the state for general state, county, school and road taxes shall be paramount, upon all the lands and other property against which such taxes shall be levied as is provided in said sections. Such lien shall be evidenced by a certificate substantially in the following form, to wit:
+­
+­
+2. The certificate and tables specified in this section shall be prepared in a well-bound book and filed in the office of each of the recorders of the counties having lands in said district as the same may affect the land or other property in his county, where the same shall become a permanent record of the office. The said book or books shall be prepared by the secretary of the board of supervisors at the expense of the drainage district, shall be designated as the "Drainage Tax Record", and each recorder shall receive a fee of one dollar for filing said book and preserving the same.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12345)
+Prior revisions: 1929 § 10764; 1919 § 4399; 1909 § 5523*
+
+### 242.600 Suits for taxes — evidence — procedure.
+
+1. The drainage tax book of the district, as returned by the collector of the revenue to the secretary of the board of supervisors of the drainage district, shall be prima facie evidence in all courts of all matters therein contained.
+2. The liens established and declared in the preceding sections may and shall be enforced by an action on delinquent tax bills, made and certified by the county collector, which action shall be instituted in the circuit court without regard to the amount of the claim within six months after December thirty-first of the year for which said taxes were levied. The suit shall be brought in the corporate name of the district by its attorney against the land or lands, property or properties, on which such drainage tax has not been paid. The suit shall be brought in the county in which the property is situate, except when the tract or property sued upon be in more than one county, in which event the suit may be brought on the whole tract, parcel or property, in any county in which any portion thereof may be situate. The pleadings, process, proceedings, practice and sales, in cases arising under sections 242.010 to 242.690, shall, except as herein provided, be the same as in an action for the enforcement of the state's lien for delinquent general taxes upon real estate.
+3. All sales of lands made under this section shall be by the sheriff, as is now provided under the general revenue law. All sheriff's deeds executed and delivered pursuant to said sections shall have the same probative force as deeds executed under judgments for delinquent general state taxes and in actions instituted under said sections the same abbreviations shall be allowed and the aforesaid drainage tax book shall have the same probative effect as the back tax bill has in actions for the enforcement of the state's lien for general taxes upon real estate. The title acquired through any sale of lands or other property under the aforesaid proceedings shall be subject to the lien of all subsequent annual installments of drainage tax.
+4. In all suits for the collection of delinquent taxes, the judgment for said delinquent taxes and penalty shall also include all costs of suit and a reasonable attorney's fee to be fixed by the court, recoverable the same as the delinquent tax and in the same suit. The proceeds of sales made under and by virtue of said sections shall be paid at once to the aforesaid treasurer and shall be accounted for by him the same as the drainage taxes.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12346)
+Prior revisions: 1929 § 10765; 1919 § 4400; 1909 § 5524*
+
+### 242.610 Action instituted against whom — notice filed, effect.
+
+1. Whenever any drainage or levee district heretofore or hereafter organized or reorganized and existing under any of the drainage or levee laws of the state of Missouri, shall hereafter institute an action, in the manner now provided by law, to enforce the collection of unpaid delinquent annual assessments levied by it, such district shall cause said action to be instituted against the last record owner or owners of the land against which the delinquent assessments sued for were levied, as shown by the records in the recorder's office of the county in which the land is located and shall also join as parties defendant the trustee and beneficiaries shown by all recorded deeds of trust, mortgages or vendors' liens, which create a lien on the land involved in any such suit that may be instituted and no other parties shall be necessary or required, except as herein provided.
+2. On the same day that any such action shall be filed for and in behalf of any such district, its attorney, so filing such action, shall also file in the recorder's office of the county where such land is located, a written notice, verified by him showing in tabulated form, the docket number of each of the respective suits that may be filed in the office of the clerk of the circuit court, the name of the plaintiff district, the names of all defendants in each suit filed, a description of the land included in each suit, the years in which the delinquent assessments were levied and the amount then due on each parcel of land described in said notice, when such suit was filed. Such notice shall be filed by the recorder and recorded by him in a well-bound book as other instruments are recorded in his office. The recorder shall be entitled to a fee of one dollar for filing and recording such notice, to be paid by district filing same. Such notice, when so filed, shall constitute due and proper notice to all parties, except those required to be made parties defendant as herein provided, then having or asserting, or who may subsequently acquire or assert any right, title, claim or interest in and to said land, of the filing of said suit to enforce the collection of said special assessments, irrespective of whether any such parties then hold unrecorded conveyances affecting the title to the land included in such suit, including an assignment of any note secured by deed of trust, mortgage or vendors' lien on the said land, or whether they have acquired by conveyances some such right, title, claim and interest in and to said land, or an assignment of any note secured by deed of trust, mortgage or vendors' lien on said land, subsequent to the filing of said notice.
+3. If anyone shall, at the time of filing such suit and notice, hold an unrecorded instrument or conveyance affecting the title to the land included in such suit or if anyone shall acquire any such right, title, claim or interest in and to said land so included in any such suit, after the filing of said suit and notice, or if anyone shall become the assignee of notes secured by deeds of trust, mortgages or vendors' liens on the land included in any such suit, each of them shall have the right and it shall be their duty to intervene as parties defendant in any such suit so filed on or before the first day of the return term of the summons issued when said suit is filed, and make defense to said suit, if they so desire. Upon their failure so to do, they shall be bound by any judgment that may be rendered by the court in any said suit just as though they had been joined as defendants and served with process therein and their interest, if any, along with the interest of all named defendants in and to said land shall, if judgment be rendered for plaintiff, be sold on execution in the manner now provided by law and all the right, title, claim and interest of all parties in and to said land, shall pass to and be acquired by the purchaser of said land at the execution sale based upon the judgment obtained in said suit, unless said delinquent assessments so sued for shall have been previously paid.
+
+*Effective 8/28/1941 · (L. 1941 p. 351 § 1)*
+
+### 242.620 Protection of drainage district lien.
+
+1. To protect said lien of said drainage taxes upon the lands and other property against which said taxes shall be levied, in any case where delinquent lands are offered for sale for such delinquent taxes, and the amount of the tax due, together with interest, cost, and penalties is not bid for the same, the board of supervisors shall have authority to bid or cause to be bid, not to exceed the whole amount due thereon, as aforesaid, in the name of the drainage district, and in case such bid is the highest bid, the sheriff shall sell and convey such lands to such drainage district, and such lands shall thereupon become the property of the drainage district, and may be held, disposed of, and conveyed by the board of supervisors at such price and on such terms, as in the discretion of the board of supervisors may be to the best interest of the district.
+2. If such lands, or other property, are sold by the board of supervisors the purchasers thereof shall take the same subject to all said drainage taxes thereafter becoming due, the same as all other lands and other property in the district.
+3. The board of supervisors shall also have authority to protect the lien of the drainage district for drainage taxes by paying the general, state, county, school and road taxes, and in case the lien of the state for such general, state, county, school and road taxes is foreclosed, and the land, or other property, sold for such general taxes, and the said drainage district is not made a party to the proceedings foreclosing the said lien for such general taxes, the said board of supervisors shall be authorized at any time within one year after said sale to redeem such lands, by paying not to exceed the whole amount of such taxes, together with penalties and costs accrued thereon.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12347)
+Prior revision: 1929 § 10766
+CROSS REFERENCE:
+Delinquent taxes, drainage district may redeem lands, when, 140.380*
+
+### 242.630 Unpaid warrants to draw interest.
+
+Any warrant issued under sections 242.010 to 242.690 that is not paid when presented to the treasurer of the board of supervisors of the district, because of lack of funds in the treasury, such fact shall be endorsed on the back of such warrant, and such warrant shall draw interest thereafter at a rate of not more than twelve percent per annum, until such time as there is any money on hand to pay the amount of the warrant and the interest then accumulated, but no interest shall be allowed on warrants after such time when sufficient funds are in the treasury to pay the endorsed warrants and interest.
+
+*Effective 8/28/1985 · (RSMo 1939 § 12356, A.L. 1985 H.B. 378)
+Prior revisions: 1929 § 10775; 1919 § 4408; 1909 § 5532*
+
+### 242.640 Surety bonds payable to district.
+
+All surety bonds required to be given by sections 242.010 to 242.690 shall be made payable to the district by its corporate name, in which name all suits shall be instituted and prosecuted. All penalties herein named shall be payable to and recoverable by said district. All bonds required by said sections shall cover defaults of deputies, clerks or assistants of the officers appointing them.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12357)
+Prior revisions: 1929 § 10776; 1919 § 4409; 1909 § 5522*
+
+### 242.650 Change of venue limitation.
+
+1. No change of venue shall be allowed in any of the proceedings had under the provisions of sections 242.010 to 242.690, except where the judge of the court in which the articles of association have been filed shall be disqualified for any of the reasons stated in the statute of this state relating to the change of venue in civil cases.
+2. If the judge of such court is disqualified or is charged by any person interested in the formation of said district with being disqualified for any of the reasons stated in the statutes, it shall be the duty of said judge to cause another judge to be transferred or assigned to hear the cause in the same manner as other civil cases. Such judge shall retain jurisdiction in such reclamation proceedings only until the disqualification of the regular judge of the circuit court shall have been removed.
+
+*Effective 1/2/1979 · (RSMo 1939 § 12358, A.L. 1978 H.B. 1634)
+Prior revisions: 1929 § 10777; 1919 § 4410
+Effective 1-2-79*
+
+### 242.660 Action not to abate by reason of death of party.
+
+No action under sections 242.010 to 242.690 shall abate by reason of the death or disability of any party to any proceeding, but upon suggestion of such death or disability the cause shall be immediately revived in the name of the heirs, devisees or their legal representatives, and summons shall be served on such heirs, devisees and legal representatives at least five days before the day set for hearing the cause, and said summons may be served in vacation or term time; if the heirs, devisees or legal representatives of the deceased party are nonresidents, notice by publication shall be given them in a manner and for the time provided for in section 242.360, and the cause shall then proceed in all respects as in case of the original parties being in court.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12359)
+Prior revisions: 1929 § 10778; 1919 § 4411; 1909 § 5502*
+
+### 242.670 Limited appeal from assessments.
+
+No appeal from any action of the circuit court had under sections 242.010 to 242.690 shall be permitted to act as supersedeas or to delay any action or the prosecution of any work begun under the provisions of this law.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12360)
+Prior revisions: 1929 § 10779; 1919 § 4412*
+
+### 242.680 Existing rights not affected by sections 242.010 to 242.690.
+
+Where proceedings have been begun under the provisions of the sections repealed by the act of April 8, 1905, they may be proceeded with and completed under the provisions of sections 242.010 to 242.690; provided, that all liens, remedies and processes for the collection of taxes provided for in said sections, shall, so far as applicable, be available for the collection of taxes levied and bonds issued under the sections thereby repealed; provided further, that in all cases where drainage districts have been incorporated under the said sections repealed and the work of drainage has been commenced or completed, in whole or in part, no rights or obligations incurred by district or individual shall be nullified, invalidated or for naught held.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12385)
+Prior revisions: 1929 § 10804; 1919 § 4434; 1909 § 5534*
+
+### 242.690 Prior remedies not impaired by sections 242.010 to 242.690.
+
+1. The repeal of article 1 of chapter 41, RSMo 1909 and the repeal of an act amending and adding to said article 1, enacted in 1911 and found on pages 205 to 222 of the laws of Missouri of 1911, shall not have the effect of suspending, abating, abridging, impairing, vitiating or nullifying any right, power, remedy or lien heretofore given, created or conferred upon any drainage district heretofore organized or in process of organization at the time of passage of sections 242.010 to 242.690, under any law of this state, but all such rights, powers, remedies and liens are hereby directly preserved to all such drainage districts; nor shall the repealing of said article 1 as amended and added to by the 46th general assembly in 1911 have the effect of suspending, abridging, abating or nullifying any proceeding or proceedings now pending in any court of this state or of the United States; nor shall the repealing of existing laws have the effect of impairing, invalidating, discharging, changing, modifying or destroying any obligation, contract or undertaking, entered into by, or with any drainage district now organized and existing under any law in this state, but all such obligations, contracts and undertakings so entered into, shall be and remain inviolate.
+2. All rights, powers, liens and remedies now existing in behalf of any drainage district of this state, may be enforced and made available in the manner and by the means and mode now provided by law, or such rights, powers, liens and remedies may be enforced and made available under the provisions of said sections, if applicable, at the election of the drainage district. Sections 242.010 to 242.690 are hereby declared to be remedial in character and purpose, and shall be liberally construed by the courts in carrying out this legislative intent and purpose.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12389)
+Prior revisions: 1929 § 10808; 1919 § 4438*
+
+### 242.692 Major district and minor district defined.
+
+The drainage district organized or reorganized under the provisions of sections 242.010 to 242.690, which desires to annex itself to another drainage district also so organized, either for outlet or other purposes, including having the petitioning district become a part of the district to which the petition is addressed shall be hereinafter referred to as the "minor district". The drainage district to which petition is addressed shall hereinafter be known as the "major district".
+
+*Effective 8/28/1961 · (L. 1961 p. 444 § 1)*
+
+### 242.694 Petition for annexation by minor district — service.
+
+The board of supervisors of any minor district may in behalf of said district and the landowners therein, file a petition praying to be annexed to a major drainage district organized under the same provisions of law, provided the major and the minor district either have a common outlet, or the major district does have an outlet for the minor district or they furnish same; the petition shall be headed in the name of the minor district and addressed to the major district and shall set out in plain language the desire of the minor district to be annexed to the major district; it shall state that the boundaries, owners of lands and other property in the minor district to be as set out in the organization and records of the minor district, and praying to be annexed to the major district. Said petition is to be filed in the office of the circuit clerk of the circuit court incorporating the major district, and the clerk shall cause a certified copy of said petition to be served upon the secretary of the major district at the office of the major district, wherever located.
+
+*Effective 8/28/1961 · (L. 1961 p. 444 § 2)*
+
+### 242.696 Acceptance or rejection of petition — notice — objections, hearing, decree — transfer of records and property.
+
+1. The board of supervisors of the major district shall, within ninety days after the service of a certified copy of petition upon the secretary of the major district at its office, by order of its board either agree to accept the petitioning district or to reject same under the provisions of sections 242.692 to 242.699. In either event, a certified copy of its action shall be filed by its secretary in the office of the clerk of the circuit court in which the petition is pending within twenty days after the board action.
+2. In the event the action of the major district shall be to agree and accept the petition to annex minor district to major district, the clerk of the circuit court shall give notice of the filing of the petition and the acceptance thereof by causing publication to be made once a week for four consecutive weeks in some newspaper published in each county in which any lands or property within the boundaries of the minor district shall be situate. Such notice need not contain the names of the owners of the lands and property, or descriptions of the tracts of land owned and property affected in the minor district, but it will be sufficient to describe the owners and lands as being all the owners of the lands and property embraced in the boundaries of the minor district petitioning; the notice shall also state the purpose of the petition by the minor district to the major district is to annex to the major district the minor district and that the petitioning minor district lands and property and owners will become a part of the major district which assumes all liabilities, and that the major district accepts the benefit assessments of the minor district as a basis of assessment of taxes thereafter, and in cases of overlaps of the districts, the combined benefits shall be added on each tract of land or property and the combined assessments of the minor and the major districts shall be the true benefit assessment for tax purposes hereafter; and if the petition is granted, the minor district shall become a part of the major district and the minor district shall cease to be as an organization. That any owner of land or other property against which benefits are assessed lying within the boundaries of the minor district petitioning to be annexed shall have the right to file objections in the office of the said circuit clerk within fifteen days but not after the last publication of notice which said date of filing objection shall be stated in said notice.
+3. Objections so filed shall set out why petition should not be granted. Such objections shall be limited to a denial of the statements in the petition and should be heard and determined by the court as early and speedily as possible, at either a regular, adjourned or special term, and the court shall set such motions down for hearing at the earliest possible time, not later than fifteen days after the time for filing same expires, and hear same speedily. If the court finds the statements in the petition and in the agreement and acceptance to be true, after due hearing, the said court shall by its judgment and decree annex the minor district to the major district reciting the facts in its judgment consistent with sections 242.692 to 242.699.
+4. Upon rendition of the decree the clerk of the court shall cause a certified copy of the judgment and decree of the court to be served upon the secretary or any other officer of the minor district. The board of supervisors and its officers of the minor district shall thereupon proceed to deliver to the secretary of the board of the major district all of its books, records and supplies it has on hand, and the treasurer of said minor district shall forthwith deliver to the treasurer of the major district all of the moneys and property in his hands and charged up to him, taking the receipt of the secretary of the major district therefor, which shall terminate the existence of the minor district.
+
+*Effective 8/28/1961 · (L. 1961 p. 444 §§ 3 to 6)*
+
+### 242.698 Appeal.
+
+Any owner of lands or other property in the minor district shall have the right to appeal the finding or decree of the court annexing minor district to major district, said appeal to be prosecuted in the same manner as provided for appeals under the civil code.
+
+*Effective 8/28/1961 · (L. 1961 p. 444 § 7)*
+
+### 242.699 Construction — applicability.
+
+The provisions herein contained are declared to be remedial in character, shall be liberally construed by the courts promptly and shall apply to districts already organized, in process of reorganization or to be hereafter organized or reorganized by circuit courts of this state.
+
+*Effective 8/28/1961 · (L. 1961 p. 444 § 8)*
+
+### 242.700 Drainage district may be formed on land containing mineral deposits.
+
+The owners of a majority of the acreage in any contiguous body of lands or of lands having a common drainage, certified by the state geologist of this state to contain or probably contain valuable mineral deposits, situate in one or more counties of this state, may form a drainage district for the purpose of having such lands drained for mining purposes, and for that purpose they may make and sign articles of association and be incorporated and be and become a body corporate in all respects and in the same manner as is now provided for the organization, incorporation and government of associations for the drainage of swamps, etc., lands under sections 242.010 to 242.690, with all rights, powers, duties and obligations of drainage districts organized under said sections except as herein otherwise provided.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12390)*
+
+### 242.710 Reclamation of mineralized lands.
+
+In order more effectively to promote the drainage and reclamation of mineralized lands now organized or which may hereafter be organized hereunder, such districts shall have the power to purchase, construct, own or lease and operate a plant or plants for the pumping of water from the underground areas of such lands, and a custom concentrating plant or plants for crushing and cleaning ores and minerals; to prescribe, regulate and collect taxes or charges for the pumping of water and for the crushing and cleaning of such ores and minerals, and to acquire by lease, purchase, donation or condemnation, the necessary lands upon which to construct such pumping station or pumping stations, plant or plants, and rights-of-way and easements for the construction and maintenance of roads, railroads or other ways to and from such station or stations, plant or plants, including rights-of-way and easements for the flowage, impounding or disposal of water.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12391)*
+
+### 242.720 Survey and reclamation plan — how made — exceptions.
+
+1. The chief engineer appointed by the board of supervisors of any mine drainage district, as provided in section 242.220, shall make a survey of the lands, both surface and underground, within the district, and of all mineralized lands adjacent thereto that may or will be benefitted by such system of drainage, and report thereon in writing to the board of supervisors, with maps and profiles of such survey, showing the shafts, drifts, drill holes, underground excavations and underground watercourses, with plans for draining, dewatering and reclaiming such lands for mining purposes, together with designs and plans for the construction of a custom concentrating plant or plants and all necessary facilities in connection therewith, including also an estimate of the amount of ores and minerals available for mining from such lands upon completion and execution of such plans. Such report, or any modification thereof approved by the chief engineer shall be adopted by the board of supervisors as the plan for reclamation as provided in section 242.230.
+2. On the filing and adoption of the plan for reclamation, the board of supervisors shall, by resolution, provide for the levy and collection of the taxes and charges hereinbefore and hereinafter provided for, including provisions for the increase thereof as provided for in section 242.740, and shall give notice thereof by causing such resolution to be published once a week for two consecutive weeks in some newspaper published in each county in which the said district or any part thereof may be located.
+3. Any owner of land within the district or adjacent thereto that may or will be benefitted by such plan for reclamation may, within ten days following the last day of publication of said notice, file with the secretary of the board of supervisors, exceptions to such tax levies or charges.
+4. Thereupon the board of supervisors shall, within five days after the filing of such exceptions, hear and determine the same, and in case any such landowner is not satisfied with the determination of such exceptions by such board, he may file his exceptions in the form of a petition in the circuit court by which the district was organized, and such court shall hear and determine the same as provided in section 242.280.
+5. The chief engineer shall keep a complete record of the drainage of said district and the lands affected thereby and of the operation of such concentrating plant or plants, and shall file a written report thereon from time to time as may be requested by the board of supervisors, but at least once each year.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12392)*
+
+### 242.730 Pumping tax — levy, collection and use — contracts with landowners.
+
+1. The board of supervisors shall, in the resolution herein provided for, levy and provide for the collection of a pumping tax, in the form of a royalty on the mineral concentrates produced from the lands affected by such plan for reclamation, not exceeding, however, two percent of the gross sale value of such mineral concentrates, and a tax or charge for the crushing and cleaning of ores and minerals by or through the concentrating plant or plants operated or to be operated by the district, such milling tax or charge shall be fixed by the board of supervisors at a stated rate per ton of such ores and minerals so crushed and cleaned and, when added to the proceeds of the aforesaid pumping tax, shall be sufficient to produce the sum or sums required to pay interest on the bonded indebtedness of the district at any time outstanding, to pay maturing bonds of the district according to the terms and tenor thereof, to pay the operating expenses of the district and to provide an adequate reserve fund for maintenance, depreciation and contingencies.
+2. All funds received by the district for and on account of the tax levies or charges herein provided for shall be deposited by the treasurer of the district in some solvent bank or trust company and shall at all times be secured by such collateral or otherwise as the board of supervisors may direct, and shall be used for no other purpose than as hereinbefore and hereinafter authorized.
+3. All taxes or charges herein provided for shall constitute a first and a paramount lien on the ores, minerals and concentrates mined and produced from the lands affected by such plan for reclamation, and the board of supervisors of any such district may hold possession of the ores, minerals and concentrates so produced or crushed and cleaned by or through the concentrating plant or plants operated by the district until the taxes and charges herein provided for shall have been paid, or such board may sell such ores, minerals and concentrates on the open market and, after deducting the amount of such taxes or charges, remit the remainder to the person or persons entitled thereto.
+4. To secure the continuous operation of mines within the district, to secure the continuous operation of such concentrating plant or plants to the capacity thereof and to secure the prompt payment of all taxes and charges herein provided for, such board of supervisors is authorized to enter into a contract or contracts with any owner or owners of lands, affected by such plan for reclamation, their lessees or any other persons interested therein; such contract or contracts to contain such provision or provisions, as the board of supervisors may find necessary or advisable to effectuate the purposes of sections 242.700 to 242.750, and to carry out the powers herein conferred on such board of supervisors.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12393)*
+
+### 242.740 Issuance and registration of bonds.
+
+1. The board of supervisors of any such mine drainage district may issue the bonds of such district as provided in section 242.480, except that in lieu of the basis of the issuance thereof as provided in section 242.450, the total amount of bonds so issued shall not exceed seventy-five percent of the income of such district from all sources for the number of years for which such bonds are to be outstanding, such income to be estimated by the board of supervisors upon the basis of the report of the chief engineer of the district provided for in section 242.720, and it shall be the duty of said board, in making the levy of the pumping tax or royalty and in prescribing the tax or charge for crushing and cleaning ores or minerals by such concentrating plant or plants, to take into account the maturing principal and accruing interest on all bonds of the district at any time outstanding, and to make ample provision for the payment thereof, and, to that end, it shall be the duty of the board of supervisors at any time, and from time to time, when it becomes apparent that such taxes or charges theretofore fixed will not produce the sums required for the payment of such bonds and the interest thereon and the operating and maintenance expenses of the district, to increase such taxes or charges so as to produce fully the sums required, as aforesaid; provided, however, that such pumping tax shall not exceed the limitation herein provided.
+2. The board of supervisors, in order to secure the payment of such bonds and the interest thereon, shall have power and authority to pledge, mortgage or convey the property of such district, both real and personal, the proceeds to be derived from all such taxes or charges, after deducting therefrom the sum or sums required to pay the operating expenses of the district and to provide an adequate reserve fund for maintenance, depreciation and contingencies.
+3. Before such bonds shall be negotiated, they shall be presented to the state auditor of Missouri for registration as provided in section 108.240 and the board of supervisors may sell such bonds as provided in section 242.480, or may sell the same to any corporation, commission or agency created or authorized by the Congress of the United States to purchase such bonds.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12394)*
+
+### 242.750 Credit for additional pumping operations.
+
+In the event that the drainage operations conducted by any such drainage district shall not drain any tract of land therein to the depth of mining operations conducted on such tract, necessitating the operation by the owner of such tract or his agents or lessees or sublessees, of pumps additional to the pumps operated by such district, then the pumping tax or taxes levied against such tract shall be credited with the amount actually and necessarily spent in such additional pumping operations by such owners, his agents, lessees, or sublessees.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12395)*
+
+## Chapter 243 — Drainage Districts Organized in County Commission
+
+### 243.010 Definitions.
+
+As used in this chapter:
+(1) The word "ditch" shall be held to include a drain, watercourse, bank protection, current control or levee or any drain, watercourse, bank protection, current control or levee hereafter constructed;
+(2) The word "owner" shall mean the owner of the freehold estate, as appears by the deed record, and it shall not include reversioners, remaindermen, trustees or mortgagees, who shall not be counted and need not be notified by publication, or served by process, but shall be represented by the present owners of the freehold estate in any proceeding under this chapter;
+(3) The words "regular session" and "regular meeting" of the county commission shall be held to include and mean the regular terms of the county commission beginning on the first Mondays of February, May, August and November, or at such other times as fixed by the county commission in accordance with the provisions of section 49.170.
+
+*Effective 8/28/1949 · (RSMo 1939 §§ 12398, 12452, 12453, A. 1949 S.B. 1083)
+Prior revisions: 1929 §§ 10809, 10862, 10863; 1919 §§ 4477, 4529, 4530; 1909 §§ 5578, 5615*
+
+### 243.020 County commission authorized to organize drainage districts.
+
+1. When it shall be conducive to the public health, convenience or public welfare, or when it will be of public utility or benefit, the county commission of any county in this state shall have the authority to organize, incorporate and establish drainage districts and to cause to be constructed, straightened, widened, altered or deepened, any ditch, drain, natural stream (not navigable), bank protection, current control, or watercourse, when the same is necessary to drain or protect any land or other property.
+2. The petition for any such improvement shall be held to include any side, lateral, spur, or branch ditch, drain, watercourse, or levee, the lowering of any lake, the protection of the banks of an adjacent stream from wash, cutting or erosion or any other work necessary to secure fully the object of the improvement, petitioned for, whether the same is mentioned in such petition or not. The commission may establish any such side, lateral, spur or branch ditch when the main ditch is established, or at any time thereafter, and the commission shall require that proper compensation be given the main ditch district for the outlet afforded such lateral, side, spur or branch ditch; provided, that in the event any work is to be done upon any navigable stream, the consent of the federal government shall be obtained to make such improvement or improvements before the actual work on the improvement shall be begun.
+
+*Effective 8/28/1949 · (RSMo 1939 §§ 12398, 12452, A. 1949 S.B. 1083)
+Prior revisions: 1929 §§ 10809, 10862; 1919 §§ 4477, 4529; 1909 §§ 5578, 5615*
+
+### 243.030 Petition to be filed — bond required.
+
+Before any county commission may organize, incorporate and establish a drainage district, or make any improvement as provided in this chapter, there must be filed with the clerk of the county commission a petition signed by one or more landowners, whose lands will be liable to be affected by or assessed for the construction of the improvements necessary to be made, which petition shall set forth the following:
+(1) The necessity for the proposed improvement, as well as the starting point, route and terminus thereof;
+(2) The boundary of the proposed district;
+(3) The names of the owners of lands or other property within the boundary of said proposed district, together with a description of the said lands or other property owned by each; when the name of the owner of any of said land or other property is unknown the fact shall be stated in the petition.
+­­
+­
+
+*Effective 8/28/1939 · (RSMo 1939 § 12399)
+Prior revisions: 1929 § 10810; 1919 § 4478; 1909 § 5579*
+
+### 243.040 County commission to appoint counsel.
+
+At the first term of the county commission after the filing of the petition the county commission shall appoint one or more attorneys, satisfactory to the owners of a majority of the acreage represented by those signing the petition, to assist in the establishment of the district and advise with its officers, agents and employees, prepare reports and other necessary documents. The county commission shall allow such attorney or attorneys just compensation to be taxed as costs in the case.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12400)
+Prior revisions: 1929 § 10811; 1919 § 4479*
+
+### 243.050 County commission to appoint engineer and viewers — qualifications and duties.
+
+1. When such petition and bond has been filed and the bond approved, the county commission shall without delay appoint a competent civil and drainage engineer, who may be an individual, copartnership or corporation, and three persons as viewers, who shall be persons residing within the state of Missouri, and who shall not be landowners in the proposed district nor of kin within the fourth degree of consanguinity to any person owning land within the boundary line set forth in such petition. A majority of the viewers shall constitute a quorum and shall control in all matters. They shall subscribe an oath to faithfully discharge their duties as such viewers and engineer and to make a true report of the work done and the facts by them ascertained.
+2. They shall proceed at once under the direction of an order of the county commission, certified by the clerk thereof, to view the location of the proposed ditch or improvement and the premises along and adjacent thereto. If they find that the proposed improvement is necessary, practicable and would be of public utility or conducive to the public health, convenience or welfare, they shall so report and in said report they shall indicate approximately the proper character, dimension, location and probable cost of the improvement necessary to accomplish the object of said petition and if necessary to determine the above facts the engineer may employ assistants and make surveys and with the approval of the county commission he may employ a consulting engineer or secure expert advice and the expense shall be taxed as expenses under the petition.
+3. They shall also ascertain and report what land or other property, if any, adjacent to the proposed drainage district will be benefitted by the proposed improvement and shall prepare and submit as a part of their report a description of such lands or other property with the names of the owners thereof when the same can be ascertained by reasonable diligence and shall also set forth the boundary line of such proposed drainage district so as to include the additional land or other property. They shall report their findings in writing with such maps, profiles and drawings as are necessary to advise the county commission in the premises and shall promptly file the same with the county clerk.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12401, A.L. 1990 H.B. 1070)
+Prior revisions: 1929 § 10812; 1919 § 4480; 1909 § 5580*
+
+### 243.060 Time of hearing to be published — form of notice.
+
+Immediately after the report of the viewers and engineer has been filed, it will be the duty of the county clerk to cause notice thereof to be published in some newspaper published in the county wherein the proceedings are pending. Such notice shall be published once a week for three consecutive weeks, three times, and shall be in substantially the following form:
+­
+­
+
+*Effective 8/28/1939 · (RSMo 1939 § 12402)
+Prior revisions: 1929 § 10813; 1919 § 4481; 1909 § 5581*
+
+### 243.070 Remonstrance may be filed — judgment, effect.
+
+1. Not later than ten days after the last day of publication of the notice provided for in section 243.060, any person interested in land or other property that will be affected by the organization of the proposed drainage district or by said proposed improvement, may file, in the office of the county clerk, a written remonstrance against or objection to the petition or report of the viewers, setting forth therein his grievance, which shall be, by the county commission, heard and determined, in a summary manner.
+2. If, after hearing and determining all such objections, the county commission finds that the owners of a majority in acreage of the proposed district are petitioners or have joined in the prayer of said petition, by motion, or otherwise, then the county commission shall, or if less than a majority, the county commission, in its discretion, may find in favor of making the improvement. The petitioners shall be released from their liability and bond when the county commission shall find in favor of making the improvement. If the county commission finds in favor of making the improvement, it shall, by order of record, incorporate the land and other property described in the report of the viewers and engineer or any part thereof into a drainage district for the purpose of this chapter, and shall designate the same by number.
+3. Such district shall be a body corporate and a political subdivision of the state, shall possess the usual powers of a corporation for public purposes, shall be capable of suing and being sued in its corporate name and shall be capable of holding such real and personal property as may be at any time either donated to or acquired by it in accordance with the provisions of this chapter or of which it may be rightfully possessed at the time of the passage of this chapter.
+4. If the county commission shall find against the improvement, it shall dismiss the petition and proceedings at the cost of the petitioners, and shall issue an itemized bill of all costs and expenses, in like manner and with like effect as fee bills are issued by the clerk of the circuit court.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12403)
+Prior revisions: 1929 § 10814; 1919 § 4482; 1909 §§ 5582, 5583*
+
+### 243.075 Dissolution of district, when, how.
+
+The county commission may, if it determines after notice and hearing, in the same manner as is provided for establishment of such a district that a drainage district organized by the county commission under this chapter has been inactive for at least ten years, make an order calling for the dissolution of the inactive district and the distribution of any funds of the inactive district, by the county treasurer, to any subsequently organized district or districts incorporating all or part of the territory of the inactive district on a pro rata basis of any funds of the inactive district; and if any portion of the inactive district incorporated under this chapter is not within a subsequently organized district the county commission shall order the county treasurer to make refunds on a pro rata basis to the present owners of the property on which the tax was levied as their interest appears of record, and the county treasurer shall have authority to draw checks against the funds of the district for this purpose. After all the funds have been distributed, the county commission shall declare the district dissolved. In prorating, the assessed valuation of the various tracts of land shall be the basis on which the proration is made and the assessed valuation of the tracts involved for the year in which the dissolution is ordered shall be used.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 346 § 1)*
+
+### 243.080 Location of improvement — report to contain data as to cost.
+
+1. Immediately after establishing a district as provided in this chapter, the county commission shall, by an order of record, direct the viewers and engineer theretofore appointed or appoint others possessing the same qualifications, who shall proceed to view the lands and other property in the district and establish the precise location where, in their judgment, the proposed improvement will prove most efficient and shall determine the dimensions and form of the proposed ditch, levee or other improvement. They may, if deemed best, vary from the line or lines of the ditches described in the petition provided they follow the line as nearly as practicable. If necessary to obtain sufficient fall or outlet they may extend the outlet below the point named in the petition. When practicable, the ditches shall be located on division lines between lands owned by different persons but the general utility of the ditches shall not be sacrificed to avoid diagonal lines. The engineer shall make a survey of each ditch, levee or other improvement and prepare profiles thereof, showing the natural surface and the grade lines and he shall estimate the number of cubic yards of earth or other substance to be removed and shall specify and estimate all other work required. He shall prepare a map of the district showing the lands, roads and railroads and other property which will be affected by the construction of said proposed improvement which shall also show the approximate location thereof, the boundary line of each tract of land, or other property, the location of each corporate road or railroad, together with such other data as the viewers and engineer may deem necessary for the information of the county commission.
+2. Whenever the construction of any ditch, levee or other work specified in this section will destroy the witness marks of any land corner, the engineer shall note such fact and shall note other witnesses for said corner and describe them and give the bearing and distance of same from said corner in the report of his work. The engineer shall also prepare and file a complete record of the corners and witness marks thereto destroyed and reestablished and noted and shall file the same in the office of the county surveyor who shall record the same in the records of his office. The engineer may, at the expense of the district and with the approval of the county commission, employ the necessary assistants in making surveys, maps and profiles and secure the services of a consulting engineer or expert advice.
+3. The said viewers and engineer shall make a schedule of lands in tracts of forty acres or less or government subdivision of sections or other surveys and all railroads and other property within said drainage district which will be benefitted or damaged by or for said improvements, which schedule shall show the owner or owners of each tract of land, road, railroad or other property, so far as they are able by diligent effort to ascertain. They shall assess the amount of benefits and the amount of damages, if any, that will accrue and result to each tract of land, road, railroad or other property by the construction of the improvements and shall prepare a report of their findings in tabular form, the columns of which shall be headed as follows: Column one, "owner of property assessed"; column two, "description of property assessed"; column three, "number of acres assessed"; column four, "amount of benefits assessed"; column five, "damages awarded".
+4. They shall also prepare and include in their report a description of the land and other property within or without the district necessary to be acquired for right-of-way of ditches and other improvements, and they shall determine and set out the value of each tract of land or other property necessary to be acquired. They shall also make an estimate of the total cost of the improvements, including the cost of organizing said drainage district, the payment of all damages, the cost of property required, and the incidental expenses necessary for conducting its affairs.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12405)
+Prior revisions: 1929 § 10816; 1919 § 4484; 1909 § 5584*
+
+### 243.090 Report to be filed, when — landowners may be heard — vacancies, how filled.
+
+1. The said viewers and engineer shall make a report of their work, as required in section 243.080, with the maps, profiles, schedules, estimates and other information, together with an itemized bill of costs made in the proper discharge of their duties and shall file this report with the clerk of the county commission within thirty days after making said surveys and estimates.
+2. Any and all persons whose lands may be affected by the improvement may appear before the viewers and freely express their opinions on all matters pertaining thereto.
+3. If any engineer or viewer shall die or fail or refuse to qualify and serve as such, the county commission may appoint some other person having the prescribed qualifications, who shall, before entering upon the discharge of his duties, take the oath prescribed by this chapter.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12406)
+Prior revisions: 1929 § 10817; 1919 § 4485*
+
+### 243.100 Limitations for assessment of benefits.
+
+1. In assessing the benefits to lands, public highways, railroad and other rights-of-way, railroad roadways and other property not traversed by the improvements, the viewers shall not consider what benefits will be derived by such property after other ditches or improvements shall have been constructed, but they shall assess only such benefits as will be derived from the construction of the improvements to be constructed by this district, or as the same may afford an outlet for drainage or protection from overflow of or damage to such property.
+2. The viewers shall give due consideration and credit to any other drains, ditch or ditches, levee or levees which may have already been constructed and which afford partial or complete protection to any tract or parcel of land in the new district.
+3. The public highways, railroad and other rights-of-way, roadways, railroad and other property shall be assessed according to the increased physical efficiency and decreased maintenance cost of roadways by reason of the protection to be derived from the proposed improvements.
+4. When part of a tract of land is to be acquired by the district for right-of-way or other purposes, the viewers shall list the remainder of the tract in the schedule of benefits, and show the acreage remaining and shall estimate the benefits which will accrue to same.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12407)
+Prior revisions: 1929 § 10818; 1919 § 4486*
+
+### 243.110 Notice of filing of report to be published — form.
+
+Upon the filing of the report of the viewers and engineer, the clerk shall immediately give notice of the filing thereof, by publication in some newspaper published in the county wherein the proceeding is pending. Such notice shall be published for three successive weeks, three times, and shall be substantially in the following form, to wit:
+­
+­
+
+*Effective 8/28/1939 · (RSMo 1939 § 12408)
+Prior revisions: 1929 § 10819; 1919 § 4487*
+
+### 243.120 Exceptions to report — appeal to circuit court — procedure — new notice to be published, form.
+
+1. The attorney for the drainage district or any owner of land or other property in said district, may file exceptions to said report within ten days after the last day of publication of the notice provided for in section 243.110. All exceptions shall be heard by the county commission and determined in a summary manner so as to carry out liberally the purposes and needs of the district, and if it appears to the satisfaction of the county commission, after having heard and determined all of said exceptions, that the estimated cost of constructing the proposed improvement is less than the benefits assessed against the land and other property in said district, then the county commission shall approve and confirm said viewers' report as so modified and amended.
+2. The county commission shall adjudge and apportion the costs incurred by the exceptions filed and shall condemn any land or other property, within or without the boundary lines of the district, that is shown by the report of the viewers to be needed for rights-of-way, holding basins and other works, or that may be needed for material to be used in constructing said works, following, as nearly as possible, the procedure that is now provided for by law for the appropriation of land and other property taken for telegraph, telephone and railroad rights-of-way.
+3. The price of the land and other property taken for rights-of-way and other use of the district and the damage to each piece of land and other property shall be paid in cash to the owner thereof and no drainage district shall have the right to enter upon or appropriate any land or other property sought to be acquired until the prices awarded to the owners of such land shall have been paid to such owners or into the commission organizing the district for the use of such owners; and if the sums awarded be not so paid within five years from the date of final confirmation of the viewers' report, all proceedings as to the taking of such property for rights-of-way, and other works not so paid for, shall abate at the cost of the district. Whenever any land is acquired by any district under the provision of this chapter and the price of such property has been paid the owner by the district, the title, use, possession and enjoyment of such property shall pass from the owner and be vested in the district, and subject to its use, profit, employment and final disposition.
+4. Any person may appeal to the circuit court from the judgment of the county commission, and upon such appeal there may be determined either or both of the following questions:
+(1) Whether just compensation has been allowed for property appropriated; and
+(2) Whether proper damages have been allowed for property prejudicially affected by the improvements.
+5. The court shall grant the appeal if the appellant shall, before the end of the term of the county commission and within ten days from the date of the order appealed from, file a written application for an appeal, specifying therein the matters appealed from, verified by affidavit as in appeals taken from judgments of circuit courts, and the application shall be recorded upon the record of the county commission.
+6. The county commission shall then fix the amount of the bond to be given by the appellant and cause an entry thereof to be made upon its record. The party appealing shall within ten days thereafter file with the clerk a bond payable to the drainage district in the amount fixed by the county commission, with at least two good and sufficient freehold sureties, to be approved by the county commission, or in vacation, by the clerk, conditioned to pay all costs on the appeal in case the appellant fail to sustain the same, or the appeal be for any reason dismissed; and within ten days from the date of filing said bond the said clerk shall make and certify a transcript of the proceedings had before the county commission relating to the land of appellant and involved in the appeal, and file the same, together with all original papers relating to the proceedings, on file in his office, in the office of the clerk of the circuit court; provided, that nothing in this section shall be so construed as to authorize any appellant to stay the proceedings in the county commission, or to prevent progress in the work of constructing any work or improvement; but said county commission may proceed with said work, and any subsequent proceedings in the circuit court shall affect only the rights and interests of the appellant in property located in such district. The county commission may, if it deems advisable, refer the report back to the viewers, with or without directions for correction or amendment in any particular, in which event a new notice shall be given in the manner and for the time provided in section 243.110, which notice shall be substantially in the following form:
+­
+­
+7. Exceptions to an amended report may be filed in like time and manner, as in the case of filing the original report, and the proceedings thereafter shall be the same as in the case of the report in the first instance.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12409)
+Prior revisions: 1929 § 10820; 1919 § 4488; 1909 § 5592*
+
+### 243.130 Condemnation of additional land.
+
+The county commission shall have the right to condemn for the use of a district organized under the provisions of this chapter any necessary land or other property not acquired or condemned by the county commission on the report of the viewers, following also the procedure that is now provided by law for the appropriation of land or other property taken for telegraph, telephone and railroad rights-of-way.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12411)
+Prior revisions: 1929 § 10822; 1919 § 4490
+CROSS REFERENCE:
+Condemnation of land for public purposes by county commission, proceedings, 49.300*
+
+### 243.140 Lands lying outside district may be annexed, when — proceedings.
+
+1. Any land lying outside of any drainage district as organized, the owner or owners of which shall thereafter make connection with any main ditch or drain, or other drain in any district, or whose lands are or will be benefitted by the work or drainage district, shall be deemed to have made voluntary application to be included in such drainage district, and thereupon the county commission shall obtain a description of such land benefitted and amount of benefits in same manner as provided for construction of ditches in this chapter, the name of the owner or owners thereof, and a description of the ditch or drain making such connection, and file the same in its records.
+2. Said county commission shall then fix a day, not less than fifteen days from such filing, when it will hear complaints, and thereupon the clerk of said county commission shall give ten days' notice thereof in writing to such owners, which notice shall be served by reading or delivering a copy thereof to such owner or owners of, if a nonresident, to his tenant, and affidavit of such service shall be evidence thereof. At the time fixed, the county commission shall render its decision in said cause, and shall file copies thereof with the clerk of the county commission, giving a description of any land annexed, and such lands shall be deemed a part of such district, and shall be assessed as other lands therein for maintaining said ditches.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12445)
+Prior revisions: 1929 § 10855; 1919 § 4522; 1909 § 5632*
+
+### 243.150 Taxes to be levied against county-owned swamplands, how paid.
+
+Whenever any of the counties in which any drainage district shall be organized under the provisions of this chapter shall be the owner of a tract or tracts of swamplands, granted to it by the state of Missouri, which will be benefitted by the construction of any such ditch or drain, the said land shall be assessed as to benefits and damages as any other land and the taxes levied against the same shall be paid by the county commission out of the swampland fund or out of any fund or funds arising from the proceeds of the sale of swamplands of such county.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12449)
+Prior revisions: 1929 § 10859; 1919 § 4526*
+
+### 243.160 Authority to complete improvements in county commission — powers of procedure.
+
+1. The county commission for and on behalf of a drainage district shall have full power and authority to build, construct, excavate and complete all or any works and improvements which may be needed to complete the improvements located, described and set forth in the duly confirmed report of the viewers and engineer.
+2. To accomplish that end the said county commission is hereby authorized and empowered to employ men and teams and to rent or purchase machinery, employ men to operate same and directly have charge of and construct the works and improvements, or by the use of other or more efficient means than provided for in the plans adopted.
+3. They may, in their discretion, let the contract for such works and improvements either as a whole or in sections. The county commission shall fix the time and place of letting contracts for the construction of the improvements, and cause notice thereof, containing a description of the work to be let, to be given by the clerk of the county commission, by publication in three consecutive issues of some weekly newspaper of general circulation, published in the county, and by at least one insertion in some suitable contractor's or trade journal, the last insertion to be at least ten days before the day of letting.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12423)
+Prior revisions: 1929 § 10833; 1919 § 4501; 1909 § 5595*
+
+### 243.170 District engineer to be appointed — duties — bond required.
+
+1. Within sixty days after the confirmation of the report of the viewers and engineer assessing the benefits and damages, the county commission shall appoint a competent civil and drainage engineer as district engineer, who may be an individual, copartnership or corporation, and who shall engage such assistants as the county commission may approve.
+2. The district engineer shall have control of the engineering work in the district and with the approval of the county commission he may employ a consulting engineer. The district engineer shall also be the superintendent of the construction of all the works and improvements and shall, whenever required, and at least once a year, make a full report to the county commission of all work done and improvements made and make such suggestions and recommendations to the commission as he may deem proper.
+3. The district engineer shall give bond in the sum of not less than one thousand dollars or as much greater amount as the county commission may fix, for the faithful performance of his duties as engineer of such district. Such bond shall be signed by at least two residents of the county in which such district has been organized or by a surety company authorized to transact business in this state, and shall be made to such district and preserved in the office of the county clerk.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12424, A.L. 1990 H.B. 1070)
+Prior revisions: 1929 § 10834; 1919 § 4502*
+
+### 243.180 Engineer to let work — bidders to give bond — county commission to approve — contractor liable in default.
+
+1. The district engineer shall let or offer to let the job or labor of constructing the working sections, as directed in the order of the county commission, announcing the terms upon and the time within which the work shall be done.
+2. All successful bidders shall forthwith execute and deliver to the engineer a bond payable to the drainage district, in at least twenty percent of the amount of the bid, with sufficient like sureties, conditioned for the faithful performance of the work let, in the manner and within the time specified in the contract; the engineer shall, within fifteen days after the day bids are received, return all contracts and bonds to and file report of his proceedings in the premises, in the office of the county clerk.
+3. The county commission shall approve or reject all contracts and bonds and cause to be spread upon its record an entry of its action thereon and give notice thereof to the contractors. All bonds and a duplicate of all contracts shall be filed in the office of the county clerk, and when approved they shall be recorded upon the drainage record. The county commission may, in its discretion, for good cause, extend the time specified in the contract for completing the construction of the ditch or other improvement, but such extension shall not be construed or deemed to have the effect of impairing the contract, or the contractor's bond, or releasing the sureties thereon.
+4. If the work provided for by any contract be not performed in the manner or within the time therein fixed, or within such additional time as may have been granted to the contractor, the county commission may, in the same manner as original contracts are let, relet such portion of such work as may not have been performed by the contractor; provided, that the contracts shall not be let a second time to the same person. The defaulting contractor shall be liable on his bond for all damages, costs and expenses occasioned by his default.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12425)
+Prior revisions: 1929 § 10835; 1919 § 4503*
+
+### 243.190 Engineer to issue certificate of acceptance, when — provisions for payment of claim.
+
+It shall be the duty of the district engineer, on being notified by a contractor that the work, or any installment thereof, provided for in his contract, is completed, to examine the same, and if he finds that it is completed according to the specifications of the report of the engineer and viewers, as confirmed, as provided in this chapter, he shall accept the same, and give to such contractor a certificate of acceptance, stating that such installment or contract is completed according to such specifications, and file a duplicate thereof in the office of the clerk of the county commission, and on presentation by any contractor of claim for payment for work performed, or any installment thereof, as provided by his contract, accompanied by such engineer's certificate, the county commission shall audit the claim, and if the same is in accordance with such claimant's contract and the work has been performed within the time therein specified, it shall draw a warrant upon the county treasurer for the amount thereof, payable out of the funds of the district available for the payment of such charges.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12426)
+Prior revisions: 1929 § 10836; 1919 § 4504*
+
+### 243.200 Provisions for necessary construction or enlargement — when owned by corporation other than county — bridge to become part of highway, when.
+
+1. The county commission may, when the same is necessary for the public health, convenience or welfare, cause to be constructed or enlarged any bridge or culvert made necessary by the crossing of any ditch constructed by a district organized under the provisions of this chapter; provided, however, that if such bridge or culvert shall belong to any corporation other than the county, the county clerk shall give such corporation notice by delivering to its agent the order of the commission declaring the necessity for constructing or enlarging such bridge or culvert. A failure to construct or enlarge such bridge or culvert within the time specified shall be taken as a refusal to do said work, and thereupon the county commission shall proceed to let the work of constructing or enlarging the same, and assess the corporation with the cost thereof, and the county clerk shall place such assessment on the tax book against said corporation, and it shall be a lien upon the property of the corporation, to be collected as taxes. But before the county commission shall let such work, they shall give to the agent of such corporation at least twenty days' actual notice of the time and place of letting such work.
+2. When a bridge has been constructed across a drainage ditch that crosses any public highway in this state, that shall be adjudged sufficiently by the county commission of the county in which said drainage district is organized, such bridge shall become a part of such highway and shall thereafterwards be maintained, repaired or replaced by the authority authorized by law to maintain the road of which it becomes a part.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12427)
+Prior revisions: 1929 § 10837; 1919 § 4505; 1909 § 5611*
+
+### 243.210 Provisions of this chapter applicable to old channels or sloughs.
+
+Where lateral ditches constructed by a district organized under this chapter have outlets in an old channel or slough, all the provisions of this chapter shall apply to and govern these channels or sloughs the same as though they had in fact been constructed by the district from the outlet of the lateral ditch to the outlet of the old channel or slough.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12429)
+Prior revisions: 1929 § 10839; 1919 § 4507*
+
+### 243.220 Repairs and improvements, how made — hearing when cost exceeds maintenance fund — form of notice.
+
+1. When any ditches or other improvements constructed under this chapter need to be enlarged, cleaned out, obstructions removed therefrom or new work done, five or more of the owners of land originally assessed for the construction of any such ditches, or other improvements, may file a statement in writing with the county clerk setting forth such necessity.
+2. Upon the filing of such statement, it shall be the duty of the county commission, at its next meeting thereafter, to direct the district engineer, or an engineer of their selection, as the case may be, to proceed at once to view the premises and to make a report to the commission in writing of the repairs and improvements necessary to be made and the probable cost of making such improvements as will restore the said ditch, drain or levy to an efficient condition.
+3. It shall be the duty of the county commission to forthwith consider said report and if the commission finds that the improvements, or any of them, recommended in said report should be made, it shall direct the district engineer, or an engineer of their selection, as the case may be, to proceed with all due diligence in the making of such repairs and improvements, directing such engineer to purchase such supplies and employ such labor as may be necessary to accomplish such repairs and improvements and make an itemized report to the county commission in that behalf, all of which shall be paid out of the maintenance fund of that district.
+4. If it shall be found by the county commission that repairs and improvements are necessary to be made at a cost in excess of the money available from the maintenance fund, then it should be the duty of the county commission to direct such repairs or improvements to be made as may be necessary and can be paid out of the maintenance fund and to cause the clerk thereof to set the hearing of the matter of the levying of an additional tax for such improvements as cannot be made out of the maintenance fund, for hearing on the first day of the next regular term of the county commission and to give notice of such hearing by publication in three issues of some weekly newspaper published in the county, the last insertion to be prior to the day set for the hearing, which said notice may be in the following form:
+­
+­
+
+*Effective 8/28/1939 · (RSMo 1939 § 12435)
+Prior revisions: 1929 § 10845; 1919 § 4513; 1909 § 5613*
+
+### 243.230 County commission procedure after hearing.
+
+1. On the day set for the hearing of the statement described in section 243.220, the county commission shall hear and summarily determine the matter. If the county commission finds that the owners of a majority in acreage of said district have signed said statement, or have joined in the prayer of said statement by motion or otherwise, then the county commission shall find in favor of making the improvement and shall order the district engineer or county highway engineer to go upon said premises, investigate the same and report to the county commission what in his opinion it will cost to restore the said ditch, drain or levee to an efficient condition.
+2. Upon the filing of the report by the district engineer or county engineer of the probable cost of such work, the county commission shall thereupon deduct from such estimated costs plus ten percent for emergencies, the amount of maintenance funds in the hands of the county treasurer or other person having custody of such funds, to the credit of said district, and such portions of the maintenance funds so deducted, if the county commission find in favor of making such improvement, shall thereafter stand appropriated and set aside for the doing of such work; and if the maintenance fund is not sufficient to pay such estimated costs plus ten percent for emergencies the county commission shall divide the residue of the estimated costs of any such work plus ten percent for emergencies pro rata according to the original assessments of benefits against the land and other property assessed for benefits in such drainage districts, and the county clerk shall place the same upon the tax books against the land and other property to be collected as other drainage taxes. The county commission may direct that the tax be paid in annual installments, not exceeding five.
+3. If the county commission finds in favor of the work, it shall order the district engineer or county highway engineer to have the work done and superintend the same, and from time to time bring into the county commission a statement of the progress of the work, and the amount due thereon shall be paid by order of the county commission, on warrants to be drawn on the maintenance funds of the district benefitted; provided, however, if the county commission has purchased a dredge boat, tools, or other machinery as authorized by section 243.330 and such dredge boat, tools or other machinery are to be used in such contemplated work, before any payments for work done shall be made out of maintenance funds an estimate shall be made by the county commission of a reasonable rental value for the use of the dredge boats, tools and other machinery to be used by such district in such contemplated work, or an estimate of such amount as shall be reasonably necessary to take care of all repairs and depreciation on the dredge boat, tools and other machinery used in said work and occasioned thereby, both of which estimates to include the cost of removing said dredge boat, tools and other machinery after the completion of said work to a point to be designated by the county commission, and such amount first set apart and appropriated for such purpose and transferred into the general fund created by section 243.330 for the purchase of a dredge boat, tools and other machinery. The dredge boats, tools and other machinery provided for in this section may be used for said work, and the district engineer or county highway engineer shall keep a strict account of the cost of doing such work, including the repairs and depreciation of machinery and shall file his report of same with the county commission, where same shall be and become a permanent part of the record and files of such drainage district. Review may be had of an order of the county commission made in this section as is otherwise provided by law for review of orders of county commissions.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12436, A.L. 1945 p. 858)
+Prior revisions: 1929 § 10846; 1919 § 4514; 1909 § 5614*
+
+### 243.240 County commissions to maintain efficiency and have management and control.
+
+1. It shall be the duty of the several county commissions of this state to maintain the efficiency of the drainage districts now or hereafter organized and existing under and by virtue of the provisions of this chapter and such commissions are vested with the continuous management and control of said districts with the duty and power of maintaining, preserving, restoring, repairing, strengthening and replacing the drains, ditches and levees thereof.
+2. For the purpose of maintaining said ditches, drains and levees, all of the drainage districts in a county on a petition filed by a majority of the landowners owning the majority of the acres of land in each district of such county, may be treated and administered as a unit for such purpose in conformity with all the provisions of sections 243.220 to 243.240, 243.280, 243.330, and 243.380.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12433)
+Prior revisions: 1929 § 10843; 1919 § 4511*
+
+### 243.250 Lateral ditches — drains — may be connected — provisions — penalty for violation.
+
+1. Any person, persons or corporation shall be permitted to construct lateral ditches or drains for the purpose of draining water into any of the ditches, drains, or watercourses constructed by a district organized under the provisions of this chapter, provided that such lateral ditch or drain shall enter such ditches, drains or watercourses through boxes or tiling to be placed at the intersection of such lateral ditches or drains with the ditches, drains or watercourses constructed by a district organized under the provisions of this chapter. Such tiling or boxes shall be as large as the lateral ditch constructed and at least fifteen feet in length.
+2. All persons violating the provisions of this section shall be deemed guilty of a misdemeanor.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12442)
+Prior revisions: 1929 § 10852; 1919 § 4519; 1909 § 5625*
+
+### 243.260 Districts may contract with other districts for outlets — costs determined, how.
+
+Drainage districts organized or incorporated under this chapter may contract with each other, and with districts organized and incorporated under any other law of this state or under the laws of other states, for such outlet or outlets as the one may need and the other can furnish on such terms as may be deemed to be just and fair. The cost of obtaining such outlet or outlets to be paid as other expenses of the district for making improvements. If the districts cannot agree upon the compensation to be paid for the outlet, the district supplying the outlet, by action in the circuit court of the county wherein the district for which the outlet is supplied is organized, may recover from such district fair and just compensation for supplying the outlet. Any compensation received by the district shall be applied to improving its ditches or levees or reducing taxation or indebtedness.
+
+*Effective 8/28/1959 · (RSMo 1939 § 12431, A.L. 1959 S.B. 182)
+Prior revisions: 1929 § 10841; 1919 § 4509; 1909 § 5628
+CROSS REFERENCE:
+Political subdivisions may contract for common sewers and facilities, 70.210 to 70.320*
+
+### 243.270 Drainage district may contract to furnish drainage for cities and towns.
+
+A drainage district may contract with any city, town or village to furnish an outlet for the drainage of such city, town or village, through any ditch, drain or watercourse constructed, or to be constructed by the drainage district, for such compensation to be paid by such city, town or village as may be agreed upon, which compensation shall inure to the benefit of such drainage district, either in improving its ditches, or in diminishing the original cost thereof, or in retiring bonds of the district, or in such way as the county commission shall determine to be just and fair; and thereafter said city, town or village, and the inhabitants thereof, shall have and enjoy all the rights of said drainage that other property owners may have and enjoy.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12428)
+Prior revisions: 1929 § 10838; 1919 § 4506; 1909 § 5627*
+
+### 243.280 Equipment may be leased or rented — provisions.
+
+Whenever there exists no immediate need for the use of the dredge boat, tools and other machinery authorized to be purchased by section 243.330 by districts contributing to the purchase thereof, then it shall be lawful for the county commission to lease or rent the same to any drainage or levee district for the doing of work in such county, upon such terms and conditions as said county commission shall by order of record impose; provided, however, that such county commission shall not lease or rent the same beyond a reasonable time; and provided further, that at least a reasonable rental value of same, or an amount sufficient to take care of all necessary repairs and depreciations caused and occasioned by the doing of the work contemplated, shall be first agreed upon and such amount paid into the general fund created by section 243.330 for the purchase of such dredge boat, tools and other machinery before same shall be so leased or rented.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12437)
+Prior revision: 1929 § 10847*
+
+### 243.290 County commission to levy tax to pay preliminary expense.
+
+1. As soon as any district has been incorporated and established as provided in sections 243.020 to 243.070, the county commission shall, by order entered of record, levy a uniform tax of not more than fifty cents per acre upon each acre of land and other property within the district, to be used for the purpose of paying expenses incurred or to be incurred in organizing said district, making surveys of the same and assessing benefits and damages and paying the other expenses necessary to be incurred before said commission shall be empowered to levy taxes or issue bonds and thereby provide funds to pay the total cost of the improvements of the district. Said tax shall be due and payable as soon as assessed and shall become delinquent if not paid by December thirty-first of the year in which it has been levied. It shall become a lien on the land and other property against which it is levied and shall be collected in the same manner as the annual installment of the drainage tax.
+2. In case the sum received from such tax exceeds the total cost of items for which the same has been levied, the surplus shall be placed in the general fund of the district and used to pay cost of construction; provided, that if the report of the viewers assessing benefits and damages to the property, as confirmed by the county commission, shows that any tract or tracts of land, on which such uniform tax has been paid, will not be benefitted by the improvement, the county commission shall issue a warrant on the district fund in favor of such landowner or landowners to the amount of the uniform tax already paid.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12404)
+Prior revisions: 1929 § 10815; 1919 § 4483*
+
+### 243.300 County commission to levy tax on benefits assessed — form of county clerk's schedule.
+
+1. Immediately after the approval and confirmation of the report of the viewers, the county commission shall, by order of record, levy a tax of such portion of said benefits on all lands and other property in the district, to which benefits have been assessed, as may be found necessary by the county commission to pay the cost of the completion of the proposed improvement and the payment of all expenses incident thereto plus ten percent of said total amount for emergencies.
+2. The said tax shall be apportioned to and levied on each tract of land or other property in said district in proportion to the benefits assessed and not in excess thereof, and in case bonds are issued as provided in this chapter and hereafter, then the amount of the interest, as estimated by said county commission, which will accrue on such bonds shall be included and added to the said tax, but the interest to accrue on account of the issuing of said bonds shall not be construed as a part of the cost of construction in determining whether or not the expenses of making said improvements is or is not equal to or in excess of the benefits assessed.
+3. If deemed advisable the county commission may, by its order of record, provide for the collection of the taxes levied hereunder in not more than twenty annual installments, and in such event it shall fix the number of installments and the amount to be collected each year. The said installments shall be payable and shall be collected in each year at the same time that state and county taxes are due and payable.
+4. As soon as said total tax is levied, the county clerk shall, at the expense of the district, prepare a list and schedule of all taxes levied in substantially the following form:
+­
+­
+
+*Effective 8/28/1939 · (RSMo 1939 § 12412)
+Prior revisions: 1929 § 10823; 1919 § 4491*
+
+### 243.310 Permanent drainage tax record shall be kept — method — additional levies.
+
+1. The list and schedule specified in section 243.300 shall be prepared in the form of a well-bound book which shall be named and endorsed "Drainage Tax Record of Drainage District Number ______ of ______ County, Missouri", which endorsement shall also be printed or written at the top of each page in said book and the same shall be signed by the county clerk, attested by the seal of the county commission and shall hereafter remain a permanent record in the office of said clerk.
+2. In case the proceeds of the taxes levied as provided in this chapter are not sufficient to construct the improvements as described in the report of the viewers and engineer as confirmed by the county commission, then the county commission shall make, certify and provide for the collection of such additional tax levies as are necessary to complete the improvement; provided, however, that the aggregate of all such levies, exclusive of taxes levied for interest on bonds, does not exceed the total benefits assessed and confirmed.
+3. If any sum be needed to pay any judgment against the district and upon the filing of a certified copy of said judgment with the clerk of the county commission, it shall be the duty of the county commission, at the next term, to levy sufficient taxes to pay the same and to add thereto sufficient taxes to pay the interest on said judgment. The commission shall levy, certify and provide for the collection of said taxes as provided in this chapter and shall apportion the same to the lands or other property in proportion to the original assessment of benefits, but not in excess thereof, and if in excess thereof then in such proportion as will not, with other lawful tax levies, made and collected be in excess of the benefits reported by the viewers and confirmed by the county commission.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12413)
+Prior revisions: 1929 § 10824; 1919 § 4492*
+
+### 243.320 Public roads and railroads to pay benefits.
+
+When any ditch constructed under the provisions of this chapter drains, either in whole or in part, or benefits any public or corporate road or railroad, there shall be apportioned to the county, if a county or state or free turnpike road, or if a corporate road or railroad, to the company owning, operating or controlling the same, the same proportion of the cost of location and construction of the improvement in proportion to the benefits received as to private individuals.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12430)
+Prior revisions: 1929 § 10840; 1919 § 4508*
+
+### 243.330 Maintenance tax, how apportioned — commission may purchase equipment — cost apportioned, how.
+
+1. The county commission shall have power and it shall be its duty at the May term of the commission of each year to levy a tax upon each tract of land or other property within each district sufficient to maintain, reserve, restore, repair, strengthen and replace the drains, ditches, levees and other works of the district for whose benefits such tax is levied. Said tax shall be known as a "maintenance tax" and shall be apportioned upon the basis of benefits assessed for the original construction and shall be limited in any one year to ten percent of the original cost of construction. The tax shall be entered in a separate column in the ditch tax books opposite each tract of land or other property in the district by the county clerk, and shall be certified to the county collector, or other person duly authorized and by him collected in the same manner and subject to the same penalties for delinquency as the annual installment tax.
+2. All taxes derived from the assessments herein referred to shall be the absolute property of the drainage district under authority of which they were levied and assessed and shall be placed to the credit of the maintenance fund of the drainage district; except that the county commission may, on request, set aside from time to time a portion of the tax from each of one or more districts in the county into a fund to be used by the county commission for the purchase of dredge boats, tools and other machinery to be used in the maintenance and preservation of the ditches, drains and levees of the participating districts. The portion appropriated from each district to be so used shall be determined by dividing into two equal parts the estimated cost of the dredge boats, tools and machinery purchased. One such part shall be apportioned in the ratio that the total benefit assessments in each participating district assessed for original construction bears to the aggregate total assessed benefits for original construction in all the participating districts, and the other part shall be apportioned in the ratio that the total yards of excavation or yardage moved, as the case may be, in constructing the original improvements in each participating district bears to the total yards of excavation or yards moved in constructing original improvements in all of the participating districts.
+3. The dredge boats, tools and other machinery so purchased, shall be and become the general property of the participating districts, and be used under the direction of the county commission in the cleaning and restoration of any such ditch, drain or levee in said districts to its original size and condition; providing, however, that nothing contained in this section shall prevent the county commission from maintaining, preserving, restoring, repairing, strengthening and replacing the drains, ditches, levees and other works of any district and the use of its maintenance funds therefor, without purchasing dredge boats, tools or other machinery.
+
+*Effective 8/28/1953 · (RSMo 1939 § 12434, A.L. 1953 p. 547)
+Prior revisions: 1929 § 10844; 1919 § 4511*
+
+### 243.340 Privilege to pay drainage tax in full.
+
+The owner of any land or other property taxed for the construction of any improvement under the provisions of this chapter, shall have the privilege of paying such tax to the county treasurer at any time on or before a date to be fixed by the county commission prior to the issuance of bonds payable from said taxes and the amount to be paid shall be the full amount of the tax levied, less any amount added thereto to meet interest. He shall present the treasurer's receipt therefor to the county clerk, who shall enter upon the drainage tax record opposite each tract for which payment is made the words "paid in full" and such tax shall be deemed satisfied.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12414)
+Prior revisions: 1929 § 10825; 1919 § 4493*
+
+### 243.350 Apportionment of annual installments — drainage tax book, form — taxes due, when.
+
+1. Each year the county clerk shall apportion the amount of the annual installment, or the aggregate of the installments which the commission has provided shall become due and payable in that year and the maintenance taxes, if any, against the land and other property in the drainage district in proportion to the benefits assessed.
+2. The said annual installment and maintenance taxes when so apportioned shall be extended by the clerk in a well-bound book which shall be designated and endorsed "Drainage Tax Book of Drainage District Number ______ of ______ County, or ______ Township of ______ County, Missouri, for the year 20______", which endorsement shall also be written or printed at the top of each page. There shall be set out in properly ruled columns of said book the following:
+(1) The names of the present owners of said land and other property so far as now known;
+(2) Description of the land and other property;
+(3) Amount of said installment or installments of tax levied on the corresponding tract of land or other property;
+(4) Amount of maintenance tax, if any, levied against said tract of land or other property;
+(5) A blank column in which the collector shall record the several amounts as collected by him;
+(6) A blank column in which the collector shall record the date of payment of the different sums;
+(7) A blank column in which the collector shall record the names of the person or persons paying the several amounts, if other than the person whose name appears in column one hereof.
+3. The county clerk shall prepare and deliver the said drainage tax book to the collector of the revenue of the county, or township, not later than September thirtieth of each year in which the installment and maintenance taxes, if any, are due and payable, and the said taxes shall become due and be collected during said year at the same time that state and county taxes are due and collected.
+
+*Effective 8/28/2017 · (RSMo 1939 § 12415, A.L. 1953 p. 538, A.L. 2017 S.B. 112)
+Prior revisions: 1929 § 10826; 1919 § 4494; 1909 § 5602*
+
+### 243.360 Drainage tax — collector to furnish bond.
+
+1. It shall be the duty of the collector of revenue of each county in which lands or other property of any drainage district organized under this chapter are situate, to receive the drainage tax book each year and he shall promptly and faithfully collect the tax therein set out and to exercise all due diligence in so doing.
+2. He shall demand and collect such taxes at the same time that he demands and collects state and county taxes due on the same lands and other properties. Where any tract or part thereof has been divided and sold or transferred, the collector shall receive taxes on any part of any tract, piece or parcel of land or other property, charged with such taxes and give his receipt accordingly. The drainage tax book shall be the warrant and authority of the collector for making such demand and collection. The collector shall pay over and account for all moneys collected thereon each year to the county treasurer at the time he pays over state and county taxes.
+3. The collector shall give bond payable to the drainage district for the probable amount of all drainage taxes to be collected in any one year conditioned for the faithful performance of all his duties in accordance with this chapter. Such bond shall be signed by at least two residents of the county or by a surety company authorized to transact business in the state. The bond shall be approved by the county commission and the premium, if any, may be paid out of any funds belonging to the district.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12416, A.L. 1990 H.B. 1070)
+Prior revisions: 1929 § 10827; 1919 § 4495; 1909 § 5635*
+
+### 243.370 Drainage taxes constitute a lien — court action when delinquent — proceedings — evidence.
+
+1. All drainage taxes provided for in this chapter, including maintenance taxes, together with all penalties for default in payment of the same, all costs in collecting the same, including a reasonable attorney's fee to be fixed by the court and taxed as costs in the action brought to enforce payment, shall from date of the levying of the same by the county commission as provided in this chapter, until paid, constitute a lien, to which only the lien of the state for state, county, school and road taxes shall be paramount, upon all of the lands assessed, and shall be collected, in the same manner as state, county and school taxes upon real estate are collected.
+2. The said tax shall become delinquent if not paid on or before the thirty-first day of December of the year for which said taxes were levied, and when so delinquent shall bear interest at the rate of one percent per month until paid, each fractional month being counted as a full month.
+3. The liens established and declared in this section may and shall be enforced by an action on delinquent tax bills, made and certified by the county collector which shall be instituted in the circuit court without regard to the amount of the claim within six months after December thirty-first of the year for which said taxes were levied. The suit shall be brought by the attorney for the drainage district in the name of, and to the use of, the collector of the revenue, of the county wherein the land lies, against the land or other property, on which such drainage tax has not been paid.
+4. The pleadings, process, proceedings, practice and sales, in cases arising under this chapter, shall except as herein provided, be the same as in an action for the enforcement of the state's lien for delinquent general taxes upon real estate. All sales of lands made under this section shall be by the sheriff, as is now provided under the general revenue law. All sheriff's deeds executed and delivered, pursuant to this chapter, shall have the same probative force as deeds executed under judgments for delinquent general state taxes and in actions instituted under this chapter. The same abbreviations shall be allowed and the aforesaid drainage tax book shall have the same probative effect as the back tax bill has in actions for the enforcement of the state's lien for general taxes upon real estate.
+5. The title acquired through any sale of lands or other property under the aforesaid proceedings shall be subject to the lien of all subsequent annual installments of drainage tax. In all suits for the collection of delinquent taxes, the judgment for said delinquent taxes and penalty shall also include all costs of suit and a reasonable attorney's fee to be fixed by the court, recoverable the same as the delinquent tax and in the same suit. The proceeds of sales made under and by virtue of this chapter shall be paid at once to the county treasurer and shall be accounted for by him the same as the drainage taxes.
+6. The drainage tax books of this district shall be prima facie evidence in all courts of all matters therein contained.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12417)
+Prior revisions: 1929 § 10828; 1919 § 4496; 1909 §§ 5599, 5600
+CROSS REFERENCE:
+Delinquent taxes, drainage districts may redeem land, when, 140.380*
+
+### 243.380 Surplus funds, how used.
+
+When the improvements of a district have been completed and paid for, and all costs and expenses of the district paid, if there remains on hand to the credit of such district any funds not needed, the county commission may prorate back to the taxpayers all or any part of such funds not needed or may use the same for maintenance in lieu of the maintenance taxes.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12432)
+Prior revisions: 1929 § 10842; 1919 § 4510*
+
+### 243.390 Drainage district bonds — provisions for issuance.
+
+1. The county commission may issue bonds for and on behalf of any drainage district created under this chapter, for the purpose of paying the cost of the completion of the improvement as located, described and set forth in the report of the viewers and engineer, as confirmed by the county commission and the payment of all duly authorized expenses incident thereto. The aggregate par value of such bonds shall not exceed the taxes levied to pay the cost of the improvement and the expenses incident thereto as provided in this chapter, exclusive of the ten percent for emergencies and the amount added to the tax levy to meet the interest on the bonds of the district.
+2. Any bonds issued hereunder shall be in denominations of one hundred dollars and multiples thereof and shall bear interest at a rate not to exceed six percent per annum, payable semiannually, shall be payable as to principal and interest at the office of the county treasurer and shall be signed by the presiding commissioner of the county commission and attested by the signature of the county clerk and the official seal of the county commission. A substantial amount of the total bonds issued to construct the improvement shall mature each year beginning not later than five years from the date of delivery for value of the first bonds. None of said bonds shall mature more than twenty years after date of issue of same.
+3. Bonds issued hereunder shall be signed and delivered to the county treasurer and shall be sold by him, with the consent and approval of the county commission, at not less than ninety-five percent of the par value plus accrued interest. Said bonds may be prepared, dated and executed at one time and when delivered for value in accordance with the terms of the contract of purchase shall be held to be the obligations of the district though executed by officials other than those in office at the time of delivery for value; provided, the officials signing them were such officials at the time the bonds were signed. Said bonds shall show upon their face the purpose for which they are issued and the principal and interest thereof shall be payable from the proceeds of the taxes levied upon the land and other property in the drainage district as provided in this chapter. At the times any bonds are issued, a sufficient amount of the said drainage taxes shall be set aside and appropriated to pay the principal and interest of said bonds and it shall be the duty of the county commission to arrange and determine the annual installments of said taxes so as to provide funds in due time for the payment at maturity of the principal and interest of any bond authorized and issued hereunder. The proceeds of any taxes so appropriated shall be used for the purpose of paying the principal and interest of said bonds and no other.
+4. If necessary to promptly pay said bonds and the interest thereon the county commission shall rearrange the schedule of annual installments made at the time the taxes were levied and shall also make such additional tax levies as are necessary and shall provide for the collection of the same at such times as will produce the required amounts. Under no circumstances shall the county commission make any tax levies which will in any manner, or to any extent, impair the security of the bonds issued hereunder or the fund available for the payment of the principal and interest of the same. Bonds and coupons not paid at maturity shall bear interest at the rate of six percent per annum until paid.
+5. If deemed advisable, the county commission may, by its order of record, select especial depositary or depositaries for the proceeds of any bonds issued hereunder as temporary treasurer or treasurers to hold and disburse said funds to the county treasurer as the work progresses, on the order of the county commission, provided said special depositary shall secure said funds by approved collateral or by the bond or bonds of a surety company or surety companies authorized to transact business in Missouri, the premium or premiums on which bond or bonds may be paid out of any funds belonging to the drainage district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12418)
+Prior revisions: 1929 § 10829; 1919 § 4497; 1909 § 5603
+CROSS REFERENCES:
+Bond issues, proceeds and moneys for interest and sinking fund to be kept separate, 108.180 to 108.210, 108.230
+Refunding bonded indebtedness, procedure, 108.140 to 108.160*
+
+### 243.400 County commission authorized to pledge bonds — manner.
+
+1. Bonds issued under the authority of section 243.390 or refunding bonds issued to refund any or all such bonds may be pledged by the county commission to any corporation, commission or agency created or authorized by congress or the state of Missouri to accept a pledge of such bonds, and the county commission is authorized to pledge the bonds of any drainage district created under this chapter in a manner to conform to the requirements, rules and/or regulations of any such corporation, commission or agency.
+2. Upon a pledge of any such bonds as by this section authorized, funds shall be provided to redeem said bonds and interest thereon from the terms of such pledge in the same manner as if said bonds had been sold, and the lien of pledged bonds and interest thereon shall be enforced in the same manner as provided in this chapter for bonds sold.
+3. Funds derived from a pledge of any such bonds shall be deposited, accounted for and expended in the same manner as if such bonds had been sold or as may be provided by the requirements, rules and/or regulations of the corporation, commission or agency accepting a pledge of such bonds and advancing funds thereon.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12419)*
+
+### 243.410 County treasurer to be custodian of district funds — duties.
+
+1. The treasurer of the county in which a drainage district is located shall act as treasurer of the district and shall be the custodian of the funds of the district, except as otherwise provided in this chapter.
+2. He shall receive and receipt for all such funds and shall enter into a separate bond for each district in the county in a sum to be fixed by the county commission, not less than the probable amount of funds of said district to be in his possession at any one time. Such bond shall be payable to the district, shall be approved by the county commission, shall be signed by two or more residents of the county or by a surety company authorized to transact business in the state and shall be conditioned for the faithful and prompt disbursement according to law of all such funds as shall from time to time be in his possession. The premium on such bond may be paid by the district.
+3. Except as otherwise provided in this chapter, the treasurer shall keep all district funds received by him deposited in a bank or banks selected in the same manner and at the same time that the depositary for county funds is selected. All interest accruing on district funds shall be credited to the district and any premium on a surety bond may be paid by the district.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12422, A.L. 1990 H.B. 1070)
+Prior revisions: 1929 § 10832; 1919 § 4500; 1909 § 5634*
+
+### 243.420 Fees for services.
+
+1. The fees allowed by county commissions for services actually rendered drainage districts organized under the provisions of this chapter shall be determined by the county commission.
+2. The county commission shall have power to contract for any of the aforesaid services. All expense accounts shall be accompanied by vouchers showing the items actually paid.
+
+*Effective 8/28/1983 · (RSMo 1939 § 12450, A.L. 1983 H.B. 236)
+Prior revisions: 1929 § 10860; 1919 § 4527; 1909 § 5618*
+
+### 243.430 Claims for fees, how paid.
+
+Until the proceeds of taxes or bonds are available, all fees under this chapter shall be paid out of the county treasury when claims therefor are allowed by the county commission, and the general county fund shall be reimbursed out of the money realized from the sale of bonds or collection of taxes.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12451)
+Prior revisions: 1929 § 10861; 1919 § 4528; 1909 § 5619*
+
+### 243.440 Drainage proceedings to be recorded — method.
+
+A complete record of all proceedings under this chapter shall be kept by the county clerk in a separate book to be secured for that purpose. The book shall be designated as the "Drainage Record of ______ County, Missouri", and shall also have recorded therein all papers, documents, bonds and plats filed in any drainage proceeding in that county. It shall be the duty of the county commission to have the accounts of each drainage district audited each year and the auditor's report shall be recorded in the drainage record.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12421)
+Prior revisions: 1929 § 10831; 1919 § 4499*
+
+### 243.450 All or portions of districts may reorganize and consolidate under sections 242.010 to 242.690.
+
+1. Two or more districts organized under the provisions of this chapter may come within, and operate under sections 242.010 to 242.690, and portions of two or more districts organized under the provisions of this chapter may come together and operate under sections 242.010 to 242.690 whenever the owners of one-fourth of the acres of land in the proposed consolidated district sign and present a petition to the circuit court of the county in which there lies the greatest acreage of land in the proposed consolidated district, stating therein:
+(1) The numbers or corporate name or names of such district or districts to be included in whole or in part;
+(2) The boundaries of each district or portion of district separately;
+(3) The boundary lines of the proposed consolidated district;
+(4) The approximate number of acres of land in each district or portion of district;
+(5) The approximate number of acres of land in the proposed consolidated district;
+(6) The approximate amount of the benefits reported and apportioned by the viewers and confirmed by the county commission in each district or portion of district;
+(7) The aggregate amount of such benefits as ascertained, apportioned and confirmed;
+(8) The amount of bonds issued, by each district, giving the amount, dates, numbers, denominations, maturities, rate of interest, and where payable;
+(9) The aggregate amount thereof; and
+(10) The number of years it is to continue.
+2. In such petition it shall be asked that the court adjudge such districts or portions of districts to be a body corporate, for a number of years not exceeding the time named in the petition, and under the name of "Consolidated Drainage District No. ______ of ______ County, Missouri".
+
+*Effective 8/28/1986 · (RSMo 1939 § 12446, A.L. 1963 p. 394, A.L. 1986 S.B. 488)
+Prior revisions: 1929 § 10856; 1919 § 4523*
+
+### 243.460 Notice to be published — form — jurisdiction of circuit court.
+
+1. When such petition shall have been filed in the office of the clerk of the circuit court of the county wherein lies the greatest number of acres in the proposed consolidated district, the clerk shall immediately cause to be published in some newspaper in each county having lands in the proposed district three consecutive weeks, three times, a notice, substantially in the following form:
+­
+­
+2. The circuit court of the county in which said petition has been filed shall thereafter, for all purposes of this chapter, have and maintain original and exclusive jurisdiction coextensive with the boundaries and limits of said district without regard to county lines.
+
+*Effective 1/2/1979 · (RSMo 1939 § 12447, A.L. 1978 H.B. 1634)
+Prior revisions: 1929 § 10857; 1919 § 4524
+Effective 1-2-79*
+
+### 243.470 Objections to petition for consolidation may be filed — proceedings.
+
+1. Any owner of real estate or other property in said proposed district objecting to the organization and incorporation of said drainage district, who did not sign the petition, shall, on or before the first day of the term of court at which the cause is to be heard, file his objection or objections to the organization and incorporation of any consolidated drainage district.
+2. Such objection or objections shall be limited to a denial of the statements in the petition, and shall be heard by the court in a summary manner, without unnecessary delay, and if the petition is signed by the owners of a majority of the acreage of land in the proposed consolidated district, then it will be the duty of the court to grant the prayer of the petition and organize and incorporate the district as in the case of organizing and incorporating a district in the first instance under sections 242.010 to 242.690. But if such petition shall be signed only by the owners of less than one-half of the acres of land in such district or districts, then it shall be discretionary with the court whether the prayer of the petition be or be not granted. If the said petition be verified by one or more signers, it shall be prima facie evidence of the statements and allegations therein contained. Any person having signed the petition shall have no right to have said proceedings dismissed as to him without the written consent of the majority in acreage of the owners who signed the petition. The petition may be amended as any other pleading.
+3. Within sixty days after the said district has been declared a corporation by the court, the clerk thereof shall transmit to the secretary of state a certified copy of the findings and decree of the court incorporating said district, and the same shall be filed in the office of the secretary of state in the same manner as articles of incorporation are now required to be filed under the general law concerning corporations. A copy of said findings and decree, together with a plat of the district, shall also be filed in the office of the county recorder in each of the counties having lands and other property in said district, where the same shall become a permanent record, and each such recorder shall receive a fee of one dollar for filing and preserving the same.
+4. Thereafter such proceedings shall be had as is provided by sections 242.010 to 242.690. This chapter shall not be construed to be repugnant to, in conflict with, or as repealing any other law or laws of this state relating to the organization or incorporation of levee or drainage districts; but shall be held and construed to be cumulative thereto.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12448)
+Prior revisions: 1929 § 10858; 1919 § 4525*
+
+### 243.475 Consolidation of district organized by circuit court and district organized by county commission, effect — laws governing.
+
+1. Any district organized under the provisions of this chapter may become consolidated with a district organized under the provisions of chapter 242 and the resulting consolidated district may operate under the provisions of sections 242.010 to 242.690 whenever the owners of a majority of the acres of the district operating under chapter 242, together with the owners of a majority of the acres of the district with which such district desires to be consolidated, sign and present a petition to the circuit court of the county in which there lies the greatest acreage of land in the proposed consolidated district, stating therein:
+(1) The number or corporate name of each district;
+(2) The boundaries of each district, separately stated;
+(3) The boundary lines of the proposed consolidated district;
+(4) The number of acres in each district;
+(5) The amount of assessed benefits in each district;
+(6) The amount of bonds outstanding in each district, giving the annual dates, numbers, denominations*, maturities, rate of interest, dates of future payments and when payable; and
+(7) The number of years the consolidated district is to continue.
+­­
+­
+2. Upon the filing of the petition provided for in subsection 1 of this section, the circuit clerk shall give notice of such filing in the manner provided for giving notice in section 242.030, which notice shall state the contents of the petition, the objects sought by the petition, and the date on which the petition is to be heard. Any person owning land in either of the districts which are the subject of the petition may, on or before the date set out in the notice on which the matter is set to be heard, file objections to the consolidation. If the objections made under this subsection are overruled, or if no objections are made, the court shall order that the districts asking to be consolidated shall be consolidated as one district under the designation requested in the petition, with all the rights, powers and privileges of districts organized under sections 242.010 to 242.690, and:
+(1) The lands so included in the new district shall be subject to all liens, liabilities and obligations of the original districts; except that, if any district included in the consolidated district shall have issued bonds which are outstanding at the time of the consolidation under this section, the taxes levied to pay such bonds, and the interest thereon, shall be an obligation on only the property within such original district;
+(2) A new board of supervisors shall be elected as provided in sections 242.010 to 242.690 for the election of supervisors;
+(3) All orders made in regard to the extension of time, boundaries or consolidating districts shall be spread on the records of the circuit court and a certified copy thereof shall be filed with the recorder of deeds of each county in which any land of the consolidated district is located and with the secretary of state.
+3. The recorder of deeds of each county shall receive a fee of one dollar for filing and preserving each certified copy of orders described in subdivision (3) of subsection 2 of this section.
+
+*Effective 8/28/1986 · (L. 1985 H.B. 660 § 1, A.L. 1986 S.B. 488)
+*Word "demonstrations" appears in original rolls.*
+
+### 243.480 Failure or refusal of official to perform duty — penalty.
+
+If any engineer or county commission or clerk of the circuit court or other official shall neglect or refuse to perform any duty imposed by the provisions of this chapter, he shall forfeit and pay a fine of one hundred dollars for every such refusal, to be recovered by proper process.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12438)
+Prior revisions: 1929 § 10848; 1919 § 4515; 1909 § 5616*
+
+### 243.490 County collector liable, when — penalty.
+
+If any county collector of the revenue refuses, fails or neglects to make prompt payment of the tax or any part thereof collected under this chapter to the county treasurer as provided in said chapter, then he shall pay a penalty of ten percent on the amount of his delinquency; such penalty shall at once become due and payable and both he and the sureties on his bond shall be liable therefor on his aforesaid bond.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12439)
+Prior revisions: 1929 § 10849; 1919 § 4516*
+
+### 243.500 Validity of bonds issued unquestionable.
+
+Hereafter when any bonds issued by any drainage district organized or incorporated under the laws of this state are sold for a sum or price allowed by law, and the proceeds of the sale thereof paid to the proper officer of the district, then except for the power to issue the bonds, neither the validity of them nor the tax levied to pay them shall thereafter be questioned in any court of law or equity.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12420)
+Prior revisions: 1929 § 10830; 1919 § 4498*
+
+### 243.510 Suits to be brought in name of state.
+
+Suits on bonds for costs and the performance and completion of work on contract shall be brought in the name of the state of Missouri at the relation and to the use of the drainage district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12440)
+Prior revisions: 1929 § 10850; 1919 § 4517; 1909 § 5621*
+
+### 243.520 Appeals — procedure.
+
+The clerk of the circuit court shall docket any appeal, styling the appellant the plaintiff and the drainage district the defendant, and the cause shall stand for trial and be tried as other appeal cases are tried in the circuit court. After the trial and judgment in the circuit court, the clerk of that court shall retain the transcript of the proceedings in the county commission and retransmit to the county clerk all of the original papers filed in his office by the county clerk, together with a transcript of the proceedings had in the circuit court, including a certified copy of the finding or verdict and the judgment of the said court; the clerk of the circuit court shall also certify an itemized statement of the cost accruing on the appeal, and such costs shall be paid as provided in this chapter. After a transcript of the proceedings had in the circuit court is filed in the office of the county clerk, the county commission shall cause such entries to be made on its record as may be necessary to give effect to the judgment of the circuit court.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12410)
+Prior revisions: 1929 § 10821; 1919 § 4489; 1909 § 5593*
+
+### 243.530 Chapter declared remedial in character and purpose.
+
+1. The repeal of article 4, chapter 41, RSMo 1909, shall not have the effect of suspending, abating, abridging, impairing, vitiating, or nullifying any right, power, remedy, or lien heretofore given, created or conferred upon any drainage district heretofore organized or in process of organization at the time of passage of this chapter, under any law of this state, but all such rights, powers, remedies and liens are hereby directly preserved to all such drainage districts; nor shall the repealing of existing laws have the effect of suspending, abridging, abating or nullifying any proceeding or proceedings now pending in any court of this state or of the United States; nor shall the repealing of existing laws have the effect of impairing, invalidating, discharging, changing, modifying or destroying any obligation, contract or undertaking, entered into by, or with any drainage district now organized and existing under any law in this state, but all such obligations, contracts and undertakings so entered into shall be and remain inviolate.
+2. All rights, powers, liens and remedies now existing in behalf of any drainage district of this state may be enforced and made available under the provisions of this chapter, if applicable, at the election of the drainage district. This chapter is hereby declared to be remedial in character and purposes, and shall be liberally construed by the courts in carrying out this legislative intent and purpose.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12454)
+Prior revisions: 1929 § 10864; 1919 § 4531*
+
+### 243.540 Penalty for violation of provisions of chapter.
+
+Any person, corporation, member of the county commission or municipal corporation, convicted of a misdemeanor as defined by this chapter shall pay a fine of not less than five dollars nor more than one thousand dollars, and if such violation of said chapter as the conviction is for shall not be abated by the party so convicted within thirty days after such conviction, then the continuance of such obstruction or other violation of the provisions of this chapter after said period of thirty days shall for each and every day the same is continued constitute a separate offense, for which, on conviction thereof, the party so offending shall be punished by a fine of twenty-five dollars.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12444)
+Prior revisions: 1929 § 10854; 1919 § 4521; 1909 § 5630*
+
+### 243.550 Petition for reassessment of benefits, form — procedure for maintenance levy or for a new tax to pay costs of plan for reclamation.
+
+Whenever the owners of twenty-five percent or more of the acreage of the lands in the district shall file a petition with the county commission stating that there has been a material change in the values of the property in the district since the last previous assessment of benefits or readjustment of the assessment of benefits and praying for a readjustment of the assessment of benefits for the purpose of making a more equitable basis for the levy of the maintenance tax or for the purpose of levying a new tax to pay the costs of the completion of the proposed works and improvements as shown in any supplemental plan for reclamation, or for both of the aforesaid purposes, the county commission shall give notice of the filing and hearing of the petition by posting such notice in a prominent place in the court house and by publication in a newspaper of general circulation in the county once a week for at least four consecutive weeks, the last insertion to be at least fifteen days prior to the hearing of the petition. The notice may be in the following form:
+­
+­
+­­
+­
+
+*Effective 8/28/1993 · (L. 1993 S.B. 56 § 243.550 subsec. 1)*
+
+### 243.551 County commission to appoint three viewers, qualifications, duties — report, procedure — readjustment of benefits limited to once a year — payment may be by installments.
+
+Thereupon the county commission shall appoint three viewers, possessing the qualifications of viewers appointed under section 243.050 to make such readjustment of assessments in the manner provided in section 243.050 and the viewers shall make their report, and the same proceedings shall be had thereon, as nearly as may be, as are herein provided for the assessment of benefits accruing for original construction; provided, that in making the readjustment of the assessment of benefits, the viewers shall not be limited to the aggregate amount of the original or any readjustment of the assessment of benefits and may assess the amount of benefits that will accrue from carrying out and putting into effect any supplemental plan for reclamation. After the making of such readjustment, the limitation of twenty percent of the annual maintenance tax which may be levied shall apply to the amount of benefits as readjusted, and the limitation of the tax which may be levied for payment of the costs of the completion of the proposed works and improvements shown in any supplemental plan for reclamation shall apply to the amount of the benefits as readjusted. There shall be no such readjustment of benefits more often than once in a year. The list of lands, and other property, with the readjusted assessed benefits and the order of the county commission, shall be filed in the office of the county recorder. The petition for reassessment of benefits may request that the cost of the improvement be payable in more than one installment and if the county commission agrees in its order of assessment, the assessment shall be payable in the number of installments, not exceeding fifteen, so found to be desired, which installments shall be equal, and each tract of land in the district shall be charged with interest which shall be apportioned against the lands in the district by the same rule of apportionment as the principal assessment.
+
+*Effective 8/28/1993 · (L. 1993 S.B. 56 § 243.550 subsec. 2)*
+
+### 243.553 Installments payable, when.
+
+The payments of such installments, and such interest charge and the payments thereof, shall be as follows:
+(1) If such order is made on or after the first day of January and before the first day of November of any year, the first installment shall be payable on the thirty-first day of December following the date of such order, with interest on the principal, at the rate of six percent per annum, from the date of such order until the first day of April after the date such installment becomes payable, and one installment shall become payable on the thirty-first day of each December thereafter with interest at such rate on the portion of the principal then unpaid, from the thirty-first day of the previous December until the first day of the following April, until the entire assessment is paid.
+(2) If such order is made on or after the first day of November of any year, the first installment of such special assessment shall be payable on the thirty-first day of December of the next year after the date of such order, with interest at such rate on the principal from the date of such order until the first day of April after the date such first installment becomes payable, and thereafter an installment shall be payable on the thirty-first day of each December, with interest at such rate on the principal then unpaid, from the thirty-first day of the previous December to the first day of the following April, until the entire principal of the assessment is paid.
+
+*Effective 8/28/1993 · (L. 1993 S.B. 56 § 243.550 subsec. 3)*
+
+### 243.560 Bond issues authorized, amount — rate — payable when — county treasurer to sell — cost, not obligation of county.
+
+1. The county commission may, on behalf of the district, issue bonds not to exceed ninety percent of the total amount of the assessments levied under the provisions of sections 243.550 to 243.553, in denominations of not less than one hundred dollars, bearing interest from date at a rate not to exceed six percent per annum, payable semiannually, to mature at annual intervals within twenty years, commencing after a period of years, not later than five years, to be determined by the county commission, both principal and interest payable at some convenient banking hours or trust company's office to be named in the bonds, which bonds shall be signed by the presiding commissioner, attested by the signature of the county clerk.
+2. All of said bonds shall be executed and delivered to the county treasurer, who shall sell the same in such quantities and at such dates as the county commission may deem necessary to meet the payments for the works and improvements in the district. The bonds shall not be sold for less than ninety-five cents on the dollar, with accrued interest, shall show on their face the purpose for which they are issued, and shall be payable out of money derived from the assessment levied under the provisions of sections 243.550 to 243.553. The bonds shall not be payable out of funds of the county and are not obligations of the county.
+
+*Effective 8/28/1993 · (L. 1993 S.B. 56 § 243.560 subsecs. 1, 2)*
+
+### 243.561 County commission to appropriate money to pay principal and interest on bonds — money collected to be deposited in separate fund, purpose.
+
+A sufficient amount of the assessment levied under the provisions of sections 243.550 to 243.553 shall be appropriated by the county commissioners for the purpose of paying the principal and interest of the bonds and the same shall, when collected, be preserved in a separate fund for that purpose and no other. All bonds and coupons not paid at maturity shall bear interest at the rate of six percent per annum from maturity until paid, or until sufficient funds have been deposited at the place of payment, and the interest shall be appropriated by the county commission out of the penalties and interest collected on delinquent assessment or any other available funds of the district. Any expense incurred in paying the bonds and interest thereon, and a reasonable compensation to the bank or trust company for paying same, shall be paid out of other funds of the district collected for the purpose of meeting the expenses of administration.
+
+*Effective 8/28/1993 · (L. 1993 S.B. 56 § 243.560 subsec. 3)*
+
+### 243.563 Proceeds of assessment insufficient to pay principal and interest on bonds, procedure — funds derived from bond sale, purpose.
+
+1. It shall be the duty of the county commission in making assessments, as provided in this chapter, to take into account the maturing bonds and interest on all bonds, and to make ample provisions in advance for the payment thereof. In case the proceeds of the assessment made under the provisions of sections 243.550 to 243.553 are not sufficient to pay the principal and interest of all bonds issued, then the county commission shall make such additional levy or levies upon benefits assessed as are necessary for this purpose, and under no circumstances shall any assessment be made that will in any manner or to any extent impair the security of the bonds or the fund available for the payment of the principal and interest of the same.
+2. The funds derived from the sale of the bonds or any of them shall be used for the purpose of paying the cost of the drainage works and improvements and such costs, expenses, fees and salaries as may be authorized by law and used for no other purpose.
+
+*Effective 8/28/1993 · (L. 1993 S.B. 56 § 243.560 subsecs. 4, 5)*
+
+## Chapter 244 — Private Drainage Rights
+
+### 244.010 Drainage for agricultural or sanitary purposes.
+
+The owner or owners of all or any part of any tract or parcel of swamp, wet, flat or overflowed land in this state, situated within or without any drainage or levee district organized under any laws of this state, shall have the right, under the provisions of this chapter, to drain or protect such land for sanitary or agricultural purposes, without forming such land into a district, by constructing an open ditch, laying tile or building a levee, and such ditch, tile or levee may be constructed through or across any tract or parcel of land situate between such land to be drained or protected and any lake, bayou, hollow, creek, artificial drainage ditch, river, depression or other outlet into which the waters from such swamp, wet, flat or overflowed land can be drained, provided the owner or owners of the land through or upon which such ditch, tile or levee must be built be paid a sum equal to the value of land, if any, consumed in constructing such works and the amount of damages, if any, that will be sustained by such land from the construction and maintenance of the improvement.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12455)
+Prior revisions: 1929 § 10865; 1919 § 4560; 1909 § 5662
+CROSS REFERENCE:
+County planning commission, class one counties, approval of improvements, 64.010 to 64.205*
+
+### 244.020 Disagreement on drainage methods — petition circuit court.
+
+1. When the owner or owners of the land to be drained or protected and the owner or owners of the land through or across which such improvements are to be built or constructed fail to agree as to the location of the ditch, tile or levee or as to the value of land, if any, to be used, or the amount of damages, if any, that will result from constructing the improvements, the owner or owners of the land desired to be drained or protected shall have the right to file with the circuit clerk their petition, which shall state the method of drainage or protection desired, the name or names of the owner or owners of the land to be drained or protected with a description of the land owned by each, and the name or names of the owner or owners of the land through or upon which such drain or levee must pass, with a description of land owned by each, and that the owners are unable to agree as to the best method to adopt for the drainage or protection of the swamp, wet, flat or overflowed land, the value of the land, if any, to be used for any ditch, tile or levee, or the amount of damages, if any, that should be paid the owner or owners of the land through or upon which the proposed improvements must be constructed. Said petition shall pray the circuit court that commissioners be appointed to consider any and all matters not agreed upon by the landowners and to make a report and recommendations for the adjustment of such disagreements.
+2. A rough plat of all land that will in any way be affected by the proposed improvements and indicating the approximate location and course of the ditch, tile or levee, shall be filed with said petition, but such plat need not be made by an engineer; provided, that before any such owner or owners shall have the right to file any such petition he or they shall first tender in writing to the owner or owners of the land through or upon which such ditch, tile or levee is to be constructed, a sum of money equal to the amount of the value of the land, if any, that will be used in constructing the ditch, tile or levee, plus the damages, if any, that will accrue to the land and the cost of the crossings, if any are needed, which said amount, in the estimation of the owner or owners of the land to be drained or protected, seems just compensation for the total cost of such items, and the fact of said tender having been made and the amount of the same shall be stated in the foregoing petition.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12456, A.L. 1945 p. 852)
+Prior revisions: 1929 § 10866; 1919 § 4561; 1909 § 5665*
+
+### 244.030 Filing of objections — hearing by court — appointment of commissioners.
+
+1. Such petition, as soon as so signed, shall be filed in the office of the circuit clerk of the county in which is situate the land that will be affected by the proposed improvements; each person not having signed such petition, owning land that will be either damaged or benefitted by the construction of the ditch, tile or levee shall be named as a party defendant in such action and served with a summons and a copy of the petition, as in ordinary civil actions. If such owner or owners of land be nonresidents of the state, then such service shall be had as provided in the civil code of Missouri.
+2. The court shall set a date to hear objections, which such date shall be named in a notice accompanying such petition and given each owner of land and which hearing shall not be more than twenty days from the return date; such notice shall state the purpose sought as set out in the petition and that the person receiving such notice shall have the right to file objections to the petition. Any person whose land will be affected in any manner by the proposed ditch, tile or levee shall have the right to file his objection on or before the date set for such hearing and before the hour of such hearing. Such objection or objections shall be limited to a denial of the allegations as contained in the petition.
+3. The circuit court shall hear such objections without unnecessary delay and if such objections be overruled it shall appoint three disinterested residents of the county, not of kin within the second degree of consanguinity to any person owning land to be affected, as commissioners, who before entering upon their duties shall be sworn to faithfully and impartially perform the duties imposed upon them by this chapter.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12457, A.L. 1945 p. 852, A.L. 1990 H.B. 1070)
+Prior revisions: 1929 § 10867; 1919 § 4562*
+
+### 244.040 Duties of commissioners.
+
+Within twenty days after so qualifying, unless prevented by sickness or some other good cause, said commissioners shall proceed to view the premises and perform their duties. They shall be furnished by the clerk of the circuit court a copy of the plat of the land and proposed improvements filed with the petition under the provisions of section 244.020. They shall mark out the most practical route and location of the ditch, tile or levee, and they shall assess the benefits and damages, if any, that will accrue to each tract or parcel of land, according to ownership, because of the proposed works; they shall specify the number of crossings, if any, that will be needed for the use and convenience of the public or owners of the land to be affected by the proposed works, and they shall make such recommendations as they may consider necessary for the use of the circuit court in deciding the cause. They shall make out their report in writing and after the same shall have been signed by at least two of said commissioners, it shall be filed in the office of the circuit clerk. Said commissioners may employ an engineer or surveyor to run levels, make measurements and obtain such other information as said commissioners may deem necessary to assist them in their work.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12458, A.L. 1945 p. 852)
+Prior revisions: 1929 § 10868; 1919 § 4563*
+
+### 244.050 Notification of commissioners' report — filing of objections.
+
+Within ten days after the filing of the commissioners' report the clerk of the circuit court shall give notice of such filing to each landowner, and said notice shall state the hour and date at which the circuit court, provided there be not less than five days between the serving of such notice and the date of hearing, will hear objections to said report. Any person whose land will be affected by the improvements as shown by said commissioners' report, shall have the right, on or before the date set for hearing of said report and before the hour set for said hearing, to file his objections to said report.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12459, A.L. 1945 p. 852)
+Prior revisions: 1929 § 10869; 1919 § 4564*
+
+### 244.060 Confirmation or rejection of report — payment of costs.
+
+Said circuit court shall hear all such objections in a summary manner and without unnecessary delay, and should it find that no objection should be sustained, the court shall approve and confirm said report, but if the court shall find that any or all of the exceptions or objections should be sustained, it shall render its decree accordingly. All additional costs incurred by hearing and determining such objections shall be apportioned by the circuit court to the landowners in proportion to the objections sustained or overruled. If the report of the commissioners as confirmed, or as modified, shows that the damages and cost of necessary crossings exceed the amount tendered, under the provisions of section 244.020, to the owner or owners of the land traversed by the works, the total court cost of the case, including fees and expenses of commissioners, shall be paid by the petitioner or petitioners, but if the amount of such items be not greater than the tendered amount the cost shall be paid by the objectors.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12460, A.L. 1945 p. 852)
+Prior revisions: 1929 § 10870; 1919 § 4565*
+
+### 244.070 Limitation on improvements — dismissal of case, when.
+
+1. The word "tract" and "parcel" of land as used in this chapter shall include town lots or other subdivisions of land according to ownership. Persons desiring to drain or protect land under the provisions of this chapter shall not be limited to a single ditch, tile or levee, but two or more of each or all three may be constructed for the drainage or protection of the same tract of land.
+2. If the report of the commissioners, as approved or as amended by the circuit court shows the total cost of the improvements, including value of the land used, the amount of the damages and cost of crossings, exceeds the total benefits accruing to all the land from the proposed improvement, the court shall dismiss the case and tax the court costs against the petitioners. Thereafter any one or more persons owning any portion of the wet, swamp, flat or overflowed land shall have the right to construct the ditch, tile or levee at his or their expense, but if constructed under such conditions the other owners of land that will be improved shall not be taxed for any of the costs.
+
+*Effective 8/28/1949 · (RSMo 1939 § 12465, A. 1949 S.B. 1084)
+Prior revisions: 1929 § 10875; 1919 § 4570*
+
+### 244.080 Appeals from circuit court decision.
+
+Any person may appeal from the decision or decree of the circuit court as provided by law in other civil actions. Such appeal shall not act as a supersedeas or delay construction of either the ditch or levee or laying of the tile, but before such work shall be begun the owners of the land to be drained or protected shall pay into the hands of the circuit clerk for the use of the parties whose land is taken or injured, the amount awarded to said party or parties by the circuit court.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12461, A.L. 1945 p. 852)
+Prior revisions: 1929 § 10871; 1919 § 4566*
+
+### 244.090 Disagreement on manner of construction — petition circuit court.
+
+1. The owner or owners of the land benefitted shall have the right, without obtaining permission of the circuit court, to construct the ditch or levee or lay the tile or to arrange to have such constructed or laid, but the damages resulting, if any, from the construction of the same shall be paid in cash to the owner or owners of the land taken or damaged, or the sum awarded for such items shall be placed in the possession of the circuit clerk for the use of such persons, before such construction shall be begun.
+2. In case the owners of the land benefitted are unable to agree among themselves as to the manner of constructing the ditch or levee or laying the tile or letting the contract for the same, the circuit court shall have the power, upon being petitioned by a majority of persons interested, after due notice has been given to other interested parties, to let the work of construction out to the lowest or best bidder, and after such costs have been determined, the circuit clerk, upon order of the circuit court, shall apportion the total cost to each tract or parcel of land according to ownership in proportion the benefits derived as ascertained and determined by the court, and such cost shall become a lien upon such land and remain the same until paid.
+3. Such lien shall be enforced by suit brought on bills properly made out and certified to by the circuit clerk, such suit to be brought in the name of the state at the relation of the interested party or parties in any court of competent jurisdiction. All sums collected by such suit shall include the court cost incurred in bringing and conducting such suit and a reasonable attorney's fee to be fixed by the court hearing said cause.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12462, A.L. 1945 p. 852)
+Prior revisions: 1929 § 10872; 1919 § 4567*
+
+### 244.100 Rights of owners after construction.
+
+The owners of the land benefitted shall have the right at any time after the ditch, tile or levee has been completed, to go upon the land through or upon which such works shall have been built and repair the same, but no right to enlarge or change the location of the ditch, levee or tile is granted under this chapter without first obtaining consent of the owner or owners of land traversed, either by free gift or purchase, but the owner or owners of the land drained or protected shall have the right to petition for privilege from the circuit court to enlarge works already made or to make necessary additional improvements, and such petition shall be proceeded with in the same manner as is provided in sections 244.020 and 244.030 for original construction.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12463, A.L. 1945 p. 852)
+Prior revisions: 1929 § 10873; 1919 § 4568*
+
+### 244.110 Compensation — appointment of special commissioners and surveyor.
+
+1. The parties petitioning shall be liable for all costs incurred on account of any proceeding under this chapter. Each commissioner shall receive for his services two dollars for each day employed and necessary expenses incurred in addition thereto; any surveyor for services rendered while working under the direction of the commissioners shall be paid three dollars per day and all necessary expenses.
+2. In case it becomes the duty of the circuit court to have the work constructed, as is provided for in section 244.090, said court shall have the right to appoint a special commissioner, who may or may not be a surveyor, and not owning land that is affected in any way by the works, to take charge of the construction and report to said court from time to time as to the progress of said construction and make a full report when the same has been completed. Such commissioner shall, upon completion of the work, make a final report to the court, and said court shall, if it finds said work performed according to contract, accept and confirm said report.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12464, A.L. 1945 p. 852)
+Prior revisions: 1929 § 10874; 1919 § 4569*
+
+### 244.120 Amendment of petition — rights of landowner.
+
+1. The petition as signed and filed under the provisions of this chapter may be amended at any time as other pleadings in other cases.
+2. The owner or owners of land within or without any levee or drainage district organized under the laws of this state shall be permitted to connect a ditch, tile or levee constructed under the provisions of this chapter with any artificial ditch, drain or levee of any drainage or levee district on such terms as the board of supervisors of such drainage or levee district or the court, under which any such district has been organized, may prescribe.
+3. A petition filed under the provisions of this chapter and any and all matters pertaining thereto may be heard and determined by the circuit court at any time at a regular, adjourned or special session.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12466, A.L. 1945 p. 852)
+Prior revisions: 1929 § 10876; 1919 § 4571*
+
+### 244.130 Penalty for obstructing ditch — inspection of lands without owner's consent.
+
+1. Any person or persons, copartnership or corporation willfully filling up or obstructing or impairing the usefulness of any ditch, tile or levee constructed under the provisions of this chapter shall be deemed guilty of a misdemeanor, and upon conviction therefor shall be fined in a sum not less than fifty dollars nor more than two hundred dollars for each and every offense, or such person or persons, or the agent or agents of the copartnership or corporation responsible for such damage or injury having been wrought, may be confined in the county jail not less than thirty days nor more than six months.
+2. The owner or owners of the land desired to be drained shall have the right to go upon or send an engineer or surveyor upon the land through or upon which the ditch, tile or levee is to be built, without first obtaining consent from the owner or owners of such land, for the purpose of making measurements, running levels and obtaining other information to be used in forming conclusions pertaining to the slope of the land, length of the improvements and proper location of the same; provided, that notice of the purpose and intention of such act be first given in writing to the owner of the land through or across which the works are to be constructed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12467)
+Prior revisions: 1929 § 10877; 1919 § 4572; 1909 § 5670*
+
+## Chapter 245 — Levee Districts
+
+### 245.010 Definitions.
+
+1. The term "levee districts" as used in sections 245.010 to 245.280, and all other terms or provisions of law contained in sections 245.010 to 245.280, which have heretofore been interpreted, as apply to said levee districts, shall be construed to include, authorize, provide for and be made applicable to all districts now organized or which may hereafter be organized for the purpose of establishing, constructing or causing to be constructed, levees, dikes, bank protections, current control or other protection or reclamation improvements contiguous or adjacent to or situate near any body of swamp, wet or overflowed land, or other property in the nature of individual or corporate franchises in this state, or land subject to overflow or inundation in or adjacent to any river or stream wholly within or bordering on the state of Missouri, property or land abutting, or situate near, which may be endangered or liable to be endangered through wash or bank erosion; provided, that whenever the proposed district is intended to include or does include lots, tracts, parcels or other subdivisions of land included in any third or fourth class city, town or village of this state, or in any city in this state under fifty thousand population operating under a special charter, the words "acre", "acreage" or "subdivision of land" as now used in sections 245.010 to 245.280, shall be held and construed to include and be used interchangeably with the words "area", "lot", "tract" or "parcel of land", so that a lot or other subdivision of land within such cities shall correspond to the word "acre" as used in sections 245.010 to 245.280, when the levee district is organized in a rural area.
+2. The word "owner" as used in sections 245.010 to 245.280 shall mean the owner of the freehold estate, as appears by the deed record, and it shall not include reversioners, remaindermen, trustees, or mortgagees, who shall not be counted and need not be notified by publication, or served by process, but shall be represented by the present owners of the freehold estate in any proceeding under sections 245.010 to 245.280.
+
+*Effective 1/2/1979 · (RSMo 1939 §§ 12493, 12531, A.L. 1974 V. II p. 226, A.L. 1965 p. 381, A.L. 1978 H.B. 1634)
+Prior revisions: 1929 §§ 10903, 10941; 1919 § 4635
+Effective 1-2-79*
+
+### 245.015 Owners may form levee district, where — articles of incorporation to be filed in circuit court.
+
+1. The owners of a majority of the acreage in any contiguous body of swamp, wet or overflowed land or other property in the nature of individual or corporate franchises in this state, or land subject to overflow, wash or bank erosion, located in one or more counties or in any city, town, or village in this state not located within any county with a charter form of government and with more than two hundred fifty thousand but less than three hundred fifty thousand inhabitants, or in any city, town, or village of the third or fourth classification in this state which is located within any county with a charter form of government and with more than two hundred fifty thousand but less than three hundred fifty thousand inhabitants, may form a levee district for the purpose of having such land and other property reclaimed and protected from the effects of overflow and other water, for sanitary or agricultural purposes, or from the effect of wash or bank erosion, or when the same may be conducive to the public health, convenience or welfare, or of public utility or benefit, by levee, or otherwise, and for that purpose they may make and sign articles of association in which shall be stated: the name of the district, and the number of years the same is to continue; the boundary lines of the proposed levee district; the names as listed on the county assessor's records of the owners of land or other individual or corporate franchise property in such district, together with a plat of the district showing the lands to be covered in the district; such articles shall further state that the owners of real estate and other such property within the district whose names are subscribed to such articles are willing to and do obligate themselves to pay the tax or taxes which may be assessed against their respective lands or other property to pay the expense of organizing, and of making and maintaining the improvements that may be necessary to effect the reclamation or protection of such lands or other such property, so formed into a levee district, and to reclaim and to protect the same from the effects of overflow and other water, or from bank erosion or wash, and the articles of association shall contain a petition praying that the lands and other property described therein be declared a levee district under the provisions of this law. After the articles of association and petition have been so signed the same shall be filed in the office of the circuit clerk of the county in which such lands and other property are located; or, if such lands and other property be composed of tracts or parcels located in two or more different counties then in the office of the clerk of the circuit court of the county in which more of such lands and other property are located than in any other county; provided, that in the event any work is to be done upon any navigable stream, the consent of the federal government shall be obtained to make such improvement or improvements before the actual work on the improvements shall be begun.
+2. The* modifications to this section, as enacted by the ninety-second general assembly, second regular session, shall not be construed to enhance or limit the current law, and any interpretation thereof, with regard to where a levee district may or may not be formed within any county with a charter form of government and with more than two hundred fifty thousand but less than three hundred fifty thousand inhabitants nor any city, town, village, or other political subdivision contained therein.
+
+*Effective 8/28/2004 · (RSMo 1939 § 12492, A.L. 1947 V. II p. 226, A.L. 1965 p. 381, A.L. 1994 S.B. 600 merged with S.B. 633, A.L. 2004 H.B. 795, et al. merged with H.B. 1207)
+*Word "Any" appears in original rolls of H.B. 1207, 2004.*
+
+### 245.020 Circuit clerk to give notice by publication — form of notice — mailing required.
+
+1. After such articles of association shall have been filed, the clerk in whose office the articles of association have been filed shall give notice by causing publication to be made once in some newspaper published in each county in which the land and other property of the district are situate. Such notice shall be published within fourteen days of filing of the articles, and the notice shall be substantially in the following form and it shall be deemed sufficient for all purposes of sections 245.010 to 245.280:
+­
+­
+­­
+­
+2. Within fourteen days of the filing of the articles, those petitioning for the creation of the district shall mail, by certified mail, a copy of the notice contained in this section to the names as listed on the county assessor's records of the owners of land identified in the petition or other individual or corporate franchise property in the district identified in the petition, including all public entities owning land within the district.
+
+*Effective 8/28/2008 · (RSMo 1939 § 12494, A.L. 1994 S.B. 633, A.L. 2008 S.B. 939)
+Prior revisions: 1929 § 10904; 1919 § 4598; 1909 § 5704*
+
+### 245.025 Objections to incorporation heard — court decree filed with secretary of state and county recorder.
+
+Any owner of real estate or other property as herein described in said proposed district, who may not have signed said articles of association objecting to the organization and incorporation of said levee district, may, within fourteen days after the date of publication pursuant to section 245.020, file his objection or objections why such levee district should not be organized and incorporated. Such objection or objections shall be limited to a denial of the statements in the articles of association, and shall be heard by the court in a summary manner, taking precedence over all matters except older matters of the same character, and in case all such objections are overruled, the circuit court shall, by its order duly entered of record, duly declare and decree said levee district a public corporation of this state, for a term not exceeding the time mentioned in said articles of association signed and filed. If the court finds that the land set out in said articles of association should not be incorporated into a levee district, it shall dismiss said proceedings and adjudge the costs against the signers of said articles of association in proportion to the acreage represented by each. Any person having signed the articles of association shall have no right to have said proceedings dismissed as to him without the written consent of the majority in acreage of the owners who signed said articles. The articles of association and petition may be amended as any other pleading. Within ten days after the said district has been declared a corporation by the court, the clerk thereof shall transmit to the secretary of state a certified copy of the findings and decree of the court incorporating said district, and the same shall be immediately filed in the office of the secretary of state in the same manner as articles of incorporation are now required to be filed under the general law concerning corporations. The secretary of state shall immediately send a certified copy to the U. S. Corp of Engineers District office where the levee district is located. A copy of said findings and decree, together with a plat of the district, shall also be filed in the office of the county recorder in each of the counties having land in said district, where the same shall become a permanent record, and each such recorder shall receive a fee of one dollar for filing and preserving the same.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12495, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10905; 1919 § 4599
+Effective 7-12-94*
+
+### 245.030 Adjacent districts may consolidate — petition, hearing and decree.
+
+1. Any two or more adjacent districts, whether incorporated in the same or different counties, may be united and consolidated in one district, and such new district and the board of supervisors thereof shall have all the rights, powers and privileges of any district organized under sections 245.010 to 245.280.
+2. In order to effect such consolidation, the board of supervisors of each of the original districts shall call an election in the same manner as election for supervisors, stating the time, place and object of such election. If a majority of the acreage voting in each district vote in favor of the proposition to unite and consolidate such districts, the board of supervisors of each district shall present a petition to the circuit court of the county in which the greatest amount of land is located, accompanied with a complete return of said election, in which petition shall be stated the name of the original district, when incorporated, the names of the owners of the lands and the boundaries of the district.
+3. When said petition has been filed, the circuit clerk shall give notice of such filing in the manner provided for giving notice in section 245.020, said notice to state the contents of said petition and the objects sought and the date on which said matter is to be heard.
+4. Any person owning land in either of said districts, on or before the date set out in the notice on which said matter is set to be heard, may file objections to the regularity or sufficiency of any of the proceedings had in the premises, and if such objections are overruled, or if no objections are made, the court shall make an order that any two or more of the several districts so asking to be united shall be united and consolidated as one district, under some appropriate designation, with all the rights, powers and privileges of districts organized under sections 245.010 to 245.280 and except as hereinafter provided the lands so included in the new district shall be subject to all liens, liabilities and obligations of the original districts, and a new board of supervisors shall be elected, as is now provided in case of election of supervisors, and all orders made in regard to extension of time, boundaries or uniting districts shall be spread on the records of the circuit court, and a certified copy thereof shall be filed with the recorder of deeds of each county in which any of such lands is located, and also with the secretary of state, who shall immediately send a certified copy to the U. S. Corp of Engineers District office where the levee district is located, and said recorder shall receive a fee of one dollar for filing and preserving such certificates; provided, however, that if any district included in any consolidated district shall have issued bonds which are outstanding at the time of such consolidation, the taxes levied to pay such bonds and the interest thereon shall be an obligation of only the property within such component district.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12536, A.L. 1959 H.B. 311, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10946; 1919 § 4640
+Effective 7-12-94*
+
+### 245.035 Time of corporate existence may be extended.
+
+Whenever the board of supervisors of any district organized under sections 245.010 to 245.280 or any previous enactment of the general assembly of the state of Missouri providing for the organization of levee districts by the circuit courts, finds that the time for which such districts has been incorporated should be extended in order to raise funds to complete "the plan for reclamation", pay for works already completed, pay bonds outstanding and interest thereon, or interest on the same, restore any works or construct new works, such board shall call a meeting of landowners of the district in the same manner as is provided for in section 245.060; the notice shall state the time, place and purpose of such meeting, and that if the majority of acres and mileage as herein provided represented at said meeting be cast in favor of such extension of the district's corporate existence a petition will be presented to the court organizing the district, asking for such extension of time. Such meeting shall be conducted in the same manner as is provided in section 245.060 for the election of supervisors, except that one member of the board of supervisors shall act as chairman of such meeting and the secretary of the board or his deputy shall act as clerk; and if a majority of the acreage represented at such meeting shall vote in favor of such extension the board of supervisors shall within forty-five days before the next term of the circuit court file a petition with the clerk of said court praying for the extension of the corporate existence of the district, and after the filing of such petition the same proceedings shall be had as is provided for in sections 245.020 and 245.025 relating to articles of association and incorporation of the district. If such petition be granted by the court, within twenty days thereafter the circuit clerk shall transmit a copy of the decree to the secretary of the board of supervisors, who shall transmit a copy of the same to the secretary of state and to the recorder of deeds of each county having land or other property in the district, who shall file and preserve the same in his office, and for such service he shall receive a fee of one dollar. In case the court shall find that such extensions should not be allowed, said petition shall be dismissed and the cost incurred in the case be paid by the district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12537)
+Prior revisions: 1929 § 10947; 1919 § 4641*
+
+### 245.040 Districts may reorganize.
+
+Any levee district of Missouri heretofore organized, in process of organization or that may hereafter be organized under the provisions of any previous or existing laws of this state, either general or special, other than sections 245.010 to 245.280, may elect in the manner herein provided to become and be reorganized under the provisions of sections 245.010 to 245.280.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12540)
+Prior revisions: 1929 § 10950; 1919 § 4644*
+
+### 245.045 Districts reorganized to receive all benefits — reorganization articles of association to be filed with circuit court.
+
+Any levee district heretofore organized and any district that is now in process of organization or any levee district that may hereafter be organized under any previous or existing law of this state, either general or special, may organize under the provisions of sections 245.010 to 245.280, and after so organized shall be entitled to the benefits of all of the provisions of sections 245.010 to 245.280. The owners of a majority of acreage of any existing levee district may make and sign articles of association in which shall be stated: The name of the district which shall be the same as the name it bears when such articles of association are made, and the number of years such district is to continue, which shall in no event be for fewer years than the life of any of its existing obligations. Such articles shall also state that the boundaries of the district will be the same as the boundaries of the present organization and that the description of the land and other property and the owners thereof are such as are described in the present record of the district as now organized and said articles of association shall contain a petition, praying that the lands of said levee district be declared a levee district under the provisions of sections 245.010 to 245.280. After such articles of association have been so signed, the same shall be filed in the office of the clerk of the circuit court of the county in which such lands are situate, or if such lands be situate in two or more counties, then in the office of the clerk of the circuit court of the county in which there are situate more of said lands than in any other county.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12541)
+Prior revisions: 1929 § 10951; 1919 § 4645*
+
+### 245.050 Notice of reorganization hearing.
+
+Immediately after such articles of association have been filed, the circuit clerk in whose office the same have been filed shall give notice in the manner and for the time specified in section 245.020, said notice to be in substantially the following form which shall be deemed sufficient for all the purposes of sections 245.010 to 245.280:
+­
+­
+­­
+­
+
+*Effective 1/2/1979 · (RSMo 1939 § 12542, A.L. 1978 H.B. 1634)
+Prior revisions: 1929 § 10952; 1919 § 4646
+Effective 1-2-79*
+
+### 245.055 Procedure.
+
+After said notice has been so given the matter shall be proceeded with in the same manner as is provided for where articles of association for the formation of a levee district have been filed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12543)
+Prior revisions: 1929 § 10953; 1919 § 4647*
+
+### 245.060 Election of board of supervisors — term of office.
+
+Within thirty days after any levee district shall have been organized and incorporated under the provisions of section 245.025 the circuit clerk of the court organizing such district shall, upon giving notice by causing publication to be made once a week for two consecutive weeks in some newspaper published in each county in which lands of the district are located, the last insertion to be at least ten days before the day of such meeting, call a meeting of the owners of real estate or other property located in such district, including the authorized representative of any corporation which owns real estate or other property located in such district, at a day and hour specified in some public place in the county in which the district was organized, for the purpose of electing a board of five supervisors, to be composed of owners of real estate in the district, which may include the authorized representative of any corporation which owns real estate or other property in the district, two of whom at least shall be residents of the county or counties in which the district is located, or some adjoining counties; the landowners, when assembled, shall organize by the election of a chairman and secretary of the meeting, who shall conduct the election; at such election each and every acre of land and each and every mile of right-of-way of every corporation owning a franchise in the district shall represent one share, and each owner shall be entitled to one vote in person or by proxy for every acre of land or mile of right-of-way owned by him or her in such district, and the five persons receiving the highest number of votes shall be declared elected as supervisors; and the supervisors shall immediately by lot determine the terms of their office, which shall be respectively one, two, three, four and five years, and they shall serve until their successors shall have been elected and qualified; provided, that if the levee district be located wholly within a third or fourth class city of this state, or within any city in this state under fifty thousand population operating under a special charter then the owner of each lot, tract, parcel or subdivision thereof, as set forth in the final decree of the court creating and incorporating such levee district, shall be entitled to one vote, in person or by proxy, for each lot, tract, parcel or subdivision thereof, owned by him or her.
+
+*Effective 8/28/2004 · (RSMo 1939 § 12496, A.L. 1947 V. II p. 226, A.L. 1999 H.B. 450, A.L. 2004 H.B. 795, et al. merged with H.B. 1207)
+Prior revisions: 1929 § 10906; 1919 § 4600; 1909 § 5705*
+
+### 245.065 Improper election of board of supervisors — court to declare vacancies — new election called.
+
+If it is made to appear to the judge of the circuit court organizing the district, either in term time or vacation, by an application in writing made by any person or persons interested, that any meeting of landowners for the election of the board of supervisors or any member thereof, held under section 245.060, was improperly called or that the notice thereof improperly or insufficiently stated the time and place of such meeting, or that such notice was not published for the proper time or in the proper manner or was for any other reason insufficient, the circuit judge shall order the clerk of the court in which the district was organized to notify by summons the supervisor or supervisors to be affected thereby, setting forth a copy of the application filed and requiring such member or members to appear before the court at a time and place therein specified, which time shall be not less than five days from the receipt of said notice, and show cause why, if any there be, said office or offices shall not be declared vacant. If it appear to the court at the hearing of the objection or complaint that the said notice of landowners' meeting and election was for any reason insufficient, the court shall declare said office or offices vacant and he shall direct the clerk of the court organizing the district to call a meeting of the property owners for the purpose of electing other supervisors to fill the vacancy or vacancies, and thereupon it shall be the duty of the said clerk to call and give notice of such new meeting, in the manner and for the time specified in section 245.060. The meeting of the property owners and the election of the supervisor or supervisors shall be conducted, in all particulars, as prescribed in section 245.060, and the supervisor or supervisors thus elected shall supersede the member or members previously elected, and upon qualifying as provided in sections 245.070 and 245.075, such supervisors shall thereupon become the true corporate authorities of the district for the unexpired term or terms of the de facto supervisor or supervisors whose offices have been vacated as herein provided; provided, that where such vacancy shall occur because of the insufficiency of notice of the annual landowners' meeting held under the provisions of section 245.070, the remaining qualified supervisors shall fill such vacancy by appointment, such appointed supervisor to hold office only until the next regular annual landowners' meeting, at which time a new supervisor shall be elected to fill out the remaining unexpired term.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12497)
+Prior revisions: 1929 § 10907; 1919 § 4601*
+
+### 245.070 Board of supervisors to call annual meeting and election — owners of land benefitted entitled to vote.
+
+In the same month of each year after the election of the first board of supervisors, the board of supervisors shall call a meeting of the owners of land and other property herein described in the district, in the same manner as is provided for in section 245.060, and such owners shall meet at the time and place fixed by the board of supervisors and elect one supervisor therefor in like manner as prescribed in section 245.060, who shall hold his office for five years or until his successor is elected and qualified; and in case of a vacancy in any office of supervisors the remaining supervisors may fill such vacancy until the next annual meeting, when a successor shall be elected for the unexpired term; provided, that after the report of the commissioner has been confirmed by the court under the provisions of section 245.130 only the land and other such property having benefits assessed against it shall be entitled to vote at the annual meetings held under the provisions of this section.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12499)
+Prior revisions: 1929 § 10909; 1919 § 4603*
+
+### 245.075 Supervisors to take oath.
+
+Each supervisor before entering upon his official duties shall take and subscribe to an oath before some officer authorized by law to administer oaths, that he will honestly, faithfully and impartially perform the duties devolving upon him in office as supervisor of the levee district in which he was elected, and that he will not neglect any of the duties imposed upon him by sections 245.010 to 245.280.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12500)
+Prior revisions: 1929 § 10910; 1919 § 4604*
+
+### 245.080 Organization of board — to make annual report — compensation.
+
+1. The board of supervisors immediately after their election shall choose one of their number president of the board, and elect some suitable person secretary, who shall serve until his successor is elected, accepts the office and qualifies, and who may or may not be a member of the board. Such board shall adopt a seal with a suitable device and shall keep a record of all its proceedings, which shall be open to the inspection of all owners of real estate and other property herein described of the district, as well as to all other interested parties. The board shall report to the landowners at the annual meeting held under the provisions of section 245.070 what work has been done either by the engineers or otherwise. The members of the board shall receive, for attending to business for and on behalf of said district, actual transportation expenses, which shall be audited by the board before payment.
+2. At the annual meeting called by the board of supervisors under the provisions of section 245.070, the owners shall set the compensation to be received by the members of the board for their services while actually engaged in work for the district; provided, however, that if the secretary be a member of the board he shall be compensated as provided for in section 245.090.
+
+*Effective 8/28/1981 · (RSMo 1939 § 12501, A.L. 1981 H.B. 251)
+Prior revisions: 1929 § 10911; 1919 § 4605*
+
+### 245.085 County clerk and treasurer to deliver records and moneys of district to secretary of board.
+
+Immediately after the election of the board of supervisors as provided for in section 245.055, and the election of a president and a secretary, and the secretary has filed the necessary bond and it has been approved, he shall call upon the county clerk or other person who may be in charge of the records of the district for all records, contracts, files, books, plats, maps and every article of record belonging to said district, and the county clerk or other person in charge of such records shall immediately deliver to said secretary of the district all such records and take the receipt of the secretary therefor. Said secretary shall also call upon the county treasurer or other person who has control of the funds of the district, for the transfer of all funds of the district to him and said treasurer or other person shall immediately transfer such funds, taking the receipt of the secretary for such funds.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12544)
+Prior revisions: 1929 § 10954; 1919 § 4648*
+
+### 245.090 Secretary of board to be ex officio treasurer — board to audit books annually and publish financial statement.
+
+The secretary of the board of supervisors in any levee district shall hold the office of treasurer of such district, except as otherwise provided herein, and he shall receive and receipt for all the levee taxes collected by the county collector or collectors of the revenue, and he shall also receive and receipt for the proceeds at all tax sales made under the provisions of sections 245.010 to 245.280. Said treasurer shall receive a salary, payable monthly, such as the board of supervisors may fix and all necessary expenses; said board of supervisors shall furnish the secretary and treasurer the necessary office room, furniture, stationery, maps, plats, typewriters and postage. Said treasurer may appoint, by and with the advice and consent of the board of supervisors, one or more deputies as may be necessary, whose salary or salaries and necessary expenses shall be paid by the district. Said treasurer shall give bond in such amount as shall be fixed by the board of supervisors, conditioned that he will well and truly account for and pay out, as provided by law, all moneys received by him as taxes from the county collector or collectors, or as proceeds from the tax sales of delinquent taxes, or from any other source whatever on any account or claim of said district, which bond shall be signed by at least two sureties, approved and accepted by said board of supervisors, and said bond shall be in addition to the bond for proceeds of sales of bonds, which is required by section 245.230. The bond of said treasurer may, if the board shall so direct, be furnished by a surety or bonding company, which shall be approved by said board of supervisors; said bond shall be placed and remain in the custody of the president of the board of supervisors, and shall be kept separate from all papers in the custody of the secretary and treasurer. Said treasurer shall keep all funds received by him from any source whatever deposited at all times in some bank, banks or trust company to be designated by the board of supervisors. All interest accruing on such funds shall, when paid, be credited to the district. It shall be the duty of the board of supervisors to audit or have audited the books of said treasurer of said district June thirtieth of each year, and they shall publish a financial statement within thirty days thereafter showing the amount of money received, the amount paid out during such year, and the amount in the treasury at the beginning and end of such year. The aforesaid treasurer of the district shall pay out funds of the district only on warrants issued by the district, said warrants to be signed by the president of the board of supervisors and attested by the signature of the secretary and treasurer.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12518)
+Prior revisions: 1929 § 10928; 1919 § 4622*
+
+### 245.095 Powers and duties of supervisors.
+
+1. In order to effect the leveeing, protection and reclamation of the land and other property in the district subject to tax, the board of supervisors is authorized and empowered to straighten, widen, change the course and line of any levee in or out of such district; to fill up any creek, drain, channel, river, watercourse or natural stream; and to divert or divide the flow of water in or out of the district; to construct and maintain sewers, levees, dikes, dams, sluices, revetments, drainage ditches, pumping stations, syphons and any other works and improvements deemed necessary to preserve and maintain the works in or out of the district; to construct roadways over levees and embankments; to construct any and all of such works and improvements across, through or over any public highway, railroad right-of-way, track, grade, fill or cut in or out of the district; to remove any fence, building or other improvements in or out of the district, and shall have the right to hold, control and acquire by donation or purchase, and if need be, condemn any land, easement, railroad or other right-of-way, sluice or franchise in or out of the district for right-of-way, or for any of the purposes herein provided, or for material to be used in constructing and maintaining such works and improvements for leveeing, protecting and reclaiming the lands in the district. The board shall also have the right to condemn for the use of the district any land or property within or without the district not acquired or condemned by the court on the report of the commissioners assessing benefits and damages and shall follow the procedure that is now provided by law for the appropriation of land or other property taken for telegraph, telephone and railroad rights-of-way.
+2. In addition to the powers granted in subsection 1 of this section, in any levee district formed under the laws of this state having an assessed valuation of real property of twenty-five million dollars or greater and located, in whole or in part, in any county with a charter form of government and with more than one million inhabitants, the board of supervisors is authorized to construct and maintain water lines and any other works and improvements deemed necessary to preserve and maintain the works in or out of the district.
+
+*Effective 8/28/2004 · (RSMo 1939 § 12519, A.L. 2004 H.B. 795, et al. merged with H.B. 1207)
+Prior revisions: 1929 § 10929; 1919 § 4623; 1909 § 5513*
+
+### 245.100 Chief engineer appointed — duties.
+
+Within sixty days after organizing, the board of supervisors shall appoint a competent civil engineer as chief engineer, who may be an individual, copartnership or corporation, and who shall engage such assistants as the board of supervisors may approve. The chief engineer shall have control of the engineering work in said district. The chief engineer may, by and with the consent of the board of supervisors, consult any eminent engineer or engineers and obtain his or their opinion and advice concerning the reclamation or protection of land in said district. The said engineer or engineers shall make all necessary surveys of the lands within the boundary lines of said district as described by the articles of association, and of all lands adjacent thereto that may or will be improved or reclaimed in part or in whole by any system of levees or bank protection that may be outlined and adopted, and said engineer or engineers shall make a report in writing to the board of supervisors with maps and profiles of said surveys, which report shall contain a plan for leveeing, draining, reclaiming or protecting the lands and property described in the articles of association or adjacent thereto from overflow of or damage by water; provided, that the chief engineer may in his discretion, accept, approve and adopt or amend any plan for leveeing, draining, reclaiming or protecting the lands and property described in the decree of the court incorporating said district, which may have been designed by either a state or federal department, division or agency, which has for its purpose the protection and reclamation of the land and property within the district.
+
+*Effective 9/10/1947 · (RSMo 1939 § 12502, A.L. 1947 V. II p. 226)
+Prior revisions: 1929 § 10912; 1919 § 4606*
+
+### 245.105 Chief engineer to make report — supervisors to adopt plans and supplemental plans for reclamation.
+
+The chief engineer shall make a report in writing to the board of supervisors when said board shall so require it. Upon receipt of the final report of said engineer concerning surveys made of the lands and other property contained in the district organized, and plans for reclaiming or protecting the same the board of supervisors shall adopt such report or any modification thereof approved by the chief engineer after consulting with the chief engineer or someone representing the chief engineer, and thereafter such adopted report shall be the plan for leveeing, protecting or reclaiming such lands and other property from overflow or damage by water, and it shall after such adoption be known and designated as "the plan for reclamation" which term shall include leveeing, diking, bank protection, current control or other improvement, which plan shall be filed with the secretary of the board of supervisors and copied by the secretary into the records of the district. Supplemental plans for leveeing, protecting or reclaiming some or all of the lands and other property in the district from overflow or damage by water may be adopted by the board of supervisors from time to time as deemed necessary by the board of supervisors. The aforesaid supplemental plans may supplement, alter or modify the plan for reclamation and shall become a part thereof.
+
+*Effective 8/28/2008 · (RSMo 1939 § 12503, A.L. 1977 S.B. 3, A.L. 2008 S.B. 939)
+Prior revisions: 1929 § 10913; 1919 § 4607*
+
+### 245.110 Secretary of board to file copy of plan with circuit clerk — commissioners appointed.
+
+Within twenty days after the adoption of the plan for reclamation the secretary of the board of supervisors shall prepare and transmit a certified copy thereof to the circuit clerk of the court organizing the levee district, and at the same time the board of supervisors shall file with the circuit clerk a petition asking the judge of such court to appoint commissioners to appraise the lands within and without the district to be acquired for rights-of-way, holding basins and other works of the district, and to assess benefits and damages accruing to all lands in the district and other property by reason of the execution of the plan for reclamation. Within thirty days after the filing of such petition the judge of such court, either in term time or vacation, shall, by an order, appoint three commissioners, who shall be residents of the state of Missouri, and who shall not be landowners in the district nor of kin within the fourth degree of consanguinity to any person owning land in the district. A majority of the commissioners shall constitute a quorum and shall control the action of the board on all questions.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12505, A.L. 1990 H.B. 1070)
+Prior revisions: 1929 § 10915; 1919 § 4609*
+
+### 245.115 Organization of board of commissioners.
+
+Said circuit clerk upon the filing of said order of appointment shall notify each of said commissioners of his appointment by written or printed notice, and in the same notice he shall state the time and place for the first meeting of said commissioners. The secretary of the board of supervisors or his deputy shall attend such meeting, and shall furnish to said commissioners a complete list of lands, all corporate and other property described in the articles of association or adjacent thereto that will be affected by carrying out and putting into force the plan for reclamation, and the names of the owners of such property, as were contained in the articles of association, at the date of the final decree of the court incorporating the district. Said secretary shall also furnish said commissioners a copy of the plan for reclamation, with maps and profiles in his office. The commissioners at said meeting, or within ten days thereafter, shall each take and subscribe to an oath that they will faithfully and impartially discharge their duties as such commissioners and make a true report of the work done by them. The said commissioners shall also at said meeting elect one of their own number chairman, and the secretary of the board of supervisors, or his deputy, shall be ex officio secretary of said board of commissioners during their continuance in office.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12506)
+Prior revisions: 1929 § 10916; 1919 § 4610*
+
+### 245.120 Commissioners to inspect district and assess benefits and damages — report to be filed.
+
+1. Within thirty days after qualifying, as provided for in section 245.115, the commissioners shall begin their duties. They may at any time call upon the attorney of the district for legal advice and information relative to their duties, and the chief engineer or one of his assistants shall accompany the commissioners at all times and shall render his opinion in writing when called for. The commissioners shall proceed to view the premises and determine the value of all land and other property, within or without the district, to be acquired and used for rights-of-way, or other works set out in the plan for reclamation. They shall assess the amount of benefits, and the amount of damages, if any, that will accrue to each governmental lot, including all property owned by the state or other political subdivision, forty-acre tract or other subdivision of land according to ownership, railroad and other rights-of-way, railroad roadways and other property from carrying out and putting into effect the plan for reclamation heretofore adopted. The commissioners in assessing the benefits to lands, public highways, railroad and other rights-of-way, railroad roadways and other property not traversed by such works and improvements as provided for in the plan for reclamation shall not consider what benefits will be derived by such property after other levees, ditches, improvements or other plans for reclamation shall have been constructed, but they shall assess only such benefits as will be derived from the construction of the works and improvements set out in the plan for reclamation, or as the same may afford protection from overflow of such property. The commissioners shall give due consideration and credit to any other levee, ditch or other systems of reclamations which may have already been constructed and which afford partial or complete protection to any tract or parcel of land in the new district, and if the commissioners shall find that any levee or other works have been constructed under any general or special law of this state, which can be used in making the levees and improvements herein contemplated, they shall include the same in their report, and thereafter the board of supervisors may order such levees or such works to be used, so far as they extend, for the purpose of the levee district in which they are situated, and that the district or other owners of such levee or other improvements or persons having an interest in same by virtue of having contributed money, material or labor in the construction of the same, shall be allowed in proportion to the interest held or owned in said levees or improvements, a compensation which shall not exceed the amount of such levee district's indebtedness as evidenced by outstanding scrip, bonds or other evidences of indebtedness. The railroad and other rights-of-way, railroad and other property shall be assessed according to the increased physical efficiency and decreased maintenance cost by reason of the protection to be derived from the proposed works and improvements. The commissioners shall have no power to change the plan for reclamation heretofore provided for.
+2. The board of commissioners shall prepare a report of their findings, which shall be arranged in tabular form, the columns of which shall be headed as follows: Column one, "owner of property assessed"; column two, "description of property assessed"; column three, "number of acres assessed"; column four, "amount of benefits assessed"; column five, "number acres taken for right-of-way"; column six, "value of property taken"; column seven, "damages". They shall also, by and with the advice of the engineer of the district, estimate the cost of works set out in the plan for reclamation, which estimate shall include the cost of property required for rights-of-way and damages and the actual expenses of organization and administration, as estimated by the board of supervisors, and shall itemize and tabulate the same. The report shall be signed by at least a majority of the commissioners and filed in the office of the circuit clerk, in which the articles of association were filed. The secretary of the board of supervisors, or his deputy, shall accompany the commissioners while engaged in their duties, and shall perform all clerical work of the board. He shall also, under the advice, supervision and direction of the attorney for the district, prepare their report. The board of commissioners shall report to the board of supervisors the number of days each had been employed and the actual expenses incurred. Each commissioner shall be paid an amount set by the court for each day for his services, and necessary expenses in addition thereto.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12507, A.L. 1985 H.B. 378, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10917; 1919 § 4611
+Effective 7-12-94*
+
+### 245.125 Property owners notified of commissioners' report by publication — form of notice — mailing required.
+
+Upon the filing of the report of the commissioners, the clerk of said circuit court shall give notice thereof by causing publication to be made once in some newspaper published in each county in the district. It shall not be necessary for said clerk to name the parties interested, but it shall be sufficient to say:
+­
+­
+­­
+­
+
+*Effective 7/12/1994 · (RSMo 1939 § 12508, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10918; 1919 § 4612
+Effective 7-12-94*
+
+### 245.130 Exceptions to commissioners' report heard and determined.
+
+1. The levee district or any owner of land or other property in said district, may file exceptions to said report or to any assessment for either benefits or damages, within ten days after the last day of publication of the notice provided for in section 245.125.
+2. All exceptions shall be heard by the court and determined in a summary manner so as to carry out liberally the purposes and needs of the district, and if it appears to the satisfaction of the court, after having heard and determined all of said exceptions, that the estimated cost of constructing the improvement contemplated in the plan for reclamation is less than the benefits assessed against the land and other property in said district, then the court shall approve and confirm said commissioners' report as so modified and amended. The court shall adjudge and apportion the costs incurred by the exceptions filed and shall condemn any land or other property, within or without the boundary lines of the district, that is shown by the report of the commissioners to be needed for rights-of-way, holding basins and other works, or that may be needed for material to be used in constructing said works, following, as nearly as possible the procedure that is now provided for by law for the appropriation of land and other property taken for telegraph, telephone and railroad rights-of-way.
+3. The clerk of said circuit court shall transmit a certified copy of the court decree and copy of the commissioners' report, as confirmed or amended by the court, to the secretary of the board of supervisors of the district, who shall make and transmit a certified copy of the said decree and that part of the said report affecting land in each county to the recorder of each county having lands in the district, or affected by the said report, where the same shall become a permanent record and each such recorder shall receive a fee of one dollar for receiving, filing and preserving the same.
+4. Any person may appeal from the judgment of the court, and upon such appeal there may be determined either or both of the following questions:
+(1) Whether just compensation has been allowed for property appropriated; and
+(2) Whether proper damages have been allowed for property prejudicially affected by the improvements.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12509)
+Prior revisions: 1929 § 10919; 1919 § 4613*
+
+### 245.135 Court to declare corporation dissolved if costs exceed benefits.
+
+If, after determining the objections made to the commissioners' report, the court shall find that the estimated costs of works and improvements as reported by the board of commissioners, or as amended by the court, exceed the estimated benefits, the court shall then render its decree, declaring the incorporation of the district to be dissolved as soon as all costs incurred, including all obligations and debts made in behalf of the district by the board of supervisors and court costs shall have been paid, and if the uniform tax levied under the provisions of section 245.175 be found insufficient to pay all such costs the board of supervisors shall make such additional uniform tax levies as will be necessary to pay such deficiency; provided, that in estimating the cost of constructing the works and improvements of the district the amount of interest that might accrue upon bonds that may be issued by the board of supervisors under the provisions of sections 245.010 to 245.280 shall not be considered as a part of the cost of construction.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12529)
+Prior revisions: 1929 § 10939; 1919 § 4633*
+
+### 245.140 Plan of reclamation may be changed — procedure.
+
+1. The board of supervisors for and in behalf of any levee district organized under the provisions of sections 245.010 to 245.280, or the owners of land adjacent to such district, shall have the right to file a petition in the office of the clerk of the court organizing the district praying the court to amend its former decree incorporating the district, by correcting the names of landowners, by striking out any such names, by adding, striking out or correcting the descriptions of any lands within or alleged to be within the boundary lines of any such district, or in any other manner amend its decree; said petition may ask permission of the court for said board to amend or change the plan for reclamation, or to correct any errors, omissions or other mistakes that have been discovered in the plan for reclamation, or said petition may ask that the boundary lines of said district be extended so as to include lands not described by and included in the articles of association filed and the decree of the court incorporating the district. If such petition asks the court permission to change the plan for reclamation or that the boundary lines of such district be in any manner changed, it shall also ask the court to appoint three commissioners as provided for under the provisions of section 245.110 to appraise the land that shall be taken for rights-of-way or other works, or assess the benefits and damages to any or all lands, railroad and other property already in the district or that may be annexed to the district by the proposed amendments, and changes to the plan for reclamation or the proposed change in the boundary lines of said district.
+2. After said petition shall have been filed, the court wherein said petition is filed, if in session, or the clerk thereof in vacation, shall fix the date, not less than forty-five nor exceeding sixty days from the date of filing of said petition, on or before which objections, if any, shall be filed to said petition, and the clerk shall give notice of the filing of said petition and of the date on or before which objections, if any, to said petition, and the clerk shall give notice of the filing of said petition and of the date on or before which objections, if any, to said petition shall be filed by causing publication to be made once a week for four consecutive weeks in some newspaper published in each county in which are situate the land and other property affected by the proposed changes, amendments and corrections mentioned in said petition, the first insertion to be made not more than fourteen days after the date on which the petition was filed. Said notice shall be substantially in the following form and it shall be deemed sufficient for all purposes of sections 245.010 to 245.280:
+­
+­
+3. Where lands or other property in different counties will be affected by the proposed changes, amendments and corrections enumerated in the said petition, it shall not be necessary to include all the said lands or other property in the notice published in the different counties, but only such of said lands and other property as are situated in the respective counties. Any owner of land or other property that will be affected by the proposed changes, amendments and corrections mentioned in the petition, may on or before the date fixed and published as above provided, file objections in the court or if in vacation thereof, in the office of the clerk of such court wherein the said petition is filed, to the granting of the prayer of the said petition; provided, that the court may in vacation or term time extend the time upon terms. The court shall hear said petition and all objections that may have been filed against said petition in a summary manner without unnecessary delay, and enter its decree according to its findings.
+4. The clerk of said court shall, within fifteen days after the granting of such decree, transmit a certified copy of said decree and a copy of the petition to the secretary of the board of supervisors, who shall transmit a copy of the same to each of the recorders of deeds of the counties having land in the district and to the secretary of state. Each such recorder shall file and preserve the same in his office, and for such filing and preserving he shall receive a fee of one dollar.
+5. If said decree of the court provides that the plan for reclamation may be amended, changed or corrected or the boundary lines of the district extended, the court shall appoint three commissioners, possessing the same qualifications as the commissioners appointed under the provisions of section 245.110, to appraise property to be taken, assess benefits and damages and estimate the cost of improvements the same as is required of commissioners acting under the provisions of section 245.120. Said commissioners shall make their report in writing and file the same with the circuit clerk, after which the case shall be proceeded with in the same manner as is now provided for in sections 245.010 to 245.280 for the organization of levee districts; provided, that if the petition be dismissed the district shall pay the cost, but if the petition be sustained in whole or in part, the objectors shall pay the court costs. In case the benefits and damages have been assessed on the land and other property remaining in the district and the court finds the same will not be altered by either the change in the boundary line or change in the plan for reclamation, the court shall not appoint commissioners to make assessments.
+
+*Effective 1/2/1979 · (RSMo 1939 § 12532, A.L. 1978 H.B. 1634)
+Prior revisions: 1929 § 10942; 1919 § 4636
+Effective 1-2-79*
+
+### 245.145 Damages assessed must be paid before appropriating land.
+
+The board of supervisors of levee districts organized under sections 245.010 to 245.280 shall not have the right to enter upon or appropriate any land for rights-of-way, or other works of the districts, until the price awarded to the owners of such land by the commissioners shall have been paid to such owners or into the hands of the circuit clerks of the courts organizing such districts for the use of such owners; and if the sums awarded be not so paid within five years from the date of filing the commissioners' reports, all proceedings as to the taking of such property for rights-of-way and other works not so paid for shall abate at the cost of said district. Whenever any land is acquired by any district under the provisions of sections 245.010 to 245.280 and the price of such property has been paid the owner by the district, the title, use, possession and enjoyment of such property shall pass from the owner and be vested in the district, and subject to its use, profit, employment and final disposition. The price awarded for all land acquired by any district for rights-of-way, or other works and the amount of damages assessed by the board of commissioners and confirmed by the court to any tract or parcel of land or other property in the district shall be paid in cash to the owner thereof or to the clerk of the court for the use of such owner, and that portion of any tract or parcel of land or other property not taken for the use of the district shall be assessed for the benefits accruing in accordance with the provisions of sections 245.010 to 245.280.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12522)
+Prior revisions: 1929 § 10932; 1919 § 4626*
+
+### 245.150 Board to construct works — may let contracts for construction.
+
+The board of supervisors of said district shall have full power and authority to build, construct, excavate and complete all or any works and improvements which may be needed to carry out, maintain and protect the plan for reclamation. To accomplish that end the said board of supervisors is hereby authorized and empowered to employ men and teams and to purchase machinery, employ men to operate same and directly have charge of and construct the works and improvements, or by the use of other or more efficient means than provided for in the plans adopted. They may, in their discretion, let the contract for such works and improvements either as a whole or in sections, and when such contract or contracts are let, they shall be advertised and let to the lowest and best bidder, who shall give a good and approved bond, with ample security, conditioned that he will well and promptly carry out the contract for such work and improvements, which contract shall be in writing and to which shall be attached and made a part thereof, complete plans and specifications of the work to be done and the improvements to be made under said contract, which plans and specifications shall be prepared by the chief engineer, and shall be incorporated in and attached to the contract, which contract shall be prepared by the attorney for the district, and before the work is commenced shall be approved by the board of supervisors and signed by the president of the board and the contractor and shall be executed in duplicate. The chief engineer shall be the superintendent of all the works and improvements and shall whenever required, and at least once each year, make a full report to said board of all work done and improvements made and make such suggestions and recommendations to the board as he may deem proper; provided, however, that if and when the state of Missouri or the United States of America or any subdivision, department, division or agency thereof is willing to construct the works and improvements provided for in the plan for reclamation or any part thereof, the board of supervisors of said district is authorized to cooperate with such agency to the fullest extent and is hereby granted power and authority to accept any such work in aid of the project, irrespective of whether it be by way of grant of funds, labor, work, materials or otherwise and may, in the discretion of the board of supervisors, give such assurances as may be required to obtain the construction of the works and improvements provided for in the plan for reclamation.
+
+*Effective 9/10/1947 · (RSMo 1939 § 12510, A.L. 1947 V. II p. 226)
+Prior revisions: 1929 § 10920; 1919 § 4614
+CROSS REFERENCE:
+Contractual agreements among political subdivisions for common facilities and services, proceedings, 70.210 to 70.320*
+
+### 245.155 Embankments on right-of-way to be raised at expense of owner to conform to district levee.
+
+When any right-of-way has been obtained under sections 245.010 to 245.280, over any embankment belonging to any person, railroad, tramway or other corporation, it shall be the duty of the owner of such embankment to so raise, at the expense of the owner, said embankment so that same will conform with the levee of said district, and if such person or corporation shall fail or refuse to raise such embankment in the manner herein provided, said district may within three months after it has finished the building of its own levee enter upon and raise the embankment of said person or corporation to conform with said district levee. And the cost for such construction shall be a first lien upon the property of said person or corporation and such cost may be enforced in any court of competent jurisdiction.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12523)
+Prior revisions: 1929 § 10933; 1919 § 4627*
+
+### 245.160 Board to employ attorney.
+
+The board of supervisors shall employ an attorney to act for the district and to advise said board. Such employment shall be evidenced by an agreement in writing, which, as far as possible, shall specify the exact amount to be paid to said attorney for all services and expenses. Such attorney shall conduct all legal proceedings and suits in court where the district is a party or interested, and shall in all legal matters advise the said board of supervisors, all officers, employees or agents of said district and board, and generally look after and attend to all matters of a legal nature for said board and district. When the said board may deem it necessary, they may, by and with the advice of said attorney, and under the like terms and conditions as above set forth, employ another attorney or attorneys.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12520)
+Prior revisions: 1929 § 10930; 1919 § 4624*
+
+### 245.165 Board to keep record of proceedings — open to inspection.
+
+The board of supervisors of any district organized under sections 245.010 to 245.280 shall cause to be kept a well-bound book, entitled "Record of board of supervisors of ______ district", in which shall be recorded minutes of all meetings, proceedings, certificates, bonds given by all employees and any and all corporate acts, which record or records shall at all times be open to the inspection of anyone interested, whether taxpayer or bondholder.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12521)
+Prior revisions: 1929 § 10931; 1919 § 4625*
+
+### 245.170 Board to provide for compensation of employees and fees of officers.
+
+The board of supervisors, except where otherwise provided, shall, by resolution, at time of hiring or appointing, provide for the compensation for work done and necessary expense incurred by any officer, engineer, attorney or other employee and shall also pay the fees, per diem and necessary expenses of all court and county officers who may by virtue of sections 245.010 to 245.280 render service to said district. It is understood that the ordinary fee statute does not apply to services rendered under sections 245.010 to 245.280 by any county officer, but each such officer shall receive only a reasonable compensation for services actually rendered, the same to be fixed by the court in which the proceeding is pending, except where otherwise provided in sections 245.010 to 245.280; that said corporations or petitioners for corporations may prepare, write or print all copies of petitions, writs, orders and decrees or other papers, and furnish same to the clerk or other officer for his use, and in such event said officer shall be entitled to receive as compensation for issuing the said writs and copies of petitions, decrees, orders or other papers, only the reasonable value of the services actually rendered.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12530)
+Prior revisions: 1929 § 10940; 1919 § 4634*
+
+### 245.175 Board to levy tax to pay cost of organization.
+
+1. The board of supervisors of any levee district organized under the provisions of sections 245.010 to 245.280 shall levy a uniform tax of not more than eight dollars per acre upon each acre of land and each mile of right-of-way of all public service corporations, within such district, as defined by the articles of association to be used for the purpose of paying expenses incurred or to be incurred in organizing said district, making surveys of the same and assessing benefits and damages and to pay other expenses necessarily to be incurred before said board shall be empowered by section 245.180 to provide funds to pay the total cost of works and improvements of the district.
+2. In case the boundary lines of the district be extended under the provisions of section 245.140, so as to include lands and other property not described and contained in the articles of association, the same uniform tax shall be levied on such lands and other property as soon as same shall have been annexed and included in the district.
+3. Such tax shall be due and payable as soon as assessed and if not paid by December thirty-first of the year in which it has been levied the same shall become delinquent. It shall become a lien on the land and other property against which it is assessed and shall be collected in the same manner as the annual installment of tax is collected. In case the sum received from such assessment exceeds the total cost of items for which the same has been levied, the surplus shall be placed in the general fund of the district and used to pay cost of construction; provided, that if the incorporation of the district be dissolved, as provided for in section 245.275, the amount of surplus, if there be any, shall be prorated and refunded to the landowners paying such uniform tax; provided further, that if the levee district be located within a third or fourth class city of this state, or within a city in this state under fifty thousand population operating under a special charter, then in the discretion of its board of supervisors, a uniform tax not exceeding five dollars may be levied on each lot, tract, parcel or subdivision thereof as set forth in the decree of the court incorporating said levee district.
+
+*Effective 8/28/2008 · (RSMo 1939 § 12504, A.L. 1947 V. II p. 226, A.L. 1959 H.B. 313, A.L. 2008 S.B. 939)
+Prior revisions: 1929 § 10914; 1919 § 4608*
+
+### 245.180 Board to levy tax, when — new tax authorized, when — tax, how levied — secretary to prepare levee tax record.
+
+1. After the lists of lands and other property, with the assessed benefits and the decree and judgment of court, have been filed in the office of the county recorder as provided in section 245.130, then the board of supervisors shall without any unnecessary delay, after a public hearing, levy a tax of such portion of said benefits on all lands, railroad and other property in the district to which benefits have been assessed, as may be found necessary by the board of supervisors to pay the cost of the completion of the proposed works and improvements as shown in said plan for reclamation and in carrying out the objects of said district, and plus ten percent of said total amount for emergencies. The said tax shall be apportioned to and levied on each tract of land or other property in said district in proportion to the benefits assessed and not in excess thereof.
+2. Notwithstanding the limitations of sections 245.130 and 245.135 or any tax levy limitation contained in this chapter, the board of supervisors, having levied a tax pursuant to subsection* 1 of this section, may levy a new tax of such portion of the assessed benefits on all lands, railroad and other property in the district to which benefits have been assessed whenever it is found necessary by the board of supervisors to pay the cost of replacing, repairing and reconstructing works and improvements called for and completed pursuant to the plan for reclamation originally adopted by the board of supervisors and in carrying out the objects of said district. The tax levied under this subsection* shall be apportioned to and levied on each tract of land or other property in said district in proportion to the benefits assessed.
+3. In case bonds are issued as provided herein and hereafter, then the amount of the interest (as estimated by said board of supervisors) which will accrue on such bonds shall be included and added to the said tax levied under either subsection* 1 or 2 of this section, but the interest to accrue on account of the issuing of said bonds shall not be construed as a part of the cost of construction in determining whether or not the expenses and costs of making said improvements are or are not equal to or in excess of the benefits assessed. The secretary of the board of supervisors, as soon as said total tax is levied, shall, at the expense of the district, prepare a list of all taxes levied, in the form of a well-bound book, which book shall be endorsed and named "levee tax record of ______ levee district ______", which endorsement shall also be printed or written at the top of each page in said book, and shall be signed and certified by the president and secretary of the board of supervisors, attested by the seal of the district, and the same shall thereafter become a permanent record in the office of said secretary.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12511, A.L. 1977 S.B. 3, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10921; 1919 § 4615
+Effective 7-12-94
+*Word "paragraph" appears in original rolls.*
+
+### 245.181 Additional bonds authorized, when — meeting, votes how cast — form of notice — notice, how given.
+
+1. The board of supervisors may, if in their judgment it seems best, issue additional bonds which do not exceed ninety-one percent of the amount of new taxes levied pursuant to paragraph 2 of section 245.180. The funds derived from the sale of said bonds shall be used only to pay the costs of replacing, repairing, and reconstructing the works and improvements called for and completed pursuant to the plan for reclamation originally adopted by the board of supervisors.
+2. The board of supervisors shall issue such additional bonds only if, at a meeting called for such purpose, the issuance of the bonds obtains the approval of the owners of two-thirds of the acreage and miles of right-of-way in the district which has benefits assessed against it. The owners of property within the district shall vote at such meeting in the manner provided in sections 245.060 and 245.070.
+3. Notice for the meeting referred to in paragraph 2 shall be in substantially the following form:
+­
+­
+4. The secretary shall cause the notice of the meeting to be published once a week for two consecutive weeks in some newspaper published in each county in which lands of the district are situated, the last insertion to be at least ten days before the day of such meeting.
+5. The bonds shall be issued in all other respects pursuant to and in accordance with the provisions of section 245.230.
+
+*Effective 8/28/1977 · (L. 1977 S.B. 3)*
+
+### 245.185 Annual installment of tax to be levied — when due — form of certificate of tax.
+
+1. The said board of supervisors shall each year thereafter determine, order and levy the amount of the annual installment of the total taxes levied under section 245.180, which shall become due and be collected during said year at the same time that state and county taxes are due and collected, which said annual installment and levy shall be evidenced and certified by the board not later than September thirtieth of each year to the collector of revenue of each county, or township, in which lands and other property of said district are situate.
+2. The certificate of said installment tax shall be in substantially the following form:
+­
+­
+3. Then shall follow a table or schedule showing in properly ruled columns, first, the names of the present owners of said lands and other property so far as now known; second, the descriptions of the said lands and other property opposite the names of said owners; third, the amount of said annual installment tax levied on each tract of land or piece of property; fourth, the amount of maintenance tax; fifth, a blank column in which the collector shall record the several amounts as collected by him; sixth, a blank column in which the collector shall record the date of payment of the different sums; seventh, a blank column in which the collector shall record the names of the person or persons paying the several amounts, if other than the person whose name appears in column one hereof. The columns in which the annual installment tax and the maintenance tax, if any, appear shall be correctly totaled and the total amount shall correspond to the amount set out in the above mentioned certificate. The said certificate and table shall be prepared in the form of a well-bound book which shall be endorsed and named "Levee tax book ______ levee district ______ County, or ______ Township of ______ County, Missouri, for the year 20______", which endorsement shall also be printed at the top of each page in said book.
+
+*Effective 8/28/2017 · (RSMo 1939 § 12512, A.L. 1953 p. 536, A.L. 2017 S.B. 112)
+Prior revisions: 1929 § 10922; 1919 § 4616*
+
+### 245.190 Board may make additional levy of tax.
+
+Where the works set out in the plan for reclamation of any levee district is found insufficient to reclaim in whole or in part any or all of the land and other property of the district the board of supervisors shall have the right to formulate new or amended plans containing new levees or other works, or providing for the enlargement of existing levees or other works, and additional assessments may be made in conformity with the provisions of section 245.180, the same to be made in proportion to the increased benefits accruing to the lands and other property because of the additional works. If it should be found at any time that the amount of total tax levied under the provisions of section 245.180 is insufficient to pay cost of works set out in the plan for reclamation or additional work done under the provisions of this section, the board of supervisors may make an additional levy to provide funds to complete the work; provided, the total of all levies of such tax does not exceed the total amount of benefits assessed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12538)
+Prior revisions: 1929 § 10948; 1919 § 4642*
+
+### 245.195 Board may levy maintenance tax — unprotected lands not taxable.
+
+1. To maintain and preserve the levees or other improvements made pursuant to sections 245.010 to 245.280 and to strengthen, repair, replace and restore the same, when needed, and for the purpose of defraying the current expenses of the district, the board of supervisors, on or before the first day of September in each year thereafter, may levy an assessment upon each tract or parcel of land and upon corporate property within the district, to be known as a "maintenance tax". The maintenance tax shall be apportioned upon the basis of the net assessment of benefits accruing for original construction, and shall be certified to the collector of revenue of each county in which lands of the district are situate in the same book in like manner and at the same time as the annual tax is certified, but in a separate column, under the heading "maintenance tax". The collector shall demand and collect the maintenance tax and make return thereof and shall receive the same compensation therefor and be liable for the same penalties for failure or neglect so to do as is provided herein for the annual installment tax.
+2. No maintenance tax shall be levied or assessed against any lands or other property which is not protected from overflow by the levees and other improvements of the district. No such tax heretofore levied or assessed against any such lands or other property shall be collected by or for the district, and the board of supervisors of the district is hereby authorized and empowered to strike from the levee tax books of the district any unpaid maintenance tax which has been levied or assessed against any such lands or other property.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12535, A.L. 1955 p. 601, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10945; 1919 § 4639
+Effective 7-12-94*
+
+### 245.196 Annual benefit fee, how levied, amount.
+
+In addition to any tax which may be levied pursuant to the provisions of section 245.180 or any other provision of sections 245.010 to 245.280, the board of supervisors may levy an annual benefit fee on nonpublic improvements on certain tracts of real estate in said district. The annual benefit fee shall be one thousand dollars for improvements with an assessed valuation of at least one million dollars but not more than five million dollars, five thousand dollars for improvements with an assessed valuation of more than five million dollars but not more than fifteen million dollars, and ten thousand dollars for improvements with an assessed valuation of more than fifteen million dollars.
+
+*Effective 7/12/1994 · (L. 1985 H.B. 378, A.L. 1994 S.B. 633)
+Effective 7-12-94*
+
+### 245.197 Readjustment of benefits, when — levy of new tax for carrying out supplemental plan — notice, how given — form of notice — lists, where filed.
+
+1. Whenever the board of supervisors of any district now existing or hereafter organized pursuant to sections 245.010 to 245.280, for and in behalf of the district, or the owners of twenty-five percent or more of the acreage of the lands in the district, shall file a petition with the circuit clerk in whose office the articles of association were filed stating that there has been a material change in the values of all or some of the property in the district since the last previous assessment of benefits or readjustment of the assessment of benefits, and praying for a readjustment of the assessment of benefits of the property identified in the petition for the purpose of making a more equitable basis for the levy of the maintenance tax or for the purpose of levying a new tax to pay the costs of the completion of the proposed works and improvements as shown in the supplemental plan for reclamation adopted by the board of supervisors pursuant to section 245.105, or for both of the aforesaid purposes, the court wherein the petition is filed, if in session, or the clerk thereof in vacation, shall fix a date for the hearing of the petition which date shall not be less than forty-five nor more than sixty days from the date of the filing of the petition.
+2. The circuit clerk shall give notice to all persons interested in the lands and property identified in the petition of the filing and hearing of the petition in the manner and for the time provided for in section 245.020. Such notice may be in the following form:
+­
+­
+3. Upon the hearing of the petition, if the court finds that there has been a material change in the values of the property in the district identified in the petition since the last previous assessment of benefits, the court shall order that there be made a readjustment of the assessment of benefits for the lands identified in the petition for the purpose of providing a basis upon which to levy the maintenance tax of the district or for the purpose of levying a new tax to pay the costs of the completion of the proposed works and improvements as shown in the supplemental plan for reclamation adopted by the board of supervisors pursuant to section 245.105, or for both of the aforesaid purposes.
+4. Thereupon the court shall appoint three commissioners possessing the qualifications of commissioners appointed under section 245.110 to make such readjustment of assessments in the manner provided in section 245.120 with respect to those lands identified in the petition. The commissioners shall make their report, and the same proceedings shall be had thereon, as nearly as may be, as are provided in sections 245.010 to 245.280, for the assessment of benefits accruing from the original construction. In making the readjustment of the assessment of benefits, the commissioners shall not be limited to the aggregate amount of the original or any readjustment of the assessment of benefits, and may assess the amount of benefits that will accrue from carrying out and putting into effect the supplemental plan for reclamation adopted by the board of supervisors pursuant to section 245.105. After the making of the readjustment, the limitation of ten percent of the benefits assessed for the annual maintenance tax which may be levied shall apply to the amount of benefits as readjusted, and the limitation of the tax which may be levied for payment of the costs of the completion of the proposed works and improvements as shown in the aforesaid supplemental plan for reclamation shall apply to the amount of the benefits readjusted.
+5. There shall be no such readjustment of benefits more often than once in a year. The lists of land and other property, with the readjusted assessed benefits and the decree and judgment of the court, shall be filed in the office of the county recorder as provided in section 245.130.
+
+*Effective 8/28/2008 · (L. 1955 p. 602 § 1, A.L. 1977 S.B. 3, A.L. 1985 H.B. 378, A.L. 2008 S.B. 939)*
+
+### 245.198 Tax levy, when — emergency levy of ten percent.
+
+1. If the board of supervisors deem it necessary, the board shall without unnecessary delay, levy a tax of such portion of said readjusted assessed benefits on all lands, railroad and other property in the district to which benefits have been assessed, as may be found necessary by the board of supervisors to pay the costs of the completion of the proposed works and improvements as shown in the supplemental plan for reclamation adopted by the board of supervisors pursuant to section 245.105 and in carrying out the objects of said district, and plus ten percent of said total amount for emergencies. The tax levied pursuant to this section shall be apportioned to and be levied on each tract of land or property in said district in proportion to the readjusted assessed benefits, provided that the amount of such tax levied pursuant to this section, when added to any taxes previously levied and remaining unpaid at the time of the levy provided for in this section, shall not exceed the total amount of the readjusted assessed benefits.
+2. The tax shall be levied in the manner provided in sections 245.180 and 245.185.
+
+*Effective 8/28/1977 · (L. 1977 S.B. 3)*
+
+### 245.199 Additional bonds authorized when — how issued.
+
+1. The board of supervisors may, if in their judgment it seems best, issue bonds which, when added to the bonded indebtedness then outstanding, do not exceed ninety-one percent of the total amount of taxes levied pursuant to section 245.198. The funds derived from the sale of said bonds shall be used to pay the costs of works and improvements as shown in the supplemental plan for reclamation adopted by the board of supervisors pursuant to section 245.105 and to refund outstanding protested warrants.
+2. The bonds shall be issued pursuant to and in accordance with the provisions of section 245.230.
+3. Notwithstanding the limitations of sections 245.130 and 245.135 or any tax levy limitation contained in this chapter, the board of supervisors, having levied a tax pursuant to paragraph 1 of this section, may levy a new tax and, if necessary, issue additional bonds whenever it is found necessary by the board of supervisors to pay the cost of replacing, repairing and reconstructing the works and improvements called for and completed pursuant to the supplemental plan for reclamation adopted by the board of supervisors. Any tax levied pursuant to this section shall be apportioned to and levied on each tract of land or property in said district in proportion to the readjusted assessed benefits. The tax authorized by this section shall be levied in the manner provided by sections 245.180 and 245.185.
+4. The additional bonds authorized in paragraph 3 of this section shall be issued pursuant to and in accordance with the provisions of sections 245.181 and 245.230, provided that the additional bonds do not exceed ninety-one percent of the amount of new taxes levied pursuant to paragraph 3 of this section.
+
+*Effective 8/28/1977 · (L. 1977 S.B. 3)*
+
+### 245.200 County collector of revenue to collect levee tax — to give bond to board of supervisors.
+
+1. It shall be the duty of the collector of revenue of each county in which lands or other property of any levee district organized under sections 245.010 to 245.280 are situate, to receive the levee tax book each year and he is hereby empowered and it shall be his duty to promptly and faithfully collect the tax therein set out and to exercise all due diligence in so doing. He is further directed and ordered to demand and collect such taxes at the same time that he demands and collects state and county taxes due on the same lands and other properties. Where any tract or part thereof has been divided and sold or transferred, the collector shall receive taxes on any part of any tract, piece or parcel of land or other property charged with such taxes and give his receipt accordingly. The above and foregoing levee tax book shall be the warrant and authority of the collector for making such demand and collection.
+2. The said collector shall make due return of all levee tax books each year to the secretary of the board of supervisors of the aforesaid levee district, and shall pay over and account for all moneys collected thereon each year to the treasurer of said district at the same time when he pays over state and county taxes. Said collector shall in said levee tax book, verify by affidavit his said return. The said secretary shall each year, within ten days after the return of said collector is delivered to him, prepare and certify to said collector a levee back tax book containing the list of lands and other property so returned by said collector as delinquent, deliver the same to him and take his receipt therefor, and said collector shall proceed to collect such delinquent levee taxes and demand payment therefor in the same manner as herein provided for the collection of current levee taxes.
+3. Before receiving the aforesaid levee tax book the collector of each county in which lands or other property of the levee district are located, shall execute to the board of supervisors of the district a bond with at least two good and sufficient sureties in a sum that is double the probable amount of any annual installment of said tax to be collected by him during any one year, conditioned that said collector shall pay over and account for all taxes so collected by him according to law. Said bond after approval by said board of supervisors shall be deposited with the secretary of the board of supervisors, who shall be custodian thereof and who shall produce same for inspection and use as evidence whenever and wherever lawfully requested to do.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12513)
+Prior revisions: 1929 § 10923; 1919 § 4617*
+
+### 245.205 Secretary of board to extend and certify levee tax to collector-treasurers — duties of collector-treasurer — county collector-treasurer to collect delinquent taxes.
+
+1. In counties where the provisions of chapter 65 are or may hereafter be in force, the secretary of the board of supervisors shall extend all levee taxes under the provisions of sections 245.010 to 245.280 on separate tax books for the respective townships in which such lands are situate, and such tax books shall be certified to the collector-treasurers at the same time and in the same manner as provided for county collectors. Such taxes shall be collected by such collector-treasurers at the same time and in the same manner, as state and county taxes are collected, and each collector-treasurer shall give bond, have the same authority to collect such taxes, receive the same compensation therefor and pay over such taxes to the secretary of board of supervisors, as provided for county collectors under sections 245.010 to 245.280 and shall be subject to the same penalties and liabilities. Such collector-treasurers shall make due return of such tax books under oath in the same manner as required of county collectors.
+2. The delinquent levee taxes shall be certified by the secretary of the board of supervisors to the county collector-treasurer of delinquent taxes, who shall collect such delinquent levee taxes at the same time and in the same manner as is herein provided for the collection of the delinquent levee taxes in counties not under the provisions of chapter 65. The said collector-treasurer of delinquent levee taxes shall give bond, have the same authority to collect such taxes, receive the same compensation therefor, and pay over the said taxes to the treasurer of the levee district as is provided for county collectors under sections 245.010 to 245.280, and shall be subject to the same penalties and liabilities.
+3. All township levee tax books, and the return of the collectors of such books, shall be taken as prima facie evidence in all courts of all matters therein contained, and that the delinquent tax shown in such books was properly levied and extended against such lands and remains unpaid. The lien of such tax shall be enforced and suits to collect such delinquent tax shall be instituted and prosecuted in the same manner provided by sections 245.010 to 245.280, except such suits shall be instituted by the levee district on tax bills duly made out and certified by the county collector-treasurer of delinquent taxes.
+
+*Effective 8/28/2005 · (RSMo 1939 § 12539, A.L. 2005 H.B. 58 merged with S.B. 210)
+Prior revisions: 1929 § 10949; 1919 § 4643*
+
+### 245.210 Levee tax delinquent December thirty-first — penalty.
+
+All taxes provided for in sections 245.010 to 245.280 remaining unpaid after December thirty-first of the year for which said taxes were levied shall become delinquent and bear a penalty of one percent per month on the amount of said taxes from date of delinquency until paid. In computing said penalty each fractional part of a month shall be counted as a full month.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12514)
+Prior revisions: 1929 § 10924; 1919 § 4618*
+
+### 245.215 Levee tax to constitute a lien — how evidenced — acquisition of lands, duty to satisfy outstanding liens, limitation.
+
+1. All levee taxes provided for in sections 245.010 to 245.280, together with all penalties for default in payment of the same, all costs in collecting the same, including a reasonable attorney's fee, to be fixed by the court and taxed as costs in the action brought to enforce payment, shall, from date of filing the certificate herein described in the office of the recorder of deeds for the county wherein the lands and properties are situate, until paid, constitute a lien, to which only the lien of the state for general state, county, school and road taxes shall be paramount, upon all the lands and other property against which such taxes shall be levied as is provided in sections 245.010 to 245.280. Such lien shall be evidenced by a certificate substantially in the following form, to wit:
+­
+­
+­­
+­
+2. In the event of a buyout of the lands of the district because of flood damage, in whole or in part, it shall be the responsibility of the entity acquiring any land within the district to satisfy in full any outstanding liens against the property acquired at the time of purchase. The amount of any outstanding lien for each parcel of property located within the district shall not exceed the property's proportional liability to the outstanding bond issue.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12516, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10926; 1919 § 4620
+Effective 7-12-94*
+
+### 245.220 Tax book to be prima facie evidence — suits for taxes brought in circuit court.
+
+The levee tax book of the district, as returned by the collector of the revenue to the secretary of the board of supervisors of the levee district shall be prima facie evidence in all courts of all matters therein contained. The liens established and declared in section 245.215 may and shall be enforced by an action on delinquent tax bills, made and certified by the county collector, which action shall be instituted in the circuit court without regard to the amount of the claim within six months after December thirty-first of the year for which said taxes were levied. The suits shall be brought in the corporate name of the district by its attorney against the land or lands, property or properties, on which such levee tax has not been paid. The suit shall be brought in the county in which the property is situate, except when the tract or property sued upon be in more than one county, in which event the suit may be brought on the whole tract, parcel or property in any county in which any portion thereof may be situate. The pleadings, process, proceedings, practice and sales, in cases arising under sections 245.010 to 245.280 shall, except as herein provided, be the same and have the same effect as in an action for the enforcement of the state's lien for the delinquent general taxes upon real estate, and the aforesaid levee tax book shall have the same probative effect as the back tax bill has in actions for the enforcement of the state's lien for general taxes upon real estate. The title acquired through any sale of lands or other property under the aforesaid proceedings shall be subject to the lien of all subsequent annual installments of levee tax. In all suits for the collection of delinquent taxes, the judgment for said delinquent taxes and penalty shall also include all costs of suit and a reasonable attorney's fee to be fixed by the court, recoverable the same as the delinquent tax and in the same suit. The proceeds of sales made under and by virtue of sections 245.010 to 245.280 shall be paid at once to the aforesaid treasurer and shall be accounted for by him the same as the levee taxes.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12517)
+Prior revisions: 1929 § 10927; 1919 § 4621*
+
+### 245.225 Suits and notices to be filed in recorder's office against last record owners.
+
+1. Whenever any levee district organized and existing under the provisions of what now appears as sections 245.010 to 245.280 shall hereafter institute an action, in the manner now provided by law, to enforce the collection of unpaid delinquent annual assessments levied by it, such district shall cause said action to be instituted against the last record owner or owners of the land against which the delinquent assessments sued for were levied, as shown by the records in the recorder's office of the county in which the land is located and shall also join as parties defendant the trustee and beneficiaries shown by all recorded deeds of trust, mortgages or vendors' liens, which create a lien on the land involved in any such suit that may be instituted and no other parties shall be necessary or required, except as herein provided.
+2. On the same day that any such action shall be filed for and in behalf of any such district, its attorney, so filing such action shall also file in the recorder's office of the county where such land is located, a written notice, verified by him showing in tabulated form, the docket number of each of the respective suits that may be filed in the office of the clerk of the circuit court, the name of the plaintiff district, the names of all defendants in each suit filed, a description of the land included in each suit, the years in which the delinquent assessments were levied and the amount then due on each parcel of land described in said notice, when such suit was filed. Such notice shall be filed by the recorder and recorded by him in a well-bound book as other instruments are recorded in his office. The recorder shall be entitled to a fee of one dollar for filing and recording such notice, to be paid by district filing same. Such notice, when so filed, shall constitute due and proper notice to all parties, except those required to be made parties defendant as herein provided, then having or asserting, or who may subsequently acquire or assert any right, title, claim, or interest in and to said land, of the filing of said suit to enforce the collection of said special assessments, irrespective of whether any such parties then hold unrecorded conveyances affecting the title to the land included in such suit, including an assignment of any note secured by deed of trust, mortgage or vendor's lien on the said land, or whether they have acquired by conveyances some such right, title, claim and interest in and to said land, or an assignment of any note secured by deed of trust, mortgage or vendor's lien on said land, subsequent to the filing of said notice.
+3. If any one shall, at the time of filing such suit and notice, hold an unrecorded instrument or conveyance affecting the title to the land included in such suit or if anyone shall acquire any such right, title, claim or interest in and to said land so included in any such suit, after the filing of said suit and notice, or if anyone shall become the assignee of notes secured by deeds of trust, mortgages or vendor's lien on the land included in any such suit, each of them shall have the right and it shall be their duty to intervene as parties defendant in any such suit so filed on or before the first day of the return term of the summons issued when said suit is filed, and make defense to said suit, if they so desire. Upon their failure so to do, they shall be bound by any judgment that may be rendered by the court in any said suit just as though they had been joined as defendants and served with process therein and their interest, if any, along with the interest of all named defendants in and to said land shall, if judgment be rendered for plaintiff, be sold on execution in the manner now provided by law, and all the right, title, claim and interest of all parties in and to said land shall pass to and be acquired by the purchaser of said land at the execution sale based upon the judgment obtained in said suit, unless said delinquent assessments so sued for shall have been previously paid.
+
+*Effective 8/28/1941 · (L. 1941 p. 346 § 12547A)*
+
+### 245.230 Board may issue bonds — how funds are to be used.
+
+1. The board of supervisors may, if in their judgment it seems best, issue bonds not to exceed ninety-one percent of the total amount of the taxes levied under the provisions of section 245.180, in denomination of not less than one hundred dollars, bearing interest from date at a rate not to exceed six percent per annum, payable semiannually, to mature at annual intervals within twenty years, commencing after a period of years not later than five years, to be determined by the board of supervisors, both principal and interest payable at some convenient banking house or trust company's office to be named in said bonds, which said bonds shall be signed by the president of the board of supervisors, attested with the seal of said district and by the signature of the secretary of the said board.
+2. All of said bonds shall be executed and delivered to the treasurer of said district, who shall sell the same in such quantities and at such dates as the board of supervisors may deem necessary to meet the payments for the works and improvements in the district. Said bonds shall not be sold for less than ninety-five cents on the dollar, with accrued interest, shall show on their face the purpose for which they are issued, and shall be payable out of money derived from the aforesaid taxes. A sufficient amount of the levee tax shall be appropriated by the board of supervisors for the purpose of paying the principal and interest of the said bonds and the same shall, when collected, be preserved in a separate fund for that purpose and no other. All bonds and coupons not paid at maturity shall bear interest at the rate of six percent per annum from maturity until paid, or until sufficient funds have been deposited at the place of payment. Any expenses incurred in paying said bonds and interest thereon and a reasonable compensation to the bank or trust company for paying same, shall be paid out of the other funds in the hands of the treasurer and collected for the purpose of meeting the expenses of administration. It shall be the duty of said board of supervisors in making the annual tax levy, as heretofore provided, to take into account the maturing bonds and interest on all bonds, and to make ample provisions in advance for the payment thereof. In case the proceeds of the original tax levy made under the provisions of section 245.180 are not sufficient to pay the principal and interest of all bonds issued, then the board of supervisors shall make such additional levy or levies as are necessary for this purpose, and under no circumstances shall any tax levies be made that will in any manner or to any extent impair the security of said bonds or the fund available for the payment of the principal and interest of the same.
+3. Said treasurer shall, at the time of the receipt by him of said bonds, execute and deliver to the president of the board of supervisors of the said district, a bond with good and sufficient sureties, to be approved by the said board of supervisors conditioned that he shall account for and pay over as required by law and as ordered to do by said board of supervisors any and all money received by him on the sale of such bonds, or any of them, and that he will only sell and deliver such bonds to the purchaser or purchasers thereof under and according to the terms herein prescribed, and that he will return, duly cancelled, any and all bonds not sold to the board of supervisors, when ordered by said board so to do, which said bond shall remain in the custody of the said president of said board of supervisors, who shall produce the same for inspection or for use as evidence whenever and wherever legally requested so to do.
+4. The said treasurer shall promptly report all sales of bonds to the board of supervisors, and the board shall, at the proper time, issue warrants for the payment of the maturing bonds so sold and the interest payments coming due on all bonds sold and a reasonable compensation to the bank or trust company, and the said treasurer shall place sufficient funds at the place of payment to pay the same. In case proper warrants are not issued by the board of supervisors as herein provided then the treasurer shall of his own accord place said funds at the place of payment and the cancelled bonds and coupons and the receipt of the bank or trust company shall be accepted in lieu of warrants.
+5. The successor in office of any such treasurer shall not be entitled to said bonds or the proceeds thereof until he shall have complied with all the foregoing provisions applicable to his predecessor in office; provided, if it should be deemed more expedient to the board of supervisors, as to moneys derived from the sale of bonds issued, said board may by resolution, select some suitable bank or banks or other depositary, as temporary treasurer or treasurers, to hold and disburse said moneys on the orders of the board as the work progresses, until such fund is exhausted or transferred to the treasurer by order of the said board of supervisors.
+6. The funds derived from the sale of said bonds or any of them shall be used for the purpose of paying the cost of the levee works and improvements and such costs, expenses, fees and salaries as may be authorized by law and used for no other purpose.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12534)
+Prior revisions: 1929 § 10944; 1919 § 4638
+CROSS REFERENCES:
+Bond issues, proceeds and moneys for interest and sinking fund to be kept separate, 108.180 to 108.230
+Refunding bonds authorized, payment of, 108.140 to 108.160*
+
+### 245.235 Unpaid warrants to draw interest.
+
+Any warrant issued under sections 245.010 to 245.280 that is not paid when presented to the treasurer of the board of supervisors of the district, because of lack of funds in the treasury, such fact shall be endorsed on the back of the warrant, and the warrant shall draw interest thereafter at a rate of not more than twelve percent per annum, until such time as there is any money on hand to pay the amount of the warrant and the interest then accumulated, but no interest shall be allowed on warrants after such time when sufficient funds are in the treasury to pay the endorsed warrants and interest.
+
+*Effective 8/28/1985 · (RSMo 1939 § 12524, A.L. 1985 H.B. 378)
+Prior revisions: 1929 § 10934; 1919 § 4628*
+
+### 245.240 Surety bonds to be made payable to district.
+
+All surety bonds required to be given by sections 245.010 to 245.280 shall be made payable to the district by its corporate name, in which name all suits shall be instituted and prosecuted. All penalties on any bond herein named shall be payable to and recoverable by said district. All bonds required by sections 245.010 to 245.280 shall cover defaults of deputies, clerks or assistants of the officers appointing them.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12525)
+Prior revisions: 1929 § 10935; 1919 § 4629*
+
+### 245.245 Board to appoint inspectors — duties and powers of inspectors.
+
+1. It shall be the duty and the privilege of the board of supervisors to employ or appoint inspectors for the purpose of policing, guarding and inspecting all levees constructed under the provisions of sections 245.010 to 245.280, and the number of such inspectors shall be determined by the board of supervisors, as conditions and emergencies may require from time to time.
+2. Said (and such) inspectors shall have the right at any time to take up and impound any and all stock, animals, or fowls, found upon or running upon any levee constructed or supervised under the provisions of sections 245.010 to 245.280; and before the owner of any such animal or animals, stock or fowls, shall be entitled to recover possession of the same, he shall pay to said levee district the penalty or amount fixed by the board of supervisors. Any and all members of the board of supervisors, and all inspectors employed by them, shall at all times in guarding or patrolling any levee constructed or supervised under the provisions of sections 245.010 to 245.280, shall have the same rights and authority in making arrests of persons, and in impounding animals, as is now accorded any sheriff or other peace officer of this state.
+3. It shall be the further duty of said inspectors to report at such times as the board of supervisors may require, the condition of the levees, or other works of the district assigned to each inspector by the board; to make such examinations of all levees during high water periods, as may be directed by the board of supervisors; and upon any emergency, or danger to the levee, or other works of the district, of which the inspector has charge, he by order of the board of supervisors, may call out all able-bodied men over sixteen years of age, and under fifty years, within the district, and compel such persons to perform such work as said inspector may deem necessary to be made, in order to protect the levees, grades, or other works of the district. Any person who shall refuse to perform any such work assigned to him by said inspector, shall be deemed guilty of a misdemeanor, and upon affidavit made before any associate circuit judge of the county, by the inspector, or any other person, that the offender has defaulted in obeying such call or summons of said inspector, said associate circuit judge shall issue a warrant for the arrest of such offender, and upon conviction before said associate circuit judge, upon information or any other modes provided by law for the trial of cases of misdemeanor, he shall be fined any sum not less than twenty nor more than one hundred dollars, or by imprisonment in the county jail, not less than fifteen nor more than sixty days, or by both such fine and imprisonment, at the discretion of the associate circuit judge. For every day's work any person shall perform under such requisition, he shall be paid the sum of one dollar and fifty cents out of the funds of the district, if demanded by him.
+4. The provisions of this section shall apply, so far as necessary, to levee districts organized under sections 245.285 to 245.545.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12533)
+Prior revisions: 1929 § 10943; 1919 § 4637*
+
+### 245.250 County collectors — penalty for failure to pay over tax, fee for collection of tax.
+
+If any county collector of the revenues refuses, fails or neglects to make prompt payment of the tax or any part thereof collected under sections 245.010 to 245.280 to the aforesaid treasurer, then he shall pay a penalty of ten percent on the amount of his delinquency; such penalty shall at once become due and payable and both he and his sureties shall be liable therefor on his aforesaid bond. The collector shall deduct one percent of the amount he collects on current taxes and two percent of the amount he collects on delinquent taxes. All fees collected pursuant to this section shall be collected on behalf of the county and deposited in the county treasury.
+
+*Effective 1/1/1988 · (RSMo 1939 § 12515, A.L. 1987 S.B. 65, et al.)
+Prior revisions: 1929 § 10925; 1919 § 4619
+Effective 1-1-88*
+
+### 245.255 Change of venue.
+
+No change of venue shall be allowed in any of the proceedings had under the provisions of sections 245.010 to 245.280, except where the judge of the court in which the articles of association have been filed shall be disqualified for any of the reasons stated in the statutes of this state relating to the change of venue in civil cases. If the judge of such court is disqualified or is charged by any person interested in the formation of said district with being disqualified for any of the reasons stated in the statutes, it shall be the duty of said judge to call in a judge from some other judicial circuit of this state to sit and hear the proceedings and render his decree and judgment the same as the regular judge could have. Such judge shall retain jurisdiction in such reclamation proceedings only until the disqualification of the regular judge of the circuit court shall have been removed. Said judge so called shall receive for his services mileage and ten dollars per day for each day engaged. It shall be the duty of the clerk of the court in which the articles of association have been filed to make out and sign a bill for the amount of mileage and per diem of the judge so called in and forward said bill to the state auditor, who shall approve such bill and draw a warrant for such amount on the fund appropriated and set apart by the legislature to pay expenses and salaries of circuit judges.
+
+*Effective 9/10/1947 · (RSMo 1939 § 12526, A.L. 1947 V. II p. 226)
+Prior revisions: 1929 § 10936; 1919 § 4630*
+
+### 245.260 Action not to abate by reason of death of party.
+
+No action under sections 245.010 to 245.280 shall abate by reason of the death or disability of any party to any proceeding, but upon suggestion of such death or disability the cause shall be immediately revived in the name of the heirs, devisees or their legal representatives, and summons shall be served on such heirs, devisees and legal representatives at least five days before the day set for hearing the cause, and said summons may be served in vacation or term time; if the heirs, devisees or legal representatives of the deceased party are nonresidents notice by publication shall be given them in the manner and for the time provided for in section 245.020 and the cause shall then proceed in all respects as in case of the original parties being in court.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12527)
+Prior revisions: 1929 § 10937; 1919 § 4631*
+
+### 245.265 Appeal not to act as supersedeas.
+
+No appeal from any action of the circuit court had under sections 245.010 to 245.280 shall be permitted to act as supersedeas or to delay any action or the prosecution of any proceedings or work begun under the provisions of this law. Any procedure had under section 245.055, 245.060, 245.130 or 245.140 may be heard and determined by the court at either regular, adjourned or special sessions.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12528)
+Prior revisions: 1929 § 10938; 1919 § 4632*
+
+### 245.270 Liability of reorganized district.
+
+When an existing levee district has been reorganized under sections 245.010 to 245.280 the board of supervisors will not be required to follow such steps or requirements of sections 245.010 to 245.280 as are inconsistent with or rendered unnecessary, by the work that has already been done in the district; provided, that no such change of organization shall have the effect of in any way invalidating any indebtedness, liability, or contract of any nature incurred under its former organization, but all such indebtedness, liability or contract shall attach to and become the debt or liability of the new organization until the same is fully paid and discharged, and all debts owing to, and all rights and privileges and immunities held or enjoyed by the old district under its former organization shall be held and enjoyed by the new district when the same shall organize under the provisions of sections 245.010 to 245.280; provided further, that no right of action shall exist nor remedy be allowed against any such reorganized district by virtue of any contract or contracts made by, or on behalf of, any such reorganized district prior to its reorganization as herein provided for, which did not exist or was not allowed by statute against such district prior to the time of its organization as herein provided for; and provided further, that two or more levee districts, whether located in the same or different counties, may unite in formulating and signing articles of association for the reorganization of such districts under the provisions of sections 245.040 to 245.055 and the land and other property of such districts may be combined into one and the same district under some suitable title.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12545)
+Prior revisions: 1929 § 10955; 1919 § 4649*
+
+### 245.275 Procedure in dissolving levee district.
+
+The incorporation of every levee district, heretofore or hereafter incorporated under and by virtue of the provisions of sections 245.010 to 245.280, shall be dissolved if, at any time before its board of supervisors has adopted a plan for reclamation, the owners, of a majority of the acres of land within said levee district, petition the circuit court, wherein said levee district was incorporated, for a dissolution thereof; provided, that, upon the filing of any such petition, said circuit court shall, before dissolving said corporation ascertain and determine the amount of money in the treasury of, or owing to, said corporation, and the amount of all warrants issued and unpaid by it, and the amount of the debts and other obligations owing by it; and, if said amount of money, in the treasury and owing to said corporation, is in excess of the amount of said warrants, debts and other obligations, said circuit court shall order said warrants, debts and other obligations to be forthwith paid and discharged, and said excess divided among all the owners of land in said levee district who paid the same thereto, in the proportions in which they paid the same; but if said amount of money, in the treasury and owing to said corporation, is not sufficient to pay and discharge said warrants, debts and other obligations, then said circuit court shall order said board of supervisors to levy and collect a uniform tax, upon each and every acre of land within said levee district, sufficient in amount to pay said deficiency, and to thereupon pay the same.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12547)
+Prior revision: 1929 § 10957*
+
+### 245.280 Sections construed — existing rights not to be affected.
+
+The repealing of existing laws shall not have the effect of suspending, abating, abridging, impairing, vitiating or nullifying any right, power, remedy or lien heretofore given, created or conferred upon any levee district heretofore organized or in process of organization at the time of passage of sections 245.010 to 245.280, under any law of this state, either special or general, but all such rights, powers, remedies and liens are hereby directly preserved to all such levee districts; nor shall the repealing of existing laws have the effect of suspending, abridging, abating or nullifying any proceeding or proceedings now pending in any court of this state or of the United States; nor shall the repealing of existing laws have the effect of impairing, invalidating, discharging, changing, modifying or destroying any obligation, contract or undertaking, entered into by or with any levee district now organized, and existing under any law in this state, either special or general, but all such obligations, contracts and undertakings so entered into, shall be and remain inviolate. All rights, powers, liens and remedies now existing in behalf of such levee district of this state, may be enforced and made available in the manner and by the means and mode now provided by law, or such rights, powers, liens and remedies may be enforced and made available under the provisions of sections 245.010 to 245.280, if applicable, at the election of the board of supervisors of the levee district. Sections 245.010 to 245.280 are hereby declared to be remedial in character and purpose, and shall be liberally construed by the courts in carrying out this legislative intent and purpose, and its provisions shall be construed to apply to levee districts already organized or in process of organization at the time of the passage of sections 245.010 to 245.280.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12546)
+Prior revisions: 1929 § 10956; 1919 § 4650*
+
+### 245.285 Defining the term levee districts — applicable to districts now organized or which may be organized.
+
+The term "levee districts" as used in sections 245.285 to 245.545, and all other terms, or provisions of law contained in said sections 245.285 to 245.545, which have heretofore been interpreted as applying to said levee districts shall be construed to include, authorize, provide for and be made applicable to all districts now organized or which may hereafter be organized for the purpose of establishing, constructing or causing to be constructed, levees, dikes, bank protections, current control or other protection or reclamation improvements contiguous or adjacent to or situate near any body of swamp, wet or overflowed land, or other property in the nature of individual or corporate franchises in this state, or land subject to overflow or inundation or in or adjacent to any river or stream wholly within or bordering on the state of Missouri, property or land abutting, or situate near, which may be endangered or liable to be endangered through wash or bank erosion.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12549)
+Prior revision: 1929 § 10959*
+
+### 245.290 County commissions may establish levee districts.
+
+The county commissions of the several counties in this state containing contiguous bodies of lands subject to overflow or inundation or endangered or liable to be endangered by bank erosion or wash from rivers bordering upon or wholly within the state, may divide the territory of their respective counties subject to overflow or inundation or other damage into one or more districts, every such district of which, as well as those hereafter organized under the provisions of sections 245.285 to 245.545, shall be a body corporate, and possess the usual powers of a corporation for public purposes, under the name and style of "levee district No. ______ of ______ County"; and in that name shall be capable of suing and being sued, of holding such real and personal property as may at any time be either donated to or purchased by them in accordance with the provisions of sections 245.285 to 245.545, or of which they may be rightfully possessed at the time of the passage of this law, having reference to the locality of the land and the character of the riverfront, including in each of said districts, as near as possible, all the land subject to overflow or inundations, or endangered or liable to be endangered by bank erosion or wash from the same crevasses, bayous, draws or outflows from rivers, and in the same direction, and which can be protected by the same levee or system of levees or bank protection; provided, that when it shall be made to appear in any way that there shall be land in two or more counties subject to overflow or inundation from the same crevasses, bayous, draws or outflows from a river, and in the same direction, and which can be protected by the same levee or system of levees, either county, by and with the consent of the county commission of the other county or counties, duly entered of record, may lay off such territory of said county or counties into a levee district, in the same manner as herein provided for territory wholly within such county; provided, that in the event any work is to be done upon any navigable stream, the consent of the federal government shall be obtained to make such improvement or improvements before the actual work on the improvement shall be begun.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12548)
+Prior revisions: 1929 § 10958; 1919 § 4651; 1909 § 5714*
+
+### 245.295 Districts may be formed at regular meetings of governing body.
+
+The county commission, or other legislative body if different from the county commission, of any county in this state forming a levee district wholly within its limits, whether of the whole county or a part of such county, may lay off such levee district at any regular meeting of such commission.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12550, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10960; 1919 § 4652; 1909 § 5715
+Effective 7-12-94*
+
+### 245.300 Notice to be given — mailing required.
+
+No such levee district shall be formed unless notice of an intention to apply therefor be first given by publication in some newspaper published in each county composing said proposed levee district, published once at least fifteen days before the commencement of the meeting of the county commission to which said application shall be made, and provided that the commission shall mail, by certified mail, a copy of the notice of the intention to form a district to the names listed on the county assessor's records of the owners of land or other individual or corporate franchise property in the district, including all public entities owning land within the district.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12551, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10961; 1919 § 4653; 1909 § 5716
+Effective 7-12-94*
+
+### 245.305 Lands subject to overflow may be included in levee district.
+
+Whenever the board of directors of any levee district shall, by petition, show to the county commission or other legislative body of the county in which said levee district is situated that there are lands in said county which are subject to overflow, and inundation from the same rivers, crevasses, or bayous as other lands included in said district, and which said lands are not included in said levee district, and asking that said lands be incorporated in said district, the county commission or other legislative body shall cause notice to be given to such landowners requiring them to appear at the next regular meeting of said commission or other legislative body and show cause why such lands should not be incorporated into said levee district, and at the next regular meeting the commission or other legislative body shall proceed to hear and determine the matter; and if it shall appear that such lands are subject to overflow and inundation from the same rivers, bayous and crevasses as the lands in said district, the commission or other legislative body shall make an order incorporating such lands into said levee district, and the assessor shall assess the benefits to said lands to be derived from the building of levees constructed or to be constructed by said levee district, in the same manner, and the board of equalization shall act upon the same in the same manner as heretofore provided in sections 245.285 to 245.545; provided, that if the owner of any such lands be a nonresident of the county, he may be notified by registered mail to the address used by the county assessor for tax purposes.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12597, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 11007; 1919 § 4699; 1909 § 5762
+Effective 7-12-94*
+
+### 245.310 Extending levees and levee districts.
+
+If at any time it becomes necessary or expedient to extend a levee, not exceeding ten miles, in levee districts already organized, or to enlarge any levee district for the purpose of extending any levee therein to be constructed, in order to better protect such district from overflow, and if a petition of not less than five landowners, of the district, be presented to the county commission, requesting the same, the said county commission shall call a meeting of the landowners of the district and of the landowners in the territory sought to be connected with the district, in accordance with the prayer of the petitioner, at some convenient point to the said territory, by giving due notice as required in section 245.460, and at such meeting an estimate of the costs of the proposed new work made by an engineer, must be laid before the meeting, and the landowners present shall then determine, by the majority of the votes cast, whether such proposed new territory shall be added, and also whether the proposed new work shall be done. But said vote may be cast by the landowners present, or by agent or proxy, representing them. And if it is determined to add the new territory or to extend the levee in districts already organized, there shall be a readjustment of the taxes for benefits, and the county assessor shall proceed to assess the benefits to all of the land in the district that will be benefitted by the proposed work; and the board of equalization shall act upon the same, and all the assessments, levying of taxes and the collecting of the same shall be proceeded with in the same manner as in the case of organizing a new district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12595)
+Prior revisions: 1929 § 11005; 1919 § 4697; 1909 § 5760*
+
+### 245.315 Existing levee districts may organize under this law.
+
+Any levee district now organized or existing under the provisions of any other law of this state either general, special or local law, may elect in the manner herein provided to be and become organized under the provisions of sections 245.285 to 245.545; provided, that no such election or change of organization shall have the effect to repudiate or to permit the repudiation of any indebtedness or liability of such levee district which was made or incurred under its former organization, but all such indebtedness or liability shall attach to and become the debt or liability of the new organization till the same is fully paid off and discharged and all debts owing to, and all rights, privileges and immunities held or enjoyed by the old district under its former organization, shall be held and enjoyed by the new district when the same shall reorganize under the provisions of sections 245.285 to 245.545.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12599)
+Prior revisions: 1929 § 11009; 1919 § 4701*
+
+### 245.320 Change of organization to be submitted to an election.
+
+1. Any such levee district now existing but not organized under sections 245.285 to 245.545 may become organized under sections 245.285 to 245.545, and when so organized hereunder, shall be entitled to the benefit of all of the provisions of sections 245.285 to 245.545 in the following manner: Upon the presentation of a petition of not less than ten resident landowners whose lands are taxed in such district proposing to reorganize, or if such district shall be composed of lands lying in more than one county, then upon the presentation of a petition of ten such resident taxed landowners, from each of the counties in which the lands in such district are situate, to the board of directors, supervisors or managers of such district (by whatever name they may be known) requesting the submission to an election of the question of a change of organization, such board of directors shall enter upon the record of the district proposing to change its organization, the fact of the presentation of the petition, the object thereof, and the names and residences of the petitioners requesting that such election be held; such board of directors, if a majority thereof are in favor of such change, shall make an order that the question of such proposed change shall be submitted to a vote of the landowners.
+2. A certified copy of the record of the board of directors, together with a true certified copy of the petition of the landowners, shall be presented to the county commission of the county in which such district is situated, at some regular term thereof, or to each of the county commissions of the counties composing such district, if there be more than one county therein. Upon the receipt of the record at any regular term the county commission, or commissions, shall make an order that an election be held in the district, or in each county in the district, if there be more than one county, for the purpose of voting upon the question of the proposed change. This election shall be held not more than sixty days after the same shall be ordered. No one shall be a qualified voter at such election unless his or her name shall appear as an assessed landowner upon the current tax books of the district. Each such landowner shall be entitled to cast as many votes as he or she shall have acres of land assessed for taxation in the district as shown by the said tax books of the district. Voters may vote in person or by proxy; provided, that all proxies shall be in writing and acknowledged as deeds of conveyance are required to be acknowledged. The election shall be held at the county seat of the county or counties composing the district, but the same need not be held on the same day in each county, if there be more than one.
+3. Four judges and two clerks of election shall be appointed for each county in the district by the board of directors of the district seeking the change of organization, by and with the consent of the county commission. Notice of said election shall be given by publication in some newspaper published in the county in which the election is held for at least four insertions prior to the holding of the same. The judges and clerks of election shall be sworn in the manner now required by law for the holding of municipal elections. The judges and clerks of election shall certify to the county commission of the county wherein such election was held the result thereof, which certificates shall show the votes for and against the proposed change of organization.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12600)
+Prior revisions: 1929 § 11010; 1919 § 4702*
+
+### 245.325 Simple majority to decide election.
+
+Should a majority of the votes of those voting upon the proposition be in favor of the change, the proposed change shall be deemed carried and the same shall be made, and the new district named and formed, and directors therefor appointed as provided in sections 245.300 and 245.335. The notice required by law to be given by said section 245.300 when the laying out of a new district is sought to be had shall be made and given, with such changes therein, as the circumstances shall require.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12601)
+Prior revisions: 1929 § 11011; 1919 § 4703*
+
+### 245.330 Effect of reorganization of old districts.
+
+The action taken by the county commission in reorganizing an old district under sections 245.285 to 245.545, when such organization shall have been ordered under the provisions of sections 245.285 to 245.545, shall have in all ways and respects the same force and effect in law, as would the organization of a new district under the provisions of said sections 245.300 and 245.335, and the new district thus formed from the old one which existed under a different, general, local or special law, shall thereafter have all of the rights, privileges and immunities, and shall be authorized to exercise the same powers as would any new district originally organized under sections 245.285 to 245.545; provided, that such district changing its organization under the provisions of sections 245.285 to 245.545, shall take up the work of building, maintaining and repairing levees, and other similar improvements, where the old organization stopped; and provided, that the procedure of the new district thus formed shall after its organization proceed in conformity with the provisions of sections 245.285 to 245.545 as to work and acts thereafter to be done by the new district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12602)
+Prior revisions: 1929 § 11012; 1919 § 4704*
+
+### 245.335 Board of directors of levees appointed by county commission.
+
+At the term of the county commission at which said levee district may be laid off, or at any subsequent term thereof, the said commission shall appoint three directors of levees, who shall be landholders within the county for the levee district of which the county is the whole or part thereof, one of which directors shall hold his said office for the term of one year, one for the term of two years, and one for the term of three years, and until their successors are duly appointed and qualified; and the said commission shall annually thereafter appoint one director to take the place of the director whose official term expires, possessing the same qualifications as the director first appointed, who shall hold his office for the term of three years.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12552)
+Prior revisions: 1929 § 10962; 1919 § 4654; 1909 § 5717*
+
+### 245.340 Oath of directors.
+
+Said directors shall, before entering upon their duties, take and subscribe the oath prescribed by the constitution of this state, and that they will faithfully, honestly and impartially discharge their duties as directors, according to law, which oath shall be filed in the office of the county in which said directors may be appointed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12553)
+Prior revisions: 1929 § 10963; 1919 § 4655; 1909 § 5718*
+
+### 245.345 Board to organize.
+
+The directors appointed under the provisions of sections 245.285 to 245.545, shall call a meeting of their body at such time and place as may be designated by the directors of the county in which the larger part of the levee district may lie. Said body shall be known and designated as the "board of directors of levee district No. _________ , lying in the counties of _________ ". Said board of directors shall organize by electing a president, vice president and secretary, all of whom shall be members of said board, and such other officers, agents and servants as said board of directors shall deem necessary to carry out the provisions of sections 245.285 to 245.545.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12554)
+Prior revisions: 1929 § 10964; 1919 § 4656; 1909 § 5719*
+
+### 245.350 Majority of board a quorum.
+
+A majority of said board of directors shall constitute a quorum for the transaction of the business of the board. All permanent vacancies in said board of directors, caused by death, resignation, removal from the county where appointed, or refusal to serve, shall be filled by the county commission of the county in which the vacancy occurs.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12585)
+Prior revisions: 1929 § 10995; 1919 § 4687; 1909 § 5750*
+
+### 245.355 Duties of president and secretary.
+
+The president of the board of directors shall preside at all meetings thereof; he shall sign the minutes and record of the proceedings of the board, and all warrants that may be drawn upon the treasurer by order of the board of directors for the payment of any money out of the treasury upon account of the levee fund of the district, and in general may do all acts and things that the said board may empower and authorize him to perform; and in his absence from any of the meetings of said board, the vice president shall preside and perform all the duties which have been conferred upon the president. In the absence of both the president and vice president at any meeting of the board, said board shall appoint one of their number to preside at such meeting, and the person so appointed shall have the same power and authority as has been conferred by law and by order of the said board upon the president. The secretary of said board of directors shall make out and safely keep a true and complete record of the proceedings of said board, in a book to be furnished for that purpose. He shall draw and attest all warrants on the treasurer for all moneys ordered by the board of directors to be paid out of the levee fund, and perform such other acts and duties as may be prescribed by such board.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12555)
+Prior revisions: 1929 § 10965; 1919 § 4657; 1909 § 5720*
+
+### 245.360 Pay of directors.
+
+Each director attending a meeting of said board of directors shall be entitled to receive for his services for each day actually engaged in holding meetings of said board, the same per diem and mileage as allowed by law to commissioners of county commissions for their services in holding county commission meetings.
+
+*Effective 8/28/1986 · (RSMo 1939 § 12583, A.L. 1986 H.B. 1554 Revision)
+Prior revisions: 1929 § 10993; 1919 § 4685; 1909 § 5748*
+
+### 245.365 Board to determine what work is necessary.
+
+It shall be the duty of said board of directors to determine what work is necessary to be done, or levees to be constructed, to protect their district from overflow or inundations or from bank erosion, wash or cutting from rivers. Whenever said board of directors shall deem it necessary they shall cause accurate surveys, maps and profiles thereof to be made of levees or other works to be constructed or repaired, and estimates and calculation of the costs of such work to be made by some experienced, suitable and competent engineer, who shall make a written report of the same, showing the amount, character and kind of work to be done, the exact location and probable cost thereof, and return the same, with all plans and specifications, to the board of directors.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12560)
+Prior revisions: 1929 § 10970; 1919 § 4662; 1909 § 5725*
+
+### 245.370 Work to be let to lowest bidder.
+
+If it shall be decided at said meeting in the manner aforesaid, to do said work, the directors shall proceed to let the same out to the lowest and best bidder; provided, however, that said directors shall have the right to reject all bids, if the same be deemed too high. No director shall, either directly or indirectly, become a contractor for the building or repairing of any levee or public work contemplated by sections 245.285 to 245.545, nor have any interest therein, present or remote; and any director so offending shall, upon conviction, be punished by imprisonment in the penitentiary not exceeding five years.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12568)
+Prior revisions: 1929 § 10978; 1919 § 4670; 1909 § 5733*
+
+### 245.375 Contractors to give bond.
+
+The contractors shall give bond to said board of directors, with good and sufficient security, in a sum sufficient to secure the prompt execution of their contract, conditioned to pay any damages which shall result to the landholders of said district from a failure to perform their said contracts, or by reason of negligent performance of the same.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12574)
+Prior revisions: 1929 § 10984; 1919 § 4676; 1909 § 5739*
+
+### 245.380 Board to supervise work.
+
+Said work shall be done by said contractors under the supervision of said board of directors, or any engineer or engineers to be selected by them for that purpose, and when completed, if performed according to the terms of their contract and the plans and specifications submitted to said meeting of landholders, shall be received and accepted by said board of directors.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12575)
+Prior revisions: 1929 § 10985; 1919 § 4677; 1909 § 5740*
+
+### 245.385 Board to secure right-of-way.
+
+Before said work is let under contract said board of directors shall procure the right-of-way over all lands belonging to private persons and right-of-way or roadbed of any railway corporation and any other private or public corporation, and in case they cannot get a gratuitous relinquishment of such right-of-way, or in case said board of directors or the engineer, attorney or agent of said board of directors are unable to agree with the owner of said lands as to the amount of compensation to be paid such owner for said right-of-way, they shall proceed to condemn such, and all lands necessary for a right-of-way for such levee, or any extension thereof, according to the provisions of chapter 523.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12570)
+Prior revisions: 1929 § 10980; 1919 § 4672; 1909 § 5735*
+
+### 245.390 Board to act with United States agencies.
+
+Said board of directors is hereby authorized and empowered to treat, contract and negotiate with what is known as the Mississippi River Commission, heretofore created by an act of the Congress of the United States, or with any other agency of the United States government, for the purpose of securing the construction, repair and maintenance of the levees within their levee district, or the aid, assistance or cooperation of said river commission or other agency in the construction, repair and maintenance of said levee or line of levee, or any part thereof, and to this end said board of directors may turn over to said Mississippi River Commission or other agency the use and control of any part of its line of levee or the whole of said line; may place its officers, servants and agents at the disposal of and under the direction of said Mississippi River Commission or other agency; may take in charge and superintend contracts for levee building and the building of the same, and generally shall have full power, authority and discretion to enter into any and all arrangements, contracts and agreements with said Mississippi River Commission or other agency of the United States government that will secure the construction of the levee and protection of the levee district from overflows and inundations from rivers, by said Mississippi River Commission or other agency, or their cooperation in such construction and protection.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12576)
+Prior revisions: 1929 § 10986; 1919 § 4678; 1909 § 5741*
+
+### 245.395 Board to publish statement of work done.
+
+Said board of directors shall, at their first meeting after the expiration of one year from date of their organization, and annually thereafter make and publish in some newspaper published in the county composing the levee district, and when composed of two or more counties, then in each county lying in such district, a full and complete statement of the amount and kind of levee work done in the district, with amount of money collected and disbursed during the preceding year, showing from what officer and what account any money has been received, and to what individuals and on what account any money has been paid, and shall strike a balance showing a deficit, if any, or the balance in the treasury, if any.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12586)
+Prior revisions: 1929 § 10996; 1919 § 4688; 1909 § 5751*
+
+### 245.400 Board may change location of levee.
+
+In case any emergency should arise rendering it necessary, or in case the board of levee directors deem it expedient to change the location of the levee first agreed upon, or at any time to extend the same for a short distance to a location which they believe would furnish a better place of termination thereof, the said board of levee directors shall have power to make such changes or extensions.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12579)
+Prior revisions: 1929 § 10989; 1919 § 4681; 1909 § 5744*
+
+### 245.405 Levees may be used as roadbeds and roadbeds may be used as levees.
+
+Said board of directors is hereby authorized and empowered to contract upon terms of reasonable compensation with any railroad corporation for the use and occupancy of levees of the district for the roadbed of such railroad corporations; and it shall be lawful for such board of directors to contract with any railroad corporation, for the use of their roadbed for levee purposes, and upon such terms as may be agreed upon by the parties they may contract and agree that such railroad company may construct their embankments to a sufficient height to prevent inundations over such embankments.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12577)
+Prior revisions: 1929 § 10987; 1919 § 4679; 1909 § 5742*
+
+### 245.410 Duty of railroads, when levee passes along embankment.
+
+Whenever the right-of-way shall be obtained as provided in section 245.385 over any right-of-way of any railroad, tramway or embankment, either by voluntary relinquishment of the same or by condemnation proceedings, it shall be the duty of such railway company or other person or corporation owning such embankment, to construct its roadbed or other embankment, as high as the top of such levee, without opening between the points connecting such levee and the railroad track, roadbed or other embankments, and in case any such person or corporation shall fail or refuse to so construct its embankment within six months after the building of such adjacent levee, such person or corporation shall be liable in damages for all injuries of every character sustained by such levee district, or any person by reason of its failure to so construct its embankment.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12571)
+Prior revisions: 1929 § 10981; 1919 § 4673; 1909 § 5736*
+
+### 245.415 Railroads to continue levee.
+
+Whenever a railroad passes over or along land in this state subject to overflow by any river or creek and such land is protected, or may be hereafter protected, by levees constructed to protect such land from overflows and such levees abut on or connect with the right-of-way of the railroad, it is hereby made the duty of any person, persons or corporations owning or operating railroads to continue and maintain the levee from the point where it approaches and abuts on the railroad right-of-way to the railroad embankment and to make the levee connect therewith. And such continuation of levee shall be on a level with the top of the levee of the landowner as it abuts on the railroad right-of-way.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12572)
+Prior revisions: 1929 § 10982; 1919 § 4674; 1909 § 5737*
+
+### 245.420 Landowner may continue levee to railroad grade and recover costs — notice to be given.
+
+In case any person or corporation owning or operating any such railroad as mentioned in section 245.415 shall fail to continue and connect any such levee constructed by the abutting landowner within ninety days after receiving written notice to do so, and after the landowner's levee has been constructed and completed to the right-of-way of the railroad for a period of twenty days, then the landowner shall have the right to enter upon the right-of-way of such railroad for the purpose of continuing and constructing the said levee over and across the right-of-way to a connection with the railroad track or grade. And such landowner having so continued and constructed such levee across said right-of-way to the railroad track or grade as above provided may recover by suit against the person or company owning or operating the said railroad the full amount of the actual cost of so continuing and constructing the said levee on and across the right-of-way of the railroad, together with interest thereon and costs, which costs shall include attorney fee for plaintiff in the sum of twenty-five dollars.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12573)
+Prior revisions: 1929 § 10983; 1919 § 4675; 1909 § 5738*
+
+### 245.430 Private roadways to have approaches.
+
+No private road shall be permitted to cross any levee built under the provisions of sections 245.285 to 245.545, until the persons interested in and benefitted by said road shall build sufficient approaches on each side of said levee to permit the travel and use to which said road is subject without endangering said levee, and at the expense of such interested persons.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12588)
+Prior revisions: 1929 § 10998; 1919 § 4690; 1909 § 5753*
+
+### 245.445 Board to assess levee fund tax.
+
+As soon as any levee district shall have been organized, as aforesaid, and in order to defray the expenses of surveys and estimates of levees or other works and costs thereof, maintain and repair the same, and pay such officers, agents, servants and employees as may be entitled to compensation, the said board of directors may order the assessment of a tax on all the lands within the levee district to be benefitted, not to exceed ten mills on the dollar, on the valuation of the benefits thereon by reason of the work proposed or completed as returned by the assessor, and such tax may be assessed and levied for each and every year, and from year to year, whenever the board of directors may, from time to time, determine the same to be necessary; and all such taxes shall be a lien upon the lands in such districts until paid. In the event of a buyout of the lands of the district because of flood damage, in whole or in part, it shall be the responsibility of the entity acquiring any land within the district to satisfy in full any outstanding liens against the property acquired at the time of purchase. The amount of any outstanding lien for each parcel of property located within the district shall not exceed the property's proportional liability to the outstanding bond issue. And whenever said board of directors shall have, by resolution, ordered the assessment of a tax, the secretary of the board, under his official seal, shall cause a certified copy of said order to be transmitted to the clerk of the county commission in which said levee district shall be situated, and in case such levee district shall be situated in two or more counties, then to the clerk of the county commission of each county in which any portion of said district may be situated; and the said tax shall be extended on the tax books of the county on the real estate to be benefitted, situated in said levee district, in the same manner that other taxes are now extended, in a column under the head of "Levee Fund Tax", and shall be collected by the collector of the county in which the real estate is situated on which the tax is levied, at the same time the state and county taxes are collected, and when said tax shall be collected, the collector shall pay the same over to the treasurer of the county in which the greater portion of said levee district lies. All taxes assessed and levied under the provisions of sections 245.285 to 245.545, shall be collected in the same manner as provided by the general revenue law of the state for the collection of state and county revenue. All taxes not collected shall be returned delinquent at the same time and in the same manner as provided by the general revenue laws for the return of delinquent tax lists, and all writs for delinquent taxes assessed and levied, as aforesaid, shall be prosecuted in the name of the state of Missouri, at the same time, in the same manner and with like effect as writs are prosecuted under the general revenue laws of the state relating to the collection of delinquent and back taxes.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12557, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10967; 1919 § 4659; 1909 § 5722
+Effective 7-12-94*
+
+### 245.450 Assessment of overflowed lands.
+
+After the formation of any levee district under the provisions of sections 245.285 to 245.545, the county commission of the county in which such district lies, or when it lies in two or more counties, the county commission of each county in said district, shall cause the county assessor of their respective counties composing said levee district, at the first annual assessment to be made under the general revenue laws of the state, to assess the value of all lands in said levee district subject to overflow or inundation or endangered or liable to be endangered by bank erosion or wash from rivers, and to be benefitted by said work, having reference to the value of said lands without the work contemplated by sections 245.285 to 245.545, and shall assess the value thereof as improved by said work, in an assessment book to be provided for that purpose.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12561)
+Prior revisions: 1929 § 10971; 1919 § 4663; 1909 § 5726*
+
+### 245.455 Lands to be entered on book for that purpose.
+
+Said lands shall be entered upon said book in convenient subdivisions, as surveyed by United States deputy surveyors, with appropriate columns, showing the names of resident owners, and nonresident owners when known, of said lands, and of any person or persons holding recorded liens or encumbrances, if known to the assessor; also, the number of acres cleared and uncleared, as nearly as said assessor can ascertain the same without actual measurement, the value thereof as assessed by him, without the work, and the value thereof as improved by the work; provided, that no error in the description of any of said lands shall invalidate such assessment, if sufficient description is given to ascertain where the lands are situated.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12562)
+Prior revisions: 1929 § 10972; 1919 § 4664; 1909 § 5727*
+
+### 245.460 Levee assessment books returned to whom — meeting of landowners.
+
+Said assessment book shall be made out by the assessors of their respective counties in the levee district, and a fair copy thereof shall be returned to the president of the board of directors of the levee district in which the assessments have been made, at the same time assessors are required, under the general revenue laws of the state, to make out and return to the county commission a copy of the assessor's book for state and county taxes, and shall file the original assessment book in the office of the clerk of the county commission of the county in which the assessment is made. Upon the filing of the copy or copies of the assessment book, as required by this section, the board of directors shall call a meeting of the landowners of said levee district at some place convenient to some part of said work or contemplated work, and shall give at least thirty days' notice of the time and place of said meeting and the purpose thereof, by advertisement in some newspaper published in the county composing the levee district, and when lying in two or more counties, then in some newspaper published in each of said counties. At such meeting the board of directors shall submit the reports, specifications, surveys, maps, profiles and estimates made by the engineers, together with the assessments, as returned by the county assessors, to said meeting for action, and requiring the owners of said lands and the holders of any lien thereon to show cause at said meeting why said lands should not be assessed with their proportional part of said work.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12563, A.L. 1994 S.B. 633)
+Prior revisions: 1929 § 10973; 1919 § 4665; 1909 § 5728
+Effective 7-12-94*
+
+### 245.465 County board of equalization to have jurisdiction over lands.
+
+The county board of equalization shall have and receive the same jurisdiction over the lands taxed for the purposes in sections 245.285 to 245.545, specified, as conferred by the general laws of the state in the assessment of property for the state and county purposes, and complaints of all persons who think themselves aggrieved by the assessment of their lands shall be made at the same time required by the general revenue laws of the state. All corrections made in the assessment of lands by the county board of equalization shall be certified to the board of directors by the clerk of the county commission where such corrections are made.
+
+*Effective 8/28/1949 · (RSMo 1939 § 12569, A. 1949 S.B. 1085)
+Prior revisions: 1929 § 10979; 1919 § 4671; 1909 § 5734*
+
+### 245.470 Landowners to determine work to be done.
+
+At such meeting the reports and estimates of the engineer and the assessment of the assessors shall be laid before the landowners present estimating the probable cost of said work, and the probable rate percent therefor on the valuation of the said lands as increased by the said work, and a vote shall be taken whether or not the work shall be done; provided, that any landowner in the district to be benefitted by the work may be represented and his vote cast at such meeting by his agent or attorney, and in order to determine whether such work shall be done it shall require a majority of the votes of the landowners of the district present in person or by proxy casting a vote in favor of the work, and at all meetings held under sections 245.285 to 245.545, every landowner may be represented and his vote cast for or against the work by his agent, attorney or proxy.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12564)
+Prior revisions: 1929 § 10974; 1919 § 4666; 1909 § 5729*
+
+### 245.475 Board to order rate percent levee assessment — annual installment payments.
+
+If it shall be decided to do the said work, it shall be competent for the directors to order the rate percent agreed upon for the cost of said work, to be paid in annual installments, in such amounts as may be convenient for the accomplishment of said work; otherwise the whole amount of said assessment of the rate percent shall be payable immediately upon the approval by the landowner of the agreed amount of rate percent, and shall be a lien upon the lands assessed within the district until paid, and shall bear interest at the rate of not to exceed eight percent per annum until paid, and such interest may be collected and enforced as part of the assessment or annual installment; said assessment or annual installment shall be levied and collected in the same manner as provided in section 245.445.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12565)
+Prior revisions: 1929 § 10975; 1919 § 4667; 1909 § 5730*
+
+### 245.480 Additional taxes for enlarging and strengthening levee.
+
+Whenever the board of directors of any levee district shall ascertain that the levees constructed by said district are insufficient, from any cause, to afford complete protection from overflows, to the lands in said district, they may by resolution entered upon the record of said levee board call a meeting of the landowners of said levee district to be held at some convenient place on the line of said levee, for the purpose of determining whether said levee shall be enlarged and strengthened; and they shall give the same notice as required in the case of calling a landowners' meeting in the organization of a new district, as provided by section 245.460, and at such meeting they shall lay before the landowners present an estimate of the cost of the proposed work of enlarging and strengthening said levee, made by an engineer, and a vote shall be taken at such meeting, by the landowners present, voting either by themselves or by proxy, whether an additional tax shall be levied and an additional percent of the assessed benefits expended for such purpose, and if a majority of the votes cast are in favor of such additional work the board shall proceed to construct the same and the additional taxes may be levied and apportionment of benefits made as herein provided.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12603)
+Prior revisions: 1929 § 11013; 1919 § 4705*
+
+### 245.483 Construction or improvement of levees to protect lands in other districts — procedure — costs, how paid.
+
+Whenever the board of directors of any district organized under sections 245.285 to 245.545 shall determine that the levees constructed by the district are insufficient from any cause to afford complete protection from overflows to the lands in the district, and whenever any such board determines that the construction of an additional levee or levees or the enlarging and strengthening of the existing levee or levees within the district would also afford additional protection to lands situated in another levee district or districts organized under sections 245.285 to 245.545, the board of directors may proceed to cause surveys, maps, and profiles of the proposed work of improvement and estimates of the cost of the work to be made by some experienced and competent engineer who shall make a written report, showing the amount, character, and kind of work to be done, the exact location and probable cost thereof, and return the same with all plans and specifications to the board of directors. Upon receipt of the report of the engineer and approval thereof by the board of directors, the board may direct that copies of the report be forwarded to the board of directors of each such other levee district, with the request that each such other board meet in joint session with the board of directors of the district in which the improvement is to be constructed for the purpose of determining the proportionate share of the cost of the improvement which should be borne by each district involved. When all such boards, in joint session, shall have agreed upon the proportion of the cost to be borne by each district involved, the board of each district shall thereupon proceed in the same manner as is now provided in section 245.480 to call a landowners' meeting and to levy an additional tax and an additional percent of the assessed benefits expended for such purpose. Any proposal to levy an additional tax as provided in this section shall be approved by a majority in each district involved to become effective. The proceeds of any additional tax or the proceeds of any bonds which may be issued by any district for the purpose authorized in this section shall be transmitted to the treasurer of the levee district within which the contemplated improvements are to be constructed, and shall be placed in a separate fund and shall be used for no other purpose than to construct such improvements. Any sum remaining in the fund after the completion of the improvements shall be returned to the participating districts in proportion to the amount contributed by them. Any such board of directors shall have power to give such notice of the landowners' meeting as it may deem proper, in addition to the notice required by section 245.460.
+
+*Effective 8/28/1957 · (L. 1957 p. 586 § 245.281)*
+
+### 245.485 Additional tax may be ordered when costs exceed estimates.
+
+If it is found, by the county commission, after examining the expenditures of the levee district, that the cost of constructing the work will exceed the estimates made by the engineer, the commission may call a meeting of the landowners, upon giving the notice as before required in the case of organizing a new district; there shall be laid before them an estimate of the cost of the completion of the work, made by an engineer, and a vote shall be taken, at such meeting, by the landowners present, voting either by themselves or by proxy, whether an additional tax shall be levied for the purpose of completing the work, and if a majority of the votes cast are in favor of completing such work, the board shall proceed to complete the same and the additional taxes that may be levied and collected as herein provided.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12596)
+Prior revisions: 1929 § 11006; 1919 § 4698; 1909 § 5761*
+
+### 245.490 Board may borrow money.
+
+The directors may borrow money, not exceeding in amount the assessments or annual installments unpaid at the time of borrowing, for the construction of any work which they may be authorized to construct, or for the payment of any indebtedness that they may have lawfully incurred under the provisions of sections 245.285 to 245.545, and may secure the same by notes or bonds bearing interest at not exceeding eight percent per annum, and not running longer than one year beyond the date of the payment of the assessment, or the last annual installment thereof, on account of which the money is borrowed; which notes or bonds shall not be held to make the directors personally liable for the money borrowed, but shall constitute a lien upon the assessments, or annual installments thereof, for the repayment of the principal and interest of said notes and bonds.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12567)
+Prior revisions: 1929 § 10977; 1919 § 4669; 1909 § 5732
+CROSS REFERENCES:
+Bond issues, proceeds of and moneys for interest and sinking funds to be kept separate, 108.180 to 108.230
+Refunding bonds authorized, payment of, 108.140 to 108.160*
+
+### 245.495 Board may issue warrants.
+
+The board of directors may, at its option, in lieu of bonds, issue warrants on the county treasurer, payable out of the fund of the levee district, in payment of any indebtedness incurred, including the entire expenses of constructing the levee, repairing or extending the same.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12556)
+Prior revisions: 1929 § 10966; 1919 § 4658; 1909 § 5721*
+
+### 245.500 Form of warrants.
+
+The warrant thus drawn shall be in the following form, and shall be signed by the president of the board of directors and countersigned by the secretary:
+­
+­
+
+*Effective 8/28/1939 · (RSMo 1939 § 12566)
+Prior revisions: 1929 § 10976; 1919 § 4668; 1909 § 5731*
+
+### 245.505 Sinking fund moneys may be invested.
+
+Whenever there shall be any money belonging to any levee district set apart as a sinking fund for the payment of bonds, the board of directors of such district shall loan the same for the highest obtainable interest, not exceeding eight nor less than six percent per annum, and shall cause the same to be secured by mortgage or deed of trust on real estate, free from all liens and encumbrances, within the county, of the value of double the amount of the loan; and any other funds of said levee district may be deposited at the highest obtainable interest in some bank in the county wherein said district or any part thereof is situated, in the same manner as county school funds are deposited; provided, no such loan or deposit shall be made until the same shall be approved by the county commission of the county in which said district may be situated.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12598)
+Prior revisions: 1929 § 11008; 1919 § 4700; 1909 § 5763
+CROSS REFERENCES:
+Bi-state development agency, bonds of, investment in authorized, 70.377
+Multinational banks, securities and obligations of, investment in, when, 409.950
+Savings accounts in insured savings and loan associations, investment in authorized, 369.194*
+
+### 245.515 County treasurer to be treasurer of board.
+
+The county treasurer of the county in which the greater part of any organized levee district lies shall be the treasurer of the levee fund of the district, until paid out upon the warrants issued by order of the board of directors of the levee district. Before receiving any funds belonging to the levee district, the treasurer shall give a separate bond, with sufficient security, in double the probable amount of the levee fund that shall come into his hands, payable to the state of Missouri, to be approved by the board of directors, conditioned for the faithful disbursement, according to law, of all such moneys as shall, from time to time, come into his hands to the credit of the levee fund of the levee district of which the county of which he is treasurer is part; and such bond shall be filed in the office of the clerk of the county commission of the county in which said treasurer is appointed or elected. On the forfeiture of such bond, it shall be the duty of the clerk of the county commission in whose office such bond is filed to collect the same for the use of the levee district. If such clerk shall neglect or refuse to prosecute, any resident of the district may cause prosecution to be instituted. It shall be the duty of the board of directors in no case to permit the county treasurer having the custody of the levee funds of the district to have in his possession at any one time an amount of levee funds over one-half the amount of the security available in the bond. Such treasurer shall be allowed such compensation for his services as the board of directors deems advisable, not to exceed one-half of one percent of all levee funds disbursed by him, and to be paid out of the levee funds.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12559, A.L. 1990 H.B. 1070)
+Prior revisions: 1929 § 10969; 1919 § 4661; 1909 § 5724*
+
+### 245.520 Compensation of engineers and other officers and employees.
+
+The engineer appointed by the board of directors, under the provisions of sections 245.285 to 245.545, shall receive for his services a sum not to exceed seventy-five dollars per month for the time he is actually employed in field or other work, under contract with said board of directors. The salaries of all other officers, not otherwise fixed by the provisions of sections 245.285 to 245.545, and the agents and employees of said board of directors, shall be fixed by said board, and such salaries, and all other necessary expenses incurred by said board of directors in carrying into effect the provisions of sections 245.285 to 245.545, shall be paid out of the levee fund of the district, upon proper warrant issued by order of the board of directors.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12584)
+Prior revisions: 1929 § 10994; 1919 § 4686; 1909 § 5749*
+
+### 245.525 Herding livestock on levee prohibited.
+
+It shall be unlawful for the owner of any livestock to allow the same to use and run upon any levee erected under the provisions of sections 245.285 to 245.545, or to herd any livestock upon said levee during overflows or high water; and whenever in the judgment of the inspectors of the levee, any livestock are likely to endanger the levee under their charge, the inspector of the section of levee where such damage is threatened shall notify the owner of such livestock liable to do such damage, and require him to remove such livestock; and every such owner who, after such notice, shall neglect or refuse to confine his or her stock, and keep them off the levees, shall pay a fine not less than twenty-five dollars nor more than one hundred dollars for each and every act of disobedience to such notice, to be recovered at the suit of the inspector or his successor in office, in any court of competent jurisdiction; and the amount recovered and collected shall be paid into the county treasury to the credit of the levee fund of the district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12580)
+Prior revisions: 1929 § 10990; 1919 § 4682; 1909 § 5745*
+
+### 245.530 Penalty for failure of road overseers to keep road crossings in repair.
+
+Any overseer who shall willfully fail or neglect to keep the public road crossings of any levee in his road district in good repair, so as to insure the safety of the levee, or who shall fail to repair such crossing when notified by the levee inspector in writing, shall be deemed guilty of a misdemeanor, and upon conviction thereof shall be fined in a sum not less than fifty nor more than one hundred dollars for each offense, to be recovered by indictment or upon information before an associate circuit judge.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12590)
+Prior revisions: 1929 § 11000; 1919 § 4692; 1909 § 5755*
+
+### 245.540 Commissions may appropriate swamplands.
+
+The county commission of any county in which a levee district or a part of a district may be organized under the provisions of sections 245.285 to 245.545 may, for the purpose of constructing its levee, appropriate any of its unappropriated swamplands belonging to the county, and acquired under the provisions of an act of the Congress of the United States, entitled "An act to enable the state of Arkansas and other states to reclaim the swamp lands within their limits", approved September 28, 1850, and an act of the general assembly of the state of Missouri, entitled "An act donating certain swamp and overflowed lands to the counties in which they lie", approved March 3, 1851, and subsequent acts said lands to be received by the contractor at a price of not less than one dollar and twenty-five cents per acre.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12593)
+Prior revisions: 1929 § 11003; 1919 § 4695; 1909 § 5758*
+
+### 245.545 Circuit judge to give penal sections in charge to grand jury.
+
+It shall be the duty of the judge of the circuit court in any county where levees have been constructed under the provisions of sections 245.285 to 245.545, to give the penal sections of this chapter in special charge to the grand jury of said county.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12594)
+Prior revisions: 1929 § 11004; 1919 § 4696; 1909 § 5759*
+
+## Chapter 246 — Provisions Relating to All Drainage and Levee Districts
+
+### 246.005 Extension of time of corporate existence — reinstatement period for certain districts.
+
+1. Notwithstanding any other provision of law, any drainage district, any levee district, or any drainage and levee district organized under the provisions of sections 242.010 to 242.690 or sections 245.010 to 245.280 which has, prior to April 8, 1994, been granted an extension of the time of corporate existence by the circuit court having jurisdiction, shall be deemed to have fully complied with all provisions of law relating to such extensions, including the time within which application for the extension must be made, unless, for good cause shown, the circuit court shall set aside such extension within ninety days after April 8, 1994.
+2. Notwithstanding any other provision of law, any drainage district, any levee district, or any drainage and levee district organized under the provisions of sections 242.010 to 242.690 or sections 245.010 to 245.280 shall have ten years after the lapse of the corporate charter in which to reinstate and extend the time of the corporate existence by the circuit court having jurisdiction, and such circuit court judgment entry and order shall be deemed to have fully complied with all provisions of law relating to such extensions.
+
+*Effective 8/28/2007 · (L. 1978 H.B. 1599 § 1, A.L. 1994 S.B. 600, A.L. 2005 H.B. 58 merged with H.B. 563 merged with S.B. 355, A.L. 2007 S.B. 22)*
+
+### 246.010 Formation of subdistricts.
+
+Subdrainage and levee districts may be formed of lands in main districts organized in Missouri under any existing or future law, by the owners thereof for the purpose of obtaining and providing local or more complete drainage and protection for such lands; such subdistricts to be formed and administered in the same manner as is provided by statute for the formation and administration of main districts; provided, that lands in main districts may be united with swamp or overflowed lands, either within or without other districts in the formation of new districts for the purpose of securing more complete relief or protection for land.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12473)
+Prior revisions: 1929 § 10883; 1919 § 4578*
+
+### 246.020 Officers and witnesses, compensation for services.
+
+That it is understood that the ordinary fee statute does not apply to services rendered by any county or township officer or witness in the organization, incorporation or administration of any drainage or levee districts heretofore organized, in process of organization at the time of passage of this section, or that hereafter may be organized under any general or special law of Missouri permitting the organization of drainage or levee districts, but that such officer or witness, except as is otherwise provided for in sections 246.030 to 246.050, shall receive only a reasonable compensation to be fixed by the courts for services actually rendered, that petitioners for formation or incorporation of drainage and levee districts and the officers of such districts after the same have been organized may prepare, write or print all copies of petitions, writs, orders and decrees of courts and other papers pertaining to such districts and furnish the same to the county and circuit clerks or other officers for their use, and in such event such officer shall be entitled to only a reasonable compensation for services actually rendered the districts in issuing such writs and copies of decrees, orders or other papers.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12468)
+Prior revisions: 1929 § 10878; 1919 § 4573*
+
+### 246.030 Fees of county and circuit clerks.
+
+The county and circuit clerks, except as limited in section 246.020 and otherwise specified in statutes governing the organization and administration of drainage and levee districts, shall receive (in addition to the fees and deputy hire allowed by law) for filing each paper relating to a drainage or levee district, five cents; for issuing each subpoena, summons or notice, and for approving and filing each bond, twenty-five cents; for recording or copying each one hundred words and numbers, eight cents, any number consisting of more than three figures to be considered as two numbers. The fees of the sheriffs and witnesses shall be the same as allowed in section 246.020.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12469)
+Prior revisions: 1929 § 10879; 1919 § 4574*
+
+### 246.050 Fees of county treasurer.
+
+County treasurers for receiving, receipting for, preserving and paying out funds of drainage and levee districts, shall receive one percent of sums paid out.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12471)
+Prior revisions: 1929 § 10881; 1919 § 45764*
+
+### 246.060 County warrant laws apply to district warrants.
+
+The law of this state, under which county warrants are issued, sold, transferred, assigned, presented for payment, and paid, shall apply to all warrants issued by any drainage or levee districts in Missouri organized under any existing, special or future law of this state.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12474)
+Prior revisions: 1929 § 10884; 1919 § 4579*
+
+### 246.063 Reduction or cancellation of assessed benefits where improvement nullifies benefits, procedure.
+
+1. Whenever any lands within a levee or drainage district organized under the laws of this state are so situated that subsequent improvements constructed within the district either by the district or by some other agency partially or wholly nullify the benefits accruing from improvements previously constructed by the district and for which benefits were assessed against the lands, the owner or owners may file a petition with the clerk of the court or county commission by which the district was organized setting out such facts with particularity and requesting that the benefits assessed against the lands for such previously constructed improvements be reduced for the purpose of making a more equitable basis for the levy of the maintenance tax, or that they be cancelled. In districts organized in the circuit court, the circuit clerk shall cause notice of the filing and hearing of the petition to reduce or cancel the assessed benefits to be served upon the president and secretary of the district at least thirty days prior to the hearing date. In districts organized in the county commission, the county commission, in its discretion, may order that notice of the filing and hearing of the petition be given to persons interested in the lands and property included within the district by publication or otherwise.
+2. Upon hearing of the petition the court or county commission may reduce or cancel the assessed benefits or may deny the petition as it deems just. All costs of the hearing shall be borne by the petitioners whether they be successful or not. If the court or commission reduces or cancels the benefits assessed against the lands, thereafter the annual maintenance tax which may be levied shall apply to the benefits as reduced or cancelled.
+3. No assessed benefits shall be reduced or cancelled under the provisions of this section while the district has outstanding bond obligations.
+
+*Effective 8/28/1959 · (L. 1959 S.B. 213 § 1)*
+
+### 246.067 Cancellation of benefits against lands divided into city lots, when.
+
+When any lands, included in a drainage district or levee district organized under the laws of this state, are now or hereafter divided into lots in an incorporated city, town, or village, the county commission in the case of a county commission district organization, or the circuit court in which a district was organized in the case of a circuit court district organization, if in the opinion of said court or county commission the expense of extending and collecting the taxes levied on said lots make such extension and collection uneconomical, may by order of record cancel the benefits assessed against said lands, so that after such cancellation said lands will not be liable for drainage or levee taxes in such district; provided, however, no such benefits shall be cancelled while the district has outstanding unpaid bond obligations; provided, however, this section shall not be applicable to a drainage or levee district organized and existing wholly within a city or town of this state.
+
+*Effective 8/28/1959 · (L. 1959 S.B. 187 § 1)*
+
+### 246.070 Drainage or levee districts may issue tax anticipation warrants, procedure.
+
+1. Whenever authorized by the owners of two-thirds of the acreage in any drainage or levee district heretofore or hereafter organized or reorganized under any of the drainage or levee laws of this state at a meeting called for the purpose and in the manner set out in section 246.090, by ballot wherein each acre owner shall be entitled to one vote, the board of supervisors may issue tax anticipation warrants bearing not to exceed six percent interest per annum, which shall be payable from one to not exceeding four years from date of issuance, both interest and principal payable out of the maintenance fund of the district.
+*2. In addition to the procedure provided in subsection 1 of this section, the board of supervisors of a levee or drainage district in a county which has been declared a disaster area by declaration of the President of the United States during 1993 or 1995, may elect to issue tax anticipation notes following a public meeting for which notice has been given of at least two weeks in a newspaper meeting the requirements of subsection 2 of section 246.090, and after vote of the landowners of the district. Notwithstanding the provisions of subsection 2 of section 246.090 to the contrary, the board may issue the notes following a vote of at least two-thirds of the votes cast by landowners present at the public meeting in favor of issuing the notes. The notes may be issued by the board bearing an interest rate not to exceed six percent per annum, which shall be payable from one to not more than four years from the date of issuance.
+*3. In addition to the procedures provided in subsections 1 and 2 of this section, the board of supervisors of any levee or drainage district in a county in this state which has been declared a disaster area by declaration of the President of the United States during 1993 or 1995, may upon a vote of the majority of the members of the board at a public meeting of which public notice has been given of at least two weeks, borrow funds for the use of the district and may issue negotiable notes in evidence thereof, payable out of anticipated revenues to be derived from assessments, benefits or other levee or drainage district revenues, for any year or immediately following year in which the notes are issued. The notes may be issued at any time and from time to time, and shall be issued according to law unless otherwise provided in this section. Notes issued pursuant to this subsection shall be issued by the board bearing an interest rate not to exceed six percent per annum, which shall be payable from one year from the date of issuance. A separate note shall be issued to evidence the borrowing for the benefit of the district and, if applicable, any funds of the district. All revenues raised by levee districts or drainage districts shall not be considered as taxes pursuant to the laws of this state.
+4. Notwithstanding the provisions of section 246.080 or other statutory provisions regarding the issuance of tax anticipation notes to the contrary, the aggregate outstanding principal amount of the notes issued under the provisions of subsection 2 or 3 of this section in any period subject to this section for the use of the levee or drainage district may be up to but shall not exceed the amount necessary to repair levees damaged by a natural disaster that occurred in 1993 or 1995, including but not limited to the amount necessary to secure federal matching funds for the levee or drainage district. No amount of tax anticipation notes issued by a levee or drainage district shall be included in any debt ceiling computation required by current law except that the district may not issue more than the amount necessary to repair levees damaged by a natural disaster that occurred in 1993 or 1995, including but not limited to the amount necessary to secure federal matching funds for the levee or drainage district.
+5. The clerk or secretary of the board, or if none, the presiding officer of the board, shall certify on the back of each note that the note is issued pursuant to authority granted in this section, and list the aggregate principal amount of all prior notes issued against the district which are unpaid at the date of the note's issuance.
+6. Authority to issue notes pursuant to subsection 2 or 3 of this section shall terminate January 1, 1998.
+
+*Effective 2/13/1996 · (RSMo 1939 § 12613, A.L. 1953 p. 541, A.L. 1993 1st Ex. Sess. S.B. 3, A.L. 1996 S.B. 671)
+Prior revision: 1929 § 11024
+Effective 2-13-96
+*Authority to issue notes terminates 1-1-98.*
+
+### 246.080 Limitation on tax anticipation warrants.
+
+Tax anticipation warrants may be issued and sold or exchanged for or in payment of machinery, draglines, equipment or work used in maintenance and chargeable to maintenance; provided, that in no event shall the tax anticipation warrants so issued, together with interest thereon, exceed two and one-half percent of the assessed benefits for any year falling due.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12614)
+Prior revision: 1929 § 11025*
+
+### 246.090 Form of notice of meeting.
+
+1. Whenever the board of supervisors at a regular or special meeting deems it expedient and necessary for the best interest of the district that tax anticipation warrants be issued for the purposes stated in section 246.080, they shall enter in the minutes of the meeting an order setting forth the expediency and necessity directing the secretary to draw up a notice which shall be substantially in the following form:
+­
+­
+2. The secretary shall cause the notice to be published by three weekly insertions in some newspaper in the county containing the district or the greatest portion thereof, or in some adjoining county if none in containing county, the last insertion to be not less than ten days before the date set. The publisher shall file proof of publication with the secretary before the day set for meeting. Upon filing of the proof by the secretary, the notice shall be conclusively deemed sufficient and legal notice of publication thereof. At the day set each landowner may cast one vote for each acre or fraction thereof owned by him for or against the proposition of issuing the warrants as set out in the notice. If two-thirds of the acres in the district are voted for the proposition, then the tellers shall so certify to the board, and the board shall make an order to the secretary to duly enter the results in the records of the district. Thereafter the board shall proceed to issue the authorized tax anticipation warrants as authorized.
+
+*Effective 8/28/1961 · (RSMo 1939 § 12615, A.L. 1961 p. 463)
+Prior revision: 1929 § 11026*
+
+### 246.100 Tax anticipation warrants, contents.
+
+The board shall issue the tax anticipation warrants as authorized by order of the board, setting out the amounts, denomination, numbers, interest rate, the proceedings authorizing its action and embodying therein the amounts falling due each year, together with interest thereon.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12616)
+Prior revision: 1929 § 11027*
+
+### 246.110 Form of tax anticipation warrants.
+
+Upon making of the order provided for in section 246.100, it shall be the duty of the secretary to have printed tax anticipation warrants, with an interest coupon attached for each year same shall run, which shall be in the following form:
+­
+­
+
+*Effective 8/28/1939 · (RSMo 1939 § 12617)
+Prior revision: 1929 § 11028*
+
+### 246.120 Secretary to keep record of warrants issued.
+
+Said tax anticipation warrants shall be delivered to the payee or payees for the purposes enumerated herein, by an order of the board, in total or in part as necessary, and an appropriate record thereof kept by the secretary and a duly certified copy thereof by him delivered to the treasurer, who shall pay without further order of the board, upon due endorsement and presentment by the record holder thereof or said holder's legal transferee upon satisfactory proof being made to the treasurer thereof the said tax anticipation warrants and interest coupons as due, out of any maintenance fund of the district; provided, that in the event there is not sufficient funds to pay all or a part of such tax anticipation warrants and interest coupons upon presentment, and treasurer shall so note and said indebtedness shall bear interest at the rate of six percent per annum from time of such presentment and notation until paid.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12618)
+Prior revision: 1929 § 11029*
+
+### 246.130 Board to levy maintenance tax to pay warrants.
+
+It shall be the duty of the board to levy a maintenance tax each year sufficient to pay such tax anticipation warrants and interest thereon, and an additional ten percent for emergencies and delinquent collections, in addition to the regular maintenance tax. All such levies shall be extended and collected as by law provided for the levy and collection of maintenance taxes.
+
+*Effective 7/12/1994 · (RSMo 1939 § 12619, A.L. 1994 S.B. 633)
+Prior revision: 1929 § 11030
+Effective 7-12-94*
+
+### 246.140 District authorized to buy lands.
+
+1. Drainage or levee districts heretofore or hereafter incorporated under any of the drainage or levee laws of this state where lands are offered for sale for their own taxes or assessments due thereon, shall be and are hereby authorized to buy such lands at not to exceed the amount of such taxes, assessments, interest, penalties and costs. If such bid is the highest bid, the sheriff shall convey such lands to such district and they shall thereupon become the property of such district and may be held, disposed of, sold or conveyed by such district at such price and on such terms as may be determined by it to be to the best interest of such district, either free from or subject to all taxes or assessments or any part thereof due such district at the time of such resale; but such lands shall remain subject to all drainage or levee taxes, assessments or installments thereof becoming due after such resale; and the terms of resale may include the postponing by such district of one or more of the subsequent installments of the tax or assessment for such time, as may be agreed upon not exceeding three years; provided, however, that nothing herein contained shall be construed as in any manner, enlarging or extending the now existing powers of any district to levy or assess any additional tax or assessment upon lands and other property situate in any such district by reason of the release of or postponement of any taxes or assessments upon any lands or other property sold for delinquent taxes or assessments.
+2. Deeds or other conveyances made by such district shall be in such form and executed by such officers and in such manner as shall be determined by the governing body of such district.
+3. Where the same land is subject to the lien of taxes or assessments of more than one district, such lands may, by agreement between such districts, be purchased at foreclosure sale by any such district in trust for all such districts. The interest of each district in lands purchased pursuant to such agreement, shall be at any given time in proportion to the total of the taxes or assessments due the respective districts at such time; provided, however, that the rights of any district failing, refusing or neglecting to enter into such agreement shall be determined and fixed by the district or districts entering such agreement or purchasing such lands; provided, however, that no district shall have power to make any expenditures or disbursements of any kind or character under the provisions of sections 246.140 to 246.170 out of any maintenance fund of such district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12609)
+Prior revision: 1929 § 11020*
+
+### 246.150 Lands to remain subject to district taxes.
+
+Any lands sold for delinquent state, county, school, road or other general taxes shall remain subject to any taxes, assessments or installments thereof, thereafter to become due to any levee or drainage district for years subsequent to the year for which such general taxes were delinquent and to satisfy which the lands were sold.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12610)
+Prior revision: 1929 § 11021*
+
+### 246.160 Issuance of refunding bonds, general provisions.
+
+1. The board of supervisors of any drainage or levee district heretofore organized or that may be hereafter organized in any circuit court or the county commission of any drainage or levee district heretofore organized or that may be hereafter organized in any county commission of this state, whether said original district has been reorganized in whole or in part, or whether said district in whole or in part has elected to be reorganized under sections 242.010 to 242.690, or the board of directors of any district organized or reorganized under sections 245.285 to 245.545, whenever in the judgment of such board or court or county commission, as the case may be, it is advisable and for the best interest of the landowners of any such district, may, unless a majority of the owners owning a majority of the acres of land within said district shall, at the hearing herein provided for, object to said proceedings, from time to time as may be necessary, to refund all or any part of its bond indebtedness by taking up and exchanging such of its outstanding bonds as the holders thereof may be willing to surrender, and issue in lieu thereof new bonds of such district payable at such longer time, not exceeding forty years from their date, as such district may determine and the holders of the outstanding bonds are willing to accept.
+2. Such refunding bonds shall not exceed in the aggregate the amount of bonds refunded thereby and they shall bear interest at a rate not exceeding the same rate as the bonds refunded, which interest shall be payable semiannually and said refunding bonds when issued may be exchanged for the outstanding bonds, if the holders thereof so agree, or said refunding bonds may be sold for not less than ninety-five cents on the dollar and accrued interest, and the proceeds of the sale of said bonds shall be used solely in the payment of the outstanding bonds and the cost, expense and discount incident to the issuing of such refunding bonds.
+3. In the event refunding bonds are issued, any landowner shall have the right at any time within two weeks after the order providing for their issue is made in which to pay the full amount of uncollected principal tax or assessment chargeable to his land for the payment of bonds proposed to be refunded and his lands shall thereby be released from the tax or assessment for the payment of the refunding bonds, but shall remain subject to additional taxes, if any, that may be levied by such district pursuant to law. Unless and until refunding bonds shall have been authorized and issued, the rate of tax or assessment or amount of assessment applicable to the bonds to be refunded shall not be reduced.
+4. Notice shall be given by such board or court or county commission to the landowners, persons and corporations owning any interest in any lands or other property assessed in said district of its intention to refund said bonds by inserting a notice in a weekly newspaper published in each county in which the lands in said district may lie; there shall be two insertions of said notice in said weekly paper or papers, the last insertion to be not less than five days prior to the hearing; such hearing to be held before such board or court or county commission, as the case may be, at such convenient place as may be designated by such board or court or county commission.
+5. The notice to all parties interested will be sufficient if substantially in the following form:
+­
+­
+6. When the bonds of any such district are refunded pursuant to the authority hereby conferred, the collection of the corresponding installment of taxes or assessments for the payment of the original bonds shall be deferred for a like period. It shall be the duty of the district issuing such refunding bonds to make proper provisions for their payment in like manner as is required in the case of the issuance of original bonds by the act under which such district is or shall be incorporated, and the holder of such refunding bonds shall have the same rights as are given the holders of bonds under the act or acts under which such districts are respectively incorporated. Any landowner failing to avail himself of the privilege conferred by this section of paying in full the unpaid principal tax or assessment against his land shall not be heard to complain by reason of additional interest to be collected from his lands by reason of the extension of the bonds. Taxes or assessments levied for the payment of refunding bonds shall be secured by the same lien as other taxes of such district.
+7. No proceedings shall be required for the issuance of refunding bonds other than those provided by this section and all powers necessary to be exercised by such district in order to carry out the provisions of this section are hereby conferred upon such districts. The powers conferred by this section may be exercised by any drainage or levee district heretofore or hereafter organized under any law in this state and shall apply to bonds of such districts whether heretofore or hereafter issued; provided further, that in the event any district shall avail itself of the provisions of this section and desires to issue refunding bonds extending beyond the charter life of said district, the issuing of said bonds shall automatically extend the charter life of such district for a period of twenty years beyond the date of the last maturing refunding bond so issued.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12611, A.L. 1945 p. 849)
+Prior revision: 1929 § 11022*
+
+### 246.165 Investment of surplus funds, when — approved investments.
+
+1. Any drainage or levee district organized under any law of this state may invest any funds not immediately needed for the purpose for which the money was received in the following:
+(1) Bonds, notes or certificates of indebtedness which are direct obligations of the United States or bonds or other indebtedness, the principal and interest of which are unconditionally guaranteed by the United States;
+(2) Accounts of any savings and loan association organized under the laws of this state or another state, or the United States, which holds a certificate of insurance from the Federal Savings and Loan Insurance Corporation;
+(3) Savings accounts and time deposits, including time certificates of deposit in any banking institution which holds a certificate of insurance from the Federal Deposit Insurance Corporation.
+2. If a deposit in a savings and loan association or a banking institution is greater than the amount covered by the insurance provided for the account by the Federal Savings and Loan Insurance Corporation or the Federal Deposit Insurance Corporation, as the case may be, that portion of the deposit in excess of the amount covered by insurance shall be secured as provided by the provisions of sections 110.010 and 110.020.
+
+*Effective 8/28/1971 · (L. 1971 H.B. 139 § 1)
+CROSS REFERENCES:
+Bi-state development agency, bonds of, investment in authorized, 70.377
+Multinational banks, securities and obligations of, investment in, when, 409.950
+Savings accounts in insured savings and loan associations, investment in authorized, 369.194*
+
+### 246.170 Districts may conform to federal law in refunding, extending time of payment.
+
+All drainage and levee districts heretofore or that may be hereafter organized under any law of this state are hereby authorized and empowered to do each and every act necessary to be by them performed in order to comply with or avail themselves of the provisions of any legislation now enacted or that may be hereafter enacted by the Congress of the United States of America, having for its purpose the refunding or extending the time of payment of the bonded indebtedness of any drainage or levee district or otherwise lightening the present burdens of taxation resting on the lands and property in such districts.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12612)
+Prior revision: 1929 § 11023*
+
+### 246.180 Prescribed duties enforced by mandamus.
+
+The performance of all duties prescribed in any existing, or future law of this state governing the organization and administration of drainage or levee districts may be enforced by mandamus at the instance of any person or corporation interested in any way in any such district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12475)
+Prior revisions: 1929 § 10885; 1919 § 4580*
+
+### 246.190 Court to appoint guardian ad litem.
+
+In all proceedings for the formation and administration of drainage and levee districts in Missouri under the provisions of any existing, future or special statute, the court shall appoint some reputable attorney as guardian ad litem to represent all infants and incapacitated persons interested in the organization or administration of such district. In case the interests of such infants or incapacitated persons shall appear to the court to be adverse to each other, then and in such case the court shall appoint as many different persons as guardians ad litem as the circumstances of the case may require. The persons so appointed shall appear for and represent their wards in all matters connected with the proceedings, and shall be paid such sum as the court may fix upon, out of the moneys in the funds of the districts, for their services.
+
+*Effective 8/28/1983 · (RSMo 1939 § 12472, A.L. 1983 S.B. 44 & 45)
+Prior revisions: 1929 § 10882; 1919 § 4577*
+
+### 246.200 Supports for bridges, where placed — penalty for violation.
+
+1. No person, corporation, county commission or other municipal corporation shall be permitted to sink, set, or drive any posts, pillars or piling in any of the ditches, drains or watercourses constructed by any district organized under the laws of this state for the purpose of erecting any bridge, trestle or covering over or across any such ditch, drain or watercourse. All supports for any such bridges, coverings or trestles shall be erected or placed on the banks of such ditches, drains or watercourses so as not to obstruct the flow of the water therein.
+2. Any person, corporation, member of the county commission or municipal corporation violating the provisions of this section shall be deemed guilty of a misdemeanor, and upon conviction shall pay a fine of not less than five dollars nor more then one thousand dollars, and if such violation as the conviction is for shall not be abated by the party so convicted within thirty days after such conviction, then the continuance of such obstruction or other violation of the provisions of this section after said period of thirty days shall for each and every day the same is continued constitute a separate offense, for which, on conviction thereof, the party so offending shall be punished by a fine of twenty-five dollars.
+
+*Effective 8/28/1949 · (RSMo 1939 12441, 12444, A. 1949 S.B. 1086)
+Prior revisions: 1929 §§ 10851, 10854; 1919 §§ 4518, 4521; 1909 §§ 5624, 5630*
+
+### 246.260 Penalty laws not to prevent construction of water gates.
+
+Nothing in sections 246.200 to 246.230 shall be construed so as to prevent the construction of water gates across drainage ditches, provided the same are built in such manner as not to retard the flow of water through the ditches nor in any way impair the usefulness of such ditches.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12608)
+Prior revisions: 1929 § 11019; 1919 § 4711*
+
+### 246.271 County and city levee system to protect streets, roads and public facilities may be constructed and operated — bonds authorized.
+
+1. Any county, city, town or village in this state may construct and operate a county or municipal levee system to protect the roads, streets and public facilities of such county, city, town or village, and to protect the life, safety and property of the residents of the county, city, town or village from damage and injury due to flood waters. Such a county, city, town or village may acquire property, rights-of-way and easements within the county, city, town or village through its power of eminent domain for the purpose of constructing, operating, repairing or maintaining levees, access roads and pumping sites, and acquiring suitable barrow* and dredge material disposal areas for the county or municipal levee system.
+2. Notwithstanding the provisions of subsection 1 of this section to the contrary, any city wholly contained in a county of the first classification without a charter form of government which contains a campus of the University of Missouri may exercise the powers provided in this section within ten miles of such city.
+3. Pursuant to section 70.220, any city, town or village which constructs or operates a municipal levee system or any county may enter into contracts or agreements with or cooperate with other political subdivisions, or with any agency of the state or federal government, for the purpose of the construction, operation, repair or maintenance of such levee system.
+4. Public improvement, as used in section 71.290, shall include a municipal levee system, as described in this section, and as such, any city, town or village may pay for the cost of acquiring property, rights-of-way and easement through condemnation or otherwise, and may pay for the cost of the labor and materials used in the construction, operation, repair and maintenance of such a municipal levee system out of its general revenue. In addition, construction and operation of a municipal levee system is a city purpose, as described in Section 26(c) of Article VI of the State Constitution, and any such city, town or village may issue general obligation bonds for the purposes described in this section, subject to the provisions of law governing the issuance of municipal general obligation bonds.
+
+*Effective 9/30/1993 · (L. 1993 1st Ex. Sess. S.B. 3 § 1)
+Effective 9-30-93
+*Word "borrow" appears in original rolls.*
+
+### 246.275 Public levee district may be established by any county, procedure — powers of governing body — no power of taxation.
+
+The governing body of any county may designate and establish a public levee district within the county, if the governing body has received a petition signed by a majority of landowners within the proposed public levee district requesting the establishment of such a district. Any such public levee district shall have no powers of taxation. Once a public levee district is established and duly created by a majority vote of the governing body of the county, the governing body, on behalf of the public levee district, may receive and expend moneys for the purposes of repair and maintenance of the public levee district's levee and related appurtenances and such governing body shall have the powers of a levee district board of directors specified in sections 245.285 to 245.545, other than the power of taxation specified in section 245.445. The governing body of the county having established a public levee district pursuant to this section shall be considered the district's governmental sponsor.
+
+*Effective 9/30/1993 · (L. 1993 1st Ex. Sess. S.B. 3 § 2)
+Effective 9-30-93*
+
+### 246.277 Loans authorized for political subdivision located in disaster area of 1993 — terms.
+
+1. The governing body of any political subdivision of this state located in a county which has been declared a major disaster area as provided in section 140.015 may, upon a vote of the majority of the members of the governing body, borrow money in anticipation of the collection of taxes and revenues for the current year or immediately following year. The amount of such loans shall at no time exceed the amount of revenue required to meet the estimated revenue requirements placed on such political subdivision as a result of the provisions of section 140.015. The governing body of such political subdivision, in accordance with this section, shall determine the amount and terms of such loans and of the terms of the political subdivision's obligation to repay the loan, but the payment of interest on such loan shall not exceed six percent per annum, and shall be payable within one year from the date of issuance.
+2. The clerk or secretary of the governing body, or if none the presiding officer of the governing body, shall certify on the back of each note that the note is issued pursuant to authority granted in this section. All notes issued under this section shall be registered, without fee, in the office of the county treasurer of the county where the political subdivision lies. Upon payment and cancellation, the notes shall be submitted to the county treasurer who shall record the date of payment and cancellation in the record of registry.
+3. The provisions of this section shall not apply to political subdivisions which, under the provisions of law existing prior to September 30, 1993, are authorized to borrow money in anticipation of the collection of taxes and revenues.
+
+*Effective 9/30/1993 · (L. 1993 1st Ex. Sess. S.B. 3 § 3)
+Effective 9-30-93*
+
+### 246.283 Authority to cooperate with other entities to develop bike trails.
+
+Any district formed pursuant to the laws of this state shall have authority to cooperate with other entities, public and private, in the development of bikeways and bike trails; provided, however, that no power of condemnation of land shall be used by the district for the purpose of bike trails.
+
+*Effective 7/12/1994 · (L. 1994 S.B. 633)
+Effective 7-12-94*
+
+### 246.285 Approaches for roadway to be built, when.
+
+In all places where a state highway has been located which crosses any levee constructed pursuant to chapter 245 and which is in use as a state highway before the levee is built, approaches shall be built for a roadway on each side of the levee to accommodate travel by the levee district. The roadway shall be reconstructed and repaved by the state highway department.
+
+*Effective 7/12/1994 · (L. 1994 S.B. 633)
+Effective 7-12-94*
+
+### 246.300 Voting by representation authorized, when, certain districts.
+
+In any levee district formed pursuant to the laws of this state having an assessed valuation of forty million dollars or greater, which is located in whole or in part in a county having over nine hundred thousand in population according to the last decennial census, owners of property in whole or in part within the levee district who are corporate, partnership, joint venture, or any other form of ownership other than individual ownership, may delegate through procedure allowed pursuant to corporate form as provided by the laws of this state an individual to exercise representation and voting on behalf of the corporate entity in matters requiring public vote involving the levee district. For purposes of levee districts organized pursuant to the laws of this state, any individual so recognized by the corporate form as having the responsibilities of representing the corporate landowner before the board of supervisors of the levee district shall in all respects be treated by laws of this state as the owner of the property, and shall be entitled to all benefits and privileges allowed by law, including serving on the board of supervisors if so elected, as are contained in the laws of this state.
+
+*Effective 2/8/1995 · (L. 1994 S.B. 633, A.L. 1995 S.B. 214)
+Effective 2-8-95*
+
+### 246.305 Alternative levee district, certain counties — voting rights — apportionment of taxes, board may adopt procedure.
+
+1. In any levee or drainage district formed pursuant to the laws of this state having assessed valuation of real property of twenty-five million dollars or greater, which is located in whole or in part in a county with a charter form of government and with more than one million inhabitants according to the last decennial census, the board of supervisors may by order, resolution or ordinance, following a public hearing thereon called upon notice as provided in section 245.060, adopt the following alternative procedure with respect to voting rights: voting by landowners of the levee or drainage district shall be determined on the basis of the assessed benefits of the property owned and the owner of each piece of property shall receive one vote per ten thousand dollars of assessed benefits, rounded to the next lowest amount in cases where assessed benefits do not evenly tally. In cases where the assessed benefits of a piece of property are below ten thousand dollars, the owner shall be entitled to one vote.
+2. In any levee district formed under the laws of this state, the board of supervisors may, by order, resolution, or ordinance, following a public hearing thereon called upon notice as provided in section 245.060, adopt the procedure in this subsection with respect to the apportionment of installment taxes. After the making of a readjustment of the assessment of benefits, partial or otherwise, pursuant to section 245.197, then the board of supervisors shall reapportion and levy on each tract of land or other property in the district identified in the petition the taxes imposed under section 245.180, 245.190 or 245.198 in proportion to the benefits assessed as readjusted and not in excess thereof. In case bonds have been issued as provided in sections 245.010 to 245.280, then the amount of interest which will accrue on such bonds shall be included and added to said taxes as reapportioned and levied based upon the benefits assessed as readjusted. The secretary of the board of supervisors, as soon as said tax has been reapportioned, shall, at the expense of the district, prepare a list of all taxes as reapportioned and levied, in the form of a well-bound book, which book shall be endorsed and named "Readjusted Levee Tax Record of ______ District ______", which endorsement shall also be printed or written at the top of each page of said book, and shall be signed and certified by the president and secretary of the board of supervisors, attested by the seal of the district, and the same shall thereafter become a permanent record in the office of the secretary. The board of supervisors shall each year thereafter determine, order and levy the amount of the annual installment of the total taxes levied under section 245.180, 245.190 or 245.198 based upon such reapportionment, which shall in all other respects be due and collected as provided in section 245.185.
+3. In any drainage district formed under the laws of this state, the board of supervisors may, by order, resolution, or ordinance, following a public hearing thereon called upon notice as provided in section 242.150, adopt the procedure in this subsection with respect to the apportionment of installment taxes. After the making of a readjustment of the assessment of benefits, partial or otherwise, under section 242.500, then the board of supervisors shall reapportion and levy on each tract of land or other property in the district identified in the petition the taxes imposed under section 242.450, 242.470, or 242.502 in proportion to the benefits assessed as readjusted and not in excess thereof. In case bonds have been issued as provided in chapter 242, then the amount of interest which will accrue on such bonds shall be included and added to such taxes as reapportioned and levied based upon the benefits assessed as readjusted. As soon as the tax has been reapportioned, the secretary of the board of supervisors shall, at the expense of the district, prepare a list of all taxes as reapportioned and levied, in the form of a well-bound book, which book shall be endorsed and named "Readjusted Drainage Tax Record of ______ District ______", which endorsement shall also be printed or written at the top of each page of the book, and shall be signed and certified by the president and secretary of the board of supervisors, attested by the seal of the district, and shall thereafter become a permanent record in the office of the secretary. The board of supervisors shall each year thereafter determine, order, and levy the amount of the annual installment of the total taxes levied under section 242.450, 242.470, or 242.502 based upon such reapportionment, which shall in all other respects be due and collected as provided in section 242.460.
+
+*Effective 8/28/2008 · (L. 1994 S.B. 633, A.L. 1996 S.B. 845, A.L. 2004 H.B. 795, et al. merged with H.B. 1207, A.L. 2008 S.B. 939)*
+
+### 246.310 Inapplicability of certain law regarding abeyance of water and sewer assessments.
+
+The provisions of section 262.802 shall not apply to any drainage district or levee district formed under and pursuant to the laws of this state.
+
+*Effective 8/28/2010 · (L. 2010 H.B. 1316 merged with H.B. 1692, et al. merged with S.B. 795)*
+
+## Chapter 247 — Public Water Supply Districts
+
+### 247.010 Formation of public corporations.
+
+Sections 247.010 to 247.220 are intended to make possible, through public corporations, conveniences in the use of water, ample in quantity for all needful purposes and pure and wholesome in quality, furnished from common sources of supply to many inhabitants of our state now denied such privileges; and thereby promote public health and sanitation, make available conveniences not otherwise possible, and for the general public welfare.
+
+*Effective 8/28/1945 · (RSMo 1939 § 12620, A.L. 1941 p. 353, A.L. 1945 p. 846)*
+
+### 247.020 Districts to be political corporations, numbered.
+
+The districts to be formed under sections 247.010 to 247.220 shall be known as public water supply districts of the counties in which districts are located, and shall be political corporations of the state of Missouri. Each district shall carry with it a number, which shall not be the same as any existing district of the county, and, when incorporated and organized as herein provided, shall have and be invested with all the powers conferred upon them by the provisions of sections 247.010 to 247.220 and no other.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12621)*
+
+### 247.030 Territory included in district, contiguous — boundaries of districts, how changed — extension or enlargement of district, how.
+
+1. Territory that may be included in a district sought to be incorporated or enlarged may be wholly within one or in more than one county, may take in school districts or parts thereof, and cities that do not have a waterworks system or cities whose governing body has by a majority vote requested that the city or part thereof be included within the boundaries of a public water supply district. For the purpose of this section, "city" means any city, town or village. The territory, however, shall be contiguous, and proceedings to incorporate shall be in the circuit court of the county in which the largest acreage is located. No two districts shall overlap.
+2. Any two or more contiguous districts or any city and a contiguous district may, if there are no outstanding general obligation bonds relating to drinking water supply projects in either entity, by a majority vote of the governing body of each entity, provide for territory located in one entity to be annexed and served by the entity contiguous to the annexed territory. Notice of the proposed annexation shall be filed with the circuit court that originally issued the decree of incorporation for a district which is detaching territory through the proposed annexation or with the circuit court that originally issued the decree of incorporation for a district which is including a city or part thereof through the proposed annexation. The court shall set a date for a hearing on the proposed annexation and shall cause notice to be published in the same manner as for the filing of the original petition for incorporation; except that publication of notice shall not be required if a majority of the landowners in the territory proposed to be annexed consent in writing, and if notice of the hearing is posted in three public places within the territory proposed to be annexed at least seven days before the date of the hearing. If publication of the notice is not required pursuant to this section, the court shall only approve the proposed annexation if there is sworn testimony by at least five landowners in the area of the proposed annexation, or a majority of the landowners, if there are fewer than ten landowners in the area. If the court, after the hearing, finds that the proposed annexation would not be in the public interest, it shall order that the annexation not be allowed. If the court finds the proposed annexation to be in the public interest, it shall approve the annexation and the territory shall be detached from the one entity and annexed to the other. After the annexation is approved, the circuit court in which each district involved in the proceedings was incorporated shall amend the decree of incorporation for each district to reflect the change in the boundaries as a result of the annexation and redivide each district into five subdistricts, fixing their boundary lines so that each of the five subdistricts have approximately the same area. A certified copy of the amended decree showing the boundary change and the new subdistricts shall be filed in the office of the recorder of deeds and in the office of the county clerk in each county having territory in the district and in the office of the secretary of state of the state of Missouri.
+3. The boundaries of any district may be extended or enlarged from time to time upon the filing, with the clerk of the circuit court having jurisdiction, of a petition by either:
+(1) The board of directors of the district and five or more voters or landowners within the territory proposed to be annexed by the district; or
+(2) The board of directors of the district and a majority of the landowners within the territory proposed to be annexed to the district.
+­­
+­
+4. Should any landowner who owns real estate that abuts upon a district once formed desire to have such real estate incorporated in the district, the landowner shall first petition the board of directors thereof for its approval. If such approval be granted, the clerk of the board shall endorse a certificate of the fact of approval by the board upon the petition. The petition so endorsed shall be filed with the clerk of the circuit court in which the district is incorporated. It shall then be the duty of the court to amend the boundaries of such district by a decree incorporating the real estate in the same. A certified copy of this decree including the real estate in the district shall then be filed in the office of the recorder and in the office of the county clerk of the county in which the real estate is located, and in the office of the secretary of state. The costs of this proceeding shall be borne by the petitioning property owner.
+
+*Effective 8/28/2002 · (RSMo 1939 § 12622, A.L. 1976 H.B. 1386, A.L. 1995 H.B. 88, A.L. 1999 H.B. 450 merged with S.B. 160 & 82, A.L. 2002 S.B. 984 & 985)*
+
+### 247.031 Detachment from district, when — procedure — costs — petition form.
+
+1. Territory included in a district that is not being served by such district may be detached from such district provided that there are no outstanding general obligation or special obligation bonds and no contractual obligations of greater than twenty-five thousand dollars for debt that pertains to infrastructure, fixed assets or obligations for the purchase of water. If any such bonds or debt is outstanding, and the written consent of the holders of such bonds or the creditors to such debt is obtained, then such territory may be detached in spite of the existence of such bonds or debt, except such consent shall not be required for special obligation bonds if the district has no water lines or other facilities located within any of the territory detached. Detachment may be made by the filing of a petition with the circuit court in which the district was incorporated. The petition shall contain a description of the tract to be detached and a statement that the detachment is in the best interest of the district or the inhabitants and property owners of the territory to be detached, together with the facts supporting such allegation. The petition may be submitted by the district acting through its board of directors, in which case the petition shall be signed by a majority of the board of directors of the district. The petition may also be submitted by voters residing in or by landowners owning land in the territory sought to be detached. If there are more than ten voters and landowners in such territory, the petition shall be signed by five or more voters or landowners within the territory; if there are less than ten voters and landowners within such territory, the petition shall be signed by fifty percent or more of the voters and landowners within the territory. In the event there are no voters living within such territory proposed to be detached, then the petition may be submitted by owners of more than fifty percent of the land in the territory proposed to be detached, in which case said petition shall be signed by the owners so submitting the petition. In the event the petition is not submitted by the district acting through its board of directors, the petitioner shall name the district as a defendant and serve a copy of the petition upon the district by certified or registered mail with a return receipt requested at least thirty-five days before the date of the hearing of the petition.
+2. Such petition shall be filed in the circuit court having jurisdiction and the court shall set a date for hearing on the proposed detachment and the clerk of the circuit court shall give notice of the filing of the petition and the hearing to the district by certified or registered mail with a return receipt requested if the district is not the petitioner, and in a newspaper of general circulation in the county in which the proceedings are pending and in a newspaper of general circulation in the territory proposed to be detached. Such notice shall be published in three consecutive issues of a weekly newspaper, or in lieu thereof, in twenty consecutive issues of a daily newspaper. The last insertion of the notice shall be made not less than seven nor more than twenty-one days before the hearing date. Such notice shall be substantially as follows:
+­
+­
+3. The court, for good cause shown, may continue the case or the hearing thereon from time to time until final disposition thereof.
+4. Exceptions or objections to the detachment of such territory may be made by any voter or landowner within the boundaries of the district, including the territory to be detached. In the event the petition is not submitted by the district acting through its board of directors, the district may file exceptions or objections. Exceptions or objections shall be in writing, shall specify the grounds upon which they are made, and shall be filed not later than five days before the date set for hearing the petition. In considering the petition for detachment, the court shall take into consideration the evidence in support of and opposition to the petition, including such exceptions and objections. If the court finds that the detachment will be in the best interest of the district and the inhabitants and landowners of the area to be detached will not be adversely affected or if the court finds that the detachment will be in the best interest of the inhabitants and landowners of the territory to be detached and will not adversely affect the remainder of the district, it shall approve the detachment and grant the petition.
+5. If the court approves the detachment, it shall make its order detaching the territory described in the petition from the remainder of the district, or in the event it shall find that only a portion of said territory should be detached, the court shall order such portion detached from the district. The court shall also make any changes in subdistrict boundary lines it deems necessary to meet the requirements of sections 247.010 to 247.220. Any subdistrict line changes shall not become effective until the next annual election of a member of the board of directors.
+6. A certified copy of the court's order shall be filed in the office of the recorder of deeds and in the office of the county clerk in each county in which any of the territory of the district prior to detachment is located, and in the office of the secretary of state. Costs of the proceeding shall be borne by the petitioner or petitioners.
+
+*Effective 8/28/2009 · (L. 1988 H.B. 962, A.L. 2000 S.B. 741, A.L. 2002 S.B. 984 & 985, A.L. 2009 S.B. 196)*
+
+### 247.035 Sewer treatment facilities, construction and operation, when — procedure.
+
+1. The board of directors of any public water supply district may petition the circuit court of the county containing the major part of the acreage in the district for an amended decree of incorporation to allow that district to engage in the construction, maintenance and operation of common sewer treatment facilities which serve ten or more separate properties and are located wholly within the district and are not operated by another political subdivision or are not located within the certificated area of a sewer corporation as defined in chapter 386 or within a common sewer district as defined in chapter 204 and the operation and maintenance of all such existing sewer treatment facilities. The petition shall be filed by the board of directors and all proceedings shall be in the same manner as in an action for initial formation of a water district except that no vote of the residents of the district shall be required.
+2. If the decree is amended the district shall, within ninety days after the order amending the decree, begin operation of the existing facilities which it has acquired by gift or otherwise and shall establish and collect user charges to be determined and established in the same manner as water rates.
+3. All applicable provisions of this chapter shall apply to the construction, operation and maintenance of common sewer facilities in the same manner as they apply to like functions relating to water supply.
+
+*Effective 4/30/1980 · (L. 1980 H.B. 1191)
+Effective 4-30-80*
+
+### 247.040 Formation of public water supply district — procedure.
+
+1. Proceedings for the formation of a public water supply district shall be substantially as follows: a petition in duplicate describing the proposed boundaries of the district sought to be formed, accompanied by a plat of the proposed district, shall be filed with the clerk of the circuit court of the county wherein the proposed district is situate, or with the clerk of the circuit court of the county having the largest acreage proposed to be included in the proposed district, in the event that the proposed district embraces lands in more than one county. Such petition, in addition to such boundary description, shall set forth an estimate of the number of customers of the proposed district, the necessity for the formation of the district, the probable cost of the improvement, an approximation of the assessed valuation of taxable property within the district and such other information as may be useful to the court in determining whether or not the petition should be granted and a decree of incorporation entered. Such petition shall be accompanied by a cash deposit of fifty dollars as an advancement of the costs of the proceeding, and the petition shall be signed by not less than fifty voters or owners of real property within the proposed district and shall pray for the incorporation of the territory therein described into a public water supply district. The petition shall be verified by at least one of the signers of the petition, including a statement confirming that service has been made by certified mail to the city manager or the business office of any municipality with boundaries located not more than one mile from any boundary of the proposed district.
+2. Upon the filing of the petition, the same shall be presented to the circuit court, and such court shall fix a date for a hearing on such petition, as herein provided for. Thereupon the clerk of the court shall give notice of the filing of the petition in some newspaper of general circulation in the county in which the proceedings are pending, and if the district extends into any other county or counties, such notice shall also be published in some newspaper of general circulation in such other county or counties. The notice shall contain a description of the proposed boundary lines of the district and the general purposes of the petition, and shall set forth the date fixed for the hearing on the petition, which shall not be less than seven nor more than twenty-one days after the date of the last publication of the notice and shall be on some regular judicial day of the court wherein the petition is pending. Such notice shall be signed by the clerk of the circuit court and shall be published in three successive issues of a weekly newspaper or in a daily newspaper once a week for three consecutive weeks.
+3. The court, for good cause shown, may continue the case or the hearing thereon from time to time until final disposition thereof.
+4. Exceptions to the formation of a district, or to the boundaries outlined in the petition for the incorporation thereof, may be made by any voter or owner of real property in the proposed district or by any municipality with boundaries located not more than one mile from any boundary of the proposed district; provided, such exceptions are filed not less than five days prior to the date set for the hearing on the petition. Such exceptions shall specify the grounds upon which the exceptions are being made. If any such exceptions be filed, the court shall take them into consideration in passing upon the petition and shall also consider the evidence in support of the petition and in support of the exceptions made. Should the court find that the petition should be granted but that changes should be made in the boundary lines, it shall make such changes in the boundary lines as set forth in the petition as to the court may seem meet and proper, and thereupon enter its decree of incorporation, with such boundaries as changed.
+5. Should the court find that it would not be to the public interest to form such a district, the petition shall be dismissed at the costs of the petitioners. If, however, the court should find in favor of the formation of such district, the court shall enter its decree of incorporation, setting forth the boundaries of the proposed district as determined by the court pursuant to the aforesaid hearing. The decree of incorporation shall also divide the district into five subdistricts and shall fix their boundary lines, all of which subdistricts shall have approximately the same area and shall be numbered. The decree shall further contain an appointment of one voter from each of such subdistricts, to constitute the first board of directors of the district. No two members of such board so appointed or hereafter elected or appointed shall reside in the same subdistrict, except as provided in section 247.060. If no qualified person who lives in the subdistrict is willing to serve on the board, the court may appoint, or the voters may elect, an otherwise qualified person who lives in the district but not in the subdistrict. The court shall designate two of such directors so appointed to serve for a term of two years and one to serve for a term of one year. And the directors thus appointed by the court shall serve for the terms thus designated and until their successors shall have been appointed or elected as herein provided. The decree shall further designate the name and number of the district by which it shall hereafter be officially known.
+6. The decree of incorporation shall not become final and conclusive until it shall have been submitted to the voters residing within the boundaries described in such decree and until it shall have been assented to by a majority of the voters as provided in subsection 9 of this section or by two-thirds of the voters of the district voting on the proposition. The decree shall provide for the submission of the question and shall fix the date thereof. The returns shall be certified by the judges and clerks of election to the circuit court having jurisdiction in the case and the court shall thereupon enter its order canvassing the returns and declaring the result of such election.
+7. If, upon canvass and declaration, it is found and determined that the question shall have been assented to by a majority of two-thirds of the voters of the district voting on such proposition, then the court shall, in such order declaring the result of the election, enter a further order declaring the decree of incorporation to be final and conclusive. In the event, however, that the court should find that the question had not been assented to by the majority above required, the court shall enter a further order declaring such decree of incorporation to be void and of no effect. No appeal shall lie from any such decree of incorporation nor from any of the aforesaid orders. In the event that the court declares the decree of incorporation to be final, as herein provided for, the clerk of the circuit court shall file certified copies of such decree of incorporation and of such final order with the secretary of state of the state of Missouri, and with the recorder of deeds of the county or counties in which the district is situate and with the clerk of the county commission of the county or counties in which the district is situate.
+8. The costs incurred in the formation of the district shall be taxed to the district, if the district be incorporated, otherwise against the petitioners.
+9. If petitioners seeking formation of a public water supply district specify in their petition that the district to be organized shall be organized without authority to issue general obligation bonds, then the decrees relating to the formation of the district shall recite that the district shall not have authority to issue general obligation bonds and the vote required for such a decree of incorporation to become final and conclusive shall be a simple majority of the voters of the district voting on such proposition.
+
+*Effective 8/28/2004 · (RSMo 1939 § 12623, A.L. 1978 H.B. 971 merged with H.B. 1634, A.L. 1991 H.B. 619, A.L. 1993 S.B. 392, A.L. 1995 H.B. 88, A.L. 1998 H.B. 1622 merged with S.B. 479, A.L. 1999 H.B. 450 merged with S.B. 160 & 82, A.L. 2002 S.B. 984 & 985, A.L. 2004 S.B. 987)*
+
+### 247.050 Powers of public water supply districts.
+
+The following powers are hereby conferred upon public water supply districts organized under the provisions of sections 247.010 to 247.220:
+(1) To sue and be sued;
+(2) To purchase or otherwise acquire water for the necessities of the district;
+(3) To accept by gift any funds or property for the uses and purposes of the district;
+(4) To dispose of property belonging to the district, under the conditions expressed in sections 247.010 to 247.220;
+(5) To build, acquire by purchase or otherwise, enlarge, improve, extend and maintain a system of waterworks, including fire hydrants;
+(6) To contract and be contracted with;
+(7) To condemn private property, within or without the district, needed for the uses and purposes in sections 247.010 to 247.220 provided for;
+(8) To lease, acquire and own any and all property, equipment and supplies needed within or without the district in the successful operation of a waterworks system;
+(9) To contract indebtedness and issue general or special obligation bonds, or both, of the district therefor, as herein provided;
+(10) To acquire, by purchase or otherwise, a system of waterworks, and to build, enlarge, improve, extend and equip such system for the uses and purposes of the district;
+(11) To certify to the county commission or county commissions of the county or counties within which such district is situate the amount or amounts to be provided by the levy of a tax upon all taxable property within the district to create an interest and sinking fund for the payment of general obligation bonds of the district and the interest thereon; and also
+(12) To create an incidental fund to take care of all costs and expenses incurred in incorporating the district, and all obligations contracted prior thereto and connected therewith; and
+(13) To purchase equipment and supplies needed in the operation of the water system of the district; provided, however, that the power to create an incidental fund by the levy of a general property tax shall cease after two annual levies therefor shall have been made, and such levy shall not exceed fifteen cents per annum on each one hundred dollars assessed valuation of taxable property within the district;
+(14) To provide for the collection of taxes and rates or charges for water and water service;
+(15) To sell and distribute water to the inhabitants of the district and to consumers outside the district, delivered within or at the boundaries of the district; to contract with another water district or a municipality to sell water within such water district or municipality according to the terms and provisions of such contract; to contract with another water district or municipality for such water district or municipality to sell water within the district according to the terms and provisions of such contract;
+(16) To fix rates for the sale of water; and
+(17) To make general rules and regulations in relation to the management of the affairs of the district.
+
+*Effective 8/28/2007 · (RSMo 1939 § 12624, A.L. 2007 S.B. 407)
+CROSS REFERENCES:
+Improvement district may redeem lands from tax lien, when, 140.380
+Political subdivisions may contract with other political subdivisions on public improvements or facilities, 70.210 to 70.325*
+
+### 247.060 Board of directors — powers, qualifications, appointment, terms, vacancies, how filled — elections held, when, procedure — attendance fee — suspension of members, when.
+
+1. The management of the business and affairs of the district is hereby vested in a board of directors, who shall have all the powers conferred upon the district except as herein otherwise provided. It shall be composed of five members, each of whom shall be a voter of the district and shall have resided in said district one whole year immediately prior to his or her election. A member shall be at least twenty-five years of age and shall not be delinquent in the payment of taxes at the time of his election. Except as provided in subsection 2 of this section, the term of office of a member of the board shall be three years. The remaining members of the board shall appoint a qualified person to fill any vacancy on the board. If no qualified person who lives in the subdistrict for which there is a vacancy is willing to serve on the board, the board may appoint an otherwise qualified person who lives in the district but not in the subdistrict in which the vacancy exists to fill such vacancy.
+2. After notification by certified mail that he or she has two consecutive unexcused absences, any member of the board failing to attend the meetings of the board for three consecutive regular meetings, unless excused by the board for reasons satisfactory to the board, shall be deemed to have vacated the seat, and the secretary of the board shall certify that fact to the board. The vacancy shall be filled as other vacancies occurring in the board.
+3. The initial members of the board shall be appointed by the circuit court and one shall serve until the immediately following first Tuesday after the first Monday in April, two shall serve until the first Tuesday after the first Monday in April on the second year following their appointment and the remaining appointees shall serve until the first Tuesday after the first Monday in April on the third year following their appointment. On the expiration of such terms and on the expiration of any subsequent term, elections shall be held as otherwise provided by law, and such elections shall be held in April pursuant to section 247.180.
+4. In 2008, 2009, and 2010, directors elected in such years shall serve from the first Tuesday after the first Monday in June until the first Tuesday in April of the third year following the year of their election. All directors elected thereafter shall serve from the first Tuesday in April until the first Tuesday in April of the third year following the year of their election.
+5. Each member of the board may receive an attendance fee not to exceed one hundred dollars for attending each regularly called board meeting, or special meeting, but shall not be paid for attending more than two meetings in any calendar month, except that in a county of the first classification, a member shall not be paid for attending more than four meetings in any calendar month. However, no board member shall be paid more than one attendance fee if such member attends more than one board meeting in a calendar week. In addition, the president of the board of directors may receive fifty dollars for attending each regularly or specially called board meeting, but shall not be paid the additional fee for attending more than two meetings in any calendar month. Each member of the board shall be reimbursed for his or her actual expenditures in the performance of his or her duties on behalf of the district.
+6. In no event, however, shall a board member receive any attendance fees or additional compensation authorized in subsection 5 of this section until after such board member has completed a minimum of six hours training regarding the responsibilities of the board and its members concerning the basics of water treatment and distribution, budgeting and rates, water utility planning, the funding of capital improvements, the understanding of water utility financial statements, the Missouri sunshine law, and this chapter.
+7. The circuit court of the county having jurisdiction over the district shall have jurisdiction over the members of the board of directors to suspend any member from exercising his or her office, whensoever it appears that he or she has abused his or her trust or become disqualified; to remove any member upon proof or conviction of gross misconduct or disqualification for his or her office; or to restrain and prevent any alienation of property of the district by members, in cases where it is threatened, or there is good reason to apprehend that it is intended to be made in fraud of the rights and interests of the district.
+8. The jurisdiction conferred by this section shall be exercised as in ordinary cases upon petition, filed by or at the instance of any member of the board, or at the instance of any ten voters residing in the district who join in the petition, verified by the affidavit of at least one of them. The petition shall be heard in a summary manner after ten days' notice in writing to the member or officer complained of. An appeal shall lie from the judgment of the circuit court as in other causes, and shall be speedily determined; but an appeal does not operate under any condition as a supersedeas of a judgment of suspension or removal from office.
+
+*Effective 8/28/2014 · (RSMo 1939 § 12625, A.L. 1978 H.B. 971, A.L. 1982 S.B. 526, A.L. 1989 S.B. 98, A.L. 1990 H.B. 1230, A.L. 1991 H.B. 619, A.L. 2005 H.B. 58, A.L. 2007 H.B. 795 merged with S.B. 22, A.L. 2008 H.B. 1881 merged with S.B. 956, A.L. 2011 H.B. 89, A.L. 2014 H.B. 1692)
+CROSS REFERENCE:
+Nonseverability clause, 640.099*
+
+### 247.070 Organization of board, when.
+
+Within thirty days after appointment or election of the board, or on the date of the first regular meeting after appointment or election of the board, whichever is earlier, the board shall meet and organize, selecting one of its number president and one vice president. It shall also select a clerk and a treasurer, neither of whom shall be members of the board. The president and vice president shall serve for one year and until their successors are selected and qualified.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12626, A.L. 1990 H.B. 1065)*
+
+### 247.080 Board — further powers.
+
+1. The exercise of the powers conferred upon the district by sections 247.010 to 247.220 shall be by its board of directors, acting as a board.
+2. The board shall have power and it shall be its duty to employ necessary help and to contract for such professional service as the demands of the district require in creating and operating a waterworks system contemplated in this law, and shall pay out of the funds of the district available for such purposes reasonable compensation for the service rendered. It shall have made by a competent accountant an annual audit of the receipts and expenditures of the district. All persons employed shall serve for an indefinite term and at the will of the board, and party politics shall not enter into the selection of employees.
+3. The board shall have regular monthly meetings and the president thereof may call special meetings as occasion requires. It shall establish an office for its meeting place and for the transaction of business.
+4. All persons charged with handling of funds shall be required to give bond to be fixed and approved by the board, but at the expense of the district.
+5. All contracts made by the district shall conform to section 432.070 governing contracts. It shall have power to authorize and enter into all contracts in behalf of the district, and shall provide an official seal for district, and all official documents shall be attested by the seal.
+
+*Effective 8/28/2014 · (RSMo 1939 § 12627, A.L. 2014 H.B. 1692)*
+
+### 247.085 Board may contract for water supply with city, when — publication of notice — sale of property, use of funds.
+
+1. The board of directors of any public water supply district shall have power to sell and convey part or all of the property of the district to any city, owning and operating a waterworks system, in consideration whereof the city shall obligate itself to pay or assume the payment of all outstanding bond obligations of the district, and to provide reasonable and adequate water service and furnish water ample in quantity for all needful purposes, and pure and wholesome in quality, to the inhabitants of the territory lying within the district, during such period of time and under such terms and conditions as may be agreed upon by the city and the board of directors of the district; provided, however, that no action shall be taken as provided herein until said city and public water supply district shall cause a printed notice of their intention to act under this section to be published in a manner prescribed for by law in a newspaper having a general circulation in said city and public water supply district, and a statement of the time and manner of said publication shall be recited in any agreement or contract executed hereunder.
+2. Thereafter the board of directors may sell and convey any remaining property of the district and after payment of the debts of the district, other than bond obligations, the board of directors may use the funds of the district for the purpose of providing fire protection or for any other public purpose which in the opinion of the board will be beneficial to the inhabitants of the district.
+3. The powers granted by this section are in addition to the powers granted by law and are not subject to the terms and conditions set forth in those sections.
+
+*Effective 8/28/2005 · (L. 1951 p. 650, A.L. 2004 S.B. 987, A.L. 2005 H.B. 395)*
+
+### 247.090 Board — quorum.
+
+A majority of board members shall constitute a quorum to do business. No act of the board shall be valid unless authorized by a majority of the members of the board.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12628)*
+
+### 247.100 Duties of officers of board.
+
+1. It shall be the duty of the president to preside at all board meetings, to act as official head of the district, to execute all contracts required to be executed by the district and the board. In the absence or disability of the president, the vice president shall assume the duties of the president.
+2. The clerk shall keep the official records of the meetings of the board, shall attest all official documents with the seal of the district, shall, when called upon, make reports pertaining to the business of his office, attend the board meetings, and perform such other duties as may be imposed upon him by the provisions of sections 247.010 to 247.220 and the rules of the board.
+3. The treasurer shall be the custodian of the funds of the district and pay money out of the treasury only upon valid warrants drawn on the treasury. Warrants shall be signed by the clerk and countersigned by the president. He shall execute such bond for faithful performance of duty as may be required by the board, the expense of the execution of the bond, however, to be borne by the district.
+4. The board may, from time to time, provide for additional rules and regulations concerning the duties of its officers.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12629)*
+
+### 247.110 Board to fix rates and charges — delinquencies to create lien, when — procedure.
+
+1. Subject to such regulation and control as may now exist in or may hereafter be conferred upon the public service commission of the state of Missouri, the fixing of rates or charges for water or water service furnished by a district incorporated under sections 247.010 to 247.220 is hereby vested in its board of directors. The rates or charges to be so fixed shall, at all times, be reasonable, but in determining the reasonableness of rates or charges, the board shall take into consideration the sum or sums required to retire outstanding special obligation bonded indebtedness of the district and the interest accruing thereon, the need for extensions of mains, repairs, depreciation, enlargement of plant, adequate service, obsolescence, overhead charges, operating expenses, and the need of an operating fund out of which the district may protect itself in emergencies and out of which the incidental expenses of the district may readily be met.
+2. Any charge for water or water services levied by the board of directors of a water district shall be due at such time or times as specified by the board and may be considered delinquent if not paid by the due date. The board may assess penalties on delinquent payments owed to the district. These penalties shall not exceed a reasonable amount.
+3. Upon ten days prior notice to the person to whom water service was delivered, the board of directors of a water district may cause to be filed with the recorder of deeds in the county where the land is located a legal description of the property on which water charges are thirty days or more delinquent, the names and addresses of the title owners and the amount due, provided the person who owns the property is the same person who owes for the water service delivered, which shall constitute a lien upon the land so charged. The board shall file with the recorder of deeds a notice of satisfaction when the delinquent amounts, any interest on the delinquent amounts and any recording fees or attorney fees have been paid in full.
+4. The lien authorized in this section may be enforced by an action filed in the circuit court having jurisdiction in the county where water services are delivered. The pleadings, practice, process, and other proceedings in cases arising under this section shall be the same as in ordinary civil actions and proceedings in circuit courts.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12630, A.L. 1990 S.B. 525)*
+
+### 247.120 Board — estimation of tax levy — county commission to levy tax.
+
+1. For the period and subject to the limitations contained in sections 247.010 to 247.220, the board of directors of any district organized hereunder shall, on or before the tenth day of May of each year, make estimates of the amount of taxes required to be levied to provide for the purposes of the district as specified in section 247.050.
+2. Such estimates shall thereupon be certified by the clerk of the board and filed by the clerk of the county commission or the respective clerks of the county commissions of the counties in which the district is situate. Upon the basis of such estimates the county commission or respective county commissions shall proceed to levy a tax upon all taxable property within the district, sufficient to provide the funds required by such estimates.
+3. The clerk of the county commission or respective clerks of the county commissions shall enter such levies on the tax books of the county in the same manner as school district taxes are entered, for the use of the county collector. The taxes thus levied and extended upon the tax books shall be collected and the payment thereof enforced at the same time and in the same manner as is provided for the collection and payment of taxes levied for state and county purposes and such taxes, when collected, shall be remitted by the collector or collectors of the revenue, to the treasurer of the district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12631)*
+
+### 247.130 Power of districts — bond elections.
+
+1. Any district organized hereunder shall have power to borrow money for any of the purposes provided for in sections 247.010 to 247.220, and to issue bonds therefor. In such event the board of directors shall proceed substantially as follows: The board shall adopt a resolution, reciting the necessity for the borrowing of money, the amount of money necessary to be raised, the purposes thereof, and the amount and type or character of bonds to be issued. Such resolution shall also fix the date of an election to be held for the purpose of testing the sense of the voters of the district on the question of incurring such indebtedness and issue bonds in evidence thereof.
+2. Such resolution may submit at such election a proposal to issue general obligation bonds or special obligation bonds, or both, but in no event shall the board of directors have authority to issue bonds unless at such election the constitutionally required percentage of the qualified voters of the district voting on any general obligation bonds shall assent thereto and a simple majority of the qualified voters of the district voting on any special obligation bonds shall assent thereto.
+3. Districts organized under the provisions of sections 247.010 to 247.220 may issue either general obligation bonds or special obligation bonds, as herein defined; provided, however, that the type or character of bonds to be issued shall be determined by the board of directors in advance of calling the bond election and shall be stated in the notice of election as herein provided.
+4. General obligation bonds, within the meaning of said sections, shall be bonds issued within the limitation of indebtedness prescribed under Section 26 of Article VI of the Constitution of Missouri, for the payment of which, both principal and interest, a direct tax may be levied upon all taxable property within the district. Before or at the time of issuing general obligation bonds, the board of directors shall provide for the collection of an annual tax, to be levied upon all taxable property within the district sufficient to pay the interest on such bonds as it falls due, and also to constitute a sinking fund for the payment of the principal thereof within twenty years from the date of such bonds; provided, however, that the net income and revenue arising from the operation of the waterworks system of such district, after providing for costs of operation, maintenance, depreciation and necessary extensions and enlargements, shall be transferred to and become a part of the interest and sinking fund applicable to such general obligation bonds, unless or until such net revenues are pledged to the payment of special obligation bonds as herein provided.
+5. Special obligation bonds, within the meaning of sections 247.010 to 247.220, shall be bonds payable, both as to principal and interest, wholly and only out of the net income and revenues arising from the operation of the waterworks system of any such district, after providing for costs of operation, maintenance, depreciation and necessary extensions and enlargements, and such bonds shall not be deemed to be indebtedness of any such district within the meaning of any constitutional or statutory limitation upon the incurring of indebtedness. Before or at the time of issuing any such special obligation bonds, the board of directors shall pledge such net income and revenues to the payment of such bonds, both principal and interest, and shall covenant to fix, maintain and collect rates for water and water service supplied by such district so as to assure that such net income and revenues will be sufficient for the purposes herein required.
+6. All bonds issued under the provisions of sections 247.010 to 247.220 shall be payable serially, beginning not more than five years after the date they bear; the last installment of any general obligation bonds so issued shall be payable not more than twenty years after such date, and the last installment of any special obligation bonds so issued shall be payable not more than thirty-five years after such date. Such bonds shall bear such rate of interest, not exceeding six percent per annum, payable annually or semiannually, shall be payable at such place or places, within or without the state of Missouri, shall be executed by the president of the board of directors, attested by the clerk of said board, under the seal of the district, and shall be of such denomination and be payable in such medium of payment, all as the board of directors may determine; provided, further, that should any bond issue fail to carry at an election held for that purpose, the board of directors shall have no power to call another election on the question of the issuance of bonds for a period of four months thereafter.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12632, A.L. 1945 p. 847, A.L. 1959 S.B. 160, A.L. 1978 H.B. 971, A.L. 1990 S.B. 862)*
+
+### 247.140 Issuance of current revenue bonds, when.
+
+During the period of time given the board to levy a tax on property within the district for incidental expenses as that term is used in sections 247.010 to 247.220, the board may issue and sell current revenue bonds to bear interest at not to exceed six percent per annum, to meet the current expenses of the district incurred in advance of the revenue to be derived from such incidental tax levy, and to be paid out of such current revenue when accrued. Such bonds may be for six, nine, or twelve months and shall not exceed in the aggregate one-half of the revenue for the fiscal year for which they are issued. The president of the board of directors shall execute the bonds on behalf of the district and which shall be attested by the clerk with the seal of the district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12637)*
+
+### 247.150 Bonded indebtedness, how refunded — refunding bonds, conditions imposed.
+
+1. Any public water supply district now or hereafter organized under the laws of this state is hereby authorized, without an election, to refund all or any part of the bonded indebtedness of such district at the time outstanding, including interest thereon.
+2. Where the bonds being refunded consist of general obligation bonds payable from ad valorem taxes levied upon all taxable property situated in the district, the refunding bonds issued to refund such general obligation bonds shall be payable from ad valorem taxes levied upon all taxable property situated in the district.
+3. When the bonds being refunded consist of special obligation bonds payable from the net income and revenues arising from operation of the waterworks system of such district, the refunding bonds, issued to refund such special obligation bonds, or any interest thereon, shall likewise constitute special obligation bonds and shall be payable from such net income and revenues arising from the operation of the waterworks system of the district.
+4. All refunding bonds of any public water supply district shall be negotiable and shall be payable not later than the date for the final payment of the original former bonds for which such refunding bonds are issued and for which refunding bonds are delivered in exchange, except that the last installment of any special obligation refunding bonds issued for previously issued special obligation bonds shall be payable up to, but not more than, thirty-five years from the date of such special obligation refunding bonds. The refunding bonds shall bear such rate of interest, not exceeding eight percent per annum, payable annually or semiannually, and shall be in such denomination and be payable at such place or places as the board of directors may determine; provided, however, that the interest rate on the refunding bonds shall not exceed the interest rate on the bonds being refunded where such bonds are general obligation bonds payable from ad valorem taxes, but such interest rate may exceed the interest rate on the bonds being refunded if such bonds are special obligation or revenue bonds and not payable from ad valorem taxes. In no case shall the amount of the debt of such district be increased or enlarged under the provisions of this section.
+
+*Effective 8/28/1972 · (L. 1943 p. 519 § 12638A, A.L. 1972 H.B. 1506)
+CROSS REFERENCE:
+Bonded debt of counties, townships, etc., may be funded, question to be submitted, how, 108.140 to 108.160*
+
+### 247.160 Mains and equipment conveyed to city, when — conditions.
+
+1. Whenever all or any part of the territory of any public water supply district organized under sections 247.010 to 247.220 is or has been included by annexation within the corporate limits of a municipality, the board of directors of any such district shall have the power to contract with such municipality for operating the waterworks system within such annexed area, or the board of directors may, subject to the provisions of this section and section 247.170, lease, contract to sell, sell or convey any or all of its water mains, plant or equipment located within such annexed area to such municipality and such contract shall also provide for the detachment and exclusion from such public water supply district of that part thereof located within the corporate limits of such city; provided, that in case of sale or conveyance, all bonds of the district, whether general obligation bonds constituting a lien on the property located within the district, or special obligation or revenue bonds constituting a lien on the income and revenues arising from the operation of the water system:
+(1) Are paid in full, or
+(2) A sum sufficient to pay all of such bonds together with interest accrued or to accrue thereon, together with other items of expense provided in such bonds, is deposited with the fiscal agent named in the bonds for the purpose of full payment, or
+(3) Such city has entered into a firm commitment to pay in lump sum or installments not less than that proportion of the sum of all existing liquidated obligations and of all unpaid revenue bonds, with interest thereon to date, of such public water supply district, as the assessed valuation of the real and tangible personal property within the area annexed bears to the assessed valuation of all the real and tangible personal property within the entire area of such district, according to the official county assessment of such property as to December thirty-first of the calendar year next preceding, or
+(4) Consent in writing is obtained from the holders of all such bonds.
+2. In any such case in which the board of directors by agreement leases, contracts to sell, sells or conveys the property of the district within the annexed area to such a municipality, an application shall be made by one of the contracting parties to the circuit court originally incorporating such district, which application shall set forth a description of the annexed area, that part thereof sought to be detached and excluded, a copy of the agreement entered into by the parties, the facts concerning bondholders and their rights, and requesting an order of the court approving or disapproving such contract.
+3. Upon the filing of such application, the court shall set a time for the hearing thereof and shall order a public notice setting forth the nature of the application, the annexed area affected and sought to be detached and excluded, a description of the property within the annexed area leased, contracted to be sold, sold or conveyed, and the time and place of such hearing, to be published for three weeks consecutively, in a newspaper published in the county in which the application is pending, the last publication to be not more than seven days before the date set for hearing.
+4. If the court finds that the agreement protects the bondholders' rights and provides for the rendering of necessary water service in the territory embracing the district, then such agreement shall be fully effective upon approval by the court. Such decree shall also thereupon vest in said city the absolute title, free and clear of all liens or encumbrances of every kind and character, to all tangible real and personal property of such public water supply district located within the part of such district situated within the corporate limits of such city, with full power in such city to use and dispose of such tangible real and personal property as it deems best in the public interest. In the event that territory is detached and excluded from the district, the court shall include in its decree a description of the district after such detachment. If a detachment of territory is made, the court shall also make any changes in subdistrict boundary lines the court deems necessary to meet the requirements of sections 247.010 to 247.227. No subdistrict changes shall become effective until the next annual election of the board of directors.
+5. In the event that territory is detached and excluded from the district, a certified copy of the court's order shall be filed by the circuit clerk in the office of the recorder of deeds, in the office of the county clerk in each county in which any of the territory of the district before the detachment is located, and in the office of the secretary of state. Costs of the proceeding shall be borne by the petitioner or petitioners.
+
+*Effective 8/28/2008 · (L. 1949 p. 255 § 12637.1, A.L. 2008 S.B. 956)*
+
+### 247.165 Water service to annexed territory, agreement may be developed, procedure.
+
+1. Whenever all or any part of a territory located within a public water supply district organized pursuant to sections 247.010 to 247.220 is included by annexation within the corporate limits of a municipality, but is not receiving water service from such district or such municipality at the time of such annexation, the municipality and the board of directors of the district may, within six months after such annexation becomes effective, develop an agreement to provide water service to the annexed territory. Such an agreement may also be developed within six months after August 28, 2001, for territory that was annexed between January 1, 1996, and August 28, 2001, but was not receiving water service from such district or such municipality on August 28, 2001, except that such territory annexed in a county of the first classification without a charter form of government and with a population of more than sixty-three thousand eight hundred but less than seventy thousand inhabitants must have been annexed between January 1, 1999, and August 28, 2001. For the purposes of this section, "not receiving water service" shall mean that no water is being sold within the annexed territory by such district or municipality. If the municipality and district reach an agreement that detaches any territory from such district, the agreement shall be submitted to the circuit court originally incorporating such district, and the court shall make an order and judgment detaching the territory described in the agreement from the remainder of the district and stating the boundary lines of the district after such detachment. The court shall also make any changes in subdistrict boundary lines it deems necessary to meet the requirements of sections 247.110 to 247.227. Such subdistrict lines shall not become effective until the next election after the effective date of the agreement. At such time that the court's order and judgment becomes final, the clerk of the circuit court shall file certified copies of such order and judgment with the secretary of state and with the recorder of deeds and the county clerk of the county or counties in which the district is located. If an agreement is developed between a municipality and a water district pursuant to this subsection, subsections 2 to 8 of this section shall not apply to such agreement.
+2. In any case in which the board of directors of such district and such municipality cannot reach such an agreement, an application may be made by the district or the municipality to the circuit court originally incorporating such district, requesting that three commissioners develop such an agreement. Such application shall include the name of one commissioner appointed by the applying party. The second party shall appoint one commissioner within thirty days of the service of the application upon the second party. If the second party fails to appoint a commissioner within such time period, the court shall appoint a commissioner on behalf of the second party. Such two named commissioners may agree to appoint a third disinterested commissioner within thirty days after the appointment of the second commissioner. In any case in which such two commissioners cannot agree on or fail to make the appointment of the third disinterested commissioner within thirty days after the appointment of the second commissioner, the court shall appoint the third disinterested commissioner.
+3. Upon the filing of such application and the appointment of three such commissioners, the court shall set a time for one or more hearings and shall order a public notice including the nature of the application, the annexed area affected, the names of the commissioners, and the time and place of such hearings, to be published for three weeks consecutively in a newspaper published in the county in which the application is pending, the last publication to be not more than seven days before the date set for the first hearing.
+4. The commissioners shall develop an agreement between the district and the municipality to provide water service to the annexed territory. In developing the agreement, the commissioners shall consider information presented to them at hearings and any other information at their disposal including, but not limited to:
+(1) The estimated future loss of revenue and costs for the water district related to the agreement;
+(2) The amount of indebtedness of the water district within the annexed territory;
+(3) Any contractual obligations of the water district within the annexed area; and
+(4) The effect of the agreement on the water rates of the district.
+­­
+­
+5. If the court finds that the agreement provides for necessary water service in the annexed territory, then such agreement shall be fully effective upon approval by the court. The court shall also review the recommended apportionment of court costs and the reasonable compensation for the commissioners and affirm or modify such recommendations.
+6. The order and judgment of the court shall be subject to appeal as provided by law.
+7. If the court approves a detachment as part of the territorial agreement, it shall make its order and judgment detaching the territory described in the petition from the remainder of the district and stating the boundary lines of the district after such detachment. The court shall also make any changes in subdistrict boundary lines it deems necessary to meet the requirements of sections 247.110 to 247.227. Any subdistrict lines shall not become effective until the next annual regular election.
+8. At such time that the court's order and judgment becomes final, the clerk of the circuit court shall file certified copies of such order and judgment with the secretary of state and with the recorder of deeds and the county clerk of the county or counties in which the district is located.
+
+*Effective 8/28/2001 · (L. 2001 S.B. 267)*
+
+### 247.170 Detachment of part of district included in city — conditions — procedure — election.
+
+1. Whenever any city owning a waterworks or water supply system extends its corporate limits to include any part of the area in a public water supply district, and the city and the board of directors of the district are unable to agree upon a service, lease or sale agreement, or are unable to proceed under section 247.160, then upon the expiration of ninety days after the effective date of the extension of the city limits, that part of the area of the district included within the corporate limits of the city may be detached and excluded from the district in the following manner:
+(1) A petition to detach and exclude that part of the public water supply district lying within the corporate limits of the city as such limits have been extended, signed by not less than five percent of the registered voters who are patrons of the water supply district, or twenty registered voters that are patrons of each subdistrict, whichever is less, shall be filed in the circuit court of the county in which the district was originally organized.
+(2) The court, being satisfied as to the sufficiency of the petition, shall call a special election of the voters of the district at which election the proposal to detach and exclude the part of the district lying within the corporate limits of the city shall be submitted to the voters in the entire district for a vote thereon. The election shall be conducted within the district by the election authority.
+(3) The ballot shall briefly state the question to be voted on.
+(4) In order to approve the detachment and exclusion of any part of the area in a public water supply district, the proposal shall require the approval of not less than a majority of the voters voting thereon.
+(5) The election authorities shall thereafter promptly certify the result to the circuit court. The court, acting as a court of equity, shall thereupon without delay enter a decree detaching and excluding the area in question located within the corporate limits of the city from the public water supply district; except that before the decree detaching and excluding the area becomes final or effective, the city shall show to the court that it has assumed and agreed to pay in lump sum or in installments not less than that proportion of the sum of all existing liquidated general obligations and of all unpaid revenue bonds and interest thereon to date of the water supply district as the assessed valuation of the real and tangible personal property within the area sought to be detached and excluded bears to the assessed valuation of all of the real and tangible personal property within the entire area of the district, according to the official county assessment of property as of December thirty-first of the calendar year next preceding the date of the election, and in addition thereto that the city has assumed and agreed to assume or pay in a lump sum all contractual obligations of the water district that are greater than twenty-five thousand dollars for debt that pertains to infrastructure, fixed assets or obligations for the purchase of water, and to pay the court costs.
+(6) The decree shall thereupon vest in the city the absolute title, free and clear of all liens or encumbrances of every kind and character, to all tangible real and personal property of the public water supply district located within the part of the district situated within the corporate limits of the city with full power in the city to use and dispose of the tangible real and personal property as it deems best in the public interest.
+(7) If the proposal fails to receive the approval of the voters the question may be again presented by another petition and again voted on, but not sooner than six months.
+(8) Any and all sums paid out by the city under this section, other than the costs of the election, shall be administered by the circuit court for the benefit of the holders of the then existing and outstanding bonds of the district, and the remainder of such sums, if any, shall be delivered to the district to be expended in the operation, maintenance and improvement of its water distribution system.
+2. Upon the effective date of any final order detaching and excluding any part of the area of any public water supply district, or leasing, selling or conveying any of the water mains, plant or equipment therein, the circuit court may, in the public interest, change the boundaries of the public water supply district and again divide or redivide the district into subdistricts for the election of directors in conformity with the provisions of section 247.040, without further petition being filed with the court so to do.
+
+*Effective 8/28/2003 · (L. 1949 p. 255 § 12637.1, A.L. 1957 p. 581, A.L. 1978 H.B. 971, A.L. 1995 H.B. 484, et al., A.L. 2000 S.B. 741, A.L. 2003 H.B. 511)*
+
+### 247.171 Proportion of sum of all outstanding bonds and debts, calculation.
+
+The proportion of the sum of all outstanding bonds and debt, with interest thereon, that is required to be paid to the water supply district, pursuant to subsection 1 of section 247.031, and subdivision (5) of subsection 1 of section 247.170, shall be the same as the proportion of the assessed valuation of the real and tangible personal property within the area sought to be detached and excluded bears to the assessed valuation of all of the real and tangible personal property within the entire area of the water supply district.
+
+*Effective 8/28/2001 · (L. 2001 S.B. 267)*
+
+### 247.172 Written territorial agreements for sale and distribution of water — commission may designate boundaries — approval of commission, hearings — rights of suppliers not a party to agreement — complaints, hearings, authority of commission — fees.
+
+1. Competition to sell and distribute water, as between and among public water supply districts, water corporations subject to public service commission jurisdiction, and municipally owned utilities may be displaced by written territorial agreements, but only to the extent hereinafter provided for in this section.
+2. Such territorial agreements shall specifically designate the boundaries of the water service area of each water supplier subject to the agreement, any and all powers granted to a public water supply district by a municipality, pursuant to the agreement, to operate within the corporate boundaries of that municipality, notwithstanding the provisions of sections 247.010 to 247.670 to the contrary, and any and all powers granted to a municipally owned utility, pursuant to the agreement, to operate in areas beyond the corporate municipal boundaries of its municipality.
+3. Where the parties cannot agree upon the boundaries of the water service areas that are to be set forth in the agreement, they may, by mutual consent of all parties involved, petition the public service commission to designate the boundaries of the water service areas to be served by each party and such designations by the commission shall be binding on all such parties. Petitions shall be made pursuant to the rules and regulations of the commission governing applications for certificates of public convenience and necessity and the commission shall hold evidentiary hearings on all petitions so received as required in subsection 5 of this section. The commission shall base its final determination regarding such petitions upon a finding that the commission's designation of water service areas is in the public interest.
+4. Before becoming effective, all territorial agreements entered into under the provisions of this section, including any subsequent amendments to such agreements, or the transfer or assignment of the agreement or any rights or obligations of any party to an agreement, shall receive the approval of the public service commission by report and order. Applications for commission approval shall be made and notice of such filing shall be given to other water suppliers pursuant to the rules and regulations of the commission governing applications for certificates of public convenience and necessity. Unless otherwise ordered by the commission for good cause shown, the commission shall rule on such applications not later than one hundred twenty days after the application is properly filed with the secretary of the commission.
+5. The commission shall hold evidentiary hearings to determine whether such territorial agreements should be approved or disapproved, except that in those instances where the matter is resolved by a stipulation and agreement submitted to the commission by all the parties, such hearings may be waived by agreement of the parties. The commission may approve the application if it determines that approval of the territorial agreement in total is not detrimental to the public interest. Review of commission decisions under this section shall be governed by the provisions of sections 386.500 to 386.550.
+6. Commission approval of any territorial agreement entered into under the provisions of this section shall in no way affect or diminish the rights and duties of any water supplier not a party to the agreement to provide service within the boundaries designated in such territorial agreement. In the event any water corporation which is not a party to the territorial agreement and which is subject to the jurisdiction, control and regulation of the commission under chapters 386 and 393 has sought or hereafter seeks authorization from the commission to sell and distribute water or construct, operate and maintain water supply facilities within the boundaries designated in any such territorial agreement, the commission, in making its determination regarding such requested authority, shall give no consideration or weight to the existence of any such territorial agreement and any actual rendition of retail water supply services by any of the parties to such territorial agreement will not preclude the commission from granting the requested authority.
+7. The commission shall have jurisdiction to entertain and hear complaints involving any commission-approved territorial agreement. Such complaints shall be brought and prosecuted in the same manner as other complaints before the commission. The commission shall hold an evidentiary hearing regarding such complaints, except that in those instances where the matter is resolved by a stipulation and agreement submitted to the commission by all the parties, such hearings may be waived by agreement of the parties. If the commission determines that a territorial agreement that is the subject of a complaint is no longer in the public interest, it shall have the authority to suspend or revoke the territorial agreement. If the commission determines that the territorial agreement is still in the public interest, such territorial agreement shall remain in full force and effect. Except as provided in this section, nothing in this section shall be construed as otherwise conferring upon the commission jurisdiction over the service, rates, financing, accounting, or management of any public water supply district or municipally owned utility, or to amend, modify, or otherwise limit the rights of public water supply districts to provide service as otherwise provided by law.
+8. Notwithstanding the provisions of section 386.410, the commission shall by rule set a schedule of fees based upon its costs in reviewing proposed territorial agreements for approval or disapproval. Responsibility for payment of the fees shall be that of the parties to the proceeding as ordered by the commission in each case. The fees shall be paid to the director of revenue who shall remit such payments to the state treasurer. The state treasurer shall credit such payments to the public service commission fund, or its successor fund, as established in section 33.571. Nothing in this section shall be construed as otherwise conferring upon the commission jurisdiction over the service, rates, financing, accounting or management of any public water supply district or municipally owned utility and except as provided in this section, nothing shall affect the rights, privileges or duties of public water supply districts, water corporations subject to public service commission jurisdiction or municipally owned utilities.
+9. Notwithstanding any other provisions of this section, the commission may hold a hearing regarding any application, complaint or petition filed under this section upon its own motion.
+
+*Effective 8/28/2007 · (L. 1991 H.B. 299, A.L. 2007 S.B. 416)*
+
+### 247.180 Elections in district, when, procedure — not required, when — vacant post, how filled.
+
+1. Regular elections and elections held for the purposes of section 247.130 shall be called annually by the board of directors on the first Tuesday after the first Monday in April. Such elections shall be conducted by the appropriate election authority pursuant to chapter 115.
+2. Notwithstanding any other provision of law, if there is only one candidate for the post of director of any given subdistrict, then no election shall be held, and the candidate or candidates shall assume the responsibilities of their offices at the same time and in the same manner as if elected. If there is no candidate for the post of any given subdistrict, then no election shall be held for that post and it shall be considered vacant, to be filled pursuant to the provisions of section 247.060.
+
+*Effective 8/28/2005 · (RSMo 1939 § 12633, A.L. 1976 H.B. 1386, A.L. 1978 H.B. 971, A.L. 1985 H.B. 620, A.L. 1986 H.B. 1471, et al., A.L. 1993 H.B. 279, A.L. 1996 S.B. 598, A.L. 1997 S.B. 132, A.L. 1998 H.B. 1385 merged with S.B. 551, A.L. 2005 H.B. 58)*
+
+### 247.200 Rights of districts.
+
+The district shall have the right to lay its mains in public highways, roads, streets and alleys included in the district, but the same shall be done under reasonable rules and regulations of governmental bodies having jurisdiction of such public places. This shall apply to maintenance and repair jobs. In the construction of ditches, laying of mains, filling of ditches after mains are laid, connection of service pipes and repairing of lines, due regard must be taken of the rights of the public in its use of thoroughfares and the equal rights of other utilities thereto.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12635)*
+
+### 247.210 Condemnation of property — procedure.
+
+The proceedings for condemnation of property under powers conferred by sections 247.010 to 247.220 shall, as nearly as may be practicable, be the same as proceedings provided for condemnation of property by cities of the fourth class, except that proceedings shall be instituted and carried through by the board of directors.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12636)*
+
+### 247.215 District which purchases water may convey property to water company — procedure — election — liquidation of district.
+
+1. The board of directors of any public water supply district which is dependent upon purchases of water to supply its needs may sell and convey part or all of its water mains, plant, real estate, or equipment to any water corporation as defined in section 386.020 if all bonds of the district, whether general obligation bonds constituting a lien on the property within the district or special obligation or revenue bonds constituting a lien on the income and revenues arising from the operation of the water system:
+(1) Are to be paid in full, or
+(2) A sum sufficient to pay all of such bonds together with interest accrued or to accrue thereon, together with all other items of expense incident to the payment of such bonds, shall be set aside from the proceeds of said sale and deposited with the fiscal agent named in the bonds for the purpose of full payment.
+2. After the board of directors of any public water supply district has entered into a contract to sell part or all of its water mains, plant, real estate or equipment, pursuant to this section, an application shall be made by said board of directors to the circuit court which originally incorporated the district, which application shall set forth a copy of the contract entered into by the parties, and the facts concerning the bondholders and their rights, and requesting an order of the court approving or disapproving the contract.
+3. Upon the filing of the application, the court shall set a time for the hearing thereof and shall order a public notice setting forth the nature of the application, a description of the property to be sold, and the time and place for the hearing, to be published for three weeks consecutively, in a newspaper of general circulation in the county in which the application is pending, the last publication to be not more than five days before the date set for the hearing.
+4. If the court finds that the contract provides for the sale of all of the mains, plants, real estate and equipment of the district and protects the bondholders' rights, and also provides for the rendering of the necessary water service in the territory embracing the district, and is in the best interest of the residents and property owners of the district, it shall, by its decree, approve the contract and order dissolution of the district, provided that such dissolution is assented to by a two-thirds majority of the voters of the district, voting on the question and provided further, that the dissolution of the district shall not become final until after all its debts have been paid and the disposition of funds of the district has been fully carried out as hereinafter provided to the satisfaction of the court, after which a final decree may be entered.
+5. Such water supply district shall not be finally dissolved, upon the sale of all of its assets, until final liquidation thereof and until the trustees of the district have first paid to the collector of the county, or counties, in which the district is located all of its remaining funds which shall be applied pro rata toward the payment and satisfaction of the taxes of the residents and property owners of the district on their respective personal and real property tax bills for the next ensuing year or years. In the event that the sum of money so paid to the collector would amount to less than the equivalent of one cent reduction in the tax rate and thus impose upon the collector a cost burden in excess of the money so paid, then and in that event said funds shall be paid over to the treasurer of the various school districts having real estate within the said water supply district in the ratio that the assessed valuation of such school district bears to the whole assessed valuation of the water supply district.
+
+*Effective 8/28/1978 · (L. 1957 p. 583, A.L. 1978 H.B. 971)*
+
+### 247.217 Consolidation, procedure, petition, notice — subdistricts, how formed — election — directors, terms, eligibility — property, how handled.
+
+1. Any two or more contiguous public water supply districts organized under the provisions of sections 247.010 to 247.220 may be consolidated into a single district by a decree of the circuit court in which the district with the largest acreage was originally incorporated and organized.
+2. Proceedings for consolidation of such districts shall be substantially as follows: The board of directors of each of the districts to be consolidated shall authorize, by resolution passed at a regular meeting or a special meeting called for such purpose, its president, on behalf of the district, to petition the circuit court having jurisdiction for consolidation with any one or more other contiguous public water supply districts.
+3. Such petition shall be filed in the circuit court having jurisdiction and the court shall set a date for a hearing thereon and the clerk shall give notice thereof in some newspaper of general circulation in each county in which each of the districts proposed to be consolidated is located.
+4. Such notice shall be substantially as follows:
+­
+­
+5. The notice shall be published in three consecutive issues of a weekly newspaper in each county in which any portion of any district proposed to be consolidated lies, or in lieu thereof, in twenty consecutive issues of a daily newspaper in each county in which any portion of any district proposed to be consolidated lies; the last insertion of such notice to be made not less than seven nor more than twenty-one days before the hearing.
+6. The court, for good cause shown, may continue the case or the hearing thereon from time to time until final disposition thereof.
+7. Exceptions or objections to the consolidation of such districts may be made by any voter or landowner within the boundaries of the proposed district. The exceptions or objections shall be in writing and shall specify the grounds upon which the same are made and shall be filed not later than five days before the date set for hearing the petition. If any such exceptions or objections are filed, the court shall take them into consideration in passing upon the petition for consolidation and shall also consider the evidence in support of the petition. If the court finds that the consolidation will provide for the rendering of necessary water service in the districts, and is in the best interest of the voters and the landowners of the district, it shall, by its decree, approve such consolidation. The decree of consolidation shall set an effective date for the consolidation of the districts and shall provide that the proposed consolidated district shall be divided into five subdistricts and shall fix boundary lines of each subdistrict, all of which subdistricts shall have approximately the same area and shall be numbered.
+8. The decree of consolidation shall not become final and conclusive until it has been submitted to voters in each of the districts proposed to be included in the consolidated district.
+9. If, upon canvass and declaration of the results, it is found and determined that the question has been assented to by a majority of the voters of each district voting on the question, the court shall issue its order declaring the results of the elections, declaring its previous decree of consolidation to be final and conclusive, and in addition, the decree shall provide for an election of a director from each of the subdistricts set forth in the decree of the court as specified in subsection 7 of this section. The terms of office for the directors elected at such election shall be as follows: The director elected from the subdistrict designated by the circuit court as number one shall serve until the next regular election, or until his successor has been elected and qualified; those directors elected from the subdistricts designated by the circuit court as numbers two and three shall serve until the regular election following the next regular election or until their successors have been elected and qualified; those directors elected from the subdistricts designated by the circuit court as numbers four and five shall serve until the annual regular election following the next two regular elections, or until their successors have been elected and qualified. Thereafter all directors shall be elected as provided by sections 247.010 to 247.220. The election shall be held at least thirty days before the effective date of the consolidation. The returns shall be certified by the judges and clerks of election to the circuit court having jurisdiction and the court shall thereupon enter its order naming the directors from each subdistrict.
+10. The eligibility and requirements for a director for a consolidated district shall be identical with those set forth in section 247.060 and no two members of the board shall reside in the same subdistrict. Any candidate shall have his name imprinted upon the ballot, provided he shall file a declaration of intention to become such a candidate with the clerk of the circuit court.
+11. In its final decree, the court shall designate a name for the consolidated district which shall be as follows: Consolidated Public Water Supply District No. ______, of ______ County, Missouri.
+12. On the effective date of the consolidation of the districts, the newly elected directors shall organize in the same manner as is provided in sections 247.010 to 247.220, and all of such provisions shall apply to consolidated public water supply districts in the same manner as to other public water supply districts.
+13. At the time of the effective date of the consolidation, all the property of the original districts shall be combined and administered as one unit, which shall be subject to the liens, liabilities and obligations of the original districts, provided that if any district included in the consolidated district has issued general obligation bonds which are outstanding at the time of the consolidation, any taxes to be levied to pay the bonds and interest thereon shall be levied only upon the property within the original district issuing the bonds as it existed on the date of such issuance. All special obligation or revenue bonds issued by any district included in the consolidated district shall be paid in accordance with the terms thereof, without preference, from the revenue received by the consolidated district.
+14. A certified copy of the decrees of the court shall be filed in the office of the recorder and in the office of the county clerk in each county in which any part of the consolidated district is located, and in the office of the secretary of state. Such copies shall be filed by the clerk of the circuit court and the filing fees shall be taxed as costs.
+
+*Effective 8/28/2002 · (L. 1969 S.B. 311, A.L. 1972 H.B. 1506, A.L. 1978 H.B. 971, A.L. 1988 H.B. 962, A.L. 2002 S.B. 984 & 985)*
+
+### 247.220 Dissolution of district — procedure — election — disposition of property and debts.
+
+1. Proceedings for the dissolution of a public water supply district shall be substantially the same as proceedings for the formation of such a district, as follows: A petition describing the boundaries of the district sought to be dissolved shall be filed with the clerk of the circuit court of the county wherein the subject district is situate, or with the clerk of the circuit court of the county having the largest acreage within the boundaries of the subject district, in the event that the subject district embraces lands in more than one county. Such petition, in addition to such boundary description, shall allege that further operation of the subject district is inimicable to the best interests of the inhabitants of the district, that the district should, in the interest of the public welfare and safety, be dissolved, that an alternative water supplier is available and better able to supply water to the inhabitants of the district, that an agreement for sale of the district's assets has been entered into by the board of directors contingent upon approval of the circuit court and voters, and such other information as may be useful to the court in determining whether the petition should be granted and a decree of dissolution entered. Such petition shall also include a detailed plan for payment of all debt and obligations of the district at the time of dissolution. Such petition shall be accompanied by a cash deposit of fifty dollars as an advancement of the costs of the proceeding and the petition shall be signed by not less than one-fifth of the registered voters from each subdistrict, or fifty registered voters from each subdistrict, whichever is less, within the subject district. The petition shall be verified by at least one of the signers thereof and shall be served upon the board of directors of the district as provided by law. The district shall be a party, and if the board of directors in its discretion determines that such dissolution is not in the public interest, the district shall oppose such petition and pay all cost and expense thereof.
+2. Upon the filing of the petition, the same shall be presented to the circuit court, and such court shall fix a date for a hearing on such petition, as provided in this section. Thereupon, the clerk of the court shall give notice of the filing of the petition in some newspaper of general circulation in the county in which the proceedings are pending, and if the district extends into any other county or counties, such notice shall also be published in some newspaper of general circulation in such other county or counties. The notice shall contain a description of the subject boundary lines of the district and the general purposes of the petition, and shall set forth the date fixed for the hearing on the petition, which shall not be less than seven nor more than twenty-one days after the date of the last publication of the notice and shall be on some regular judicial day of the court wherein the petition is pending. Such notice shall be signed by the clerk of the circuit court and shall be published in three successive issues of a weekly newspaper or in twenty successive issues of a daily newspaper.
+3. The court, for good cause shown, may continue the case or the hearing thereon from time to time until final disposition thereof.
+4. Exceptions to the dissolution of a district may be made by any voter or landowner of the district, and by the district as herein provided; such exceptions shall be filed not less than five days prior to the date set for the hearing on the petition. Such exceptions shall specify the grounds upon which the exceptions are filed and the court shall take them into consideration in passing upon the petition and shall also consider the evidence in support of the petition and in support of the exceptions made. Unless petitioners prove that there is an agreement for sale of the district's assets entered into by the board of directors that would permit all debts and financial obligations of the district can be paid in full upon dissolution and provide for the continuation of water supply to the inhabitants of the district, the petition shall be dismissed at the cost of the petitioners.
+5. Should the court find that it would not be to the public interest to dissolve a district, the petition shall be dismissed at the costs of the petitioners. If, however, the court should find in favor of the petitioners, the court shall enter its interlocutory decree of dissolution which decree shall provide for the submission of the question to the voters of the district in substantially the following form with up to one hundred words, and notwithstanding the provisions of sections 116.115 and 116.160 to the contrary:
+­
+­
+6. (1) Except as provided in subdivision (2) of this subsection, the decree of dissolution shall not become final and conclusive until it shall have been submitted to the voters residing within the boundaries described in such decree and until it shall have been assented to by a majority of two-thirds of the voters of the district voting on the proposition.
+(2) At their discretion, the board of directors of the district, except those districts that lie within a county with more than eleven thousand but fewer than twelve thousand five hundred inhabitants and with a county seat with more than four thousand but fewer than five thousand inhabitants, or a county with more than seven thousand but fewer than eight thousand inhabitants and with a county seat with more than one thousand but fewer than two thousand inhabitants, may approve a change in the vote threshold to a majority of three-fifths of the voters of the district voting on the proposition, if:
+(a) Four-fifths of the directors voting on the question shall vote in favor;
+(b) The circuit court has approved the three-fifths threshold; and
+(c) The district has received from the department of natural resources a formal enforcement action resulting in an administrative order on consent pursuant to the provisions of chapter 640 or the Federal Safe Drinking Water Act that has not rectified as specified in the administrative order of consent, immediately prior to such action by the board.
+(3) The decree shall provide for the submission of the question and shall fix the date thereof. The returns shall be certified by the election authority to the circuit court having jurisdiction in the case and the court shall thereupon enter its order canvassing the returns and declaring the result of such election.
+7. If, upon canvass and declaration, it is found and determined that the question shall have been assented to by the number of voters required under subsection 6 of this section then the court shall, in such order declaring the result of the election, enter a further order declaring the decree of dissolution to be final and conclusive. In the event, however, that the court should find that the question had not been assented to by the majority required, the court shall enter a further order declaring such decree of dissolution to be void and of no effect. No appeal shall lie from any of the aforesaid orders. In the event that the court declares the decree of dissolution to be final, as provided in this section, the clerk of the circuit court shall file certified copies of such decree of dissolution and of such final order with the secretary of state of the state of Missouri, and with the recorder of deeds of the county or counties in which the district is situate and with the clerk of the county commission of the county or counties in which the district is situate.
+8. Notwithstanding anything in this section to the contrary, no district shall be dissolved until after all of its debts shall have been paid, and the court, in its decree of dissolution, shall provide for the disposition of the property of the district, which may direct that any excess funds be paid over to the treasurers of the various school districts on a pro rata basis equivalent to the ratio of customers of the public water supply district in the various school districts.
+
+*Effective 8/28/2026 · (RSMo 1939 § 12638, A.L. 1978 H.B. 971, A.L. 1993 H.B. 655, A.L. 1997 S.B. 175, A.L. 2002 S.B. 984 & 985, A.L. 2026 H.B. 2397)*
+
+### 247.227 Real estate subdivision with approved installation of water line, certain districts not to refuse water (Jackson County).
+
+Any public water supply district located in a first class county with a charter form of government which contains part of a city with a population of four hundred thousand or more inhabitants and which has approved installation of water lines and hookups within a real estate subdivision shall not refuse to supply water for expansion or additions within the real estate subdivision.
+
+*Effective 8/28/1991 · (L. 1991 H.B. 619 § 1)*
+
+### 247.228 Public water supply districts and cities owning a waterworks to be notified of water service inquiries, when, contents.
+
+When an entity considering or proposing the construction of a multiresidential or commercial development, which is located within the city limits of a city owning a waterworks and also located within the boundaries of a public water supply district, makes an inquiry of the city administrator respecting the supply of water service to such construction project, the city shall notify the public water supply district of such inquiry. Such notification shall be within ten days of the initial inquiry of the city administrator, shall be by certified mail, and shall state the location of such construction project to the extent the city administrator is aware of such.
+
+*Effective 8/28/2004 · (L. 2004 S.B. 987 § 1)
+Transferred 2005; formerly 247.673*
+
+### 247.229 Benefit plans, board may contribute to cost of, when.
+
+The board of directors of a public water supply district may contribute to the cost of a plan including a plan underwritten by insurance for furnishing all or part of hospitalization or medical expenses, life insurance or similar benefits for the district's employees. No contract shall be entered into by the board of directors to purchase any insurance policy or policies pursuant to the terms of this section unless the contact is submitted to competitive bidding at least every three years and the contract is awarded to the lowest and best bidder.
+
+*Effective 8/28/2026 · (L. 2026 H.B. 2397)*
+
+### 247.230 Purpose of law.
+
+The purpose of sections 247.230 to 247.670 is to provide for the establishment of political subdivisions of this state within counties to be known as metropolitan water supply districts, the function of which shall be to secure a source of water on a scale larger than is feasible for public water supply districts and cities acting alone and to sell such water at wholesale to public water supply districts and cities, towns and villages.
+
+*Effective 8/28/1976 · (L. 1949 p. 350 § 1, A.L. 1976 H.B. 1386)*
+
+### 247.240 Metropolitan water supply districts, limits.
+
+Metropolitan water supply districts may be of any size and may include all or any part of any county, or of two or more adjoining school districts, cities, towns, villages or public water supply districts or other political subdivisions within a county; no two metropolitan water supply districts shall overlap; no more than one metropolitan water supply district may be formed in any one county; provided however, that no city, town, village or public water supply district having a water supply or distribution system shall be included in a metropolitan water supply district, until said municipality shall consent to become included as evidenced by an ordinance or resolution passed by a majority vote of the governing body of such municipality; and provided further, that the territory within any metropolitan water supply district organized under sections 247.230 to 247.670 should be contiguous.
+
+*Effective 8/28/1976 · (L. 1949 p. 350 § 2, A.L. 1976 H.B. 1386)*
+
+### 247.250 Proceeding to incorporate, where filed — power of court.
+
+The proceedings to incorporate a metropolitan water supply district shall be in the circuit court of the county in which the proposed district is located. The circuit court sitting in and for any such county is hereby vested with jurisdiction, power and authority as provided herein to establish such districts.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 2)*
+
+### 247.260 Organization of district, procedure.
+
+The organization of a metropolitan water supply district shall be initiated by a petition filed in the office of the clerk of the circuit court vested with jurisdiction as provided in sections 247.230 to 247.670. The petition shall be signed by one hundred voters of the district.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 3, A.L. 1978 H.B. 971)*
+
+### 247.270 Contents of petition.
+
+The petition shall set forth:
+(1) The name of the proposed district consisting of a chosen name preceding the words "metropolitan water supply district";
+(2) An estimate of the number of inhabitants and of the assessed valuation of the taxable tangible property of the district;
+(3) A description of and an estimate of the cost of the proposed improvements;
+(4) A suggested maximum rate of tax levy for general operating purposes not to exceed twenty-five cents on the one hundred dollar valuation;
+(5) A general description of the boundaries of the district or territory to be included therein, with such certainty as to enable a property owner to determine whether or not his property is within the district;
+(6) A list of the public water supply districts, cities, towns, villages and other political subdivisions within the bounds of the proposed district, an estimate of the number of water customers of such units and an estimate of the water consumption of said customers;
+(7) The names of five voters of the district who shall constitute the first board of directors of the district;
+(8) Such other data and information as may be useful to the court in determining the necessity for the organization of the district.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 4, A.L. 1978 H.B. 971)*
+
+### 247.280 Deposit for costs.
+
+There shall be filed with the petition, or petitions, a fee in the amount of one hundred dollars to cover the payment of court costs.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 5)*
+
+### 247.290 Hearing, when — notice by publication.
+
+Immediately after the filing of such petition or any amended petition changing the boundaries the court wherein such petition is filed or the judge thereof in vacation shall by order, fix a time and place not less than thirty days nor more than sixty days after the petition is filed for a hearing thereon, and thereupon the circuit court shall cause notice by publication to be made of the filing of the petition and the pendency of the action and of the time and place of the hearing thereon. The circuit clerk shall also forthwith cause a copy of said notice to be mailed by registered mail to the governing body of each public water supply district, city, town, village or other political subdivision having territory within the proposed boundaries of the proposed district, and to the county commission of the county affected.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 7)*
+
+### 247.300 Exclusive jurisdiction of court — property-owning judge not disqualified.
+
+The circuit court shall thereafter for all purposes of sections 247.230 to 247.670, except as herein otherwise provided, maintain and have original and exclusive jurisdiction over all matters connected with or affected by said district. No judge of the circuit court wherein such petition is filed shall be disqualified to perform any duty imposed by said sections by reason of ownership of property within the proposed district.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 8)*
+
+### 247.310 Petition — effect of defect — amendment — supplemental petition.
+
+No petition with the requisite signatures shall be declared null and void on account of alleged defects, but the court may at any time permit the petition to be amended to conform with the facts by correcting any errors in the description of the territory, or in any other particular, except that the boundaries of the district may not be enlarged by taking in additional territory, without notice to the voters thus affected, which notice may be made by publication or service of such pleadings and orders. Similar petitions or duplicate copies of the same petition for the organization of the same district, revising the boundaries of the proposed districts, or recommending another chosen name for the district or recommending other voters for the first board of directors, or recommending a different maximum rate of levy for general operating purposes may be filed at any time before a hearing is had on the petition, and shall, together with the first petition, be regarded as one petition, and shall be considered by the court the same as though filed with the first petition placed on file.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 6, A.L. 1978 H.B. 971)*
+
+### 247.320 Protesting petition, where filed, contents.
+
+Any time after the filing of a petition for the organization of a district and before the day fixed for the hearing thereon, a petition may be filed in the office of the circuit clerk, wherein the petition for the organization of such district is pending, protesting against the creation of the proposed district. Such protesting petition shall be signed and filed by or on behalf of one or more voters of the district, and shall recite wherein the incorporation of the district will not promote the purposes as set forth in the original petition, or wherein sufficient facts have not been related to justify the incorporation of such district, and any other facts which may be useful to the court in determining whether or not such original petition shall be allowed.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 9, A.L. 1978 H.B. 971)*
+
+### 247.330 Dismissal of petition, when — costs — no appeal — effect of dismissal.
+
+Upon the said hearing if the court finds that the petition has not been signed, filed and presented in conformity with sections 247.230 to 247.670, or that the material facts are not as set forth in the petition filed, or that sufficient facts have not been presented to justify the incorporation of the district, it shall dismiss said proceedings and adjudge the costs against the signers of the petition, or petitions, in such proportion as it shall deem just and equitable. No appeal or writ of error shall lie from an order dismissing said proceedings; but nothing herein shall be construed to prevent the filing of a subsequent petition, or petitions, for similar improvements or for a similar district, and the right so to renew such proceedings is hereby expressly granted and authorized.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 10)*
+
+### 247.340 Declaration of district organization.
+
+Upon the said hearing if it shall appear that a petition for the organization of a district has been signed and presented, as herein provided, in conformity with sections 247.230 to 247.670, and that the allegations of the petition are true, and that no protesting petition has been filed, or if one has been filed, that the facts adduced in behalf thereof at the hearing are insufficient to sustain such protesting petition, the court shall, by order duly entered of record, adjudicate all questions of jurisdiction, determine the original maximum rate of levy for general operating purposes to be voted only if said levy shall exceed fifteen cents on the one hundred dollar valuation, or as herein provided, declare the district organized, define the boundaries thereof, and give it a corporate name by which in all proceedings it shall thereafter be known, and thereupon the district, subject to the election provided in section 247.350, shall be a political subdivision of the state of Missouri and a body corporate with all the powers of like or similar corporations.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 11)*
+
+### 247.350 Election to approve incorporation — procedure, form of ballot — rate of tax — directors.
+
+1. The decree of incorporation shall not become final and conclusive until it shall have been submitted to voters of the proposed district and until it shall have been assented to by a majority vote of the voters of the district voting on the question.
+2. The decree shall provide for the submission of the question of incorporating such districts and to vote on the maximum rate of levy for general operating purposes if such maximum rate shall exceed fifteen cents on the one hundred dollar valuation of the district, shall fix the date for holding such election.
+3. The question of incorporating the district shall be submitted in substantially the following form:
+Shall there be incorporated a ______ metropolitan water supply district?
+4. Any question to determine the maximum rate of levy for general operation purposes in excess of fifteen cents on the one hundred dollars valuation shall be submitted in substantially the following form:
+Shall the ______ metropolitan water supply district be authorized to levy a tax not exceeding ______ cents per one hundred dollars assessed valuation for general operating purposes?
+5. The return shall be certified to the circuit court having jurisdiction in the cause, and said court shall thereupon enter its order canvassing said returns and declaring the result of such election. If upon such canvass and declaration it is found and determined that a majority of the voters of the district voting on the question shall have voted in favor of the question, the court shall enter its further order declaring the decree of incorporation to be final and conclusive. In the event, however, that the court shall find the majority shall not have voted in favor of the question the court shall enter its further order declaring said decree of incorporation to be void and of no effect.
+6. If the court enters an order declaring the decree of incorporation to be final and conclusive, it shall at the same time designate the first board of directors of said district from among the names of the voters who have been named in one or more petitions filed in said cause. The court shall designate and the decree shall contain the appointment of two of such directors to serve for a term ending three years after the next succeeding second Tuesday in April, two of such directors to serve for a term ending three years after the next succeeding second Tuesday in April, two of such directors to serve for a term ending two years after the next succeeding second Tuesday in April, and one of such directors to serve for a term ending one year after the next succeeding second Tuesday in April. The directors thus appointed by the court shall serve for the terms thus designated and until their successors shall have been appointed or elected as provided in section 247.430.
+7. The court shall at the same time enter an order of* record declaring the result of the submission of the question to determine the maximum rate of levy of the district, and shall set forth the amount beyond which the board shall not thereafter have power to order a levy except as otherwise provided in section 247.460 and which levy in no event shall exceed the sum of twenty-five cents on the one hundred dollar assessed valuation.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 12, A.L. 1978 H.B. 971)
+*Word "or" appears in original rolls.*
+
+### 247.360 Force of final order.
+
+If a final order be entered establishing the district, such order shall be deemed final and conclusive, and no appeal or writ of error shall lie therefrom, and the entry of such order shall finally and conclusively establish the regular organization of said district against all persons except the state of Missouri, in an action in the nature of a writ of quo warranto, commenced by the attorney general within thirty days after said decree declaring such district finally organized as herein provided and not otherwise. The organization of such district shall not be directly or collaterally questioned in any suit, action or proceeding except as herein expressly authorized.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 13)*
+
+### 247.370 Records relating to incorporation, where and how filed — fees.
+
+Within thirty days after the final order of the circuit court which has declared the district a public corporation, the circuit clerk of said court shall transmit to the secretary of state and to the county clerk and the recorder of deeds in the county in which the district is located copies of the findings and decrees of the court incorporating said district. The same shall be filed in the same manner as articles of incorporation are required to be filed under the general laws concerning corporations and the recorder and clerk shall receive a fee of one dollar each for filing and preserving the same.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 14)*
+
+### 247.380 Members of board — oath — bond.
+
+Whenever a district has been declared duly and finally organized, the members of the board shall qualify by filing with the circuit clerk their oath of office, which shall be in the form prescribed by the constitution, and such board members shall also file with the circuit clerk corporate surety bonds to be furnished at the expense of the district in an amount not to exceed one thousand dollars each, the form and amount thereof to be fixed and approved by the circuit court having jurisdiction, and said bonds to be conditioned for the faithful performance of their duties as directors.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 15)*
+
+### 247.390 Organization of board — seal.
+
+After taking their oaths and filing their bonds, the board shall choose one of its members as chairman of the board and president of the district, and shall elect a secretary and treasurer of the board and of the district, who may or may not be members of the board. The secretary and the treasurer may be one person. Such board shall adopt a seal, and the secretary shall keep in a well-bound book a record of all its proceedings, minutes of all meetings, certificates, contracts, bonds given by employees and a record of corporate acts, which shall be open to inspection of all owners of property in the district, as well as to all other interested parties.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 16)*
+
+### 247.400 Treasurer — bond — financial statement — fiscal year.
+
+The treasurer shall keep strict and accurate accounts of all money received by and disbursed for and on behalf of the district in permanent records. He shall file with the clerk of the court, at the expense of the district, a corporate fidelity bond in an amount to be determined by the board for not less than five thousand dollars, conditioned on the faithful performance of the duties of his office. He shall file in the office of the recorder of deeds a detailed financial statement for the preceding fiscal year of the district on behalf of the board during the month of January. The fiscal year of the board shall be the same as the calendar year.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 17)*
+
+### 247.410 Board — compensation — removal.
+
+Each member of the board shall receive an attendance fee in the amount of five dollars for attending each regularly called board meeting, but shall not be paid for attending more than two in any calendar month. Each member of the board shall be reimbursed for his actual expenditures in the performance of his duties on behalf of the district. The secretary and the treasurer shall be paid such a monthly salary as may be fixed by the board. The circuit court having jurisdiction over the district shall have power to remove directors or any of them for good cause shown upon a petition, notice and hearing.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 18)*
+
+### 247.420 Meetings of board, quorum, vacancy — annual audit.
+
+The board shall meet at the place to be designated by the board as often as the needs of the district require on notice to each member of the board. The board shall cause to be made an annual audit of the receipts and expenditures of the district, by a certified public accountant, the cost of said audit to be paid by the district. Four members of the board shall constitute a quorum at any meeting. Any vacancy on the board shall be filled by the remaining member or members of the board, the appointee or appointees to act until the next regular election at which directors are elected as herein provided, when vacancy or vacancies shall be filled by election. If the board shall fail, neglect or refuse to fill any vacancy within thirty days after the same occurs, the court having jurisdiction shall fill such vacancy.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 19)*
+
+### 247.430 Election of directors.
+
+On the expiration of terms of members of the first board of directors as set forth in section 247.350, elections shall be held as provided herein and directors elected by the voters of the district for a term of three years. Nominations may be filed with the secretary of the board. The candidates for the board members shall be elected on a nonpartisan ballot. The candidates receiving the most votes shall be elected. Any new member of the board shall qualify in the same manner as the members of the first board qualify.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 20, A.L. 1978 H.B. 971)*
+
+### 247.440 Powers of board.
+
+For the purpose of providing a water supply for the public water supply districts, cities, towns, villages and other political subdivisions within the district, the district and, on its behalf, the board shall have the following powers, authorities and privileges:
+(1) To have perpetual existence;
+(2) To have and use a corporate seal;
+(3) To sue and be sued, and be a party to suits, actions and proceedings;
+(4) To enter into contracts, franchises and agreements with any person, partnership, association or corporation, public or private, affecting the affairs of the district, including contracts with any municipality, district, or state, or the United States, and any of their agencies, political subdivisions or instrumentalities, for the planning, development, construction, acquisition or operation of any public improvement or facility, or for a common service, relating to the furnishing of a water supply to the constituent governmental unit; providing, that a notice shall be published for bids on all construction or purchase contracts for work or material or both, except the authority contained in subdivision (9) below, involving an expense of two thousand dollars or more;
+(5) Upon the approval of the necessary number of qualified electors, as herein provided, to borrow money and incur indebtedness and evidence the same by certificates, notes or debentures, and to issue bonds, either general obligation or special bonds, in accordance with the provisions of sections 247.230 to 247.670; whenever any indebtedness has been incurred by a district, it shall be lawful for the board to levy taxes and collect revenue for the purpose of creating a reserve fund in such amount as the board may determine to meet the obligations of the district;
+(6) To acquire, dispose of and encumber real and personal property, water wells, pumping stations and other water supply facilities, and fire hydrants and any interest therein, including leases and assessments; to build, acquire by purchase or otherwise, enlarge, improve, extend and maintain a system of water works;
+(7) To refund any bonds, either general obligation or special revenue of the district without an election. The terms and conditions of refunding bonds shall be substantially the same as those of the original issue of bonds, and the board shall provide for the payment of interest at not to exceed the legal rate, and the principal of such refunding bonds in the same manner as is provided for the payment of interest and principal of bonds refunded;
+(8) To have the management, control and supervision of all the business and affairs of the district, and the construction, installation, operation and maintenance of district improvements therein;
+(9) To hire and retain agents, employees, engineers and attorneys;
+(10) To have and exercise the power of eminent domain and in the manner provided by law for the condemnation of private property for public use to take any property within the district necessary to the exercise of the powers herein granted;
+(11) To receive and accept by bequest, gift or donation any kind of property;
+(12) To adopt and amend bylaws and any other rules and regulations not in conflict with the constitution and laws of this state, necessary for the carrying on of the business, objects and affairs of the board and of the district, and to refer to the proper authorities for prosecuting any infraction thereof detrimental to the district;
+(13) To fix rates for the sale of water and provide for the collection of said rates. The rates or charges so fixed shall, at all times, be reasonable, but in determining the reasonableness of rates or charges, the board shall take into consideration the sum or sums required to retire outstanding special obligation bonded indebtedness of the district and the interest accruing thereon, the need for the extension of mains, repairs, depreciation, enlargement of plant, adequate service, obsolescence, overhead charges, operating expenses and the need of an operating fund out of which the district may protect itself in emergencies and out of which the incidental expenses of the district may readily be met;
+(14) To lay mains in public highways, roads, streets and alleys included in the district, but the same shall be done under reasonable rules and regulations of governmental bodies having jurisdiction of such public places. This shall apply to maintenance and repair jobs. In the construction of ditches, laying of mains, filling of ditches after mains are laid, connection of service pipes and repairing of lines, due regard must be taken of the rights of the public in its use of thoroughfares and the equal rights of other utilities thereto;
+(15) To have and exercise all rights and powers necessary or incidental to or implied from the specific powers granted herein. Such specific powers shall not be considered as a limitation upon any power necessary or appropriate to carry out the purposes of sections 247.230 to 247.670.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 21)*
+
+### 247.445 Sewage treatment facilities, construction and operation — procedure to establish, petition to circuit court, content — user fee authorized.
+
+1. The board of directors of any metropolitan water supply district may petition the circuit court of the county containing the major part of the acreage in the district for an amended decree of incorporation to allow that district to engage in the construction, maintenance and operation of common sewer treatment facilities which serve ten or more separate properties and are located wholly within the district and are not operated by another political subdivision or are not located within the certificated area of a sewer corporation as defined in chapter 386 or within a common sewer district as defined in chapter 204 and the operation and maintenance of all such existing sewer treatment facilities. The petition shall be filed by the board of directors and all proceedings shall be in the same manner as in an action for initial formation of a metropolitan water supply district except that no vote of the residents of the district shall be required.
+2. If the decree is amended the district shall, within ninety days after the order amending the decree, begin operation of the existing facilities which it has acquired by gift or otherwise and shall establish and collect user charges to be determined and established in the same manner as water rates.
+3. All applicable provisions of sections 247.230 to 247.670 shall apply to the construction, operation and maintenance of common sewer facilities in the same manner as they apply to like functions relating to water supply.
+
+*Effective 8/28/1990 · (L. 1990 S.B. 747)*
+
+### 247.450 Levy taxes — collection.
+
+The board shall have the power and authority to order the levy and collection of ad valorem taxes as provided in sections 247.230 to 247.670 on and against all taxable tangible property within the district, and to make timely demand and to sue and collect any and all other taxes, contributions or allocations to which the district may be entitled.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 22)*
+
+### 247.460 Levy, how made — limitations on levy.
+
+To levy and collect taxes as herein provided, the board shall in each year determine the amount of money necessary to be raised by taxation, and shall fix a rate of levy which, when levied upon every dollar of the taxable tangible property within the district as shown by the last completed assessment, and with other revenues, will raise the amount required by the district annually to supply funds for paying the expenses of organization and the costs of acquiring, supplying and maintaining the property, works and equipment of the district, which rate of levy shall not exceed fifteen cents on the one hundred dollars valuation unless approved by a vote of a majority of the voters of the district voting as provided herein, and which, in any event, shall not exceed twenty-five cents on the one hundred dollars valuation; and in addition thereto, shall make a levy to promptly pay in full when due all interest on and principal of general obligations of the district; and in the event of accruing defaults or deficiencies, an additional levy may be made as provided herein.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 23, A.L. 1978 H.B. 971)*
+
+### 247.470 Certification of levy to county commission — election on increased rate.
+
+1. On or before the first day of May of each year, the board shall certify to the county commission of the county within which the district is located a rate of levy so fixed by the board as provided by law, with directions that at the time and in the manner required by law for levy of taxes for county purposes such county commission shall levy a tax at the rate so fixed and determined upon the assessed valuation of all the taxable tangible property within the district, in addition to such other taxes as may be levied by such county commission.
+2. If the board thereafter in any year fixes and determines by resolution of the board a rate of levy in excess of fifteen cents per one hundred dollars valuation or of the rate approved by a vote of the majority of the voters of the district voting thereon, as provided herein for general purposes, then the board shall order the submission of the question of levying a tax rate in such increased amount to the voters of the district in the same manner so far as practicable as is provided for the submission of the question to create a bonded indebtedness. Such resolution of the board shall also fix the date upon which the election is to be held.
+3. The question shall be submitted in substantially the following form:
+Shall the ______ metropolitan water supply district be authorized to levy an annual rate of taxation not exceeding ______ cents per one hundred dollars assessed valuation for general operating purposes?
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 24, A.L. 1978 H.B. 971)*
+
+### 247.480 Approval of rate at election — certification.
+
+If it shall appear to the board from the returns that a majority of the voters voting thereon shall have voted in favor of such question, the board shall, on or before the first day of May and each year thereafter, certify to the county commission as provided in section 247.470 a rate of levy for general purposes of the district, which shall not be in excess of the rate so approved by the voters of the district as herein provided. If it shall appear to the board from the results that a majority of the voters voting thereon shall not have voted in favor of such question, then the board shall certify to the county commission at such time a rate not in excess of that previously approved by a vote of the majority of the voters of the district voting thereon, or not exceeding fifteen cents on one hundred dollars valuation, whichever is higher.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 25, A.L. 1978 H.B. 971)*
+
+### 247.490 Rate to be sufficient to pay principal and interest on bonds.
+
+The board in certifying annual levies as herein provided shall take into account, in addition to the amounts necessary for general purposes as herein provided, the maturing indebtedness for the ensuing year as provided in its bonds and the interest on bonds, and deficiencies and defaults of prior years, and shall make ample provision for the payment thereof. In case the moneys produced from such levies, together with other revenues of the district are not sufficient to pay punctually the annual installments on its bonds and the interest thereon, and to pay any defaults and deficiencies, then the board shall provide for such additional levying of taxes as may be necessary to pay for all such, and notwithstanding any limitations, such taxes shall be continued to be levied until the indebtedness of the district shall be fully and currently paid.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 26)*
+
+### 247.500 Collection of taxes — interest and penalties — lien of taxes.
+
+It shall be the duty of the body having authority to levy taxes within the county to levy the taxes provided in sections 247.230 to 247.670, and it shall be the duty of all officials charged with the duty of collecting taxes to collect such taxes at the time and in the form and manner and with like interest and penalties as other taxes are collected; and when collected, to pay the same to the district ordering its levy and collection or entitled to the same, and the payment of such collections shall be made monthly to the treasurer of the district and paid into the depositary thereof to the credit of the district. All taxes levied under sections 247.230 to 247.670, together with interest thereon and penalties for default in payment thereof, and all cost of collecting the same, shall until paid, constitute a lien on and against the property taxed, and such lien shall be on a parity with the tax lien of general taxes, and no sale of such property to enforce any general tax or other lien shall extinguish the lien of district taxes.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 27)*
+
+### 247.510 Collection of delinquent taxes.
+
+If the taxes levied are not paid as herein provided, then the delinquent real property shall be sold at the regular tax sale for the payment of said taxes, interest and penalties, in the manner provided by the statutes of the state of Missouri for selling property for the nonpayment of general taxes. If there are no bids at said tax sale for the property so offered, said property shall be struck off to the county or other agency provided by law, and the county or agency shall account to the district in the same manner as provided by law for accounting for school, town and city taxes. Delinquent personal property shall be distrained and sold as provided by general law.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 28)*
+
+### 247.520 Boundaries of district, how changed.
+
+1. The boundaries of any district organized under the provisions of sections 247.230 to 247.670 may be changed in the manner herein prescribed; but any change of boundaries of the district shall not impair or affect its organization or its rights in or to property, or any of its rights or privileges whatsoever, nor shall it affect or impair or discharge any contract, obligation, lien or charge for or upon which it might be liable or chargeable had any change of boundaries not been made.
+2. The owners of real property in a county contiguous with a metropolitan water supply district organized under sections 247.230 to 247.670 may file with a board a petition in writing praying that such real property be included within the district. The petition shall describe the property owned by the petitioners, and shall be deemed to give assent of the petitioners, to the inclusion in said district of the property described in the petition; and such petition must be acknowledged in the same manner that conveyances of land are required to be acknowledged.
+3. The secretary of the board shall cause notice of the filing of such petition to be given and published in the county in which the property is located, which notice shall recite the filing of such petition, the names of the petitioners, the description of the lands sought to be included and the prayer of the petitioners; giving notice to all persons interested to appear at the office of the board at the time named in said notice and show cause in writing why the petition should not be granted.
+4. The board shall at the time and place mentioned, or at such time or times to which the hearing may be adjourned, proceed to hear the petition and all objections thereto presented in writing by any person showing cause why said petition should not be granted. The failure of any person interested to show cause in writing why said petition shall not be granted shall be deemed as an assent on his part to the inclusion of said lands in the district.
+5. If the petition is granted, the board shall make an order to that effect and file the same with the circuit clerk; and upon the order of the court having jurisdiction over the district, said property shall be included in the district, and thereafter a copy of the order of the board and the order of the court shall be filed with the county clerk and recorder. The circuit court having jurisdiction over the district shall proceed to make any such order including such additional property within the district as is provided in the order of the board, unless the court shall find that such order of the board was not authorized by law or that such order of the board was not supported by competent and substantial evidence.
+
+*Effective 8/28/1976 · (L. 1949 p. 350 § 29, A.L. 1976 H.B. 1386)*
+
+### 247.530 Owner may petition for exclusion of property from district — procedure.
+
+1. The owner or owners of any real or personal property contained within the boundaries of the district may file with the board a petition praying that such property be excluded and taken from said district. Such petition shall describe the property which the petitioners desire to have excluded; and must be acknowledged in the same manner and form as required in case of a conveyance of land, and be accompanied by a deposit of money sufficient to pay all costs of the exclusion proceedings.
+2. The secretary of the board shall cause a notice of filing of such petition to be published in the county in which said property is located. The notice shall state the filing of such petition, the names of petitioners, description of the property mentioned sought to be excluded and the prayer of said petitioners; and it shall notify all persons interested to appear at the office of said board at the time named in said notice, showing cause in writing why said petition should not be granted.
+3. The board at the time and place mentioned in the notice, or at the time or times at which the hearing of said petition may be adjourned, shall proceed to hear the petition and all objections thereto presented in writing by any person showing cause as aforesaid, why the prayer of the petition should not be granted. The filing of such petition shall be deemed and taken as an assent by each and all such petitioners to the exclusion from the district of the property mentioned in the petition, or any part thereof.
+4. The board, if it deems it not for the best interests of the district that the property mentioned in the petition, or any portion thereof, shall be excluded from the district, shall order that said petition be denied, but if it deems it for the best interest of the district that the property mentioned in the petition, or some portion thereof, be excluded from the district, then the board may order the property mentioned in the petition or some portion thereof, excluded from the district. Upon allowance of such petition, the board shall file a certified copy of the order of the board making such changes with the circuit clerk; and upon order of the court said property shall be excluded from the district, and a copy of the order of the board and the order of the court shall be filed with the county clerk and recorder.
+5. The circuit court having jurisdiction over the district, shall make any such order excluding the property from the district as provided in the order of the board, unless the court shall find that such order of the board was not authorized by law, or that such order of the board was not supported by competent and substantial evidence.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 30)*
+
+### 247.540 Certain property subject to taxes.
+
+All real property included within, or excluded from, a district shall thereafter be subject to the levy of taxes for the payment of any indebtedness of the district outstanding at the time of inclusion or exclusion; provided, however, that after any real property shall have been excluded from a district, as provided in section 247.530, any buildings and improvements thereafter erected or constructed on said excluded real property, and all machinery and equipment thereafter installed or placed therein or thereon, and all tangible personal property not in said district at the time of the exclusion of said real property from said district which shall thereafter be situate on or used in connection with said real property, shall not be subject to any taxes levied by said district.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 31)*
+
+### 247.550 District may borrow money — procedure.
+
+1. Any district organized hereunder shall have power to borrow money for any of the purposes provided for in sections 247.230 to 247.670, and to issue bonds therefor. In such event the board of directors shall proceed substantially as follows:
+(1) The board shall adopt a resolution reciting the necessity for the borrowing of money, the amount of money necessary to be raised, the purposes thereof, the amount and type or character of bonds to be issued.
+(2) Such resolution shall also fix the date of an election to be held for the purpose of testing the sense of the voters of the district on the question to borrow money and issue bonds in evidence thereof.
+(3) Such resolution may submit at such election a proposal to issue general obligation bonds or special revenue obligation bonds, or both. Districts organized under the provisions of sections 247.230 to 247.670 may issue either general obligation bonds or special revenue obligation bonds provided that the type or character of bonds to be issued shall be determined by the board of directors in advance of calling the bond election and shall be stated in the notice of election as herein provided.
+2. If the question is to issue general obligation bonds, it must be assented to by two-thirds of the voters of the district voting on the question; if the question is to issue special revenue obligation bonds, it must be assented to by four-sevenths of the voters on the question.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 32, A.L. 1978 H.B. 971)*
+
+### 247.560 General obligation bonds — tax levied before issue.
+
+General obligation bonds, within the meaning of sections 247.230 to 247.670, shall be bonds issued within the limitations of indebtedness prescribed under Section 26 of Article VI of the Constitution of Missouri for payment of which, both principal and interest, a direct tax may be levied upon all taxable tangible property within the district. Before or at the time of issuing general obligation bonds, the board shall provide for the collection of an annual tax to be levied upon all taxable tangible property within the district sufficient to pay the interest and principal of the indebtedness as they fall due and to retire the same within twenty years from the date contracted. The net income and revenue arising from the operation of the water supply system of such district, after providing for costs of operation, maintenance, depreciation and necessary extensions and enlargements, shall be transferred to and become a part of the interest and sinking fund applicable to such general obligation bonds, unless or until such net revenues are pledged to the payment of special obligation bonds as herein provided.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 33)*
+
+### 247.570 Special revenue obligation bonds — revenues pledged before issue.
+
+Special revenue obligation bonds, within the meaning of sections 247.230 to 247.670, shall be bonds payable, both as to principal and interest, wholly and only out of the net income and revenues arising from the operation of the water supply system of the district, after providing for costs of operation, maintenance, depreciation and necessary extensions and enlargements, and such bonds shall not be deemed to be indebtedness of the district within the meaning of any constitutional or statutory limitation upon the incurring of indebtedness. Before or at the time of issuing any special revenue obligation bonds, the board shall pledge such net income and revenues to the payment of such bonds, both principal and interest, and shall covenant to fix, maintain and collect rates for water and water service supplied by such district so as to assure that such net income and revenues will be sufficient for the purpose herein required. The board may make such other covenants as may be appropriate for the purpose of protecting and safeguarding the revenues of the district and the payment of such special revenue obligation bonds.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 34)*
+
+### 247.580 Bonds, when payable — interest, execution — denomination.
+
+All general obligation bonds, issued under the provisions of sections 247.230 to 247.670 shall be payable serially, beginning not more than five years after date they bear, and the last installment thereof shall be payable not more than twenty years after such date. All revenue bonds issued under the provisions of sections 247.230 to 247.670 shall be payable serially, beginning not more than five years after the date they bear, and the last installment thereof shall be payable not more than thirty years after such date. Such bonds shall bear a rate of interest not exceeding six percent per annum, payable semiannually, shall be executed by the president of the board, attested by the secretary of the board, under the seal of the district, and shall be of such denomination as the board of directors may determine.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 35)*
+
+### 247.590 Issuance of current revenue bonds, when — execution.
+
+During the period of time required to collect any tax or property within the district levied for general operating purposes the board may issue and sell current revenue bonds to bear interest at not to exceed six percent per annum to meet the current expenses of the district incurred in advance of the revenue to be derived from such tax levy, and to be paid out of such current revenue levied for general operating purposes when collected. Such bonds may be for six, nine or twelve months and shall not exceed in the aggregate one-half of the revenue for the fiscal year for which they are issued. The president of the board shall execute the bonds on behalf of the district and they shall be attested by the secretary with the seal of the district.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 36)*
+
+### 247.600 Elections in district.
+
+1. Regular elections shall be held on municipal election days.
+2. Returns of elections, except as herein otherwise provided, shall be made to the board of directors, shall be canvassed by said board, and the results spread upon the records of the district.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 37, A.L. 1978 H.B. 971)*
+
+### 247.620 Petition for dissolution of district, contents, where filed — submission of question.
+
+Whenever a petition signed by not less than one hundred voters in any district organized under the provisions of sections 247.230 to 247.670 shall have been filed with the circuit court having jurisdiction over said district, setting forth all relevant facts pertaining to said district, and alleging that the further operation of said district is inimicable to the best interests of the inhabitants of said district, and that said district should, in the interest of the public welfare and safety, be dissolved, said circuit court shall have authority, after hearing evidence submitted on the aforesaid question, to order a submission of the question, which shall be submitted in substantially the following form:
+Shall the ______ metropolitan water supply district be dissolved?
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 39, A.L. 1978 H.B. 971)*
+
+### 247.630 Election on question of dissolution — effect — procedure if question approved.
+
+1. If the court shall find that it is to the best interest of the inhabitants of said district that such district be dissolved, it shall make an order reciting the same and providing for the submission of the question to the voters of the district.
+2. Such election may be held only on municipal election days. Returns of said election shall be canvassed and certified to the court.
+3. If the court finds that two-thirds of the voters voting thereon shall have voted in favor of the question to dissolve said district, the court shall make a final order dissolving said district, and the decree shall contain a proviso that said district shall continue in full force for the purpose of paying all outstanding and lawful obligations and disposing of property of the district; but no additional costs or obligations shall be created except such as are necessary to pay such costs, obligations and liabilities theretofore incurred, or necessary to the winding up of the district.
+4. If the court shall find that two-thirds of the voters of the district voting thereon shall not have voted favorably on the question to dissolve such district, then the court shall make a final order declaring such result dismissing the petition praying for the dissolution of said district; and the said district shall continue to operate in the same manner as though said petition asking for such dissolution had not been filed.
+
+*Effective 8/28/1978 · (L. 1949 p. 350 § 40, A.L. 1978 H.B. 971)*
+
+### 247.640 Effect of dissolution — appointment of trustee.
+
+No dissolution of such district shall invalidate or affect any right accruing to the district, or to any person, or invalidate or affect any contract or indebtedness entered into or imposed upon the district or person; and whenever the circuit court shall, under the provisions of section 247.630, dissolve any such district, the court shall appoint some competent person to act as trustee for the district dissolved, and such trustee before entering upon the discharge of his duties shall take and subscribe to an oath that he will faithfully discharge the duties of his office, and shall give bond with sufficient security, to be approved by the court, to the use of such dissolved district, for the faithful discharge of his duties, and shall proceed to liquidate the district under orders of the court.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 41)*
+
+### 247.650 Defective notice, when given.
+
+In any and every case where a notice is provided for in sections 247.230 to 247.670, if the court finds for any reason that due notice was not given, the court shall not thereby lose jurisdiction, and the court shall in that case order due notice to be given, and shall continue the hearing until such time as notice shall be properly given, and thereupon shall proceed as though notice has been properly given in the first instance.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 42)*
+
+### 247.660 Cases involving validity of organization, when heard.
+
+All cases in which there may arise a question of the validity of the organization of a district, or a question of the validity of any proceeding under sections 247.230 to 247.670, shall be advanced on the docket as a matter of immediate public interest and concern, and heard at the earliest practicable moment. The courts shall be open at all times for the purposes of sections 247.230 to 247.670.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 43)*
+
+### 247.670 Sale of water outside district prohibited.
+
+No metropolitan water supply district created under sections 247.230 to 247.670 shall sell water directly or indirectly to any area nor municipality or political subdivision not included in the legally constituted boundaries of said metropolitan water supply district.
+
+*Effective 8/28/1949 · (L. 1949 p. 350 § 44)*
+
+## Chapter 248 — Sanitary Drainage Districts — Cities Over 300,000 Inhabitants and Adjoining Counties
+
+### 248.010 Establishment of sanitary drainage districts — petition, by whom made — petition contents.
+
+1. Whenever the construction and maintenance of a common outlet or channel or of a system of drains or sewers for the drainage of any area in the state of Missouri shall become necessary to secure proper sanitary conditions for the preservation of the public health, if such area shall lie in part within and in part without the corporate limits of any city having a population of three hundred thousand or more, said area may be established and incorporated as a sanitary district under this chapter in the manner following, to wit: The mayor and assembly of the city or the county commission of the county within whose limits any part of such area may lie, or in case the area is situated in part in a city authorized to perform all the functions of a county and part in a county, both the mayor and assembly and the county commission may petition the circuit court or courts having jurisdiction for the appointment of commissioners as herein provided, and to take such further action as may be necessary to the submission to the legal voters resident in such area, of the question whether such area shall be organized and incorporated as a sanitary district under this chapter.
+2. Such petition or petitions, which may be in the form of an ordinance of the city or order of the county commission, shall set forth a description in general terms of the territory to be embraced in, and suggest a name for, the proposed sanitary district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12476)
+Prior revisions: 1929 § 10886; 1919 § 4581; 1909 § 5687*
+
+### 248.020 Sanitary district — commission to determine boundaries, general provisions.
+
+1. The circuit court or courts so petitioned are hereby authorized to appoint three disinterested persons, one of whom shall be a civil engineer or surveyor, as commissioners to lay out and define the boundaries of the proposed sanitary district.
+2. Said commissioners may alter or amend the boundaries of the proposed district, as set forth in the petition or petitions, so that it may embrace all of the area capable of being efficiently drained by the common outlet or channel, or by the system of sewers or drains, or so as to exclude from the sanitary district any part of the natural drainage area which is so situated as not to be benefitted by the proposed sanitary drainage, and for this purpose they shall have power to have made all surveys and maps necessary to locate and describe the said boundaries.
+3. Said commissioners shall qualify by taking oath to faithfully and impartially perform their duties, and when so qualified shall give notice by publication at least five times, in one or more newspapers having a general circulation in the proposed district, of the time and place where they will meet to consider and establish said boundaries. Said notice shall be given at least twenty days prior to the meeting and the meeting place shall be in the courthouse of the county, or city hall of the city.
+4. At the meeting the commissioner first named in the order of appointment shall preside, and all persons residing or owning real property in such proposed district, or adjacent thereto, shall have the right to be heard as to the location of the boundaries of such proposed district; and the commissioners or a majority of them after such hearing shall fix and determine the boundaries of the proposed district.
+5. The commissioners may adjourn from day to day until the hearing shall be complete, and for their services shall receive ten dollars per day each, for each day of actual service. They may employ a competent person as stenographer and clerk, whose compensation shall be five dollars per day.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12477)
+Prior revisions: 1929 § 10887; 1919 § 4582; 1909 § 5688*
+
+### 248.030 Report of commissioners.
+
+The commissioners shall make their report, accompanied by a map or plan showing the boundaries of the proposed district, in relation to the property lines intersected or followed by them, also in relation to city or county boundaries, to the court or courts by which they were appointed. Said report and map, if approved by the court or courts, shall then be filed in the office of the recorder of deeds for the county or counties, or city, in which the proposed district is situated, and copies of the map with the mayor of the city and with the county commission of the respective county or counties.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12477)
+Prior revisions: 1929 § 10887; 1919 § 4582; 1909 § 5688*
+
+### 248.040 Election on organization of sanitary district.
+
+1. It shall then be the duty of said mayor and county commission or courts to submit to the voters of the proposed district the question of the organization and incorporation of the proposed sanitary district, with boundaries as determined by the said commissioners and approved by the said court or courts, at an election.
+2. The returns of the vote, certified to under oath by those who receive and count the vote, shall be made to the secretary of state of the state of Missouri, who shall ascertain and declare the result.
+3. The question shall be submitted in substantially the following form:
+Shall a sanitary drainage district be organized and incorporated?
+4. If a majority of the votes cast shall be in favor of organization of the district, such proposed district shall thenceforth be deemed an organized sanitary district under this chapter.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12477, A.L. 1978 H.B. 971)
+Prior revisions: 1929 § 10887; 1919 § 4582; 1909 § 5688*
+
+### 248.050 General powers of district — judicial notice — costs of proceedings.
+
+1. When the board of trustees provided for in section 248.070 shall be appointed and organized, such sanitary district shall be considered in law and equity a body corporate and politic, known by the name and style of "The Sanitary District of ______", and by such name and style may sue and be sued, contract and be contracted with, acquire and hold real estate and personal property necessary for corporate purposes, and adopt a common seal.
+2. All courts in this state shall take judicial notice of the existence of all sanitary districts organized under this chapter.
+3. If the proposition to establish the sanitary district is carried, the cost of all preliminary proceedings shall be borne by the district; if it is defeated, all costs of court, of commissioners and of the election shall be borne by the city and county, if of independent jurisdiction, each being liable for all expenses in regard to proceedings under its petitions. If its jurisdiction is single, the county commission shall pay for all said expenses.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12477)
+Prior revisions: 1929 § 10887; 1919 § 4582; 1909 § 5688*
+
+### 248.060 Procedure where drainage area is in two counties — what court has jurisdiction.
+
+When a natural drainage area includes territory lying in part in a county and in part in a city exercising the functions of a county, or in two or more counties, then the proceedings herein prescribed in sections 248.010 to 248.050 shall state that the proposition is to unite the parts so situated in independent jurisdictions into a single sanitary district; and if the proposition is carried by a majority vote in each of the parts, then the district shall be united and organized as described in said proceedings, and the circuit court having jurisdiction over the major part of the area included in the district so organized, shall have and is directed to exercise jurisdiction in all cases or questions arising out of the organization of the district, or from the acts of the board of trustees thereof.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12477)
+Prior revisions: 1929 § 10887; 1919 § 4582; 1909 § 5688*
+
+### 248.070 Trustees — appointment — removal — employees.
+
+1. The board of trustees for the sanitary district shall be constituted as follows: The county commission shall appoint one; the mayor of the city, with the approval of the higher branch of the legislative department of the city government, shall appoint one; and the court having jurisdiction over the whole or major part of the territory embraced in the district, as shown by the map thereof, shall appoint one, who shall be a civil engineer of good repute in his profession, and a recognized expert in matters of drainage. The appointee of the circuit court shall be the president of the board, and its executive officer.
+2. For their services the trustees shall receive salaries proportioned to the actual services rendered the district; the amount of salaries in each case shall be fixed on a per diem basis by the circuit court which appoints the third member, as before provided.
+3. If more than one sanitary district be organized with territory common to the same city and county or counties, the same persons may be appointed as trustees for any or all such districts.
+4. The official, county commission or court appointing the trustee shall have the power to appoint a successor when any vacancy occurs by reason of death, resignation, or removal from office or expiration of term. He or it may also remove such appointee for cause.
+5. The term of office of the first appointee of the circuit court shall be three years; that of the county commission two years, and that of the mayor one year. Subsequent terms shall all be for three years, always subject to the condition that the board of trustees may be abolished, as provided in section 248.180.
+6. The board of trustees shall have power to elect a clerk, chief engineer and attorney, and to employ from time to time such other persons as may be necessary, and to remove and discharge them at its pleasure; to fix the compensation of such appointees or employees, and to require them to give bond for the faithful performance of their duties; provided, that no salary so paid, calculated on per diem basis, shall exceed the per diem allowed the president of the board.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12478)
+Prior revisions: 1929 § 10888; 1919 § 4583; 1909 § 5689*
+
+### 248.080 Powers of board.
+
+Said board of trustees shall have power to pass all necessary rules and regulations for the proper management and conduct of the business of said board of trustees, and of said corporation, and for the carrying into effect the objects for which such sanitary district is formed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12479)
+Prior revisions: 1929 § 10889; 1919 § 4584; 1909 § 5690*
+
+### 248.090 Surveys and plans — adoption thereof.
+
+1. It shall be the duty of the board of trustees to make the necessary surveys, and to map out and define the several natural drainage areas in the district, and to lay out a general plan for the drainage thereof; besides the main outlet or outlets, the plan shall embrace branches or submains, necessary for a complete system of principal drains for the entire district. Branch or submains to be paid for out of the general revenue of the district shall not be extended beyond the point at which they will receive the drainage of an area of less than eight hundred acres. Outlets and the larger branches or submains may be open channels, whose general course shall be followed by intercepting sewers, to collect and convey sewage or polluted drainage. The board shall also subdivide the district into convenient subdistricts, not larger than one thousand acres in extent, within which the sewers or drains necessary to complete the drainage shall be constructed at the expense of the subdistrict, as provided in section 248.160.
+2. When such plans are complete for a definite district or subdistrict, the board of trustees shall adopt them by ordinance, and such ordinance, when published in one or more newspapers having general circulation in the sanitary district, shall be binding upon all persons, corporations and municipalities; and nothing shall be done affecting the drainage of any part of the district, other than ordinary farm or agricultural drains, by any person, corporation or municipality inconsistent with such plans or without the permission of said board of trustees.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12482)
+Prior revisions: 1929 § 10892; 1919 § 4587; 1909 5693
+CROSS REFERENCES:
+Contractual agreements between political subdivisions for common facilities or services, 70.210 to 70.320
+County planning commission, approval of public improvements after adoption of plan, 64.010 to 64.295*
+
+### 248.100 Right-of-way through private property — proceedings.
+
+1. If, in the judgment of the board of trustees, it is necessary to acquire rights-of-way or easements for drainage purposes through private property, it shall, by ordinance duly certified, call upon the authority of the city or county having the right to cause the condemnation of private property for public use, to procure such rights-of-way or easements by due process of law; or said board may obtain the same by purchase, gift or otherwise. All costs of proceedings and damages allowed shall be paid out of the special drainage fund in the treasury of the city or county in which the property taken is situated.
+2. The board of trustees of such drainage district, if it be necessary to cross, follow or traverse public streets, roads or alleys, or grounds held or used as public parks or places, shall have the right to do so upon the following conditions: The board of trustees shall file with the county commission or mayor of the city having immediate jurisdiction over the street, road, alley or public park or place, a map showing the location and extent of the proposed occupancy for drainage purposes and a plan of the proposed works, which plan shall be so made and arranged as not to interfere with the ordinary and lawful use of said street, road, alley, public park or place, except during a reasonable time for the construction of the necessary works said map and plan to be subject to approval by the county commission or mayor of the city.
+3. The entire expense of the works and restoration of the ground occupied to its former condition, as near as may be, shall be borne by the sanitary district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12483)
+Prior revisions: 1929 § 10893; 1919 § 4588; 1909 § 5694*
+
+### 248.110 Bids for work contracts.
+
+1. The board of trustees for the sanitary district shall let contracts for all work to be done, excepting in case of repairs or emergencies requiring prompt attention, in the construction of channels, drains or sewers, under the authority of this chapter, the expense of which will exceed five hundred dollars, to the lowest responsible bidder therefor, upon not less than twenty days' notice of said letting, given by publication in a newspaper of general circulation in the district, and in the discretion of the said board, in one or more newspapers of general circulation among contractors. The said board shall have the power and authority to reject any and all bids, and readvertise the work.
+2. The board of trustees shall also have the power to enter into agreements with persons, firms or corporations of known standing and competence for the execution and preparation of the surveys, maps and plans needed and required by the said board, and also for the laying out and superintendence of work to be constructed under the authority of this chapter; but no single agreement so made shall cover more than one piece or class of work.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12485)
+Prior revisions: 1929 § 10895; 1919 § 4590; 1909 § 5696*
+
+### 248.120 Special drainage tax — drainage fund.
+
+1. To provide means to carry into effect the objects for which such sanitary district is formed, the lawful authorities in the city, and the county commission in counties, in which sanitary districts may wholly or in part be situated, shall levy and assess upon all the lands lying within such sanitary district, exclusive of streets, roads and alleys duly opened to public use, a uniform special drainage tax, to be fixed by requisition and certified by ordinance of the board of trustees of such sanitary district. And the mayor and assembly of said city are hereby authorized and required to levy such special tax, in addition to the amount they may be authorized to levy for general municipal purposes by the charter of said city. And the county commission or commissions is hereby authorized and required to levy such special tax, in addition to the amount it may be authorized to levy for general county purpose. The amount of such special tax in any year shall not exceed one-half of one percent on the assessed and equalized valuation of such lands for that year. No lands, other than streets, roads and alleys, shall be exempt from said special tax, and if not valued and assessed for other purposes, shall be valued and assessed for this. Such special tax shall be collected and enforced by the same officers and in the same manner as provided for state and county taxes.
+2. The amounts collected shall be paid into the treasury of the city and of the county or counties in which the collections are made, and be credited to a special fund, called "The Drainage Fund of the Sanitary District of ______", and shall be used for no other purpose than for the payment of vouchers, drawn under the authority vested in the board of trustees for the sanitary district, as specified in section 248.140.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12480)
+Prior revisions: 1929 § 10890; 1919 § 4585; 1909 § 5691*
+
+### 248.130 Issuance of bonds — sinking fund — appeal.
+
+1. If, in the judgment of the board of trustees, the construction of the whole or any part of the general plan adopted is an urgent sanitary measure, and the means provided under section 248.120 are insufficient to do the work as rapidly as may, in the judgment of said board, be necessary, the said board may apply to the county commission or commissions having jurisdiction for an order of said county commission or commissions, authorizing the issue of bonds for the purpose of anticipating the revenue of the sanitary district. The application shall state the purpose, amount and all conditions of the proposed issue of bonds.
+2. Said county commission shall have the power, in its discretion, to authorize the issue of such bonds, provided that the total amount outstanding shall, at no time, exceed the anticipated revenue of the sanitary district for the ten years next ensuing, computed on the basis of a levy of one-half of one percent annually, upon the valuation for the year in which the authority for issue is given. Bonds issued under the authority of this chapter shall not run for a term exceeding twenty years, nor bear a higher rate of interest than six percent per annum.
+3. When bonds are so issued and sold, the special fund before described, arising from tax collections, shall each year first be charged with the interest falling due that year, and with a proportion of the total amount of outstanding bonds, ascertained by dividing said total amount by the number of years the bonds have to run, and the amount so ascertained shall be set apart as a sinking fund to provide for the payment of interest, and for the payment or purchase of said bonds.
+4. The bonds issued under the authority of this chapter shall have a copy of this section and of the order of the county commission printed on their back, and shall be registered in the office of the secretary of state of the state of Missouri.
+5. The sinking fund above provided for shall each year be paid into the treasury of the state, and payments therefrom for interest and principal shall be made as provided in the case of bonds payable by the state of Missouri.
+6. The proceeds of bonds issued under the authority of this chapter shall be deposited with the treasurer of the city, and shall be a special fund, and be used for no purpose except the payment of vouchers for work done or materials furnished for the construction of channels, drains and sewers.
+7. In case of appeal from the action of the court applied to as above provided, the appeal shall be heard and determined as a privileged case by the supreme court of the state of Missouri.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12484)
+Prior revisions: 1929 § 10894; 1919 § 4589; 1909 § 5695
+CROSS REFERENCES:
+Bond issues, proceeds and moneys for interest and sinking funds to be kept separate, 108.180 to 108.210, 108.230
+Refunding bonds authorized, payment of, 108.140 to 108.160*
+
+### 248.140 Issuance of vouchers, for what purposes.
+
+The board of trustees of sanitary districts shall have the power to issue vouchers payable by the treasurer of the city or of the county in which such sanitary district is wholly or in part situated, out of any funds in such treasurer's hands to the credit of the special fund of the sanitary district for the following named purposes, to wit:
+(1) For the preliminary expenses incurred in organizing the district;
+(2) For salaries and current expenses of the board, and salaries of its employees;
+(3) For making surveys, plans and superintendence of work;
+(4) For the payment of judgments for damages and costs, or the agreed price for right-of-way and easements;
+(5) For payment of principal and interest of lawfully incurred indebtedness; and
+(6) For work done or materials furnished for the construction or maintenance of channels, drains or sewers.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12481)
+Prior revisions: 1929 § 10891; 1919 § 4586; 1909 § 5692*
+
+### 248.150 Who may construct sewers and drains — plans approved by trustees.
+
+The lawful authorities of any city or incorporated town or village, the county commission of any county, individual owners or associations of such owners, shall have the right to construct sewers or drains in sanitary districts, organized under this chapter, at their own expense, but plans for such sewers and drains must conform to the plans adopted by the board of trustees, and all such plans must be submitted to and be approved by said board of trustees before any construction work is done thereon.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12486)
+Prior revisions: 1929 § 10896; 1919 § 4591; 1909 § 5697*
+
+### 248.160 Sanitary drainage of subdistrict — special tax bills.
+
+1. When sewers are needed for the complete or sanitary drainage of a subdistrict, being a part of a sanitary district not exceeding one thousand acres in area, such sewers may be built by the board of trustees created under this chapter if parts of the subdistrict so to be drained be situated in different and independent jurisdiction; but, if such subdistrict lie wholly within the limits of a single jurisdiction, then the powers conferred by this section shall be vested in and exercised by that jurisdiction. The board of trustees created in section 248.070 in the case described above, otherwise the city, incorporated town or village, or county commission, having jurisdiction over the subdistrict, shall have the power, when petitioned so to do by a majority of the resident taxpayers within the subdistrict described in the petition, or upon a recommendation of a lawfully organized board of health, that the complete or sanitary drainage of a certain described area in a subdistrict is needed as a sanitary measure, to provide for the construction of a complete system of sewers in such subdistrict or convenient part thereof, and to assess the cost of such sewers upon the property drained thereby as a special tax; said special tax shall be uniform in the proportion that the area of each lot or parcel of ground, taken to a distance not exceeding two hundred feet from the center line of the sewer, bears to the whole area drained by the sewers for which assessment is made.
+2. Special tax bills shall be issued against each lot or parcel of ground drained or drainable by the sewer, or the portion of such lot or parcel lying within two hundred feet of the center line of such sewer or sewers. Such special tax bills shall be a lien upon the property charged therewith, as is provided for other special tax bills authorized by the statutes of the state of Missouri; but if any owner of any lot or parcel of ground assessable hereunder shall, within twenty days after the passage of the ordinance or order for the construction of such sewers, make written request that he be allowed to pay the special tax thereon by installments, said special tax bills against the property described in his request shall be divided, and portions made payable at certain dates and in amounts named; but the time of payment shall not extend beyond five years, nor the number of installments to more than five. Each installment shall bear interest at the rate of six percent per annum from date of issue of the special tax bill until due, and if not paid when due the rate of interest shall thereafter be ten percent per annum. If any installment remains unpaid for six months after it becomes due, then all unpaid installments shall be deemed to have become due with it, and the lien upon the property may be enforced for the whole amount unpaid, together with interest thereon.
+3. Said special tax bills shall be issued by the board of trustees and authenticated by the seal of said board or by the authorities of the city, in the manner other special tax bills are issued by said city. If the sewers be built by the board of trustees, or a county commission, the cost of engineering and superintendence shall be added to the cost of construction, in ascertaining the amount to be assessed against the property drained; but the cost of engineering and superintendence shall not exceed ten percent of the cost of construction, as finally estimated. If the sewers be built by the city, incorporated town or village, the cost of engineering and superintendence shall be borne by such city, incorporated town or village. The special tax bills shall be issued to the contractors, or to persons rendering service or furnishing materials in a subdistrict, under contract or agreement with the board of trustees, or the competent authorities of the city, incorporated town or village, or county commission, in full settlement for all sums that may be due, arising from such contracts or agreements; but no claims shall be entertained or allowed for payment in any other way than by the issue of and delivery of such special tax bills.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12487)
+Prior revisions: 1929 § 10897; 1919 § 4592; 1909 § 5698
+CROSS REFERENCES:
+Delinquent taxes, districts may redeem bonds, when, 140.380
+Interest, penalty and costs on delinquent sewer taxes, 249.710 to 249.750*
+
+### 248.170 Trustees may accept sewers or drains constructed by private persons.
+
+The board of trustees created by this chapter, or the authorities of the city, town or village, or the county commission, shall have the power to accept from private persons or corporations any sewers or drains constructed by them before or after the organization of the sanitary district, and to allow an equitable credit for such sewers or drains; or to acquire the same by process of law if needed; provided, that the sewers or drains accepted, in plans, materials and construction, conform to the plans adopted and approved by the board for similar work done by said board; and provided, in the case of acceptance, that the amount allowed shall not exceed the amount assessable as a special tax against the property drained thereby, under section 248.160. The title to or ownership of such sewers or drains shall be considered as attaching to all lands actually drained thereby in proportion to the areas of such lands, and the credit shall be allowed to the owners of record.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12488)
+Prior revisions: 1929 § 10898; 1919 § 4593; 1909 § 5699*
+
+### 248.180 Board of trustees to cease to exist, when.
+
+When the object for which a sanitary district was organized is accomplished by the completion of the main channel, drains or sewers, contemplated and adopted in the general plan, and when the areas of divided jurisdiction are drained or otherwise provided for (which facts the circuit court for the district in which the whole or the major part of the territory embraced in the district shall determine), then the board of trustees of such sanitary district shall cease to exist at the expiration of sixty days after the date of the decree of court expressing such determination. But provision shall be made for the fulfillment of all contracts and obligations which have been made by said board of trustees, the responsibility therefor being assumed by the city or county directly interested. Provision shall also be made for the prompt payment of all outstanding bonds of the sanitary district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12489)
+Prior revisions: 1929 § 10899; 1919 § 4594; 1909 § 5700*
+
+### 248.190 Duties of certain public officers.
+
+It is hereby made the duty of the secretary of state, the mayors of cities, the circuit court, the county commission of counties, and all assessors, sheriffs, collectors, treasurers and other officials in the state of Missouri, to do and perform all the acts and to render all the services necessary to carry out the purposes of this chapter, and for such services they shall receive the fees, or other compensation allowed by law for similar services rendered to cities, counties or the state.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12490)
+Prior revisions: 1929 § 10900; 1919 § 4595; 1909 § 5701*
+
+### 248.200 Construction of chapter.
+
+Nothing in this chapter contained shall be so construed as to constitute a contract or grant between the state of Missouri and any sanitary district formed under its provisions, or to prevent, debar or deprive the state of Missouri from, at any time in the future, altering, amending or repealing this chapter, or imposing any conditions, restrictions or requirements other, different or additional to any herein contained, upon any sanitary district formed hereunder.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12491)
+Prior revisions: 1929 § 10901; 1919 § 4596; 1909 § 5702*
+
+## Chapter 249 — Sewer Districts in Certain Counties
+
+### 249.010 Sewer district organization — petition for.
+
+Whenever the construction and maintenance of a system of sewers or the use of existing sewers for any contiguous area in the state of Missouri shall become necessary for the preservation of the public health or public welfare or will be of public utility or benefit, if any such area shall lie within any county in the state of Missouri, now or hereafter having a population of not less than seven hundred thousand nor more than one million inhabitants, the area may be established and incorporated as a sewer district under sections 249.010 to 249.420 in the manner following: Twenty-five or more voters residing within the area may file with the circuit court having jurisdiction, a petition setting forth therein the reason or necessity for a sewer system; the boundary lines of the proposed district; the type and/or kind of sewers; the name of the proposed district, and the number of years the district is to continue; a request for the appointment of a sanitary engineer with duties as herein provided; and take any further action necessary to determine the question whether the area may be organized and incorporated as a sewer district under sections 249.010 to 249.420. There shall be filed with the petition a bond in a sum to be determined by the court but in no event more than five hundred dollars payable to the state of Missouri signed by one or more of the petitioners with good and sufficient surety or sureties to be approved by the court, conditioned for the payments of costs and expenses.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12639, A.L. 1953 p. 541, A.L. 1961 p. 448, A.L. 1972 H.B. 1239 & 1300, A.L. 1978 H.B. 971)
+CROSS REFERENCE:
+County planning commission, certain counties, to approve improvements, 64.050, 64.235*
+
+### 249.020 Determination of population.
+
+The last preceding federal census shall be used as a basis and for the purposes of ascertaining and determining the population of the counties that may come within the provisions of sections 249.010 to 249.420.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12680)
+CROSS REFERENCE:
+United States census, effective date of, 1.100*
+
+### 249.030 Location of sewer district.
+
+A sewer district may be established and incorporated under sections 249.010 to 249.420 partly within and partly without or wholly without or wholly within one or more cities, towns or villages.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12677)*
+
+### 249.040 Sanitary engineer — appointment, oath, duties, reports, contents.
+
+Upon the filing of such petition and bond the circuit court is hereby directed, within ten days thereafter, to appoint a competent sanitary engineer who may be an individual, copartnership, or a corporation, to lay out and define the boundaries of the proposed sewer district. The said engineer shall subscribe an oath to faithfully discharge his duties as such engineer and to make a true report of the work done and the facts ascertained by him. The said engineer may alter or amend the boundaries of the proposed district as set forth in the petition, so that the boundaries may embrace all of the area capable of being efficiently served or drained by the system of sewers, or so as to exclude from the sewer district any part of the natural drainage area which is so situated as not to be benefitted by the proposed system of sewers and for this purpose shall have power to make all surveys, maps, and do all things necessary to locate and describe said boundaries. If the engineer finds the proposed sewer system would be for the preservation of the public health or public welfare or will be of public utility or benefit he shall so report and in said report he shall state approximately the proper plan of and the location of the system of sewers and the probable cost of the improvement necessary to accomplish the objects of the petition. The engineer shall report his findings in writing, with such maps, profiles, drawings and other data as are necessary to advise the court in the premises and shall promptly file the same with the clerk of the circuit court. Said report shall be filed within thirty days after his appointment, unless, for good cause shown, the court shall extend the time. The engineer shall file with his report a statement that he has consulted with the department of health and senior services in connection therewith, and he shall also file with his report any statement in writing which may have been made to him by said department of health and senior services covering the matters contained in such report.
+
+*Effective 1/2/1979 · (RSMo 1939 § 12640, A.L. 1951 p. 627, A.L. 1978 H.B. 1634)
+Effective 1-2-79*
+
+### 249.050 Notice of hearing.
+
+Immediately after the report of the engineer has been filed it shall be the duty of the court to fix a time at which it will hear objections as provided in section 249.060 and it shall be the duty of the clerk of the circuit court to cause a notice thereof to be published in some newspaper of general circulation in the county wherein the proceedings are pending. Such notice shall be published once a week for three consecutive weeks and shall be substantially as follows:
+­
+­
+
+*Effective 8/28/1939 · (RSMo 1939 § 12641)*
+
+### 249.060 Objections heard and determined by court — may alter boundaries — costs to include what — effect of incorporation.
+
+1. On or before the time fixed by the court for hearing objections as herein provided any person owning property that will be affected by the organization of the proposed sewer district or said proposed improvements, may file in the office of the clerk of the circuit court written objections to the petition or to the report of the engineer, or to both, setting forth therein wherein the proposed improvement is not necessary for the preservation of the public health or public welfare or will not be of public utility or benefit, as the case may be, which objection shall be, by the court, heard and determined in a summary manner.
+2. The court shall have the power upon the hearing to alter and amend the boundaries of such proposed district as described in the report of the engineer, by excluding therefrom any part of the area which the court may find is so situated as not to be benefitted by the proposed system of sewers. In such case, if so ordered by the court, the engineer shall file an amended report and estimate of costs, within such time as the court shall direct, and the hearing shall be continued to a date after the time fixed for the filing of such amended report. On or before the time of such continued hearing, objections may be filed to such amended report to the same extent as herein provided for objections to the original report of such engineer.
+3. If, after hearing and determining such objections, the court finds the proposed improvements are necessary for the preservation of the public health or public welfare or will be of public utility or benefit and advisable, it shall find in favor of the petitioners and in favor of making the improvement of the type or kind described in the petition. If the court shall find against the improvement it shall dismiss the petition and proceedings at the cost of the petitioners.
+4. The compensation of the sanitary engineer and of other persons who may have been employed with the approval of the court in the preparation of the plan and report of the engineer provided for in section 249.040, shall be fixed by the court and taxed as costs in like effect as fee bills are taxed and issued by the clerk of the circuit court, and shall be paid by the petitioners; provided, however, that if the court finds in favor of making the improvement, and incorporates the proposed district, the costs of the proceedings may be paid by the district out of funds of the district obtained by the sale of bonds which may be authorized by the voters as hereinafter provided.
+5. If the court finds in favor of making the improvement it shall, by its order, incorporate the proposed district within the boundaries described in the report of the engineer, or as amended by the court, into a sewer district for the purposes of sections 249.010 to 249.420 for the number of years set out in the petition, and shall designate same by the name set forth in the petition. Such district shall then be a body corporate and a political subdivision of the state, shall possess the powers of like or similar public corporations, shall be capable of suing and being sued in contract, in its corporate name, shall be capable of holding such real and personal property as may be at any time either donated to or acquired by it, all in accordance with the provisions of sections 249.010 to 249.420. Within ten days after the said district shall have been incorporated, a certified copy of said finding and decree of incorporation shall be filed in the office of the recorder of deeds of the county where the proceedings are pending and in the office of the secretary of state.
+
+*Effective 8/28/1951 · (RSMo 1939 § 12642, A.L. 1951 p. 627)*
+
+### 249.070 Election on incorporation — notice.
+
+1. After the incorporation of the district aforesaid it shall be the duty of the court to order the election authority to call and hold an election; said election to be called and held in the manner herein provided, at which election the voters residing within the sewer district may vote for three persons who shall form the board of trustees for said district as herein provided.
+2. In the order of such election the court shall also provide for submitting at such election a proposition to incur indebtedness by the district in an amount not greater than the estimate of the cost of constructing a system of sewers as provided in the report of the engineer.
+3. The notice shall state the purpose of the election and the amount of indebtedness to be incurred.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12643, A.L. 1978 H.B. 971)*
+
+### 249.080 Form of ballot for election to incur indebtedness.
+
+The question shall be submitted in substantially the following form:
+Shall the ______ sewer district incur indebtedness in the amount of ______ dollars and issue bonds in evidence thereof?
+
+*Effective 8/28/1978 · (RSMo 1939 § 12644, A.L. 1978 H.B. 971)*
+
+### 249.090 Trustees — bonds issued — tax for interest and sinking fund.
+
+The three candidates for office of trustee who shall receive the highest number of votes shall be declared elected trustees with terms as provided in section 249.140. If it appears that the constitutionally required percentage of the voters of such district voting on the proposition of incurring indebtedness submitted at the election were in favor of incurring such indebtedness, the election authority shall make an order reciting the holding of such election and the results thereof, both for and against the proposition, and if the result of the election as certified shall be in favor of incurring the indebtedness and issuing the bonds, then the board of trustees for the district shall direct the issuance thereof to the amount of the debt authorized to be incurred, or any portion thereof, and shall either before or at the time of doing so provide for the collection of an annual ad valorem tax upon all of the taxable property within the district, which tax shall be sufficient to pay the interest on such indebtedness as it falls due and also to create a sinking fund for the payment of the principal thereof within twenty years from the date of contracting the same, such tax to be levied and collected as provided for in section 249.130.
+
+*Effective 8/28/1990 · (RSMo 1939 § 12645, A.L. 1978 H.B. 971, A.L. 1990 H.B. 1621)*
+
+### 249.110 Tax levy to be authorized by voters — election expenses, how paid.
+
+The board of trustees shall have no power to levy or collect any taxes for the payment of any indebtedness incurred by said district unless and until the voters of the district shall have authorized the incurring of indebtedness at an election, but all such expenses and indebtedness incurred by said district may be paid out of funds which may be received by said district from the sale of bonds authorized by the voters at any such election.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12647, A.L. 1978 H.B. 971)*
+
+### 249.120 Bonds — denominations — interest — registry — deposit of funds.
+
+1. Such bonds shall be issued in denominations of one hundred dollars or some multiple thereof; shall be payable to bearer, not later than twenty years from their date; shall bear interest from their date at a rate not exceeding six percent per annum, payable annually or semiannually; such interest payments to be evidenced by annexed coupons, and said bonds shall not be sold for less than ninety-five percent of the face value thereof and together with existing indebtedness of the said district, if any, shall not exceed in the aggregate five percent of the value of all of the taxable property in the district to be ascertained by the assessment next before the last assessment for state and county purposes previous to the incurring of such indebtedness.
+2. Such bonds shall be signed by the president of the board of trustees and attested by the signature of the secretary of the board of trustees with the seal of the district affixed thereto. The interest coupons may be executed by affixing thereon the facsimile signature of the secretary of said district. Said bonds may be sold under the same conditions as are provided for the sale of county road bonds.
+3. All bonds issued under sections 249.010 to 249.420 shall be registered in the office of the state auditor as provided by law for the registration of bonds of cities and in the office of the secretary of the board of trustees of the district in a book kept for that purpose for registry, shall show the number, date, amount, date of sale, name of the purchaser and the amount for which the bond was sold. The moneys of the district shall be deposited by the treasurer of the district in such bank or banks as shall be designated by order of the board of trustees and the secretary of the district shall charge the treasurer therewith and the said moneys shall be drawn from the said treasury upon warrant issued by the district for the purposes for which the bonds were issued.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12648)*
+
+### 249.130 Taxes levied, when and how.
+
+1. It shall be the duty of the secretary of the board of trustees of the incorporated sewer district on or before the fifteenth day of May in each year to certify to the county commission of the county wherein such incorporated district is situate the amount of money that will be required during the next succeeding year to pay interest falling due on bonds issued and the principal of bonds maturing in such year, and the amount necessary to cover the estimated expenses of maintaining such sewer system in good condition, or renting or leasing of existing sewer facilities and of maintaining the district corporation with its necessary expenses.
+2. On receipt of such certificate it shall be the duty of the county commission at the time it makes the levy for the state, county, school and other taxes to, by order made, levy such a rate of taxes upon all the taxable property in the said incorporated sewer district as will produce a sum of money sufficient for the purposes aforesaid; provided, that the county commission shall have no authority to levy such tax until the voters of said sewer district shall have voted to incur an indebtedness under the provisions of sections 249.010 to 249.420.
+3. On such order being made it shall be the duty of the county commission to cause such rate of taxation to be extended upon the tax books against all the taxable property in said incorporated sewer district and the same shall be collected and remitted to the board of trustees of the said sewer district by the collector of the revenue of said county at the time, in the manner, and by the same means as state, county, school and other taxes are collected and remitted. All of the laws, rights and remedies provided by the laws of this state for the collection of state, county, school and other taxes, shall be applicable to the collection of taxes herein authorized to be collected.
+4. All taxes levied under sections 249.010 to 249.420 shall be based upon the assessed valuation of lands and other property in the said incorporated sewer district in accordance with the current record of the assessed valuations of all taxable property within said incorporated sewer district as may be determined by the records in the assessor's office of the county and such tax shall be prorated and an equal amount levied upon each one hundred dollars assessed valuation.
+
+*Effective 8/28/1953 · (RSMo 1939 § 12649, A.L. 1953 H.B. 543)*
+
+### 249.132 Extension of district boundaries, procedure — sanitary engineer appointed — report of findings.
+
+1. Whenever any sewer district shall have been organized as provided by sections 249.010 to 249.420, and it shall appear necessary, convenient or advisable to extend the boundaries of such district for the purpose of including therein a contiguous area which could be efficiently served by the sewer system of such district, or by reasonable modifications, extensions or improvements thereof, the boundaries of such district may be extended in the following manner; provided that such extension shall not include any territory within the boundaries of any other sewer district.
+2. The trustees of such district may, and shall upon a petition therefor, signed by twenty-five or more persons residing within such district and owning property therein which is liable for assessment for the sewers constructed therein, file with the circuit court having jurisdiction of such district a petition setting forth the reason or necessity for extending the boundaries of such district; the boundary lines of the proposed extension and a request for the appointment of a sanitary engineer, with duties as herein provided, and a prayer for such further action as may be necessary to determine the question as to whether the boundaries of such district should be extended.
+3. Upon the filing of such petition the said circuit court shall as soon as may be thereafter appoint a competent sanitary engineer, who shall possess the qualifications and shall subscribe the same oath as are now provided for the engineer appointed under the provisions of section 249.040.
+4. Such engineer may alter or amend the boundaries of the proposed extension of the district as set forth in the petition so that such boundaries may embrace all of the area capable of being efficiently served or drained by the system of sewers in such district or by reasonable modifications, extensions or improvements thereof, or so as to exclude any part of the area within the proposed extended boundaries which is so situated as not to be benefitted by the sewer system of such district as changed or for the drainage of which the sewer system of such district is not or cannot be made efficiently and economically adequate. For this purpose the engineer shall have the power to make surveys and maps and do all things necessary to locate and describe such boundaries.
+5. The engineer shall report whether or not he finds the proposed extension of such district will be for the preservation of the public health or public welfare or will be of public utility or benefit and in such report he shall state what changes, if any, will be required to be made in the sewer system within the boundaries of the district then existing and what extensions or additions will be necessary in the territory proposed to be annexed, and the probable cost thereof, in order to serve the territory within the proposed extended boundaries. The engineer shall file with his report a statement that he has consulted with the department of health and senior services in connection therewith, and he shall also file with his report any statement in writing which may have been made to him by said department of health and senior services covering the matters contained in such report.
+6. The engineer shall within thirty days after his appointment, unless for good cause shown the court shall extend the time, report his findings in writing to the court with such maps, profiles, drawings or other data as are necessary to advise the court in the premises.
+
+*Effective 1/2/1979 · (L. 1951 p. 627 § 249.100, A.L. 1978 H.B. 1634)
+Effective 1-2-79*
+
+### 249.134 Hearings on proposed extension, notice — election, when ordered — decree of extension entered.
+
+1. Immediately after the report of the engineer has been filed, the court shall fix a time at which it will hear such petition or any objections thereto and it shall be the duty of the clerk of the circuit court to cause a notice thereof to be published in some newspaper of general circulation in the county wherein the proceedings are pending, for three consecutive weeks, which notice shall set out the boundaries of the proposed extension of the district as shown in the report of the engineer, and shall notify all persons within such district and all persons within the boundaries of the proposed extension of such district, who own property liable for or which may become liable for taxation for the sewer system of such district or of such district if extended, that on or before the time so fixed by the court they may file objections to either or both the petition or the engineer's report and that such petition and that any objections thereto will be heard by the court at the time so fixed.
+2. If upon the hearing upon such petition and objections the court shall find that an extension of the boundaries of such district within the boundaries as set forth in the engineer's report or within any part thereof is necessary for the preservation of the public health or public welfare or will be of public utility or benefit and will be advisable, the court shall find in favor of the petitioners and shall render its decree to that* effect. If the court shall find that such an extension is not necessary or will not be of public health or public welfare or will not be of public utility or benefit and will not be advisable, then it shall find against the petitioners and shall dismiss the petition.
+3. If the court shall find in favor of the petitioners then (except as hereinbelow set out) it shall enter its order directing the election authority to call and hold separate elections, both in the original sewer district and in the territory proposed to be annexed, upon the question of whether such territory should be annexed to the sewer district. The notice shall include a description of the territory to be annexed.
+4. The question shall be submitted in substantially the following form:
+Shall the ______ sewer district annex the contiguous area described in the notice for this election?
+5. The election authority shall certify the results of the election to the circuit court having jurisdiction of the matter. If a majority of the votes cast on the proposition, both in the original sewer district and in the territory to be annexed, shall be in favor of such annexation, then the court shall render a decree declaring the boundaries of such district to be extended and describing the boundaries of the district as extended. If a majority of the votes cast on the proposition in either the original district or in the territory to be annexed shall be against such annexation, then the court shall render a decree declaring that the proposal to extend the boundaries has failed and that the boundaries of such sewer district shall remain unchanged.
+6. Provided, however, that, notwithstanding the above provisions of this section, no election shall be held on the question of the annexation to a sewer district of contiguous territory in the following circumstances: (a) That at or before the time the circuit court shall render the decree calling the election there shall be presented to the court a written statement agreeing to the annexation of the territory to the district, signed by a majority of the owners of land in the territory to be annexed, who shall also be the owners of more than one-half of the land in such territory; (The term "owner", as used in this provision, shall mean the holder of the legal title to a freehold interest in land, including mortgagors and grantors in deeds of trust to secure debts; remaindermen, reversioners, and holders of equitable interests shall not be considered in computing the number of owners who sign the petition or in computing the total number of owners in the territory); (b) That the board of trustees of the sewer district to which the territory is to be annexed shall, by action recorded on its minutes, accept the annexation of such territory and shall file with the court a certified copy of the record of its action at or before the rendition of the decree calling the election. If such a petition of landowners and such certified copy of the action of the board of trustees shall be filed with the court as above stated, and if the court shall find upon the hearing in favor of the petitioners, then the court shall render its decree declaring the boundaries of such district to be extended and describe the boundaries of the district as extended. If the boundaries of the district be extended, a certified copy of the final decree shall be filed in the office of the recorder of deeds in the county in which such proceedings are pending and in the office of the secretary of state.
+
+*Effective 8/28/1978 · (L. 1951 p. 627 § 249.101, A.L. 1978 H.B. 971)
+*Word "the" appears in original rolls.*
+
+### 249.136 Indebtedness authorized — limitations — election required.
+
+1. Any sewer district organized under sections 249.010 to 249.420, or whose boundaries have been extended as provided, shall have the power to incur further indebtedness of the district and issue bonds of the district therefor for the purpose of providing a sewer system for the district, as provided by sections 249.010 to 249.420, or for enlarging, replacing, repairing, modifying, improving or extending the same, to make an effective and complete sewer system or to provide funds to pay any obligation incurred or which may be incurred by contract with any other district or municipality or other public agency for the construction, use or maintenance of common or joint sewers, drains, outlets and disposal plants, provided such indebtedness together with all existing indebtedness of such district shall not exceed in the aggregate five percent of the value of all taxable tangible property in such district to be ascertained by the last completed assessment of property for state and county purposes prior to the incurring of such indebtedness, and provided further that the constitutionally required percentage of the voters of such district voting on the proposition to incur such indebtedness shall assent thereto.
+2. The question shall be submitted in substantially the following form:
+Shall the ______ sewer district issue bonds in the amount of ______ dollars payable from taxes?
+3. Any bonds issued as provided herein shall be issued in accordance with the provisions relating to the original issuance of bonds hereunder; provided, however, the amount of bonds to be so issued shall be determined by the board of trustees and in determining the amount the board of trustees shall not be limited by any estimate of costs herein provided to be made by the engineer at the time of the incorporation of such district or the extension of its boundaries.
+
+*Effective 8/28/1990 · (L. 1951 p. 627 § 249.102, A.L. 1978 H.B. 971, A.L. 1990 H.B. 1621)*
+
+### 249.138 Resubmission of indebtedness question after rejection — second resubmission on order of court.
+
+1. In the event that any proposition for the incurring of indebtedness fails of adoption in the election provided in section 249.070 or provided in section 249.136, then, at any time not less than six months thereafter, and subsequently at intervals of not less than six months, upon a resolution of the board of trustees of such district providing therefor, the proposition of incurring such indebtedness may be again submitted to the voters of such district at an election to be called and held and the results thereof declared by the board of trustees as provided in section 249.136.
+2. If at the election called by the circuit court pursuant to section 249.070 hereof, a proposition for the incurrence of an indebtedness by the district shall have been submitted and shall have failed of adoption and further if substantially the same proposition shall have been again submitted at an election called pursuant to this section and shall have again failed, the circuit court of the county in which such district was organized shall have the power, upon motion of the board of trustees of such district therefor or upon petition therefor signed by twenty-five or more persons residing within such district and owning property therein which would be liable for taxes for sewers constructed therein, to enter a decree declaring such district to be disincorporated. A certified copy of such decree shall be filed in the office of the recorder of deeds of such county and with the secretary of state.
+
+*Effective 8/28/1951 · (L. 1951 p. 627 §§ 249.103, 249.105)*
+
+### 249.140 Trustees, qualifications, election, term.
+
+1. Any candidate for the office of trustee in the district shall be an American citizen over the age of twenty-five years and shall have been a resident within the county within which the district is situated for more than four whole years next before the date of the election at which he is a candidate and shall be a voter of the district. Any person desiring to become a candidate for the office of trustee at the election held on the original incorporation of the district, as provided in section 249.070, shall file with the county commission or with the election commissioners a statement, under oath, that he possesses the qualifications required by sections 249.010 to 249.420 for trustee and shall pay a filing fee of five dollars, whereupon his name shall be placed on the ballot as candidate for trustee. Any person desiring to become a candidate for the office of trustee in any subsequent election shall file such statement, under oath, with and pay such filing fee to the secretary of the board of trustees, whereupon his name shall be placed on the ballot as candidate for the office of trustee.
+2. At such initial election the candidate who receives the highest number of votes shall be elected for a six-year term as trustee; the candidate who receives the second highest number of votes shall be elected for a four-year term as trustee; the candidate who receives the third highest number of votes shall be elected for a two-year term as trustee.
+3. After his election each trustee shall take and subscribe his oath or affirmation before the clerk of the circuit court to the effect that he is qualified to act as trustee under the provisions of sections 249.010 to 249.420 and that he will perform his duties as such trustee to the best of his ability and impartially in the interest of the whole district.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12651, A.L. 1951 p. 627, A.L. 1978 H.B. 971)*
+
+### 249.150 Biennial elections.
+
+On the first Tuesday in April after the expiration of two years from the date of the election of the first board of trustees for respective terms of two, four and six years each, an election shall be called and held by the board of trustees and every two years thereafter shall be so called and held for the purpose of electing a trustee who shall serve for a term of six years and until his successor shall have been elected and qualified to fill the office of the trustee whose term may then expire and any vacancy then existing in the membership of said board shall be filled at such election.
+
+*Effective 8/28/1951 · (RSMo 1939 § 12652, A.L. 1951 p. 627)*
+
+### 249.160 Organization of board of trustees.
+
+The trustees within five days after their election and qualification shall meet and organize the board by selection from among their number one to act as president of the board, one to act as treasurer of the board, and one to act as secretary of the board. The officers so selected shall hold office until the next election of trustee or trustees and until a newly constituted board of trustees after an election shall have selected their successors.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12650)*
+
+### 249.170 Two trustees may make decision.
+
+In all proceedings under sections 249.010 to 249.420 at all meetings of the board of trustees the vote of two of the trustees shall be sufficient and all lawful actions in pursuance of a vote of two trustees shall be deemed the act of the sewer district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12679)*
+
+### 249.180 Vacancies, how filled.
+
+In the event of any vacancy in the office of trustee caused by death, resignation, refusal to act or in any wise, such vacancy shall be filled by appointment made by the remaining trustee or trustees. In the event the remaining trustees cannot agree upon such appointment within thirty days after such vacancy may have occurred then such vacancy shall be filled by the appointment of the circuit court, and the trustees so appointed shall possess the qualifications for a trustee elected under the provisions of sections 249.010 to 249.420 and shall subscribe his oath or affirmation as if he had been elected. The trustee or trustees so appointed shall serve until the next election for trustee at which time a trustee shall be elected to fill such vacancy.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12653)*
+
+### 249.190 Failure of trustee to qualify — compensation of trustees.
+
+1. In the event that any trustee elected or appointed under the provisions of sections 249.010 to 249.420 shall fail to qualify as such trustee or fail to take and subscribe his oath or affirmation of office within fifteen days after his election or appointment, then the office of said trustee shall be considered vacant and the vacancy filled as provided in section 249.180.
+2. Each trustee elected under the provisions of sections 249.010 to 249.420 shall be compensated by warrant drawn upon the treasurer of the sewer district corporation in the sum of twenty-five dollars per month for each month that he shall serve after his election and during the period of the construction of sewers. After sewers have been constructed in accordance with original plan and during any period of more than thirty days that the construction of sewers may be delayed or deferred each trustee shall be compensated in the sum of ten dollars per month for his services.
+3. If the proposition to incur indebtedness, as provided for in section 249.070, fails of adoption the trustees shall receive no compensation. All necessary expenses of the board of trustees or any member of said board incurred in the performance of its or his respective duty or duties under sections 249.010 to 249.420 shall, upon the certificate of the treasurer, filed with the board of trustees, be paid by warrant drawn as aforesaid.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12654)*
+
+### 249.200 Trustees to furnish bonds.
+
+All trustees elected for any sewer district formed under the provisions of sections 249.010 to 249.420 shall furnish bond with good and sufficient sureties in favor of the district for the faithful accounting for all funds under their control. Said bond to be satisfactory to and to be approved by the circuit court; such bond shall be in the sum of not less than ten thousand dollars for each trustee. Each treasurer of a board of trustees of any district under sections 249.010 to 249.420 shall, before taking custody of any funds of the district also furnish a bond with good and sufficient sureties in favor of the district in such sum as may be determined from time to time by the board of trustees, depending upon the amount in the custody of the treasurer; such bond shall be satisfactory to and approved by the circuit court; such treasurer shall not expend or pay out any sum of money belonging to the district except upon warrants drawn and authorized by the board of trustees. The premiums on bonds above required shall be paid out of funds in the hands of the board of trustees and shall be regarded as expense of said board.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12673)*
+
+### 249.210 Trustees shall maintain record of proceedings.
+
+The board of trustees of any district corporation incorporated under sections 249.010 to 249.420 shall cause to be kept a well-bound book entitled "Record of Board of Trustees of ______ District", in which shall be recorded the minutes of all meetings, proceedings, certificates, bonds, contracts and all corporate acts of the board in connection with the operation of such district, which record, or records, shall be a public record and be at all reasonable times open to the inspection of anyone interested.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12672)*
+
+### 249.220 Trustees may promulgate rules and regulations.
+
+The sewer district through its board of trustees may promulgate reasonable rules and regulations concerning the construction, maintenance and use of the sewer system or systems constructed and/or maintained by the district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12670)*
+
+### 249.230 Trustees to employ an attorney.
+
+The board of trustees shall within thirty days after organizing, employ an attorney to act for the district and to advise such board. Such employment shall be evidenced by an agreement, in writing, which shall, as far as possible, specify the exact amount to be paid to said attorney for all services and expenses. Such attorney shall conduct all legal proceedings and suits in court where the district is a party or interested and shall in all legal matters advise the district and the board, and generally look after and attend to all matters of legal nature for said board and district. The attorney shall serve at the pleasure of the board and his compensation shall be fixed by the board not to exceed two hundred and fifty dollars per month.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12660)*
+
+### 249.240 Trustees to provide for payment of salaries, fees.
+
+The board of trustees, except where otherwise provided, shall by resolution, at the time of hiring or appointing, provide for the compensation for work done and necessary expenses incurred by any officer, engineer, attorney or other employee, and shall also pay the fees, per diem, and necessary expenses of all court and county officers, who may by virtue of sections 249.010 to 249.420 render service to the district. The board of trustees shall have power to discharge any employee of the district, except the engineer and attorney at will and may discharge the engineer or attorney for cause on thirty days' notice.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12661)*
+
+### 249.250 Unpaid warrants to draw interest.
+
+Whenever any warrant issued under sections 249.010 to 249.420 is not paid when presented to the president of the board of trustees of the district, because of lack of funds in the treasury, such fact shall be endorsed on the back of such warrant and such warrant shall draw interest thereafter at the rate of six percent per annum until such time as there is money on hand or in the treasury to pay the amount of such warrant and the interest then accumulated, but no interest shall be allowed or paid on any warrant after the time when sufficient funds are in the treasury or on hand to pay such endorsed warrants with interest.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12678)*
+
+### 249.255 Public sewer district lien for unpaid charges — disconnection of services.
+
+1. Should a public sewer district created and organized pursuant to constitutional or statutory authority place a lien upon a customer's property for unpaid sewer charges, the lien, once properly recorded, shall have priority above all liens except for those taxes levied for state and county purposes.
+2. Should the sewer charges of a public sewer district created and organized pursuant to constitutional or statutory authority remain unpaid for a period in excess of three months, the district, after notice to the customer by certified mail, shall have the authority at its discretion, to disconnect the customer's sewer line from the district's line or request any private water company, public water supply district, or any municipality supplying water to the premises to discontinue service to the customer until such time as the sewer charges and all related costs of this section are paid.
+
+*Effective 8/28/2026 · (L. 1991 H.B. 299, A.L. 2000 S.B. 741, A.L. 2024 H.B. 2062, A.L. 2026 S.B. 973)
+Severability clause, see § 1.1007*
+
+### 249.260 Trustees to appoint engineer — adoption of sewer plan.
+
+1. Within thirty days after organizing, the board of trustees may appoint a competent sanitary engineer as chief engineer, who may be an individual, copartnership or corporation, and who shall engage such assistants as the board of trustees may approve by resolution. The chief engineer shall have control of the engineering work in the district; he shall make all necessary surveys of the land and other property within the district and shall make a report, in writing, to the board of trustees with maps and profiles of said survey or surveys where necessary, which report shall contain a plan for sewerage system and the disposal of sewage. The said maps and profiles shall also indicate, as far as necessary, the location of any public roads, streets or highways, railroads and other rights-of-way, and other property or improvements in said district.
+2. Upon receipt of the said final report and plan for sewage disposal, the board of trustees may adopt such report or any modification thereof after consulting with the chief engineer, and thereafter such adopted report shall be known and designated as the "Sewer Plan of ______ District", which plan shall be filed with the board of trustees and embodied in the records of the district. The board of trustees may purchase upon such terms as they may deem best, existing surveys, maps, profiles, and/or plans suitable for use in the whole or in part of the sewer plan.
+3. Such engineer or engineering firm shall not receive as a salary, or an aggregate of salary and fees, in any one year, a sum in excess of the sum fixed by law as the limit of salary provided for the highway engineer in the county in which such district is located.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12655)*
+
+### 249.270 Purchase of maps.
+
+Should the board of trustees purchase any existing surveys, maps, profiles and/or plans from any sewer district in liquidation they shall pay to the person or persons liquidating said district the agreed price therefor and said amount shall be distributed pro rata to the taxpayers of said district in proportion to the amount of sewer taxes paid by each taxpayer.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12656)*
+
+### 249.290 Board may construct and maintain system — not limited to plan on estimates of engineer.
+
+In order to provide a sewer system for the lands and other property and improvements in the district, the board of trustees is hereby authorized and empowered to construct and maintain trunk lines, mains, submains, and lateral sewers, outlets for sewerage and any and all other structures, systems, works and things, and to contract with other districts, municipalities, other public agencies, individuals, copartnerships and corporations for the construction, use or maintenance of common or joint sewers, drains, outlets and disposal plants, and for the use of existing sewer facilities, and to do all things deemed necessary or advisable to make an effective and complete sewer system and to preserve and maintain the same in the district, to construct any and all said works and improvements across, through or over any public highway, railroad, right-of-way, tract, grade, fill or cut, and any other right-of-way or easement in the district; to remove any fence, building or other improvement in the district, and shall have the right to hold, control and acquire by donation or purchase, and if need be, shall have full power to condemn any and all rights or property, either public or private, of every kind and character necessary for the purposes aforesaid, and in so doing, shall follow the procedure taken for telegraph, telephone or railroad rights-of-way. The district shall not be limited to the plan of and the location of the system of sewers set out in the report of the engineer provided in section 249.040, but may include such other and additional work as the board of trustees may deem to be advisable; nor shall the cost of such work be limited to the probable cost of the improvement set out in the engineer's report provided by section 249.040 but may be in excess thereof.
+
+*Effective 8/28/1953 · (RSMo 1939 § 12658, A.L. 1951 p. 627, A.L. 1953 p. 543)
+CROSS REFERENCE:
+Contractual agreements among political subdivisions for common facilities and services, proceedings, 70.210 to 70.325*
+
+### 249.300 Sewage disposal plants.
+
+The authority of sanitary sewer districts to construct a system or systems of sanitary sewers as provided in sections 249.010 to 249.420 shall include the authority to construct sewerage disposal plant or plants for the disposal of sewage, and the authority of lateral sewer district to construct a system of lateral sewers as provided in sections 249.010 to 249.420 shall include the authority to construct sewerage disposal plants for the disposal of sewage.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12676)*
+
+### 249.310 Trustees charged with maintenance of system.
+
+It shall be the duty of such board of trustees to supervise the maintenance of such sewer system constructed under its supervision, or as may hereafter under proper authority be placed under its supervision, and to see that sewer system or systems be maintained in good condition; provided, however, that such board of trustees may, whenever in the opinion of said board of trustees it may become necessary, employ a person or persons, firm or corporation, of its selection, to do and perform such repair services as may be necessary to maintain said sewer system or systems in good condition, and may, if in the judgment of the board of trustees the occasion demands, employ an engineer to plan and supervise any such repairs; however, such board of trustees shall not have authority to expend within one year for maintenance purposes, including expenses of said district, more than the amount of the maintenance tax provided for in section 249.130.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12671)*
+
+### 249.320 Appropriation of land.
+
+The board of trustees of sewer districts organized under sections 249.010 to 249.420 shall not have the right to enter upon or appropriate any lands for rights-of-way or other works of the district except by contract with the owner or owners, until the price awarded to the owner of such land shall have been paid to such owners or into the hands of the circuit clerks of the courts organizing such district for the use of such owners; and if the sums awarded be not so paid within five years from the date of filing the commissioner's report, all proceedings as to the taking of such property for rights-of-way and other works not so paid for shall abate at the cost of said district. Whenever any land, rights, or other property is acquired by condemnation under the provisions of sections 249.010 to 249.420 and the price of such property has been paid to the owner or to the clerk of the court by the district, the title, use, possession and enjoyment of said property shall pass from the owner and be vested in the district and subject to its use, profit, employment, and final disposition. The price awarded for all land acquired by any district for rights-of-way or other works, and confirmed by the court, shall be paid in cash to the owner thereof or the clerk of the court for the use of such owner.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12659)*
+
+### 249.330 Bids for improvement contracts.
+
+1. The board of trustees is hereby authorized and empowered to construct the works and improvements provided for in the plan adopted, by letting a contract or contracts for such works and improvements either as a whole or in sections, and when such contract or contracts are to be let, they shall be advertised and let to the lowest and best bidder as determined by said board. Such bidder shall give a good and approved bond in such amount as may be determined by said board, but in no event be less than the amount of the contract price, payable to the district with sureties satisfactory to said board, conditioned that the bidder will properly carry out the contract for such work and improvements and pay all bills incurred by him in the carrying out of said contract.
+2. Said contract shall be in writing and to which shall be attached and made a part thereof complete plans and specifications of the work to be done and the improvements to be made under such contract, which plans and specifications shall be prepared by the chief engineer and shall be incorporated in and attached to the contract, which contract shall be prepared by the attorney for the district and before the work is commenced shall be approved by the board of trustees and signed by the president of the board and the contractor, and shall be executed in duplicate.
+3. The chief engineer shall be superintendent of all the works and improvements and shall, whenever required, make a full report to said board of all work done and improvements made.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12657)*
+
+### 249.340 Contractual procedure and work specifications.
+
+1. Whenever it shall be ordered by the board of trustees of the sewer district that any sewer or system of sewers in the incorporated sewer district be constructed in accordance with the provisions of sections 249.010 to 249.420 and the engineer's estimated cost thereof exceeds the sum of five hundred dollars the said board of trustees shall order its said engineer to prepare and file with the secretary of said board of trustees all necessary maps, plans, specifications and profiles and the estimated cost of the work. Said board of trustees may approve or reject the maps, plans, specifications and profiles and have others prepared and filed.
+2. When the maps, plans, specifications and profiles have been approved, the said board of trustees shall order its engineer to advertise the letting of the contract, proposed to be let, by advertisement in some newspaper that has a general circulation in the district wherein the contract is to be executed which said advertisements shall be published once a week for three consecutive weeks, the last insertion to be within ten days of the day of the letting.
+3. All bids should be in writing accompanied by instructions to bidders which shall be furnished by the engineer of said board of trustees upon application. All bids on sewer work shall state the unit price upon which the same are based. All bids shall be sealed and filed with the secretary of said board of trustees, and, on the day and at the hour named in the advertisement, shall be publicly opened and read in the presence of the board of trustees and the engineer of said board and shall then be recorded in detail in some suitable book. All bids shall be accompanied by a certified check equal to ten percent of the engineer's estimate of cost, payable to the said board of trustees, or a bidder's bond executed by some surety company authorized to do business in this state or other good and sufficient surety in a like sum shall be given, as guarantee on the part of the bidder that if his bid be accepted he will, within ten days after receipt of notice of such acceptance, enter into contract and bond with good and sufficient sureties to be approved by the board to do the work advertised, and in case of default, forfeit and pay the sum of ten percent of the engineer's estimate of cost. The contract shall be awarded to the lowest and best bidder. The said board of trustees may in its discretion reject any and all bids. Any bid in excess of the engineer's estimate of the cost of the work to be done shall be rejected.
+4. When it shall be decided by order of record to accept any bid the said board of trustees shall order a contract to be entered into between the bidder and the said board of trustees. The contract shall have attached to and made a part thereof the proposal sheet, instructions to bidders, the bid, maps, plans, specification, and profiles. Whenever the contract is executed and approved by order of record and endorsement thereon it shall be filed and preserved as a permanent record in the office of the said board of trustees.
+5. It shall be incorporated in the contract that the said board of trustees shall reserve the right to make any additions to, omissions from, changes in, or substitution for the work or materials called for by drawings and specifications, without notice to the surety on the bond given to secure the faithful performance of the terms of the contract. The bidder must agree that before the sewer district shall be liable for any additional work or material the board of trustees of said sewer district must first order the same and the cost thereof must be agreed upon in writing and entered of record before such additional work shall apply in case of omissions, deductions or changes, and the unit price shall be the basis of the valuation of such changes. In case of disagreement upon the cost or price of any addition, omission or change ordered or so desired, then it is expressly agreed that the decision of the engineer of said board of trustees shall be received and accepted as fixing definitely and finally the cost of such change and when so fixed the said board of trustees shall enter of record such change. It shall also be provided in the contract that the contractor will furnish and promptly pay for all labor employed and materials used in the performance of such contract, and pay all bills incurred by said contractor in performance of said contract or contracts.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12674)*
+
+### 249.350 Payments on contract — inspection of work.
+
+1. The board of trustees shall order such amounts paid on the contract as may be certified by the chief engineer, and as may be provided in the contract covering such work, but full payment for any work to be performed by the contract shall not be made until the work has been completed and accepted by the chief engineer of said district in charge of same.
+2. The said engineer in charge of the work shall inspect the work contracted for from time to time and make report thereon; and before any final settlement is made with any contractor the said engineer shall make a personal inspection of same and shall make written statement under oath that he has made such inspection and that the contractor has performed his work according to the contract.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12675)*
+
+### 249.360 Subdivision of district.
+
+The board shall subdivide the district into convenient subdistricts not larger than one thousand acres in extent, and prescribe the boundaries thereof within which the sewers and drains necessary to complete the drainage shall be constructed at the expense of the subdistrict when organized, as provided in sections 249.370 to 249.420, but no lands within the boundaries of an incorporated city shall be included in any such subdistrict without the consent of such city expressed by resolution or ordinance of the governing legislative body thereof. When such plans are completed for such subdistricts and filed, the board of trustees may adopt them by resolution, and such resolution, when published in one or more newspapers having a general circulation in the sewer district, shall be binding upon all persons, firms and corporations; and nothing shall be done affecting the drainage and disposition of sewage outside of cities in the district, other than ordinary farm or agricultural drains, inconsistent with such plan, without the permission of the board of trustees as evidenced by the records of proceedings thereof.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12663)*
+
+### 249.370 Powers of board of trustees after adoption of plans.
+
+When the plans referred to in section 249.360 with reference to subdistricts have been adopted by the board of trustees and the resolution of adoption published as provided therein, the board of trustees shall have the power, when petitioned so to do by a majority of the resident owners of all tracts and parcels of land lying within such subdistrict as laid out in said plans and described in such petition, to provide for the construction of a complete system of lateral sewers in such subdistrict or any part thereof, issue bonds in anticipation of the revenues of such subdistrict in the manner provided in sections 249.390 to 249.420. The board of trustees shall have the power to determine the sufficiency of the petition.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12664)*
+
+### 249.380 Detailed plans of lateral system made and filed by engineer.
+
+If such petition be filed as provided in section 249.370, the board of trustees shall, by resolution, declare the subdistrict to be formed and shall cause to be promptly made by the chief engineer of the district and filed with the board a report showing detailed plans and specifications for, and the estimated cost of, a complete system of lateral sewers within such subdistrict, or any part thereof.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12665)*
+
+### 249.390 Election in subdistrict for issuance of bonds.
+
+When such report is filed, the question shall be submitted of whether the board of trustees shall have authority to issue bonds for the purpose of anticipating the revenues of said subdistrict for the cost of construction of said system of sewers, the total amount of said bonds not to exceed the estimated cost as shown in the report of the chief engineer. If a majority of such voters, voting on the question, shall vote in favor of authorizing the board of trustees to issue such bonds, the board of trustees shall have the power to issue and sell the same in the same manner as is provided in section 249.090 for the issuance and sale of other bonds of the district. Bonds issued under this section shall not run for a period of more than twenty years nor bear a higher rate of interest than six percent per annum.
+
+*Effective 8/28/1978 · (RSMo 1939 § 12666, A.L. 1978 H.B. 971)*
+
+### 249.395 Funding or refunding bonds authorized — how paid.
+
+Any sewer district which may be organized under sections 249.010 to 249.420 is hereby authorized to fund or refund any part or all of its bonded indebtedness, including bonded indebtedness incurred on behalf of any subdistrict, in the same manner as is now provided by section 108.140; provided, however, that the interest on and principal of any refunding bonds which may be issued shall be paid only out of funds provided in the same manner as is provided in sections 249.010 to 249.420 for the payment of the interest on and principal of the bonds so refunded.
+
+*Effective 8/28/1951 · (L. 1951 p. 627 § 249.430)*
+
+### 249.400 Rental charges from abutting property owners.
+
+For the purpose of raising funds for the payment of interest on and principal of such bonds and for the maintenance and repairs of said lateral sewers, the board of trustees shall have the power to impose and collect an annual rental charge from the owners of all real estate abutting said lateral sewers, including the owners of public property devoted to public use. The annual rental charge shall be apportioned according to the assessed valuation of each tract and parcel of such property, and the assessor of the county shall separately assess that portion of such tracts and parcels of property as lie within such subdistrict, and he shall also assess and enter upon the records of his office the assessed valuation of all such property in such subdistrict, including school property, public or private, whether or not such property is otherwise exempt from taxation. The total amount of annual rental charges to be imposed shall not exceed the estimated amount necessary to be imposed to provide funds sufficient to pay the interest on and the principal of such bonds, plus the estimated cost of maintenance as fixed by the board of trustees. Such rental charges may be imposed or collected in semiannual or quarterly installments as the board of trustees may direct, and shall be a lien upon such property from the date they are imposed by the board of trustees.
+
+*Effective 8/28/1951 · (RSMo 1939 § 12667, A.L. 1951 p. 627)*
+
+### 249.410 Delinquent rental charges to bear interest.
+
+1. Delinquent rental charges shall bear interest at the rate of one-half percent per month, until paid, and shall be collected in the same manner as taxes levied under the authority of sections 249.010 to 249.420 for the payment of sinking funds and interest on other bonds of the district are collected.
+2. All provisions of sections 249.010 to 249.420 pertaining to soliciting bids for construction or repairs of other sewers in the district and the letting of and execution of contracts shall be deemed to apply with equal effect to lateral sewers constructed in subdistricts.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12668)*
+
+### 249.420 Additional lateral sewers in subdistrict.
+
+If, in any such subdistrict, the board of trustees, under the other provisions hereof, shall construct sewers to serve only a part of any such subdistrict and shall thereafter determine that any other part or parts of such subdistrict are in need of lateral sewers, such board shall have power to construct and finance such additional lateral sewers in the same manner that the first sewers in said subdistricts were constructed and financed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12669)*
+
+### 249.422 Fee imposed to repair lateral sewer service lines for certain residential property and in certain counties — condominiums responsible for proportionate share — ballot form — special account established for fees collected.
+
+1. If approved by a majority of the voters voting on the proposal, any city, town, village or county on behalf of the unincorporated area, located either within the boundaries of a sewer district established pursuant to Article VI, Section 30(a) of the Missouri Constitution or within any county of the first classification having a charter form of government with a population of more than two hundred ten thousand inhabitants but less than three hundred thousand inhabitants, may by city, town, village or county ordinance levy and impose annually for the repair of lateral sewer service lines on or connecting residential property having six or less dwelling units a fee not to exceed fifty dollars per year. Any city, town, village, or county that establishes or increases the fee used to repair any portion of the lateral sewer service line shall include all defective portions of the lateral sewer service line from the residential structure to its connection with the public sewer system line. Notwithstanding any provision of chapter 448, the fee imposed pursuant to this chapter shall be imposed upon condominiums that have six or less condominium units per building and each condominium unit shall be responsible for its proportionate share of any fee charged pursuant to this chapter, and in addition, any condominium unit shall, if determined to be responsible for and served by its own individual lateral sewer line, be treated as an individual residence regardless of the number of units in the development. It shall be the responsibility of the condominium owner or condominium association who are of the opinion that they are not properly classified as provided in this section to notify the county office administering the program. Where an existing sewer lateral program was in effect prior to August 28, 2003, condominium and apartment units not previously enrolled may be ineligible for enrollment if it is determined that the sewer lateral serving the unit is defective.
+2. The question shall be submitted in substantially the following form:
+­
+­
+3. If a majority of the voters voting thereon approve the proposal provided for in subsection 2 of this section, the governing body of the city, town, village or county may enact an ordinance for the collection and administration of such fee in order to protect the public health, welfare, peace and safety. The funds collected pursuant to such ordinance shall be deposited in a special account to be used solely for the purpose of paying for all or a portion of the costs reasonably associated with and necessary to administer and carry out the defective lateral sewer service line repairs. All interest generated on deposited funds shall be accrued to the special account established for the repair of lateral sewer service lines.
+
+*Effective 8/28/2003 · (L. 1995 H.B. 88 § 21 merged with H.B. 484 § 1 merged with S.B. 228 § 1, A.L. 1997 H.B. 709, A.L. 2000 S.B. 741, A.L. 2003 S.B. 218 merged with S.B. 301)
+CROSS REFERENCE:
+Lateral sewer service lines repair fee established, 249.424*
+
+### 249.423 Collector may add fees for repair of sewer lines to tax bills of property owners — powers and duties.
+
+1. Notwithstanding any other provision of law to the contrary, the collector in any city, town, village or county that adopts an ordinance pursuant to section 249.422, who now or hereafter collects any fee to provide for, ensure or guarantee the repair of lateral sewer lines connected to public sewer lines, may add such fee to the general tax levy bills of property owners within the city, town, village or unincorporated area of the county. All revenues received on such combined bill which are for the purpose of providing for, ensuring or guaranteeing the repair of lateral sewer lines, shall be separated from all other revenues so collected and credited to the appropriate fund or account of the city, town, village or county.
+2. The collector of the city, town, village or county may collect such fee in the same manner and to the same extent as the collector now or hereafter may collect delinquent real estate taxes and tax bills.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 22 merged with H.B. 484 § 2 merged with S.B. 228 § 2)
+CROSS REFERENCE:
+Lateral sewer service lines repair fee added to tax bills of property owners, 249.424*
+
+### 249.424 Lateral sewer line repair, annual fee authorized — submitted to voters, ballot language — fee may be added to general tax levy bills.
+
+1. If approved by a majority of the voters voting on the proposal, and upon the adoption of a resolution by a majority of the sewer district's board of trustees, any sewer district established and organized under this chapter may levy and impose annually a fee not to exceed thirty-six dollars per year within its boundaries for the repair of lateral sewer service lines on or connecting residential property having six or fewer dwelling units, except that the fee shall not be imposed on property in the sewer district that is located within any city, town, village, or unincorporated area of a county that already imposes a fee under section 249.422. Any sewer district that establishes or increases the fee used to repair any portion of the lateral sewer service line shall include all defective portions of the lateral sewer service line from the residential structure to its connection with the public sewer system line. Notwithstanding any provision of chapter 448, the fee imposed pursuant to this chapter shall be imposed upon condominiums that have six or fewer condominium units per building and each condominium unit shall be responsible for its proportionate share of any fee charged pursuant to this chapter, and in addition, any condominium unit shall, if determined to be responsible for and served by its own individual lateral sewer line, be treated as an individual residence regardless of the number of units in the development. It shall be the responsibility of the condominium owner or condominium association to notify the sewer district that they are not properly classified as provided in this section.
+2. The question shall be submitted to the registered voters who reside within the boundaries of the sewer district, excluding any voters who live within the boundaries of any city, town, village, or unincorporated area of a county that already imposes a fee under section 249.422. The question shall be submitted in substantially the following form:
+­
+­
+3. If a majority of the voters voting thereon approve the proposal provided for in subsection 2 of this section, any sewer district established and organized under this chapter may, upon the adoption of a resolution by a majority of the sewer district's board of trustees, collect and administer such fee in order to protect the public health, welfare, peace, and safety. The funds collected shall be deposited in a special account to be used solely for the purpose of paying for all or a portion of the costs reasonably associated with and necessary to administer and carry out the defective lateral sewer service line repairs. All interest generated on deposited funds shall be accrued to the special account established for the repair of lateral sewer service lines.
+4. The collector in any county containing a sewer district that adopts a resolution under this section to collect a fee for the repair of lateral sewer service lines may add such fee to the general tax levy bills of property owners within the boundaries of the sewer district, excluding property located in any city, town, village, or unincorporated area of the county that already imposes a fee under section 249.422. All revenues received on such combined bill for the purpose of providing for the repair of lateral sewer service lines shall be separated from all other revenues so collected and credited to the special account established by the sewer district under subsection 3 of this section.
+5. If a city, town, village, or county, which is within the sewer district and imposed a fee under section 249.422, later rescinds such fee after voters authorized the fee provided under this section, the sewer district may submit the question provided under subsection 2 of this section to the registered voters of such city, town, village, or county that have property within the boundaries of the sewer district. If a majority of voters voting on the proposal approve, the sewer district may levy and impose the fee as provided under this section on property within such city, town, village, or county.
+
+*Effective 8/28/2014 · (L. 2014 H.B. 1692 merged with S.B. 672)
+CROSS REFERENCE:
+Lateral sewer service lines repair fee established, 249.422; added to tax bills of property owners, 249.423*
+
+### 249.425 Metropolitan sewer district, design-build contracts authorized, procedure — exemption.
+
+1. As used in this section, the following terms mean:
+(1) "Design-build", a project for which the design and construction services are furnished under one contract;
+(2) "Design-build contract", a contract between a sewer district and a design-build contractor to furnish the architecture, engineering, and related design services, and the labor, materials, and other construction services required for a specific construction project;
+(3) "Design-build contractor", any individual, partnership, joint venture, corporation, or other legal entity that furnishes architecture or engineering services and construction services either directly or through subcontracts;
+(4) "Design-build project", the design, construction, alteration, addition, remodeling, or improvement of any sewer district buildings or facilities under contract with a sewer district. Contracts for design-build projects that involve the construction, replacement or rehabilitation of a sewer district pump station or any other project that is located solely on sewer district property, such that in all cases, the project must exceed an expenditure of one million dollars. Design-build projects shall not include projects built on easements or rights-of-way dedicated to the sewer district involving open-cut sewer lines or rehabilitation of sewer district sewer lines;
+(5) "Design criteria package", performance-oriented specifications for the design-build project sufficient to permit a design-build contractor to prepare a response to the sewer district's request for proposals for a design-build project, which may include preliminary designs for the project or portions thereof;
+(6) "Sewer district", any metropolitan sewer district established under Section 30(a), Article VI, Constitution of Missouri.
+2. (1) Notwithstanding any other provision of law to the contrary, any sewer district is authorized to enter into design-build contracts for design-build projects that exceed an expenditure of one million dollars.
+(2) In using a design-build contract, the sewer district shall establish a written procedure by rule for prequalifying design-build contractors before such design-build contractors will be allowed to make a proposal on the project.
+(3) The sewer district shall adopt procedures for:
+(a) The prequalification review team;
+(b) Specifications for the design criteria package;
+(c) The method of advertising, receiving, and evaluating proposals from design-build contractors;
+(d) The criteria for awarding the design-build contract based on the design criteria package and a separate proposal stating the cost of construction; and
+(e) Other methods, procedures, and criteria necessary to administer this section.
+(4) The sewer district is authorized to issue a request for proposals to a maximum of five design-build contractors who are prequalified in accordance with this section.
+(5) The sewer district may require approval of any person performing subcontract work on the design-build project including, but not limited to, those furnishing design services, labor, materials or equipment.
+3. (1) Before the prequalification process specified in this section, the sewer district shall publicly advertise, once a week for two consecutive weeks, in a newspaper of general circulation, qualified under chapter 493, located within the cities located in the sewer district, or if there be no such newspaper, in a qualified newspaper of general circulation in the county, or if there be no such newspaper, in a qualified newspaper of general circulation in an adjoining county, and may advertise in business, trade, or minority newspapers, for qualification submissions on said design-build project.
+(2) If the sewer district fails to receive at least two responsive submissions from prequalified design-build contractors, submissions shall not be opened and the sewer shall readvertise the project.
+(3) The sewer district shall have the right to reject any and all submissions and proposals.
+(4) The proposals from prequalified design-build contractors shall be submitted sealed and in writing, to be opened publicly at the time and place of the sewer district's choosing. Technical proposals and qualifications submissions shall be submitted separately from any cost proposals. No cost proposal shall be opened until the technical proposals and qualifications submissions are first opened, evaluated, and ranked in accordance with the criteria identified by the sewer district in the request for proposals.
+(5) The design-build contract shall be awarded to the design-build contractor whose proposal represents the best overall value to the sewer district in terms of quality, technical skill, schedule, and cost.
+(6) No proposal shall be entertained by the sewer district that is not made in accordance with the request for proposals furnished by the sewer district.
+4. (1) The payment bond requirements of section 107.170 shall apply to the design-build project. All persons furnishing design services shall be deemed to be covered by the payment bond the same as any person furnishing labor or materials; however, the performance bond for the design-build contractor does not need to cover the design services as long as the design-build contractor or its subcontractors providing design services carry professional liability insurance in an amount established by the sewer district in the request for proposals.
+(2) Any person or firm providing architectural, engineering, or land surveying services for the design-build contractor on the design-build project shall be duly licensed or authorized in this state to provide such services as required by chapter 327.
+5. (1) A sewer district planning a design-build project shall retain an architect or engineer, as appropriate to the project type, under sections 8.285 to 8.291, to assist with programming, site selection, master plan, the design criteria package, preparation of the request for proposals, prequalifying design-build contractors, evaluation of proposals, and preparation of forms necessary to award the design-build contract. The sewer district shall also retain that same architect or engineer or another to perform contract administration functions on behalf of the sewer district during the construction phase and after project completion. If the sewer district has an architect or engineer capable of fulfilling the functions described in this section, the sewer district is exempt from being required to retain another such professional.
+(2) Any architect or engineer who is retained by a sewer district under this section shall be ineligible to act as the design-build contractor, or to participate as part of the design-build contractor's team as a subcontractor, joint venturer, partner, or otherwise for the same design-build project for which the architect or engineer was hired by the sewer district.
+6. Under section 327.465, any design-build contractor that enters into a design-build contract for a sewer district is exempt from the requirement that such person or entity hold a certificate of registration or such corporation hold a certificate of authority if the architectural, engineering, or land surveying services to be performed under the contract are performed through subcontracts with properly licensed and authorized persons or entities, and not performed by the design-build contractor or its own employees.
+
+*Effective 8/28/2011 · (L. 2011 S.B. 173)*
+
+### 249.430 Definitions.
+
+For the purpose of sections 249.430 to 249.660, the following definitions will apply:
+(1) "Lateral sewer district" shall mean all of the area served by a lateral area;
+(2) "Main sewer district" shall include all of the area in, and including the watershed, and including the area of any submain and lateral sewer districts served by the main sewer;
+(3) "Submain sewer district" shall mean all of the area served by a submain sewer district and shall include the area of any lateral sewer district served by a submain sewer.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 2)*
+
+### 249.440 Incorporation of sewer districts by county commission — powers of county commission.
+
+The county commission of any county in this state, in which is located an unincorporated village or district in which main and submain sewers have already been constructed or hereafter may be constructed or deemed necessary, shall have power to establish sewer districts as provided in section 249.450, and to provide for the construction of sewers therein, and to pay the costs thereof by levying special assessments against the lots, tracts or parcels of ground in said sewer districts, and to issue special tax bills evidencing such assessments.
+
+*Effective 8/28/1959 · (L. 1941 p. 557 § 1, A.L. 1953 p. 541, A.L. 1957 p. 585, A.L. 1959 S.B. 261)
+CROSS REFERENCES:
+Contractual agreements between political subdivisions for common facilities and services, 70.210 to 70.325
+County planning commission, class one counties to approve improvements, 64.050, 64.235*
+
+### 249.450 Number of petitioners required — district created by county commission, corporate powers.
+
+1. In any county having not less than five hundred thousand and not more than seven hundred thousand inhabitants, in any county which adjoins or which contains a portion of a city having more than four hundred thousand inhabitants, and in any county of the first class not having a charter form of government, whenever a petition signed by ten percent of the voters of the proposed district is filed with the county clerk of any such county, or whenever such county commission deems the construction of sewers necessary for sanitary or other purposes, such county commission after consultation with the sewer engineer shall adopt a resolution to establish such sewer district or districts. The resolution shall describe generally the size and location of the proposed sewer district or districts.
+2. In any county of classes two, three or four which are not subject to subsection 1, the county commission of the county, upon the filing of a petition signed by ten percent of the voters of the proposed district, shall, after consultation with the sewer engineer, adopt a resolution to establish the sewer district. The resolution shall describe generally the size and location of the proposed sewer district.
+3. Any sewer district created by resolution of the county commission in accordance with this section shall be a body corporate and a political subdivision of the state of Missouri, shall be capable of suing and being sued in contract in its corporate name, and shall be capable of holding such real and personal property necessary for corporate purposes. The county commission shall serve as the governing body of any sewer district created in accordance with this section.
+
+*Effective 8/28/1983 · (L. 1941 p. 557 § 5, A.L. 1959 S.B. 261, A.L. 1963 p. 395, A.L. 1973 H.B. 625, A.L. 1978 H.B. 971, A.L. 1983 H.B. 371)*
+
+### 249.451 Certain counties may assign operation of sewer district to any common sewer district which lies totally or partially in county, procedure (Jackson, Cass, St. Louis and all first classification counties).
+
+A county commission serving as the governing body of any sewer district, now or hereafter existing and created in accordance with subsection 1 of section 249.450, may by resolution delegate and assign responsibility for the control and operation of such district to the board of trustees of any common sewer district formed under sections 204.250 to 204.470 which lies wholly or partially within the same county, subject to the acceptance of such delegation and assignment by such board of trustees. Upon such acceptance, the delegation and assignment shall become irrevocable except by action of both the county commission and the board of trustees of the common sewer district, and the board of trustees of the common sewer district shall have the same powers and duties with regard to the sewer district created under subsection 1 of section 249.450, as are provided the county commission under chapter 249.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 23)*
+
+### 249.460 Sewer engineer appointment — duty to advise county commission.
+
+Whenever the county commission deems it necessary to provide for the construction of sewers as provided for in sections 249.430 to 249.660, it shall designate the county highway engineer or other qualified engineer as sewer engineer. The sewer engineer shall advise the county commission with reference to proper boundaries of any sewer districts to be established and shall also superintend the construction of the sewers and the maintenance thereof and the apportionment of the cost thereof as provided by law. The county commission shall also request the county clerk to appoint or designate a deputy county clerk to keep the special records which will, or shall be required for the proceedings for the construction and maintenance of sewer districts or divisions.
+
+*Effective 8/28/1983 · (L. 1941 p. 557 § 3, A.L. 1983 H.B. 371)*
+
+### 249.470 Districts to be established by resolution of commission — countywide sewer districts, when.
+
+1. The county commission, after receiving the recommendations of the sewer engineer, may, by resolution, establish the boundaries of the sewer district or districts including therein only such lots, tracts and parcels of ground which may be conveniently served by a sewer, except that whenever the commission of a county of the first classification without a charter form of government deems that a countywide wastewater treatment authority would best serve the needs of such county, the commission may establish a countywide sewer district which shall be subject to the provisions of sections 249.430 to 249.660. The action of the county commission in determining the boundaries of said sewer districts shall be conclusive, provided that, except as otherwise provided in this section, no ground shall be included in a sewer district not contained in the natural drainage area or watercourse, or may be conveniently served through said sewer.
+2. For each countywide wastewater treatment authority established pursuant to this section, the county commission of such county shall, by resolution, order, or ordinance, appoint five trustees, all of whom shall reside within the county. In the event there is more than one district within the county organized pursuant to this chapter, no less number of the trustees so appointed shall reside within the district having the greatest number of customers than reside in any other such district in the county. The trustees, whose terms shall begin on the date the authority is established, shall be responsible for the control and operation of the countywide wastewater treatment authority and shall have the same powers and duties as the county commission as provided in this chapter. The term of each trustee shall be five years, except that, of the first board appointed, one member shall serve for one year, one member shall serve for two years, one member shall serve for three years, one member shall serve for four years, and one member shall serve for five years. All vacancies after the initial appointment shall be filled by the county commission. The trustees shall be reimbursed by the district for all reasonable expenses incurred in the performance of their duties, which amount shall not exceed the sum of twenty-five dollars per month.
+
+*Effective 8/28/2000 · (L. 1941 p. 557 § 4, A.L. 1999 H.B. 450, A.L. 2000 H.B. 1238)*
+
+### 249.480 Resolution to be published — hearing of protest.
+
+1. The county commission shall set a day for hearing anyone who might be interested with regard to the proposed work and shall publish the resolution with a notice of the time and place of hearing in some local newspaper of general circulation, published in the county, and if possible in the district affected by the resolution, and designated by the county commission, at least two weeks before the date of the hearing, and by posting a copy of the resolution in five public places in the proposed sewer district or districts. At such hearing anyone interested in the proposed construction or operation of sewers may appear and present his views to the county commission.
+2. Unless a majority of the registered voters within the sewer districts shall file a protest in writing with the county clerk on or before the day set for a hearing, the county commission may proceed with the construction of the sewers. If such a majority protest is filed, the county commission shall have no authority to proceed with said work unless the department of health and senior services or the department of natural resources files with the county clerk a written recommendation that such sewer is necessary for sanitary or other purposes, in which case the county commission shall have the right to proceed as if no protest had been filed. The determination of the county commission as to the sufficiency of any protest shall be conclusive unless such determination is attacked by a proceeding in the circuit court within ten days after such determination. After the expiration of six months after the filing of any such protest a new resolution may be adopted if deemed necessary by the county commission.
+
+*Effective 8/28/1983 · (L. 1941 p. 557 § 6, A.L. 1983 H.B. 371)*
+
+### 249.485 Sewer district to be separate entity not part of county commission, exception.
+
+A sewer district created under sections 249.430 to 249.667 is to be considered an entity separate from the county commission, and is not governed by the administrative or procedural requirements of county commissions unless specified otherwise in sections 249.430 to 249.667.
+
+*Effective 8/28/1983 · (L. 1983 H.B. 371)*
+
+### 249.490 County commission may alter district boundaries.
+
+The county commission shall have authority, by resolution, to subdivide, enlarge, or change the boundaries of any sewer district authorized in sections 249.430 to 249.660, and more than one main sewer may be laid in one district if deemed necessary by the county commission for sanitary or other purposes.
+
+*Effective 8/28/1983 · (L. 1941 p. 557 § 11, A.L. 1983 H.B. 371)*
+
+### 249.500 Joint sewers may be established by county commission.
+
+Joint district sewers may be constructed by the county commission whenever the county commission deems it necessary that a sewer shall be constructed in any part of a sewer district extending into two or more districts. In such case, it may, by resolution, unite contiguous sewer districts into a joint sewer district and cause a sewer to be constructed therein in like manner and in all respects as is provided in the case of district sewers. The cost of constructing said joint district sewer, less any amount procured from federal or other governmental source, shall be assessed and paid in special tax bills against the property included in the joint sewer district, the same as provided in the case of district sewers. The action of the county commission creating the joint sewer district shall be conclusive as to the necessity therefor, and no special tax bills shall be held invalid or be affected on account of the included drainage area thereof, or the size, character or purpose of such sewer; provided, that no sewer district shall be included in such joint district which is not included in the natural drainage area in the valley or watercourse in which the joint district sewer is proposed to be constructed, or which may be conveniently served in said area.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 12)*
+
+### 249.510 Contract bids.
+
+If the county commission determines to proceed with the construction of district sewers it shall cause plans and specifications to be prepared by the sewer engineer and shall advertise for bids for said work by causing a notice to bidders to be published, at least two weeks prior to the date of receiving bids, in a newspaper of general circulation published in said county. All contracts for such work shall be awarded to the lowest and best bidder, but the county commission may reject any and all bids.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 7)*
+
+### 249.515 County commission's powers — treatment system, violations — compliance period — failure to comply, penalty.
+
+1. The county commission may contract with each participating community for the payment of its proportionate share of treatment costs.
+2. The county commission may refuse to receive any wastes into the sewage system which do not meet relevant water pollution, solid waste, or pretreatment standards.
+3. The county commission shall have all of the powers necessary and convenient to provide for the operation, maintenance, administration, and regulation, including the adoption of rules and regulations, of any individual home or business sewage treatment systems within the jurisdiction of the sewer district.
+4. The county commission shall have power to pass all necessary rules and regulations for the proper management and conduct of the business of the sewer district, and for carrying into effect the objects for which the district is formed.
+5. After the owner of the sewer treatment system has been notified of any violation and has been given a reasonable time of not less than thirty days in which to come into compliance, it shall be a class C misdemeanor for any sewer treatment system to be operated within the jurisdiction of the sewer district which is not in compliance with applicable water pollution, solid waste, or pretreatment regulations or ordinances. Any penalty imposed by this subsection shall not preclude any appropriate civil remedy.
+
+*Effective 8/28/1983 · (L. 1983 H.B. 371)*
+
+### 249.520 Contractor's bond — apportionment of costs — assessments — tax bills.
+
+1. The contractor to whom such contract is awarded shall enter into a contract with the county commission and shall furnish a corporate surety bond to be approved by the county commission in an amount set by the commission and at least as much as the amount of the contract.
+2. When the terms of such contract have been completed under the supervision of the sewer engineer, said engineer shall compute the cost thereof, including necessary engineering and clerical expenses, certify same to county clerk who shall then proceed to apportion the same against the lots, tracts, or parcels of ground in such sewer district or districts calculated according to one of the following:
+(1) The square footage in proportion to the area of the whole district;
+(2) The lineal feet of sewer line running along or through the property for each lot, tract, or parcel of ground in the sewer district, exclusive only of public highways and parks; or
+(3) By determining the total number of lots affected and apportioning the cost equally to each lot; and shall report the same to the county commission. Upon presentation of the report of the sewer engineer the county commission shall levy an assessment in accordance therewith against all the land except public highways and parks in the sewer district or districts, and shall issue special tax bills to the contractor in payment for the work.
+3. In case the owner of any land described in any such tax bill files a request with the county clerk prior to the acceptance of the work by the county, requesting that his tax bill or bills shall be made payable in equal installments, or in case the county commission determines that it is advisable that they be paid in installments, such special tax bills shall be payable in annual equal installments from two to ten years after the date of their issue, as the commission deems warranted under the circumstances. The whole of any such special tax bill made payable in installments may be paid at the date of any installment payment.
+4. Every certified tax bill, whether the same be made payable in installments or not, shall bear interest at the current rate per annum as approved by the county commission from the date of issue until paid, but may be paid without interest within thirty days after the date of issue, and shall be a special lien against the property described therein for a period of five years from its date, except for when payable in installments, when the special lien shall extend for a period of one year after the date the last installment payment shall become due. Every such certified tax bill shall be assignable and shall in an action brought to recover the amount thereof be prima facie evidence of the validity of the charges against the property therein described. If such tax bills are not issued in installments as provided in section 249.530, they shall become due and payable thirty days after date.
+
+*Effective 8/28/1997 · (L. 1941 p. 557 § 8, A.L. 1983 H.B. 371, A.L. 1997 H.B. 159)*
+
+### 249.530 Construction without contract.
+
+In addition to the method of constructing sewers by contract as provided for in section 249.510, if the county commission deems it practicable to procure from federal or any other governmental source any part of the cost of the construction of main or submain or lateral sewers, or if for any other reason said county commission deems it more efficient and economical to construct any of such sewers without letting a contract therefor, the county commission may proceed to the construction of the same under the supervision of the sewer engineer. In such case, an accurate account of the cost thereof shall be kept by the county commission and the commission shall be authorized to accept any financial aid either by the contribution of labor or material, or both, and any amount so received shall be first applied to the cost of such work and the balance thereof shall be paid by special assessment apportioned as provided in section 249.510, and special tax bills shall be issued therefor. The tax bills authorized in this section may be issued in installments, or payable at one time, as provided in section 249.520 where work is done by a contractor. The county may bring suit to collect the said tax bills, or they may be assigned by the county commission on such terms as it deems advisable.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 21)*
+
+### 249.540 Right of condemnation — right to enter private land to survey — sewer lines across unplatted land, expense of construction and restoration.
+
+1. The county commission shall have the right to condemn any land or other property within or without the district for right-of-way for sewers or for any other improvements or structure deemed necessary or advisable for or in connection with the sewer system of the district or districts, or for any of the purposes provided in sections 249.430 to 249.660, and in so doing shall follow the procedure that is now provided by chapter 523. The county commission shall also have the same authority to enter upon private lands to survey land or other property before exercise of the above condemnation powers as is granted under section 388.210 to railroad corporations.
+2. If it is necessary to construct a trunk sewer or similar sewage handling line across or on any land that has not been platted and such plat finally approved by the county planning commission, county zoning commission, county planning and zoning commission, or county governing body, the expenses incurred in constructing such line and restoring the land across or on which such line is located as near as possible to its former condition shall be apportioned against the adjoining property, area, or districts served.
+
+*Effective 8/28/1983 · (L. 1941 p. 557 § 24, A.L. 1959 S.B. 210, A.L. 1983 H.B. 371)*
+
+### 249.550 Assistants employed by sewer engineer.
+
+The sewer engineer is hereby given authority to employ such help and assistance as may be necessary for the carrying on of the maintenance, repair and administrative expenses of any sewer district or districts, as provided in sections 249.430 to 249.660, subject to the approval of the county commission.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 18)*
+
+### 249.560 Apportionment of expenses — regulation of connections — contracts with municipal corporations.
+
+1. Engineering and administrative expense for sewer extensions and laterals shall be apportioned against the adjoining property, area or districts served.
+2. The county commission may make general regulations concerning the right to make house or building connections with any of said sewers and shall require that a permit must be obtained from the sewer engineer before such connection shall be allowed and also that all costs of making such connection shall be paid by the person requesting such permit. The county commission, by resolution, may delegate full authority to the sewer engineer to regulate the connections of any sewer herein provided for and to regulate the kind of sewage which may be discharged therein.
+3. The sewer engineer may be authorized by the county commission to make a contract or contracts with any municipal corporation to allow such municipal corporation to discharge sewage in any part of the sewerage system, which is maintained under the provisions of sections 249.430 to 249.660, for such compensation and upon such reasonable terms as may be agreed upon between such municipal corporation and such sewer engineer, all subject to the approval of the county commission. The sewer engineer, by and with the approval of the county commission, shall also have power and authority to adopt, formulate and promulgate a code or set of rules and regulations pertaining to and respecting any and all specifications, plumbing installations and repair work on any fixtures or appurtenances located on any premises included in or embraced by any district or districts set up, as provided for in sections 249.430 to 249.660.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 19)*
+
+### 249.565 Violation of section or regulation, misdemeanor.
+
+Any person who shall violate section 249.560, or any order, rule or regulation adopted under the authority of said section shall be guilty of a misdemeanor.
+
+*Effective 8/28/1955 · (L. 1955 p. 606 § 1)*
+
+### 249.570 Connection of previously constructed sewers.
+
+In all cases where lateral sewers have already been constructed of suitable materials and manner of construction the county commission shall provide regulations authorizing the connection of the same with the main or submain sewers and shall have the same authority to regulate house and building connection with said sewers as with sewers constructed under sections 249.430 to 249.660. The ground served by any such lateral sewer already constructed may be established as a sewer district by the county commission and shall not be assessed with the cost of construction of any sewer provided for in sections 249.430 to 249.660 except submain or main sewers, unless it is deemed necessary by the county commission that additional sewers be constructed in said district or districts, in which case the county commission shall have the right to construct additional sewers and levy assessments to pay the cost thereof, the same as in the case of other districts.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 20)*
+
+### 249.580 Special tax bills.
+
+All special tax bills provided for by sections 249.430 to 249.660 shall be made out in favor of the contractor to be paid, or his assignee, and all such special tax bills shall be certified by the county clerk or in his name by any deputy county clerk thereto authorized by an order of the county commission of record, and said county clerk shall deliver such tax bills to the party in whose favor made out, or his assignee, and take the receipt of such party therefor in full of all claims against the county on account of the work for which such tax bills shall have been made out. No tax bill need give the name of any party owning or interested in the land charged thereby.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 9)*
+
+### 249.590 Record of special tax bills.
+
+The county clerk shall keep a record of all special tax bills issued under the provisions of sections 249.430 to 249.660, said record to contain a description of the land covered by each special tax bill, the amount assessed against the same, and the date of the issue thereof and the rate of interest thereon, and also the name of the respective owners of the tracts of land described in said tax bills, as shown by the tax books in the office of the county collector, but any error in such record shall not affect the validity of said special tax bills.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 13)*
+
+### 249.600 County not liable for errors.
+
+When any work is done and payment therefor is to be made in special tax bills or in special assessments as provided in sections 249.430 to 249.660, the county shall in no event, nor in any manner whatever, be liable for or on account of such work done or improvement made or liable in any manner for the payment of the same by reason of any invalidity or error in any such tax bill or special assessment.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 10)*
+
+### 249.610 Sewer tax bill record — inquiries about taxes — payments.
+
+1. The county clerk shall deliver a certified copy of said record of all special tax bills issued under the provisions of sections 249.430 to 249.660, to the county collector, who shall incorporate them in a special record known as "Sewer Tax Bill Record".
+2. When any inquiry is made of the county collector concerning the amount of taxes against any lot, tract or parcel of land, in addition to the general taxes he shall report the amount of special sewer taxes levied against such lot, tract, or parcel of land. Anyone interested in said lot, tract or parcel of land may pay the amount of said special sewer taxes to the county collector who shall receive said payment and mark the same on his record of said special assessment and shall issue duplicate receipts therefor, one of which shall be filed with the county clerk and the fact of payment noted on the record of said special assessment in the office of the county clerk. Such entry upon the books of the county collector shall be evidence of payment of the tax bills as therein stated. When the tax bills are issued payable in installments as provided in section 249.530, upon presentation of any such tax bill showing by endorsement the payment of any of said installments the county collector shall note the payment of such installments upon his record of special tax bills and such entry shall be evidence of payment of any such installment.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 14)*
+
+### 249.620 Collector shall pay holder of tax bill.
+
+After any such tax bill or any installment has been paid to the county collector, he shall pay the amount of such payment to the holder of the special tax bill and shall cancel and preserve any such tax bill presented to him, or if only an installment of said tax bill has been paid, shall have the holder of such tax bill endorse the receipt of the amount of said tax bill upon the back of said tax bill, and when the last installment shall have been paid, mark such tax bill cancelled and preserve the same.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 15)*
+
+### 249.630 Procedure of recording payments.
+
+When any special tax bill has been paid to the owner or holder thereof, and marked paid upon presentation of such bill to the county clerk he shall cancel and mark paid the amount of such tax bill on the record thereof, and such entry shall be evidence of the payment of the tax bill as therein stated. When the tax bills are issued payable in installments as provided in section 249.530, upon presentation of any such tax bill showing by endorsement the payment of any of the said installments the county collector shall note the payment of such installments upon his record of said tax bill and such entry shall be evidence of payment of such installment.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 16)*
+
+### 249.640 Special assessment for maintenance and administration — exception, unplatted lands, when — interest to be paid, when — tax lien against property authorized.
+
+1. Upon the recommendation of the sewer engineer, the county commission, by resolution, shall have authority to levy a special assessment upon all lots, tracts or parcels of land, including improvements, in any sewer district established as provided in sections 249.430 to 249.660 for the maintenance, repair and administrative expense of the sewer in such sewer district or districts, the assessment to be levied according to the lots, tracts or parcels of real estate including improvements, as shown upon the assessment books prepared by the assessor of such county, such assessment not to exceed one-half of one percent of such assessed valuation; provided, however, that no assessment shall be made against any land that has not been platted and such plat finally approved by the county planning commission, county zoning commission, county planning and zoning commission, or county governing body, and against which condemnation proceedings for a trunk sewer or similar sewage handling line have been completed, unless the owner or owners of such land have petitioned for sewer service under sections 249.430 to 249.660 or have requested to tap-on to such line. The county clerk shall compute the amount of such assessment against each lot, tract or parcel of real estate in such sewer district or districts and deliver a certified copy of such assessment to the county collector. The county collector shall report such assessment to anyone making inquiry about the taxes and shall receive payment therefor, and issue a duplicate receipt therefor, one of which shall be filed with the county clerk, and such payments shall be remitted to the county treasurer who shall be required to keep a separate account thereof which shall be subject to warrants drawn on the account by the county commission, to be used only in the furtherance of the provisions of sections 249.430 to 249.660.
+2. Every certified assessment shall bear interest from the date of issuance until paid, but may be paid without interest within thirty days after the date of issuance, and shall be a special tax lien against the property described therein for a period of five years from its date. The assessment levied and extended upon the books as aforesaid shall be collected in the same manner and the lien shall be enforced in the same manner as the taxes levied for state and county purposes.
+
+*Effective 8/28/1983 · (L. 1941 p. 557 § 17, A.L. 1955 p. 603, A.L. 1983 H.B. 371)*
+
+### 249.645 Charges for sewer service, how computed — notice, hearing — delinquency, interest from due date — lien on land authorized — priority of lien — discontinuance of service.
+
+1. Any public sewer district created under the provisions of sections 249.430 to 249.660 or established pursuant to Article VI, Section 30(a) of the Missouri Constitution may establish, make and collect charges for sewage services, including tap-on fees. The charges may be set as a flat fee or based upon the amount of water supplied to the premises and shall be in addition to those charges which may be levied and collected for maintenance, repair and administration expenses as provided for in section 249.640. Any private water company, public water supply district, or municipality supplying water to the premises located within a sewer district shall, upon reasonable request, make available to such sewer district its records and books so that such sewer district may obtain therefrom such data as may be necessary to calculate the charges for sewer service. Prior to establishing any such sewer charges, public hearings shall be held thereon and at least thirty days' notice shall be given thereof.
+2. Any charges made under this section shall be due at such time or times as specified by the county commission, and shall, if not paid by the due date, become delinquent and shall bear interest from the date of delinquency until paid. If such charges become delinquent, they shall be a lien upon the land charged, upon the county commission filing with the recorder of deeds in the county where the land is situated a notice of delinquency. The county commission shall file with the recorder of deeds a similar notice when the delinquent amounts, plus interest and any recording fees or attorney's fees, have been paid in full. The lien hereby created may be enforced by suit or foreclosure.
+3. Should a lien be placed upon a customer's property by a public sewer district for unpaid sewer charges, the lien shall have priority as and be enforced in the same manner as taxes levied for state and county purposes.
+4. Should the sewer charges remain unpaid for a period in excess of three months, the district, after notice to the customer by certified mail, shall have the authority at its discretion to disconnect the customer's sewer line from the district's line or request any private water company, public water supply district, or any municipality supplying water to the premises to discontinue service to the customer until such time as the sewer charges and all related costs of this section are paid.
+
+*Effective 8/28/1999 · (L. 1969 S.B. 320 § 1, A.L. 1983 H.B. 371, A.L. 1991 H.B. 299, A.L. 1999 H.B. 450 merged with S.B. 160 & 82)*
+
+### 249.650 Suits to collect taxes.
+
+Suits to collect any tax bills herein authorized may be brought in any court of competent jurisdiction by the person to whom issued or any assignee in their own names. Every such certified tax bill shall, in an action brought to recover the amount thereof, be prima facie evidence of the validity of the charges against the property therein described; and where suit is brought before the liens have expired, said liens shall continue until the termination of such suits and the satisfaction of the judgments.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 22)*
+
+### 249.660 Legal aid — how secured.
+
+The county commission may require the county counselor, or an assistant county counselor, to give advice and conduct all legal proceedings or suits necessary in the administration of sections 249.430 to 249.660, and if deemed necessary the county commission may also employ a special attorney or attorneys for such purposes upon terms fixed by an agreement in writing.
+
+*Effective 8/28/1941 · (L. 1941 p. 557 § 23)*
+
+### 249.663 Dissolution of district when obligations paid — disposition of assets.
+
+1. Any sewer district heretofore or hereafter created by the county commission of any county of the first class not having a charter form of government, the obligations of which district have been paid or payment therefor having been duly provided, may by order of the county commission be dissolved, and upon such dissolution all unexpended assessments and taxes in the operation and maintenance account of said district shall be paid into the county treasury, and all unexpended assessments, taxes, funds and deposits in the revenue and general obligation bond fund shall be applied toward the payment of the obligations of said district.
+2. The county commission of any such county may, upon dissolution of any sewer district, lease, sell, transfer or convey any or all of its sanitary sewage system, treatment plant, facilities and appurtenances thereto, including both land and rights-of-way, and main and submain sewers in or for any sewer or joint sewer district to any municipality or other political subdivision, and, in such event, such municipality or other political subdivision shall have all of the powers and authority with respect to any bonds or obligations of such sewer district, or otherwise, as are conferred by chapters 249 and 250 for such time as such bonds or obligations remain outstanding.
+3. Any sewer district organized under the provisions of sections 249.430 through 249.665, except sewer districts organized in counties of the first class, may, if all obligations of the district have been paid or the payment thereof has been provided, be dissolved by order of the county commission. Upon dissolution the land, rights-of-way, treatment plant, main and submain sewers, and all appurtenances of the sewer district may be transferred or conveyed to a municipality or other political subdivision. Upon the transfer all unexpended assessments, taxes, deposits, or other funds held by the district shall be transferred to the municipality for the construction, operation, and maintenance of the facilities of the district, except that all unexpended assessments, taxes, funds and deposits in the revenue and general obligation bond fund shall be held by the municipality for the payment of the obligations of the district.
+
+*Effective 8/28/1963 · (L. 1961 p. 449 §§ 1, 2, A.L. 1963 p. 395)*
+
+### 249.665 Incorporated cities excluded from district, when.
+
+All incorporated cities located within the boundaries of any such county are hereby excluded from any sewer district formed under the provisions of sections 249.430 to 249.660, unless such city shall petition the county commission to participate in the county district and be accepted by the county commission. Any incorporated city discharging sewage into the sewer mains of any such sewer district shall pay to such sewer district for the use of said sewer mains an annual rental to be determined by a census of the population served, or by measurement of volume of sewage so discharged into said sewer mains, or by a stipulated contract price.
+
+*Effective 8/28/1951 · (L. 1951 p. 637)*
+
+### 249.666 Assets of district within city to vest in city — city assumes liabilities — disposition of district funds.
+
+Whenever a sewer district, or any part thereof, in any county of the first class not having a charter form of government, is embraced within the corporate limits of any municipality, all of the sanitary sewage system, treatment plant, facilities, and appurtenances thereto, including both land and rights-of-way and main and submain sewers of any sewer or joint sewer district, shall vest in said municipality, and it shall be the duty of said municipality to assume, take charge of, and exercise control over said sewage system. Whenever said district shall have issued bonds payable from taxes or from revenue, such municipality shall retain as to the area in such district all of the powers and authority theretofore conferred upon said district by law. All unexpended assessments and taxes in the operation and maintenance account of said district shall be paid into the county treasury, and all unexpended assessments, taxes, funds and deposits in the revenue and general obligation bond fund shall be applied toward the payment of the obligations of said district.
+
+*Effective 8/28/1961 · (L. 1961 p. 450 § 1)*
+
+### 249.667 Powers of county commission as to city property if district bonds issued.
+
+Whenever a sewer district, in any county of the first class not having a charter form of government, shall embrace within its corporate limits any territory situated in any city, town or village, and shall have issued bonds payable from taxes or from revenue, the county commission of the county within which such district is situated shall retain, as to the area in such district, all of the powers and authority conferred by chapters 249 and 250 for such period of time as such bonds remain outstanding.
+
+*Effective 8/28/1959 · (L. 1959 S.B. 211 § 1)*
+
+### 249.668 County commission of certain counties to appoint trustees — term, responsibilities, powers — vacancies — compensation.
+
+In all first class counties in which a charter form of government is adopted, the county commission, upon written request from all districts in the county, within sixty days prior to the effective date of the new charter form of government, shall by resolution, order, or ordinance, appoint five trustees, the majority of whom shall reside within the boundaries of the district. In the event there is more than one district within the county organized pursuant to this chapter the majority of the trustees appointed shall reside within the district having the greatest number of customers. The trustees, whose term shall begin on the same date that the charter form of government becomes effective, shall be responsible for the control and operation of all such sewer districts organized pursuant to this chapter in the county, and shall have the same powers and duties as the county commission as provided in this chapter. The term of each trustee shall be five years, except that, of the first board appointed, one member shall serve for one year, one member shall serve for two years, one member shall serve for three years, one member shall serve for four years, and one member shall serve for five years. All vacancies after the initial appointment shall be filled by the county executive officer with the concurrence of the governing body of the county as constituted under the charter form of government. The trustees shall be reimbursed by the district for all reasonable expenses incurred in the performance of their duties, which amount shall not exceed the sum of twenty-five dollars per month.
+
+*Effective 4/7/1992 · (L. 1992 H.B. 1307 § 3)
+Effective 4-7-92*
+
+### 249.670 Liquidator — appointment — oath — bond — powers and duties.
+
+1. Whenever any sewer district heretofore or hereafter incorporated in any county, now or hereafter having a population of not less than seven hundred thousand inhabitants nor more than seven hundred and fifty thousand inhabitants, under any statute of this state heretofore or hereafter enacted is to be dissolved under and pursuant to law, the governor shall appoint a liquidator of such sewer district. Such liquidator shall qualify by taking an oath administered by the circuit court clerk of said county, to faithfully perform the duties of his office as liquidator of such sewer district, and shall give bond conditioned upon like performance in such penal sum as shall be fixed by the circuit court. The governor shall have the power to remove such liquidator at will with or without cause and in the event of such removal shall appoint a successor.
+2. Such liquidator shall have all the powers and be charged with all the duties of the board of supervisors of such district, and shall have power by and with the approval of the circuit court to compromise any or all outstanding indebtedness of the sewer district; said liquidator shall have the power with the approval of the court to contest the validity of any claim arising against such sewer district by the institution and prosecution or the defense of any action, and he shall likewise have power, subject to the same approval, where the total uncollected taxes levied by such sewer district exceeds the outstanding indebtedness with interest, to compromise such taxes upon such basis as will provide for the payment of the outstanding debts, with interest, taking into account the cost of liquidation and, if a compromise of any indebtedness of the district shall have been made, such compromise of taxes shall take into account the reduction in the indebtedness made by reason of such compromise.
+
+*Effective 8/28/1961 · (RSMo 1939 § 12682, A.L. 1953 p. 541, A.L. 1961 p. 448)*
+
+### 249.680 Liquidator to have full charge of district.
+
+Upon the appointment and qualification of the liquidator for any district, he shall immediately succeed to the powers and duties of the board of supervisors and officers of such district and thereafter such officers and supervisors in such district shall cease to have any further powers or duties except to transfer to such liquidator all funds and property of such district and the liquidator shall be substituted as party plaintiff or defendant in all suits by or against the district or the supervisors. Said liquidator immediately upon his appointment and qualification shall take possession of all the property and effects of such sewer district and shall have the power with the approval of the court to dispose of the same.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12683)*
+
+### 249.690 Court defined.
+
+In any county in which the circuit court now consists or shall hereafter consist of more than one division, presided over by a circuit judge, the word "court" as used in sections 249.670 to 249.700 shall mean the circuit judges of the court sitting as a court en banc and the decision of a majority of the circuit judges thereof shall be controlling with respect to the provisions of sections 249.670 to 249.700. In any county in which there are now or hereafter shall exist more than one district to which sections 249.670 to 249.700 are or shall become applicable, the governor shall appoint the same liquidator for all such districts in such county.
+
+*Effective 1/2/1979 · (RSMo 1939 § 12684, A.L. 1978 H.B. 1634)
+Effective 1-2-79*
+
+### 249.700 Compensation of liquidator and counsel.
+
+The liquidator under sections 249.670 to 249.700 shall receive compensation to be fixed by the court, not to exceed two hundred and fifty dollars per month, and he shall also have power, subject to the approval of the court, to employ counsel whose compensation shall not exceed two hundred dollars per month and necessary clerks whose compensation shall be approved by the court; such counsel and clerks shall serve at the will of the liquidator. The compensation of the liquidator, his counsel and clerks shall be deemed part of the cost of winding up the district.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12685)*
+
+### 249.710 Penalty for nonpayment of tax fixed — prior inconsistent laws repealed.
+
+Hereafter all penalties for the nonpayment of any tax levied by any sewer district incorporated under the laws of this state shall be one-half of one percent per month and no more, notwithstanding the provision of any prior law under which such sewer district may have been or may be hereafter incorporated, and any and all provisions of any law under which sewer districts may have been or may hereafter be incorporated inconsistent with the provisions of this section are hereby repealed.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12686)*
+
+### 249.720 Abatement of accrued penalties for delinquency.
+
+All penalties accrued for the nonpayment of any tax levied by any sewer district incorporated under the laws of this state in excess of one-half of one percent per month are hereby abated and remitted, and the amount of any such penalty reduced to one-half of one percent per month.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12687)*
+
+### 249.730 Court costs not taxed, when.
+
+In the event of any suit at law or in equity hereafter filed against any delinquent taxpayer for the purpose of enforcing collection of any tax levied by any sewer district incorporated under the laws of this state, and in the event the petition in such suit claims an amount as penalties in excess of one-half of one percent per month and for which no use has been provided by law, in such suits it shall be unlawful to tax any court costs against such taxpayer so sued.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12688)*
+
+### 249.740 Court costs may be abated, remitted or not taxed.
+
+Whenever any sewer district incorporated under the laws of this state shall sue any delinquent taxpayer on account of any tax levied by such sewer district, and if such sewer district be exempt by law from securing or paying the court costs incident to such suit, then in all such cases all courts of this state before whom such suit may be hereafter heard shall take into consideration all of the facts and circumstances concerning the levy of such tax and the bringing of such suit, the claims made in the district's petition, all matters of evidence and all facts and circumstances touching the question of justice in the premises, and the court may, in such cases, in its discretion and in furtherance of justice, abate, remit, waive or refuse to tax any court cost accrued in such case against such delinquent taxpayer.
+
+*Effective 8/28/1939 · (RSMo 1939 § 12689)*
+
+### 249.750 Suits dismissed, when — winding up affairs, discharge of liquidator.
+
+1. Whenever the expense of collecting the tax bills, in suits, in any sewer district, is greater than the receipts that might be collected in such suits, then the liquidator shall dismiss said suits.
+2. When all suits in all of the districts in any county to which this section applies are dismissed the liquidator shall sell all office furniture and equipment for cash. All books and records of said districts shall be delivered to the county clerk for safekeeping.
+3. After the payment of expenses, the balance on hand shall be paid into the general revenue fund of the county in which districts are located.
+4. The liquidator shall file a final report with the court en banc and upon the approval of said report the said court shall adjudge and decree that said districts (naming them) are fully administered and dissolved and discharge the liquidator.
+
+*Effective 8/28/1953 · (L. 1953 p. 545)*
+
+### 249.761 Definitions.
+
+For the purposes of sections 249.761 to 249.810, the following words and terms mean:
+(1) "Owner", for real property, the individual or individuals or entity or entities who own a fee interest in real property that is located within the sewer district and subject to charges for use and services of the sewer system or their legally authorized representative; for business organizations and other entities, the owner shall be deemed to be the individual who is legally authorized to represent the entity with regard to the sewer district;
+(2) "Registered voters", persons who are qualified and registered to vote under chapter 115 under the records of the election authority having jurisdiction over the area in which the boundaries of the sewer district are located, as of the thirtieth day prior to the date of the applicable election;
+(3) "Voters", registered voters who reside within a sewer district, or if fewer than five registered voters reside within a sewer district, the registered voters and owners of real property located within the sewer district per the tax records for real property of the county clerk, as of the thirtieth day prior to the date of the applicable election; provided, however, "voters" voting on the issuance of general obligation bonds means registered voters who reside within the sewer district and "voters" in an area proposed to be annexed under section 249.807 means registered voters in the area proposed to be annexed.
+
+*Effective 5/19/2006 · (L. 2006 S.B. 802)
+Effective 5-19-06*
+
+### 249.763 Incorporation of district — petition — bond.
+
+Any contiguous area lying within a second classification county or any contiguous area lying within a county of the second classification, together with a contiguous area not presently served by a public sewage system within an incorporated city, may be incorporated as a sewer district as follows: ten percent of the voters within the area may file with the circuit court a petition setting forth the reason or necessity for a sewage treatment facility and a sewer system; the boundary lines of the proposed district; the names of the owners of real property within the district; and the name of the proposed district. The petition shall specify whether the board of supervisors shall be elected or appointed. A bond shall be filed with the petition in a sum to be determined by the court but not in excess of five hundred dollars, payable to the state, signed by one or more of the petitioners with sufficient surety or sureties to be approved by the court, conditioned upon the payment of costs and expenses.
+
+*Effective 8/28/1996 · (L. 1961 p. 451 § 2, A.L. 1978 H.B. 971, A.L. 1996 S.B. 665)*
+
+### 249.765 Notice of proceedings.
+
+1. Immediately after the petition has been filed, the clerk in whose office the petition has been filed shall give notice by causing publication to be made once a week for four consecutive weeks in some newspaper published in the county in which is situate the real property of the district, the last insertion to be made at least fifteen days prior to the first day of the next regular term of the circuit court at which the petition is to be heard.
+2. The notice shall be substantially in the following form and it shall be deemed sufficient for all purposes of sections 249.760 to 249.810.
+­
+­
+
+*Effective 8/28/1978 · (L. 1961 p. 451 § 3, A.L. 1978 H.B. 971)*
+
+### 249.767 Objections, who may file, disposition — filing and recording decree of incorporation.
+
+1. Any voter who may not have signed the petition, objecting to the organization and incorporation of the sewer district, shall, on or before the first day of the term of court at which the cause is to be heard, file his objection why the sewer district should not be organized and incorporated. The objection shall be limited to a denial of the statements in the petition, and shall be heard by the court in a summary manner, without unnecessary delay, and in case all such objections, if any, are overruled, the circuit court shall by its order, duly entered of record, duly declare and decree the sewer district a public corporation of this state. The court may amend the petition by changing the proposed boundaries in such manner as to exclude an objecting party from the proposed district. If the court finds that the property set out in the petition should not be incorporated into a sewer district, it shall dismiss the proceedings and adjudge the costs against the signers of the petition.
+2. Any person having signed the petition shall have no right to have the proceedings dismissed as to him without the written consent of the majority of the voters who signed the petition. The petition may be amended as any other pleading.
+3. Within sixty days after the district has been declared a public corporation by the court, the clerk thereof shall transmit to the secretary of state a certified copy of the findings and decree of the court incorporating the district, and the same shall be filed in the office of the secretary of state in the same manner as articles of incorporation are now required to be filed under the general law concerning corporations.
+4. A copy of the findings and decree, together with a plat of the district, shall also be filed in the office of the county recorder, where the same shall become a permanent record, and the recorder shall receive a fee of one dollar for filing and preserving the same.
+
+*Effective 8/28/1978 · (L. 1961 p. 451 § 4, A.L. 1978 H.B. 971)*
+
+### 249.770 First election of supervisors — terms.
+
+Within one year after any sewer district has been organized and incorporated under the provisions of sections 249.760 to 249.810 there shall be elected a board of five supervisors, to be composed of voters in the district and the supervisors shall immediately by lot determine the terms of their office, which shall be respectively one, two, three, four and five years, and they shall serve until their successors are elected and qualified.
+
+*Effective 8/28/1978 · (L. 1961 p. 451 § 5, A.L. 1978 H.B. 971)*
+
+### 249.773 Election of supervisors — terms — vacancies, how filled.
+
+On each municipal election day, the voters of the district shall elect one supervisor who shall hold his office for five years or until his successor is elected and qualified. Should a vacancy occur, the supervisors shall select a person to fill the vacancy who shall serve until the next regular election.
+
+*Effective 5/20/1982 · (L. 1961 p. 451 § 6, A.L. 1978 H.B. 971, A.L. 1982 S.B. 526)
+Effective 5-20-82*
+
+### 249.774 Board members for sewer districts, appointment, terms, vacancies.
+
+Following establishment of a sewer district with an appointed board, the chief executive officer of the city shall appoint two members and the county commission shall appoint three members to the sewer district board of directors. The board members shall serve without compensation for terms of four years and until their successors are appointed and qualified; provided, however, that of the initial appointments by the mayor one shall be for a term of one year and one shall be for a term of two years and of the initial appointments by the county commission, one shall be for one year, one for two years and one for three years. A vacancy shall be filled by the mayor or the county commission depending on who made the initial appointment.
+
+*Effective 8/28/1996 · (L. 1996 S.B. 665)*
+
+### 249.775 Oath of supervisors.
+
+Each supervisor before entering upon his official duties shall take and subscribe to an oath before some officer authorized by law to administer oaths, that he will honestly, faithfully, and impartially perform the duties devolving upon him in office as supervisor of the sewer district in which he was elected and that he will not neglect any of the duties imposed upon him by sections 249.760 to 249.810.
+
+*Effective 8/28/1961 · (L. 1961 p. 451 § 7)*
+
+### 249.777 Rights and powers of district — board of supervisors to manage — treatment system violation, period to comply — failure to comply, penalty.
+
+1. A sewer district organized under the provisions of sections 249.763 to 249.810 is a political subdivision of the state and as such has the same rights and privileges and is subject to the same legal restrictions as are other similar political subdivisions.
+2. The board shall have the general power to manage the affairs of the district and all powers vested in the district shall be exercised by its board of supervisors except insofar as approval of any action by popular vote may be expressly required by law.
+3. Every district shall have the powers and purposes prescribed by this section and such others as may now or hereafter be prescribed by law. No express grant of power or enumeration of powers herein shall be deemed to limit the generality or scope of any grant of power.
+4. A district may sue and be sued and may enter into any contract necessary or proper for the exercise of its powers or the accomplishment of its purposes.
+5. A district may acquire by purchase, gift or condemnation or may lease or rent any real or personal property. All the powers may be exercised both within or without the district as may be necessary for the exercise of its powers or the accomplishment of its purposes. A district may hold property for such purposes, and may lease or rent out or sell or otherwise dispose of any property so far as not needed for such purposes.
+6. The district has the right to lay its lines in public highways, roads, streets and alleys within the district and to repair and maintain them but it must be done under reasonable rules and regulations of the governmental bodies having jurisdiction over these public places. In the construction of ditches, laying of lines, filling of ditches after lines are laid, connection of pipes and repairing of lines, due regard must be taken of the public in its use of thoroughfares and the equal rights of other utilities.
+7. Proceedings for the condemnation of property shall be the same as proceedings provided for the condemnation of property by second class counties except that the proceedings shall be instituted and carried through by the board of supervisors. The board of supervisors shall also have the same authority to enter upon private lands to survey land or other property before exercise of the above condemnation powers as is granted under section 388.210 to railroad corporations.
+8. The board of supervisors may accept and utilize donations, gifts or contributions from the owners of property within the district or from others, and if funds acquired in this manner are adequate for the construction and maintenance of the sewer system, no bonds shall be issued.
+9. Each district created or reorganized under sections 249.763 to 249.810 shall have all of the powers necessary and convenient so that it may furnish sewage disposal outlets and, in conjunction therewith, to provide for the construction, acquisition, betterment, operation, maintenance and administration of any disposal systems, individual home or business sewage treatment systems, sewage treatment plants, interceptors, mains, laterals, drains and all other appurtenances incidental thereto as the board shall determine to be necessary and expedient.
+10. A district may, upon such terms as may be agreed upon with the respective governing bodies or authorities concerned, provide for connecting with or using or may lease or acquire and take over any system, works or facilities for the purposes herein provided belonging to any other governmental subdivision or other public agency.
+11. A district may, upon such terms as may be agreed upon with the respective governing bodies or authorities concerned, authorize the use by any other governmental subdivision or other public agency of any system, works or facilities of the district constructed for any purpose herein provided so far as the capacity thereof is sufficient beyond the needs of the district. A district may extend any such system, works or facilities and permit the use thereof by persons outside the district, so far as the capacity thereof is sufficient beyond the needs of the district, upon such terms as the board may prescribe.
+12. A district may be a party to a joint cooperative project, undertaking or enterprise with any one or more other governmental subdivisions or other public agencies for any purpose herein provided upon such terms as may be agreed upon between the governing bodies or authorities concerned. Without limiting the effect of the foregoing provision or any other provisions herein, a district, with respect to any of its purposes, may act under and be subject to the provisions of Section 16 of Article VI of the Constitution of Missouri, and chapter 70.
+13. The district may contract with each participating community for the payment of its proportionate share of treatment costs.
+14. The district may refuse to receive any wastes into the sewage system which do not meet relevant state or federal water pollution, solid waste, or pretreatment standards.
+15. If the county in which a sewer district lies, at any time while the district is in existence, changes its class to become something other than a second class county, the sewer district may continue to operate under the provisions of sections 249.763 to 249.810 as those sections now exist or as they may be amended.
+16. After the owner of the sewer treatment system has been notified of any violation and has been given a reasonable time of not less than thirty days in which to come into compliance, it shall be a class C misdemeanor for any sewer treatment system to be operated within the jurisdiction of the sewer district which is not in compliance with applicable water pollution, solid waste or pretreatment regulations or ordinances. Any penalty imposed by this subsection shall not preclude any appropriate civil remedy.
+17. In addition to other powers granted it by law, a sewer district organized under the provisions of sections 249.763 to 249.810 may, subject to the approval of a majority of the voters of the district who vote thereon, levy a special assessment, tax, fee, or charge on the property, or any portion thereof, within the district which is or will be served by the facilities to be built, maintained, or operated with the revenues of such special assessment, tax, fee, or charge.
+
+*Effective 8/28/1985 · (L. 1961 p. 451 § 10, A.L. 1983 H.B. 371, A.L. 1985 H.B. 95)*
+
+### 249.780 Organization of board, quorum, monthly meetings — officers and employees — annual audits.
+
+1. Within four days after the appointment or election, the board shall meet and organize by choosing one of its members as chairman and one as secretary. The chairman and secretary shall serve for one year and until their successors are selected and qualified. A majority of the board shall constitute a quorum.
+2. The board shall employ a treasurer and necessary professional, clerical and other personnel and determine their compensation. The treasurer may be either a member of the board or some other qualified individual. All employees shall serve at the will of the board.
+3. The board shall hold regular monthly meetings and the president may call special meetings when it is deemed necessary.
+4. All persons charged with handling funds shall be required to give bond in an amount fixed by the board but at the expense of the district.
+5. The board shall employ a competent accountant to conduct an annual audit of the receipts, expenditures and fixed assets of the district.
+
+*Effective 8/28/1983 · (L. 1961 p. 451 § 9, A.L. 1983 H.B. 371)*
+
+### 249.783 Duties of officers.
+
+1. The chairman of the board shall preside at all meetings, and execute all contracts into which the district may enter. In the absence of the chairman the secretary shall assume his duties.
+2. The secretary shall keep the official records of the meetings of the board, attest all official documents, make reports pertaining to the business of the district when requested to do so by the board, and perform all other duties imposed upon him by sections 249.760 to 249.810.
+3. The treasurer shall be the custodian of the funds of the district and pay money out of the treasury only upon warrants drawn on the treasury. Warrants shall be signed by the secretary and countersigned by the chairman.
+4. The board from time to time may make additional rules and regulations concerning the duties of its officers and other employees.
+
+*Effective 8/28/1961 · (L. 1961 p. 451 § 10)*
+
+### 249.785 Charges for sewage disposal — delinquency — interest due when — lien on land authorized.
+
+1. The board of supervisors may establish rates or charges for sewage disposal based upon the sums needed to retire the outstanding revenue bonded debt and pay the interest on these obligations. The board shall also take into consideration the need for extension of the system, repairs, replacements, overhead charges, operating expenses and the need for an operating fund out of which the district may make emergency expenditures and pay necessary incidental expenses. The board may differentiate between users in the rates charged on the basis of the different costs of treatment of the sewage of users or the capital contributions made by the several users. The board may adjust the rates charged to require the payment by users of the capital investment used to serve them.
+2. Any charges made under this section shall be due at such time or times as specified by the board of supervisors, and shall, if not paid by the due date, become delinquent and shall bear interest from the date of delinquency until paid. If such charges become delinquent they shall be a lien upon the land charged, upon the board of supervisors filing with the recorder of deeds in the county where the land is situated a notice of delinquency. The board of supervisors shall file with the recorder of deeds a similar notice when the delinquent amounts, plus interest and any recording fees or attorneys' fees, have been paid in full. The lien hereby created may be enforced by suit or foreclosure.
+
+*Effective 8/28/1983 · (L. 1961 p. 451 § 11, A.L. 1983 H.B. 371)*
+
+### 249.787 Estimate of expenses — tax levy, how collected.
+
+1. Before the tenth day of May of each year the board of supervisors of any district organized under the provisions of sections 249.760 to 249.810 shall make an estimate of the amounts required to defray the expenses of the district.
+2. The estimates shall be certified by the secretary of the board and filed by the clerk of the county in which the district lies. Upon the basis of these estimates the county commission shall levy an ad valorem tax on all taxable real property within the district sufficient to provide the necessary funds.
+3. The clerk of the county commission shall enter the levies on the tax books in the same manner as school district taxes are entered, for the use of the county collector. The taxes thus levied and extended upon the tax books shall be collected at the same time and in the same manner as the taxes levied for state and county purposes and the taxes when collected shall be remitted by the collector to the treasurer of the district.
+
+*Effective 8/28/1961 · (L. 1961 p. 451 § 12)*
+
+### 249.790 Debt may be incurred, procedure.
+
+1. The board of supervisors of a sewer district organized under the provisions of sections 249.760 to 249.810 may borrow money either through the issuance of bonds or through other arrangements. In this event the board of supervisors shall proceed as follows: The board shall adopt a resolution indicating the reasons for borrowing money, the amount needed, the purpose for which it is to be used, and the arrangements for the loan or the amount and type of bonds to be issued.
+2. The resolution may submit at the election a proposal to borrow money or to issue general obligation bonds, but the board of supervisors shall not have authority to borrow money or to issue bonds unless the constitutionally required percentage of the voters in the district voting on the question vote in the affirmative.
+3. General obligation bonds shall be issued within the limits imposed by Section 26, Article VI, of the Constitution. Before, or at the time of, issuing general obligation bonds, the board of supervisors shall provide for the collection of an annual tax, levied on all taxable real property in the district, sufficient to pay the interest on the bonds as it falls due, and also to constitute a sinking fund for the payment of the principal within twenty years from the date of issuance, except that the net income and revenues arising from the operation of the sewer system after payment for costs of operation, maintenance, depreciation and necessary extensions and enlargements shall be transferred to the interest and sinking fund and applicable to the general obligation bonds issued under the provisions of sections 249.760 to 249.810.
+4. All bonds issued under the provisions of this section shall be executed by the chairman of the board of supervisors, attested by the secretary of the board, and shall be of such denomination, contain such terms and be payable in such medium as the board of supervisors may determine.
+
+*Effective 8/28/1990 · (L. 1961 p. 451 § 13, A.L. 1978 H.B. 971, A.L. 1990 H.B. 1621)*
+
+### 249.793 Board may issue current revenue bonds.
+
+The board may issue and sell current revenue bonds to meet the current expenses of the district incurred in advance of the revenue to be derived from the property tax levy and to be paid out of the current revenue when accrued. The chairman of the board shall execute the bonds on behalf of the district and they shall be attested by the secretary.
+
+*Effective 8/28/1961 · (L. 1961 p. 451 § 14)*
+
+### 249.795 Refunding bonds, how issued.
+
+1. Any sewer district organized under the provisions of sections 249.760 to 249.810 is authorized to refund all or any part of the outstanding bonded indebtedness of the district including interest, without an election.
+2. When the bonds being refunded are general obligation bonds, payable from ad valorem taxes, the refunding bonds shall also be payable from ad valorem taxes levied upon all the taxable real property in the district.
+3. All refunding bonds of a sewer district shall be negotiable and may be issued and exchanged for existing bonds or coupons. The refunding bonds shall contain such terms and be in denominations and payable at the place or places designated by the board of supervisors.
+
+*Effective 8/28/1961 · (L. 1961 p. 451 § 15)*
+
+### 249.797 Revenue bonds, issuance — effect on fees and charges.
+
+1. A sewer district organized under the provisions of sections 249.760 to 249.810 may in the manner hereinafter provided authorize and issue sewerage system revenue bonds of the district. The bonds shall be payable solely from the revenues derived and to be derived from the operation of the district's sanitary sewerage system or any part thereof including income from extensions and improvements to the system thereafter made or acquired. The bonds shall not constitute an indebtedness of the district and no taxes shall be levied to pay the bonds or the interest thereon.
+2. Revenue bonds issued under the provisions of sections 249.760 to 249.810 shall be signed by the chairman of the board of supervisors of the district, and the seal of the district shall be affixed, attested by the secretary of the board. The bonds shall be payable at such bank or trust company as the board may select. The bonds shall be registered in the office of the secretary of the sewer district and when so registered and issued shall import absolute verity and shall be conclusive in favor of all persons purchasing the bonds that all proceedings and conditions precedent have been had and performed to authorize the issuance thereof, and the bonds shall be negotiable.
+3. It is the mandatory duty of any sewer district issuing revenue bonds under sections 249.760 to 249.810 to fix and maintain rates and make and collect charges for the use and services of the district's sewerage system for the benefit of which the revenue bonds were issued, sufficient to pay the cost of maintenance and operation thereof, to pay the principal of and the interest on all revenue bonds or any other obligations issued by the district and chargeable to the revenues of the system as and when the same become due, provide an adequate depreciation and replacement fund, and to create reasonable reserves therefor, and to provide funds ample to meet all valid and reasonable requirements of the resolution authorizing the revenue bonds. The fees, rates or charges shall be sufficient to allow for miscellaneous and emergency or unforeseen expenses and the rates shall from time to time be revised so as fully to meet the requirements of sections 249.760 to 249.810.
+4. The resolution authorizing the issuance of revenue bonds hereunder may establish limitations upon the issuance of additional revenue bonds payable from the revenues of the district's sewerage system and may provide that additional revenue bonds shall stand on a parity as to the revenues of the sewer district and in all other respects with revenue bonds previously issued on such conditions as may be specified in the resolution. The resolution may include other agreements, covenants or restrictions deemed advisable by the board to effect the efficient operation of the system and to safeguard the interest of the holders of the revenue bonds and to secure the payment of the bonds and the interest thereon promptly when due.
+5. Whenever a district authorizes and issues revenue bonds under sections 249.760 to 249.810, an amount of the net revenues of the sewerage system of the district sufficient for the purpose shall, by operation of sections 249.760 to 249.810, be pledged to the payment of the principal of and the interest on the bonds as the same shall become due.
+
+*Effective 8/28/1961 · (L. 1961 p. 451 § 16)*
+
+### 249.800 Revenue bonds may be issued without election, when, notice, procedure — election required, when.
+
+The board of any district contemplating the issuance of revenue bonds under the provisions of sections 249.760 to 249.810 may give notice of its intention to issue the bonds without submitting the proposition to the voters of the district, the notice to state the maximum amount of bonds proposed to be issued and the general purpose of the bonds. The notice shall further state the right of the voters in the district to file their written protest against the issuance of the bonds as hereinafter provided. The notice shall be published twice in a newspaper published in the county in which the district is located. If within fifteen days after the date of the first publication of the notice there shall not be filed with the secretary of the district a written protest against issuance of such revenue bonds, signed by a number equal to twenty-five percent of the voters voting at the last preceding election of supervisors within the sewer district, the board of the district shall have power to issue the revenue bonds of the district to the amount and for the purpose specified in the notice without an election. If within fifteen days after the date of the first publication of the notice there is filed with the secretary of the district a written protest against the issuance of the revenue bonds signed by the requisite number of voters within the sewer district, the board of the district shall thereupon submit the proposed revenue bond issue to the voters of the district and, if a majority of the voters voting on the question shall vote in favor thereof, the proposed improvements may be made and the revenue bonds issued in payment of the cost thereof.
+
+*Effective 8/28/1978 · (L. 1961 p. 451 § 17, A.L. 1978 H.B. 971)*
+
+### 249.803 Owner and occupant both liable for sewerage charges.
+
+Sewerage services furnished by a sewer district created under the provisions of sections 249.760 to 249.810 shall be deemed to be furnished to both the occupant and owner of the premises receiving the services and the sewer district rendering the services shall have power to sue the occupant or owner, or both, of the real estate in a civil action to recover any sums due for the services, plus a reasonable attorney fee to be fixed by the court.
+
+*Effective 8/28/1961 · (L. 1961 p. 451 § 18)*
+
+### 249.805 Refunding of revenue bonds.
+
+For the purpose of refunding, extending or unifying the whole or any part of any outstanding revenue bonds of the district, any district may issue its refunding revenue bonds not exceeding in amount the principal of the outstanding revenue bonds to be refunded, together with the accrued interest to the date of the refunding bonds, and the board of the district shall provide for the payment of the interest on and principal of the refunding bonds in the same manner and from the same source as was provided for the payment of interest on and principal of the bonds to be refunded.
+
+*Effective 8/28/1961 · (L. 1961 p. 451 § 19)*
+
+### 249.807 Extension of boundaries of district, procedure.
+
+1. The boundaries of any sewer district formed under the provisions of sections 249.760 to 249.810 may be extended from time to time by filing a petition with the clerk of the circuit court having jurisdiction, signed by the board of supervisors and five or more owners of real estate situated within the territory to be annexed. The same proceeding shall then be followed as provided in sections 249.760 to 249.810 for the original organization of the district except that the proposition must be voted on affirmatively by a majority of the qualified voters voting on the proposition in the original district and the area to be annexed combined.
+2. The costs incurred in the extension of the boundaries of the district shall be taxed to the district if the annexation is completed and otherwise against the petitioners, except that no costs shall be taxed to the board of supervisors.
+3. Any owner of real estate that abuts upon a district once formed may petition the board of supervisors for the incorporation of the real estate in the district. If approval is granted by the board, the clerk of the board shall endorse his certificate of the fact of approval by the board upon the petition. The petition shall then be filed with the clerk of the circuit court of the county in which the district is incorporated. It is then the duty of the court to amend the boundaries of the district by a decree incorporating the real estate in it. A certified copy of the decree shall then be filed in the office of the recorder and in the office of the county clerk of the county in which the real estate is located, and in the office of the secretary of state. The costs of the proceedings shall be borne by the petitioning property owners.
+4. Any owner of land that has not been platted and such plat finally approved by the county planning commission, county zoning commission, county planning and zoning commission, or county governing body, that abuts upon a district previously formed or currently being formed, for which a trunk sewer has been condemned under chapter 523, shall not be compelled to join such district but may petition the board of supervisors of such district for incorporation of his land into such district under this section. All costs of proceedings conducted under this subsection shall be paid by the petitioning landowner.
+
+*Effective 8/28/1983 · (L. 1961 p. 451 § 20, A.L. 1983 H.B. 371)*
+
+### 249.810 Dissolution of district, procedure.
+
+1. The incorporation of every district, heretofore or hereafter incorporated under and by virtue of the provisions of sections 249.760 to 249.810, shall be dissolved if, at any time before bonds are issued and negotiated to construct the works and improvements as provided by the plan of reclamation adopted by its board of supervisors, twenty-five percent or more of the registered voters of the district petition the circuit court wherein the district was incorporated for a dissolution thereof; provided, that upon the filing of any such petition, the circuit court shall, before dissolving the corporation, ascertain and determine the amount of money in the treasury of, or owing to, the district, and the amount of all warrants issued and unpaid by it and the amount of the debts and other obligations owing by it; and, if the amount of money in the treasury and owing to the district is in excess of the amount of the warrants, debts and other obligations, the circuit court shall order such warrants, debts and other obligations to be forthwith paid and discharged, and the excess divided among all the owners of land in the district who paid the same thereto, in the proportions in which they paid the same; but, if the amount of money, in the treasury and owing to the corporation, is not sufficient to pay and discharge the warrants, debts and other obligations, then the circuit court shall order the board of supervisors to levy and collect a uniform tax upon the real property within the district, sufficient in amount to pay the deficiency, and to thereupon pay the same.
+2. At any time during the corporate life of the district, when all outstanding bonds have been paid and when all other indebtedness of the district has been paid or when there is sufficient money on hand to pay any and all outstanding indebtedness, and when there is sufficient money on hand to pay the costs and expenses of the dissolution of the corporation as herein provided, the board of supervisors may, and on a petition of a number of voters equal to twenty-five percent of those voting at the last preceding election of supervisors shall, submit the question to the voters to determine whether or not the district shall be dissolved and its corporate life terminated.
+3. If the majority of the voters voting on the question vote in favor of the dissolution of the incorporation of the district, the board of supervisors shall cause to be filed in the circuit court wherein the district was incorporated, a petition setting out the facts; that there are no outstanding bonds of the district; that there is no other outstanding indebtedness of the district, or that there is sufficient money on hand to pay any outstanding indebtedness, as the case may be, and that there is sufficient money on hand to pay the cost and expenses of the dissolution; that due notice has been given of the meeting; and, that a majority, qualified as herein provided, voted in favor of the dissolution. Whereupon the court or the clerk thereof in vacation shall cause notice to be given by publication in some newspaper printed and published in the county for four successive weeks, the last publication being not less than fifteen days before the first day of the term to which the petition is made returnable, directed to the creditors, landowners and all persons interested, of the filing of the petition, its object and purpose, and ordering them to show cause, if any there be, on the first day, why the corporation should not be dissolved.
+4. If, upon a hearing of the petition, the court finds the facts aforesaid and finds that there are no outstanding debts and that there is sufficient money to pay the expenses of dissolution, it shall enter its order dissolving said corporation. If it finds there is sufficient money on hand to pay all outstanding debts, it shall order the debts paid and thereafter, on proper showing of their payment, enter its order of dissolution.
+
+*Effective 8/28/1983 · (L. 1961 p. 451 § 21, A.L. 1978 H.B. 971, A.L. 1983 H.B. 371)*
+
+### 249.820 Certain municipalities may adopt ordinances necessary for compliance with law — enforceability — industrial user, defined.
+
+1. All municipalities with a population of more than one hundred thousand inhabitants located entirely within a county of the first classification with a charter form of government which contains all or part of a city with a population of three hundred fifty thousand or more inhabitants with publicly owned treatment works required to operate national pretreatment programs may adopt all necessary ordinances for compliance with federal and state pretreatment requirements and federal and state water pollution control laws and regulations, and shall exercise primary authority to adopt, modify, and repeal, and to administer and enforce ordinances with respect to:
+(1) The establishment, construction, reconstruction, improvement, repair, operation, and maintenance of its sewer systems and treatment facilities;
+(2) Industrial users discharging into its sanitary and storm sewer system or treatment facilities; and
+(3) The establishment, operation, administration, and enforcement of a publicly owned treatment works pretreatment program consistent with state and federal pretreatment standards, including inspection, monitoring, sampling, permitting, and reporting programs and activities. The municipality may, in addition to any pretreatment standards imposed under this section, require of any user of its treatment facilities such other pretreatment, inspection, reporting programs for industrial wastes as it deems necessary to adequately treat such wastes.
+2. The ordinances adopted by the municipalities pursuant to subsection 1 of this section shall be applicable and enforceable by administrative, civil, or other action within any territory served by its sewer systems or treatment facilities and against any industrial user, subdistrict, district, or municipality who shall directly or indirectly discharge wastewaters or permit discharge of wastewaters into the municipal sewer systems or treatment facilities.
+3. The authority granted to the municipality by this section is in addition to and not in derogation of any other authority granted pursuant to the constitution and laws of Missouri, any federal water pollution control act, or the rules of any agency of federal or state government.
+4. The term "industrial user", as used in sections 249.820 and 249.822, means any nondomestic source of discharge or indirect discharge into the district's wastewater system which is regulated under section 307(b), (c), or (d) of the Clean Water Act, or any source listed in division A, B, D, E, or I of the Standard Industrial Classification Manual, or any solid waste disposal operation such as, but not limited to, landfills, recycling facilities, solid or hazardous waste handling or disposal facilities and facilities which store or treat aqueous wastes as generated by facilities not located on site and which dispose of these wastes by discharging them into the district's wastewater system.
+
+*Effective 4/7/1992 · (L. 1992 H.B. 1307 § 1)
+Effective 4-7-92*
+
+### 249.822 Agreements as to location and manner of discharge — refusal to receive waste — operation and maintenance of facilities, powers — procedural remedies — false statements, penalty.
+
+1. The municipality may enter into agreements with other municipalities, subdistricts, private districts or any industrial users which discharge wastewaters into sewers, streams or the treatment facilities of the municipality concerning the locations and the manner in which wastewaters may be discharged into the municipal sewer systems or streams within the municipality, and concerning the permissible content of acid wastes, alkaline wastes, poisonous wastes, oils, grit or other wastes which might be hazardous or detrimental to such systems. Any municipality, subdistrict, private district or industrial user discharging sewage into the stream or the systems may petition the circuit court for an order enforcing compliance with any provision of such an agreement or determination, and that circuit court shall have jurisdiction in all cases or questions arising out of the organization or operations of the municipality, or from the acts of the municipal officials.
+2. The municipality may contract with other participating communities for the payment of its proportionate share of treatment costs.
+3. The municipality may refuse to receive any waste into the sewer system which does not meet relevant state, federal, or local water pollution, solid waste, or pretreatment standards.
+4. The municipality may provide for the operation and maintenance of its treatment facilities and the administration, regulation, and enforcement of its pretreatment and water pollution programs, including the adoption of ordinances, to carry out its powers with respect to all industrial users, subdistricts, districts, and municipalities which discharge into the collection system of the municipality's sewer systems or treatment facilities. These powers include, but are not limited to:
+(1) The promulgation of any ordinance;
+(2) The issuance, modification or revocation of any order;
+(3) The issuance, modification or revocation of any permit;
+(4) The levying of all administrative fines upon any industrial user in violation of the municipality's ordinances, or any permit or order issued thereunder, in an amount not to exceed one thousand dollars per violation per day;
+(5) Commencing an action through counsel for appropriate legal or equitable relief in a circuit court against any industrial user in violation of the municipality's rules, regulations and ordinances or any permit or order issued thereunder; and
+(6) Petitioning the prosecutor for the county in which any criminal violation of the municipality's ordinances or any permit or order issued thereunder has occurred to institute criminal proceedings.
+5. The municipality may adopt ordinances creating procedural remedies for all persons affected by any order or permit issued, modified or revoked or any fine or penalty levied by the municipality including, but not limited to, the grant of reasonable time periods for such persons to respond, to show cause, and to request reconsideration of fines or penalties levied.
+6. Any person who knowingly makes any false statements, representations or certifications in any application, record, report, plan or other document filed or required to be maintained pursuant to the municipality's rules, regulations, ordinances or wastewater permit, or who falsifies, tampers with or knowingly renders inaccurate any monitoring device or method required under the municipality's rules, regulations or ordinances shall upon conviction, be punishable by a fine of not more than one thousand dollars per violation per day or imprisonment for not more than one year or both. In the event of a second or subsequent conviction, the person shall be punishable by a fine not to exceed three thousand dollars per violation per day or imprisonment for not more than three years or both. Any penalty imposed by this subsection shall be in addition to all appropriate civil remedies, including administrative fines.
+7. Whenever any reference is made in this section to any action that may be taken by the municipality, such reference includes such action by its named executive officer or designee pursuant to powers and duties delegated to such executive officer by the municipality.
+
+*Effective 4/7/1992 · (L. 1992 H.B. 1307 § 2)
+Effective 4-7-92*
+
+### 249.900 Sewer district may by amended decree construct, maintain and operate a public water supply, requirement, procedure.
+
+1. The board of directors of any sewer district incorporated pursuant to the provisions of this chapter may petition the circuit court of the county containing the major part of the acreage in the district for an amended decree of incorporation to allow that district to engage in the construction, maintenance and operation of common public water supply which serves ten or more separate properties and is located wholly within the district and is not operated by another political subdivision or is not located within the certificated area of a water corporation as defined in chapter 386 or within a public water supply district as defined in chapter 247 and the operation and maintenance of all such existing facilities. The petition shall be filed by the board of directors and all proceedings shall be in the same manner as in an action for initial formation of a sewer district except that no vote of the residents of the district shall be required.
+2. If the decree is amended the district shall, within ninety days after the order amending the decree, begin operation of the existing facilities which it has acquired by gift or otherwise and shall establish and collect user charges to be determined and established in the same manner as sewer rates.
+3. All applicable provisions of this chapter shall apply to the construction, operation and maintenance of water supply in the same manner as they apply to like functions relating to sewer facilities.
+
+*Effective 8/28/1993 · (L. 1993 H.B. 197 § 1)*
+
+### 249.925 Definitions.
+
+As used in sections 249.925 to 249.955, the following terms mean:
+(1) "Acquire", the acquisition of property or interests in property by purchase, gift or other lawful means and may include the acquisition of existing property and improvements already owned by a city or county;
+(2) "Consultant", engineers, architects, planners, attorneys, financial advisors, accountants, investment bankers and other persons deemed competent to advise and assist the governing body of the city or county in planning and making improvements authorized by sections 249.925 to 249.955;
+(3) "Cost", all costs incurred in connection with an improvement, including, but not limited to, costs incurred for the preparation of preliminary reports, the preparation of plans and specifications, the preparation and publication of notices of hearings, resolutions, ordinances and other proceedings, fees and expenses of consultants, interest accrued on borrowed money during the period of construction, underwriting costs and other costs incurred in connection with the issuance of bonds or notes, establishment of reasonably required reserve funds for bonds or notes, the cost of land, materials, labor and other lawful expenses incurred in planning, acquiring and doing any improvement, reasonable construction contingencies, and work done or services performed by a city or county in the administration and supervision of the improvement;
+(4) "Improve", to construct, reconstruct, maintain, restore, replace, renew, repair, install, equip, extend, or to otherwise perform any work which will provide a new sewage or storm water facility or enhance, extend or restore the value or utility of an existing sewage or storm water facility;
+(5) "Improvement", any one or more public facilities or improvements which confer a benefit on a new or existing sewage or storm water facility and may include or consist of a reimprovement of a prior improvement. Improvements include, but are not limited to, the following activities:
+(a) To acquire property or interests in property when necessary or desirable for sewage or storm water facility purposes as authorized by sections 249.925 to 249.955;
+(b) To open, widen, extend and otherwise to improve streets, paving and other surfacing, gutters, curbs, sidewalks, crosswalks, driveway entrances and structures, drainage works incidental thereto, and service connections from sewer, water, gas and other utility mains, conduits or pipes, if such activity is necessary for or incidental to an improvement authorized by sections 249.925 to 249.955;
+(c) To improve main and lateral storm water drains and sanitary sewer systems, and appurtenances thereto;
+(d) To improve waterworks systems, if such activity is necessary for or incidental to an improvement authorized by sections 249.925 to 249.955;
+(e) To improve vehicle and pedestrian bridges, overpasses and tunnels, if such activity is necessary for or incidental to an improvement authorized by sections 249.925 to 249.955;
+(f) To improve property for off-street parking facilities including construction and equipment of buildings thereon, if such activity is necessary for or incidental to an improvement authorized by sections 249.925 to 249.955;
+(6) "Sewage or storm water facility improvement district", an area of any city with a population of three hundred fifty thousand or more inhabitants which is located in more than one county, or of any county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, with defined limits and boundaries which is created by vote under sections 249.925 to 249.955 and which is benefitted by a sewage or storm water facility improvement and subject to assessments against the real property therein for the cost of the improvement.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 9)*
+
+### 249.927 Sewage or storm water facility improvement district, certain city and counties may issue general obligation bonds, purpose — issue assessment against property to pay for improvements.
+
+The governing body of any city with a population of three hundred fifty thousand or more inhabitants which is located in more than one county, or the governing body of any county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, may make, or cause to be made, improvements which confer a benefit upon property within a sewage or storm water facility improvement district pursuant to sections 249.925 to 249.955. The governing body of such city or county of the first classification may incur indebtedness and issue temporary notes and general obligation bonds of such city or county pursuant to sections 249.925 to 249.955 to pay for all or part of the cost of such improvements. An improvement may be combined with one or more other improvements for the purpose of issuing a single series of general obligation bonds to pay all or part of the cost of such improvements, but separate funds or accounts shall be established within the records of the city or county for each improvement as provided in section 249.953. The temporary notes and general obligation bonds issued by the city or county shall be a debt of the sewage or storm water facility improvement district and such city or county shall assess assessments against each property deemed by the governing body of the city or county to be benefitted by each such improvement pursuant to sections 249.929 to 249.933. The city or county shall use the moneys collected from such assessments to reimburse such city or county for all amounts paid or to be paid by it as principal of and interest on its temporary notes and general obligation bonds issued for such improvements.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 10)*
+
+### 249.929 Sewage or storm water facility improvement district, procedure to establish — election, ballot form — governing body to adopt resolution, content.
+
+1. To establish a sewage or storm water facility improvement district, the governing body of any city with a population of three hundred fifty thousand or more inhabitants which is located in more than one county, or the governing body of any county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, shall comply with the procedures described in subsection 2 of this section.
+2. The governing body of any city with a population of three hundred fifty thousand or more inhabitants which is located in more than one county, or the governing body of any county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, proposing to create a sewage or storm water facility improvement district may, by resolution, submit the question of creating such district to all qualified voters residing within such district at a general or special election called for that purpose. Such resolution shall set forth the project name for the proposed sewage or storm water facility improvement, the general nature of the proposed improvement, the estimated cost of such improvement, the boundaries of the proposed sewage or storm water facility improvement district to be assessed, and the proposed method or methods of assessment, including any provision for the annual assessment of maintenance costs of the improvement in each year after the bonds issued for the original sewage or storm water facility improvement are paid in full. The governing body of the city or county may create a sewage or storm water facility improvement district when the question of creating such district has been approved by the vote of the percentage of electors within such district voting thereon that is equal to the percentage of voter approval required for the issuance of general obligation bonds of such county under Article VI, Section 26 of the Constitution of this State. The notice of election containing the question of creating a sewage or storm water facility improvement district shall contain the project name for the proposed improvement, the general nature of the proposed improvement, the estimated cost of such improvement, the boundaries of the proposed sewage or storm water facility improvement district to be assessed, the proposed method or methods of assessment, including any provision for the annual assessment of maintenance costs of the improvement in each year after the bonds issued for the original improvement are paid in full, and a statement that the final cost of such improvement assessed against property within the district and the amount of general obligation bonds issued therefor shall not exceed the estimated cost of such improvement, as stated in such notice, by more than twenty-five percent. The question of whether to create any sewage water facility improvement district or storm water facility improvement district, the boundaries of which are not identical to any existing or proposed storm water facility improvement district or any existing or proposed sewage water facility improvement district, shall be submitted to the voters as a separate question; however, the question of whether to create a sewage water facility improvement district and a storm water facility improvement district, the boundaries of which are identical, may be submitted as a single question. The ballot upon which the question of creating a sewage or storm water facility improvement district is submitted to the qualified voters residing within the proposed district shall contain a question in substantially the following form:
+­
+­
+3. Upon receiving the requisite voter approval at an election, the governing body of any city with a population of three hundred fifty thousand or more inhabitants which is located in more than one county, or the governing body of a county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, may, by resolution, determine the advisability of the improvement and may order that the sewage or storm water facility improvement district be established and that preliminary plans and specifications for the improvement be made. Such resolution shall state and make findings as to the project name for the proposed improvement, the nature of the improvement, the estimated cost of such improvement, the boundaries of the sewage or storm water facility improvement district to be assessed, the proposed method or methods of assessment, including any provision for the annual assessment of maintenance costs of the improvement in each year after the bonds issued for the original improvement are paid in full, and shall also state that the final cost of such improvement assessed against the property within the sewage or storm water facility improvement district and the amount of general obligation bonds issued therefor shall not, without a new election, exceed the estimated cost of such improvement by more than twenty-five percent.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 11 subsecs. 1 to 3)*
+
+### 249.931 Boundaries of district, how set.
+
+The boundaries of the proposed sewage or storm water facility improvement district shall be described by metes and bounds, streets or other sufficiently specific description. The area of the sewage or storm water facility improvement district finally determined by the governing body of the city or county to be assessed may be less than, but shall not exceed, the total area comprising such district.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 11 subsec. 4)*
+
+### 249.933 Maintenance costs, assessment may be levied and collected after period for assessment of property has expired.
+
+A sewage or storm water facility improvement district assessment may be levied and collected after the original period approved for assessment of property within the district has expired, with the proceeds thereof used solely for maintenance of the improvement, if the residents of the sewage or storm water facility improvement district vote to assess property within the district for the maintenance costs in the manner prescribed in subsection 2 of section 249.929.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 11 subsec. 5)*
+
+### 249.935 Assessment for cost of improvement, how calculated — governing bodies may establish by resolution methods for assessing benefits.
+
+The portion of the cost of any improvement to be assessed against the property in a sewage or storm water facility improvement district shall be apportioned against such property in accordance with the benefits accruing thereto by reasons of such improvement. The cost may be assessed equally per front foot or per square foot against property within the district or by any other reasonable assessment plan determined by the governing body of any city with a population of three hundred fifty thousand or more inhabitants which is located in more than one county, or the governing body of the county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, which results in imposing substantially equal burdens or share of the cost upon property similarly benefitted. The governing body of such city or county may from time to time determine and establish, by resolution, reasonable general classifications and formulae for the methods of assessing the benefits.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 12)*
+
+### 249.937 Plans and specifications, acceptance by governing body, resolution ordering assessment against property benefitted by improvement.
+
+After the governing body of any city with a population of three hundred fifty thousand or more inhabitants which is located in more than one county, or the governing body of the county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, has made the findings specified in sections 249.929 to 249.933 and plans and specifications for the proposed sewage or storm water facility improvements have been prepared, the governing body shall, by resolution, order assessments to be made against each property deemed to be benefitted by an improvement based on the revised estimated cost of the improvement or, if available, the final cost thereof, and shall order a proposed assessment roll to be prepared.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 13 subsec. 1)*
+
+### 249.939 Plans, specification and assessment role filed with city or county clerk — notice — publication, content — hearing to be held — notice mailed to assessed property owners.
+
+The plans and specifications for the improvement and the proposed assessment roll shall be filed with the city or county clerk and shall be open for public inspection. Such clerk shall thereupon, at the direction of the governing body of the city or county, publish notice that the governing body will conduct a hearing to consider the proposed improvement and proposed assessments. Such notice shall be published in a newspaper of general circulation at least once, not more than twenty days and not less than ten days before the hearing, and shall state the project name for the improvement, the date, time and place of such hearing, the general nature of the improvement, the revised estimated cost or, if available, the final cost of the improvement, the boundaries of the sewage or storm water facility improvement district to be assessed, and that written or oral objections will be considered at the hearing. At the same time, the city or county clerk shall mail to the owners of record of the property made liable to pay the assessments, at their last known post-office address, a notice of the hearing and a statement of the cost proposed to be assessed against the property so owned and assessed. The failure of any owner to receive such notice shall not invalidate the proceedings.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 13 subsec. 2)*
+
+### 249.941 Hearing held to consider proposals, plan may be amended — governing body may order, by resolution, improvement project.
+
+At the hearing to consider the proposed improvements and assessments, the governing body of any city with a population of three hundred fifty thousand inhabitants or more which is located in more than one county, or the governing body of the county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, shall hear and pass upon all objections to the proposed improvements and proposed assessments, if any, and may amend the proposed improvements, and the plans and specifications therefor, or assessments as to any property, and thereupon by resolution the governing body of such city or county shall order that the improvement be made and direct that financing for the cost thereof be obtained as provided in sections 249.925 to 249.955. All assessments established in sections 249.925 to 249.955 may be appealed by the property owner to the county board of equalization and as further provided in chapter 138.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 14 subsec. 1)*
+
+### 249.943 Construction of improvement completed, final cost computed — governing body to assess final cost or amount of general obligation bonds.
+
+After construction of the improvement has been completed in accordance with the plans and specifications therefor, the governing body of the city or county shall compute the final costs of the improvement and apportion the costs among the property benefitted by such improvement in such equitable manner as the governing body shall determine, charging each parcel of property with its proportionate share of the costs, and by resolution, assess the final cost of the improvement or the amount of general obligation bonds issued or to be issued therefor as assessments against the property described in the assessment roll.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 14 subsec. 2)*
+
+### 249.945 City or county clerk's duty to mail notice to property owners of assessment — payment may be made in installments — first payment due, when — interest rate, limitation — how collected.
+
+1. After the passage or adoption of the resolution assessing the assessments, the city or county clerk shall mail a notice to each property owner within the district which sets forth a description of each parcel of real property to be assessed which is owned by such owner, the special assessment assigned to such property, and a statement that the property owner may pay such assessment in full, together with interest accrued thereon, from the effective date of such resolution, on or before a specified date determined by the effective date of the resolution, or may pay such assessment in annual installments as provided in subsection 2 of this section.
+2. The assessments shall be assessed upon the property included therein concurrent with general property taxes, and shall be payable in substantially equal annual installments for a duration stated in the ballot measure prescribed in subsection 2 of section 249.929, and, if authorized, an assessment in each year thereafter levied and collected in the same manner with the proceeds thereof used solely for maintenance of the improvement, taking into account such assessments and interest thereon, as the governing body of the city or county determines. The first installment shall be payable after the first collection of general property taxes following the adoption of the assessment resolution, unless such resolution was adopted and certified too late to permit its collection at such time. All assessments shall bear interest at such rate as the governing body determines, not to exceed the rate permitted for bonds by section 108.170. Interest on the assessment between the effective date of the resolution assessing the assessment and the date the first installment is payable shall be added to the first installment. The interest for one year on all unpaid installments shall be added to each subsequent installment until paid.
+3. Assessments shall be collected and paid over to the city or county treasurer in the same manner as taxes of the city or county are collected and paid.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 14 subsecs. 3 to 5)*
+
+### 249.947 Cause of action to set aside assessment, time limitation.
+
+No cause of action to set aside the assessments made under sections 249.925 to 249.955 or to otherwise question the validity of the proceedings relating thereto shall be brought after the expiration of ninety days from the date of mailing of notice to property owners of the assessments required by sections 249.941 to 249.945.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 15)*
+
+### 249.949 Assessment to be a lien on property.
+
+An assessment authorized under the provisions of sections 249.925 to 249.955 shall be a lien, from the date of the assessment, on the property against which it is assessed on behalf of the city or county assessing the same to the same extent as a tax upon real property.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 16)*
+
+### 249.951 Temporary notes may be issued by governing body to pay cost of improvements — general obligation bond shall be issued to pay off notes.
+
+After an improvement has been authorized pursuant to sections 249.929 to 249.933, the governing body of any city with a population of three hundred fifty thousand or more inhabitants which is located in more than one county, or the governing body of the county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, may issue temporary notes of such city or county to pay the costs of such improvement in an amount not to exceed the estimated cost of such improvement. General obligation bonds of such city or county shall be issued and sold as provided in section 249.927 to refund, retire and pay off such temporary notes and any accrued interest thereon to the date of payment.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 17)*
+
+### 249.953 Separate account created for each project — balance in fund after project paid for, effect — refund to property owner, when — assessment reduced, when.
+
+A separate fund or account shall be created in the city or county treasury for each improvement project and each such fund or account shall be identified by a suitable title. The proceeds from the sale of bonds and temporary notes and any other moneys appropriated thereto by the governing body of any city with a population of three hundred fifty thousand or more inhabitants which is located in more than one county, or the governing body of the county of the first classification without a charter form of government that has a population of at least one hundred sixty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government containing a portion of a city with a population of at least three hundred fifty thousand inhabitants, or the governing body of any county of the first classification without a charter form of government as of August 28, 1995, that has a population of more than one hundred five thousand but less than one hundred twenty thousand inhabitants, shall be credited to such funds or accounts. Such funds or accounts shall be used solely to pay the costs incurred in making each respective improvement. Upon completion of an improvement, the balance remaining in the fund or account established for such improvement, if any, shall be credited against the amount of the original assessment of each parcel of property, on a pro rata basis based on the amount of the original assessment, and with respect to property owners that have prepaid their assessments in accordance with sections 249.941 to 249.945, the amount of each such credit shall be refunded to the appropriate property owner, and with respect to all other property owners, the amount of each such credit shall be transferred and credited to such city or county bond and interest fund to be used solely to pay the principal of and interest on the bonds or temporary notes and the assessments shall be reduced accordingly by the amount of such credit.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 18)*
+
+### 249.955 Amount of bonds and temporary notes, limitation not to exceed ten percent of assessed valuation of taxable tangible property.
+
+The total amount of city or county general obligation bond indebtedness incurred for improvements under sections 249.925 to 249.955, including temporary notes issued pursuant to sections 249.925 to 249.955, shall not exceed ten percent of the assessed valuation of all taxable tangible property, as shown by the last completed property assessment for state or local purposes, within the district.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 19)*
+
+### 249.957 Tax and special tax bills in certain sections applicable to sewer and storm water facility improvement districts.
+
+The tax and special tax bills provided for in sections 249.430, 249.520, 249.530 and 249.580 to* 249.650 shall be applicable to the assessments detailed in sections 249.925 to 249.955.
+
+*Effective 8/28/1995 · (L. 1995 H.B. 88 § 20)
+*Word "through" appears in original rolls.*
+
+### 249.1000 Publicly owned sewer treatment works, responsible for whole sewer system, when — exceptions.
+
+A publicly owned treatment works that has ownership of interceptor and local sewers shall be responsible for the entire public sewer system, except that the operation and maintenance of any part of an individual user's pressure sewer system, including grinder or low pressure pumps and service lateral to the public or private pressure sewer system used for the purpose of collecting or conducting wastewater originating at a residence or individual commercial entity, shall be the responsibility of the owner of such residence or individual commercial entity unless the publicly owned treatment works has assumed such responsibility.
+
+*Effective 7/1/1997 · (L. 1997 H.B. 709 § 1)
+Effective 7-1-97*
+
+### 249.1100 Consolidation of sewer districts permitted, when, procedure.
+
+1. Except as otherwise provided in Section 30(a) of Article VI of the Missouri Constitution, regardless of being a sewer district pursuant to chapter 204 or this chapter, when the governing bodies of two or more contiguous sewer districts located in any county of the first classification without a charter form of government having not less than one hundred seventy thousand and not more than two hundred thousand inhabitants determine that a consolidated sewer system would better serve the area within their boundaries, the governing bodies shall submit the proposal for a consolidated sewer district to the governing body of such county. The governing body of the county after consultation with the sewer engineer pursuant to section 204.300 and section 249.460 shall by resolution submit the question of creating a consolidated sewer district to all qualified voters residing within each existing district at a municipal or general or special election called for that purpose.
+2. The resolution shall set forth the project name for the proposed consolidated sewer district, the general nature of the proposed consolidated sewer district, the estimated cost of the sewer improvements for such consolidated sewer district, the boundaries of the existing districts to be consolidated, the proposed method or methods of assessment, and a statement that the final cost of such sewer improvements assessed against property within the consolidated sewer district and the amount of general obligation bonds issued therefor shall not exceed the estimated cost of such sewer improvements, as stated in such notice, by more than twenty-five percent.
+
+*Effective 8/28/2001 · (L. 2001 H.B. 501)*
+
+### 249.1103 Public hearing to be held prior to election for consolidation of sewer districts.
+
+The governing body of the county receiving the proposal pursuant to section 249.1100 shall set a day for a public hearing prior to election for the creation of a consolidated sewer district and shall publish the resolution with a notice of the time and place of public hearing in some local newspaper of general circulation, published in such county in which any district proposed to be consolidated lies at least thirty days before the date of the hearing. At such hearing anyone interested in the proposed consolidation of sewer districts may appear and present their views to the governing body of the county.
+
+*Effective 8/28/2001 · (L. 2001 H.B. 501)*
+
+### 249.1106 Ballot language for consolidation of sewer districts — submission of question to voters in both districts simultaneously.
+
+1. The ballot upon which the question of creating a consolidated sewer district is submitted to the qualified voters residing within each existing sewer district or districts shall contain a question in substantially the following form:
+­
+­
+­­
+­
+2. The boundaries of the proposed consolidated sewer district shall be described by metes and bounds, streets or other sufficiently specific description.
+3. There shall be separate submissions of the question of creating a consolidated sewer district to each group of voters within each existing sewer district or districts, and the elections shall be held simultaneously.
+
+*Effective 8/28/2001 · (L. 2001 H.B. 501)*
+
+### 249.1109 Combining of original districts after consolidation approved.
+
+At the time of the effective date of the consolidation, all the property of the original districts shall be combined and administered as one unit, which shall be subject to the liens, liabilities and obligations of the original districts, provided that if any district included in the consolidated district has issued general obligation bonds which are outstanding at the time of the consolidation, any taxes to be levied to pay the bonds and interest thereon shall be levied only upon the property within the original district issuing the bonds as it existed on the date of such issuance. All special obligation or revenue bonds issued by any district included in the consolidated district shall be paid in accordance with the terms thereof, without preference, from the revenue received by the consolidated district.
+
+*Effective 8/28/2001 · (L. 2001 H.B. 501)*
+
+### 249.1112 Board of directors, members, terms, vacancies, expenses.
+
+1. A sewer district created pursuant to sections 249.1100 to 249.1127 shall have a board of directors which shall consist of five members, appointed by the governing body of the county in which the consolidated sewer district is located. Each member shall be a United States citizen, a registered voter, over the age of twenty-five years and shall have been a resident within the consolidated sewer district for one whole year prior to appointment.
+2. The board shall be responsible for the control and operation of all such sewer districts organized pursuant to section 249.1106.
+3. Beginning with appointments made after August 28, 2001, one member shall be appointed for four years, two members shall be appointed for three years and two members shall be appointed for two years. Following the initial appointments, the term of each board member shall be five years.
+4. A vacancy in the office of a member shall be filled by appointment in the same manner as the original appointments.
+5. No member of the board shall be entitled to any compensation for the performance of the member's official duties, but each member shall be reimbursed for necessary and actual expenses incurred in the performance of the member's official duties by the consolidated sewer district. The board members shall be reimbursed by the district for all reasonable expenses incurred in the performance of their duties.
+
+*Effective 8/28/2001 · (L. 2001 H.B. 501)*
+
+### 249.1115 Powers, privileges and duties of original districts retained after consolidation.
+
+The consolidated sewer district shall retain all the powers, privileges and duties therein conferred and provided upon each original individual sewer district pursuant to chapter 204, or this chapter, whichever it was created and organized under.
+
+*Effective 8/28/2001 · (L. 2001 H.B. 501)*
+
+### 249.1118 Dissolution procedure.
+
+Dissolution of a sewer district created pursuant to section 249.1106 shall follow the procedures established in sections 67.950 to 67.955.
+
+*Effective 8/28/2001 · (L. 2001 H.B. 501)*
+
+### 249.1150 District authorized, opt out procedure, powers — resolution may be adopted by county commission for service by district — board of trustees, members, terms — maintenance plan required, when — property tax levy, ballot form — termination of tax, procedure (Barry, Christian, Douglas, Greene, Ozark, Stone, Taney, Webster, and Wright counties).
+
+1. There is hereby created within any county of the third classification without a township form of government and with more than thirty-four thousand but less than thirty-four thousand one hundred inhabitants, any county of the second classification without a township form of government and with more than fifty-four thousand two hundred but less than fifty-four thousand three hundred inhabitants, any county of the third classification without a township form of government and with more than thirteen thousand seventy-five but less than thirteen thousand one hundred seventy-five inhabitants, any county of the first classification with more than two hundred forty thousand three hundred but less than two hundred forty thousand four hundred inhabitants, any county of the third classification without a township form of government and with more than nine thousand four hundred fifty but less than nine thousand five hundred fifty inhabitants, any county of the third classification without a township form of government and with more than twenty-eight thousand six hundred but less than twenty-eight thousand seven hundred inhabitants, any county of the first classification with more than thirty-nine thousand seven hundred but less than thirty-nine thousand eight hundred inhabitants, any county of the third classification without a township form of government and with more than thirty-one thousand but less than thirty-one thousand one hundred inhabitants, and any county of the third classification without a township form of government and with more than seventeen thousand nine hundred but less than eighteen thousand inhabitants, the "Upper White River Basin Watershed Improvement District". The watershed improvement district is authorized to own, install, operate, and maintain decentralized or individual on-site wastewater treatment plants. The watershed improvement district created under this section shall be a body corporate and a political subdivision of the state of Missouri, shall be capable of suing and being sued in contract in its corporate name, and shall be capable of holding such real and personal property necessary for corporate purposes. The district shall implement procedures to regulate the area within the district and to educate property owners within the district about the requirements imposed by the district.
+2. Any county included in the Upper White River Basin watershed improvement district, as established in subsection 1 of this section, may choose to opt out of the district in one of two ways:
+(1) Upon the filing of a petition signed by at least twenty percent of the property owners residing within the county, a proposal is submitted to the qualified voters within the district boundaries. The ballot of submission shall be in substantially the following form:
+­
+­
+­­
+­
+(2) Upon the issuance of an order by the county commission, a proposal is submitted to the qualified voters within the district boundaries to opt out of the Upper White River Basin watershed improvement district. The ballot of submission shall be in substantially the following form:
+­
+­
+­­
+­
+3. Any county who has successfully chosen to opt out of the Upper White River Basin watershed improvement district under the provisions of subsection 2 of this section shall be allowed to rejoin the district at any time, provided the county submits the proposal to rejoin the district in one of two ways:
+(1) Upon the filing of a petition signed by at least twenty percent of the property owners residing within the county, a proposal is submitted to the qualified voters within the county. The ballot of submission shall be in substantially the following form:
+­
+­
+­­
+­
+(2) Upon the issuance of an order by the county commission, a proposal is submitted to the qualified voters within the district boundaries to rejoin the Upper White River Basin watershed improvement district. The ballot of submission shall be in substantially the following form:
+­
+­
+­­
+­
+4. The watershed improvement district created under this section shall have the power to borrow money and incur indebtedness and evidence the same by certificates, notes, or debentures, to issue bonds and use any one or more lawful funding methods the district may obtain for its purposes at such rates of interest as the district may determine. Any bonds, notes, and other obligations issued or delivered by the district may be secured by mortgage, pledge, or deed of trust of any or all of the property within the district. Every issue of such bonds, notes, or other obligations shall be payable out of property and revenues of the district and may be further secured by other property within the district, which may be pledged, assigned, mortgaged, or a security interest granted for such payment, without preference or priority of the first bonds issued, subject to any agreement with the holders of any other bonds pledging any specified property or revenues. Such bonds, notes, or other obligations shall be authorized by resolution of the district board, and shall bear such date or dates, and shall mature at such time or times, but not in excess of thirty years, as the resolution shall specify. Such bonds, notes, or other obligations shall be in such denomination, bear interest at such rate or rates, be in such form, either coupon or registered, be issued as current interest bonds, compound interest bonds, variable rate bonds, convertible bonds, or zero coupon bonds, be issued in such manner, be payable in such place or places, and be subject to redemption as such resolution may provide, notwithstanding section 108.170. The bonds, notes, or other obligations may be sold at either public or private sale, at such interest rates, and at such price or prices as the district shall determine.
+5. The county commission of any county located within the watershed improvement district may authorize individual properties to be served by the district by adoption of a resolution or upon the filing of a petition signed by at least twenty percent of the property owners of the proposed area. The resolution or petition shall describe generally the size and location of the proposed area.
+6. In the event that any property within the watershed improvement district proposed under this section lies within or is serviced by any existing sewer district formed under this chapter, chapter 204, or chapter 250, the property shall not become part of the watershed improvement district formed under this section unless the existing sewer district agrees to refrain from providing service or to discontinue service to the property. No property shall become part of the watershed district until the owner of that property has paid in full all outstanding costs owed to an existing sewer district formed under this chapter, chapter 204, or chapter 250.
+7. Upon the creation of the watershed improvement district as authorized by this section, a board of trustees for the district consisting of nine members shall be appointed. The governing body of each county shall appoint one member to serve on the board. No trustee shall reside in the same county as another trustee. Of the initial trustees appointed, five shall serve terms of one year, and four shall serve terms of two years, as determined by lot. After the initial appointments of the trustees, the successor trustees shall reside in the same county as the prior trustee and be elected by the resident property owners of their county within the district. Each trustee may be elected to no more than five consecutive two-year terms. Vacancies shall be filled by the board. Each trustee shall serve until a successor is elected and sworn. The trustees shall not receive compensation for their services, but may be reimbursed for their actual and necessary expenses. The board shall elect a chair and other officers necessary for its membership. The board shall enter into contracts with any person or entity for the maintenance, administrative, or support work required to administer the district. The board may charge reasonable fees and submit proposals to levy and impose property taxes to fund the operation of the district to the qualified voters in the district, but such proposals shall not become effective unless a majority of the qualified voters in the district voting on the proposals approve the proposed levy and rate of tax. The board may adopt resolutions necessary to the operation of the district.
+8. No service shall be initiated to any property lying within the watershed improvement district created under this section unless the property owner elects to have the service provided by the district.
+9. Any on-site wastewater treatment system installed on any property that participates in the watershed improvement district formed under this section shall meet all applicable standards for such on-site wastewater treatment systems under sections 701.025 to 701.059 and as required by rules or regulations promulgated by the board of trustees and the appropriate state agencies.
+10. Property owners participating in the watershed improvement district formed under this section shall be required as a condition of continued participation to have a maintenance plan approved by the watershed improvement district for the on-site wastewater treatment systems on their properties. Such property owners shall also execute a utilities easement to allow the district access to the system for maintenance purposes and inspections. The property owner shall provide satisfactory proof that periodic maintenance is performed on the sewage system. At a minimum the system shall be installed and maintained according to the manufacturer's recommendations. The level of satisfactory proof required and the frequency of periodic proof shall be determined by the board of trustees.
+11. A district established under this section may, at a general or primary election, submit to the qualified voters within the district boundaries a real property tax that shall not exceed five cents per one hundred dollars assessed valuation to fund the operation of the district. The ballot of submission shall be in substantially the following form:
+­
+­
+­­
+­
+12. The real property tax authorized by this section is in addition to all other real property taxes allowed by law.
+13. Once the real property tax authorized by this section is abolished or terminated by any means, all funds remaining in the trust fund shall be used solely for the purposes approved in the ballot question authorizing the tax. The tax shall not be abolished or terminated while the district has any financing or other obligations outstanding. Any funds in the trust fund which are not needed for current expenditures may be invested by the district in the securities described in subdivisions (1) to (12) of subsection 1 of section 30.270 or repurchase agreements secured by such securities.
+14. The governing body of any county included in the Upper White River Basin watershed improvement district established in this section may designate groundwater depletion areas within specific areas of the county and may require well volume monitoring. However, any county included in this district may choose not to require well volume monitoring.
+
+*Effective 8/28/2005 · (L. 2004 H.B. 1433, A.L. 2005 H.B. 58 merged with H.B. 617)*
+
+### 249.1155 Septic systems to be maintained or pumped every five years — proof submitted — fee.
+
+After August 28, 2004, any county within a watershed improvement district may require that all septic systems be maintained or pumped every five years by a licensed provider. In the event a county requires that all septic systems be so maintained or pumped the owner of any septic system shall submit proof of maintenance or pumping to the county department of health or the state department of health and senior services if appropriate which shall determine what shall constitute proof of compliance with the requirement. In addition, the county department of health or the state department of health and senior services if appropriate may charge septic tank owners a reasonable fee for monitoring compliance with the requirement.
+
+*Effective 8/28/2004 · (L. 2004 H.B. 1433)*
+
+## Chapter 250 — Sewerage Systems and Waterworks — City or District
+
+### 250.010 Authority to construct and maintain sewerage system — sewerage system defined.
+
+1. In addition to all powers granted by law and now possessed by cities, towns and villages in this state for the protection of the public health, any city, town or village, whether organized under the general law or by special charter or constitutional charter, and any sewer district organized under chapter 249 or sections 204.250 to 204.470, as those chapters now exist, or as they may be amended, is hereby authorized to acquire, construct, improve or extend and to maintain and operate a sewerage system and to provide funds for the payment of the cost of such acquisition, construction, improvement or extension and operation as hereinafter provided. Such sewerage system may be constructed and operated either within or without the corporate boundaries of any such city, town or village or sewer district, but if it is within the corporate boundaries, it shall only be with the consent of the respective city, town, village or sewer district.
+2. When used in this chapter the term "sewerage system" shall mean and include any or all of the following:
+(1) Sewerage systems and sewerage treatment plants, with all appurtenances necessary, useful, and convenient for the collection, treatment, purification and disposal in a sanitary manner of the liquid and solid waste, sewage, and domestic and industrial waste of any such municipality; and
+(2) Shall include combined storm water and sanitary systems;
+(3) The term shall also mean and include the construction of such storm water sewers as, in the judgment of the governing body of any such city, town or village or sewer district, may be necessary or desirable in order to relieve sewers carrying sanitary and storm water loads of undue loads or in order to permit the efficient operation of any such sanitary sewers for the collection, treatment and disposal of sewage and domestic or industrial waste including combined storms and sanitary sewerage system.
+
+*Effective 8/28/1983 · (L. 1951 p. 638 § 1, A.L. 1983 H.B. 371)*
+
+### 250.020 Combined waterworks and sewerage system — authority for.
+
+Any such city, town or village is hereby authorized to acquire, construct, improve or extend, maintain and operate a combined waterworks and sewerage system. Any such combined waterworks and sewerage system may consist of an existing sewerage system, and existing waterworks, a sewerage system to be acquired or to be constructed or a waterworks to be acquired or constructed or any combination thereof and may include any improvements or extensions to be acquired or constructed either to an existing sewerage system or to an existing waterworks or to both.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 2)*
+
+### 250.025 City board of public works may manage combined system, when.
+
+If any city, town or village which has heretofore established or which may hereafter establish a board of public works under the provisions of sections 91.450 to 91.540 shall combine its waterworks and sewerage system pursuant to the provisions of sections 250.020 and 250.030, said city, town or village may by ordinance vest in said board of public works during the existence of said board the power and duty to take charge of and exercise control over said combined waterworks and sewerage system and thereafter said board shall have all of the powers and duties respecting said combined waterworks and sewerage system which are vested in said board with respect to the waterworks of said city under the provisions of sections 91.450 to 91.540.
+
+*Effective 8/28/1953 · (L. 1953 p. 548 § 1)*
+
+### 250.030 Ordinance combining waterworks and sewerage system to be adopted.
+
+Any such city, town or village desiring to operate and maintain a combined waterworks and sewerage system shall adopt an ordinance declaring that its waterworks whether then existing or to be acquired or constructed and its sewerage system then existing or to be acquired or constructed shall thenceforth be operated and maintained as a combined waterworks and sewerage system and may provide that such combined system shall include all future improvements or extensions, whether to the waterworks or to the sewerage system or to both.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 3)*
+
+### 250.040 Cost of system, how financed by cities.
+
+The cost to any such city, town or village of acquiring, constructing, improving or extending a sewerage system or a combined waterworks and sewerage system may be met:
+(1) Through the expenditure by any such city, town or village of any funds available for that purpose;
+(2) Through the issuance of bonds for that purpose of the city, town or village payable from taxes to be levied by such city, town or village;
+(3) From the proceeds of special assessments levied and collected in accordance with law;
+(4) From any other funds which may be obtained under any law of the state or of the United States for that purpose; or
+(5) From the proceeds of revenue bonds of such city, town or village, payable solely from the revenues to be derived from the operation of such sewerage system or combined waterworks and sewerage system or from any combination of any or all such methods of providing funds.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 4)*
+
+### 250.050 Cost of system, how financed by sewer district.
+
+The cost to any such sewer district of acquiring, constructing, improving or extending a sewerage system may be met:
+(1) Through the expenditure by any such sewer district of any funds available for that purpose;
+(2) Through the issuance of bonds for that purpose of the sewer district, payable from taxes to be levied and collected by such district;
+(3) From any other funds which may be obtained under any law of the state or of the United States for that purpose; or
+(4) From the proceeds of revenue bonds of such sewer district, payable solely from the revenues to be derived from the operation of such sewerage system or from any combination or all such methods of providing funds.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 5)*
+
+### 250.060 Bonds may be issued — vote required — election — form of ballot — annual tax to be levied.
+
+1. Bonds of any such sewer district, payable from taxes, may be issued for the purpose of improving and extending the sewerage system of the district upon the approval of a proposition to issue such bonds by the constitutionally required percentage of the voters voting on the question.
+2. The question shall be submitted in substantially the following form:
+Shall ______ (name of city or district) issue bonds payable from taxes?
+3. Before any sewer district shall incur any indebtedness evidenced by bonds payable from taxes as hereby authorized, such sewer district shall provide for the collection of an annual tax on all taxable tangible property therein sufficient to pay the interest and principal of the indebtedness as they fall due and to retire the same within twenty years from the date contracted.
+
+*Effective 8/28/1990 · (L. 1951 p. 638 § 5, A.L. 1978 H.B. 971, A.L. 1990 H.B. 1621)*
+
+### 250.070 Revenue bonds — election — vote required — form of ballot.
+
+1. No such city, town or village or sewer district shall issue or deliver any bonds for the purpose of acquiring, constructing, improving or extending any such sewerage system or combined waterworks and sewerage system payable from the revenues to be derived from the operation of any such system unless a proposition to issue such bonds shall have received the assent of a majority of the voters of such city, town or village or the assent of four-sevenths of the voters of the sewer district, who shall vote on the question.
+2. The question shall be submitted in substantially the following form:
+Shall ______ (name of city, town, village, or district) issue revenue bonds in the amount of ______ dollars?
+
+*Effective 8/28/1978 · (L. 1951 p. 638 § 6, A.L. 1975 H.B. 947, A.L. 1978 H.B. 971)*
+
+### 250.080 Revenue bonds — ordinance or resolution authorizing — contents — interest — maturity — signing — sale price.
+
+1. Revenue bonds authorized at an election held as hereinabove provided shall be issued by authority of an ordinance adopted by the governing body of any such city, town or village or of a resolution adopted by the governing body of any such district. Such ordinance or resolution shall recite that an estimate of the cost of the proposed acquisition, construction, improvement or extension has been made and shall set out such estimated cost; it shall set out the amount of the bonds proposed to be issued, their purpose or purposes, their date or dates, denomination or denominations, rate or rates of interest, time or times of payment, both of principal and of interest, place or places of payment and all other details in connection with the bonds.
+2. Any such bonds may be subject to such provision for redemption prior to maturity, with or without premium, and at such times and upon such conditions as may be provided by the governing body of the city, town or village or sewer district.
+3. Such bonds shall bear interest at a rate in accordance with section 108.170 and shall mature over a period not exceeding thirty-five years from the date thereof. Any provision of law to the contrary, notwithstanding, any and all bonds authorized pursuant to this chapter shall possess all the qualities of negotiable instruments under the negotiable instruments act.
+4. Such bonds may be payable to bearer, may be registered or coupon bonds and if payable to bearer may contain such registration privileges as to either principal and interest, or principal only, as may be provided in the ordinance or resolution authorizing such bonds.
+5. Such bonds and the coupons to be attached thereto, if any, shall be signed in such manner and by such officers as may be directed by ordinance or resolution. Bonds signed by an officer who shall hold the office at the time the bonds are signed shall be deemed validly and effectually signed for all purposes, regardless of whether or not any such officer shall cease to hold his office prior to the delivery of the bonds and regardless of whether or not any such officer shall have held or shall not have held such office on the date ascribed to such bonds.
+6. Any such bonds shall be sold in such manner and upon such terms as the governing authority of the town, city or village or the governing body of such sewer district shall determine, but such bonds shall not be sold for less than ninety cents on the dollar nor shall they be sold at such a price that the interest cost upon the actual proceeds of such bonds from the date thereof to their maturity shall exceed a rate in accordance with section 108.170. Such ordinance or resolution may provide that certain bonds authorized thereby shall be junior or subordinate in any or all respects to other revenue bonds authorized concurrently therewith or prior to or after such bonds.
+
+*Effective 8/28/1983 · (L. 1951 p. 638 § 7, A.L. 1983 H.B. 371)*
+
+### 250.090 Revenue bonds — how payable.
+
+Revenue bonds issued under authority of this chapter shall be payable solely from the revenues derived and to be derived from the operation of the sewerage system or combined waterworks and sewerage system acquired, constructed, improved or extended in whole or in part from the proceeds of such bonds. No revenue bonds issued pursuant to this chapter shall constitute an indebtedness of the city, town or village or sewer district within the meaning of any constitutional, statutory or charter restriction, limitation or provision. The face of each bond shall state in substance that the bond has been issued under the provisions of this chapter, that the taxing power of the city, town or village or sewer district issuing the bond is not pledged to the payment thereof either as to principal or interest and that the bond and the interest thereon are payable solely from the revenues of the sewerage system or combined waterworks and sewerage system for the benefit of which the bond was issued.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 8)*
+
+### 250.100 Revenue bonds to improve or extend for particular locality — how payable (cities).
+
+Any such city, town or village shall have the power, subject to a favorable vote at an election called and held as herein provided, to issue revenue bonds for the improvement or extension or both of its existing waterworks or its existing sewerage system or its existing combined waterworks and sewerage system for the purpose of serving a particular locality, and such revenue bonds may be payable from the revenues derived or to be derived from the operation of the entire waterworks or sewerage system of the city, town or village or the entire combined waterworks and sewerage system or may be payable from the revenues to be derived from the operation of the waterworks, sewerage system or combined waterworks and sewerage system in such particular locality, as may be set forth in the proposition submitted at said election, provided, however, that the pledge of such revenues shall be subject to any prior pledge thereof.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 9)*
+
+### 250.110 Revenue bonds to improve or extend for particular locality — how payable (districts).
+
+Any such sewer district shall have the power, subject to a favorable vote at an election called and held as herein provided, to issue revenue bonds for the improvement or extension or both of the existing sewerage system for the purpose of serving a particular locality, and such revenue bonds may be payable from the revenues derived or to be derived from the operation of the entire sewerage system of the district or may be payable from the revenues to be derived from the operation of the sewerage system in such particular locality as may be set forth in the proposition submitted at said election, provided, however, that the pledge of such revenues shall be subject to any prior pledge thereof.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 10)*
+
+### 250.120 Revenue bonds — rates charged to be sufficient to pay principal and interest.
+
+1. It shall be the mandatory duty of any city, town or village or sewer district which shall issue revenue bonds pursuant to this chapter to fix and maintain rates and make and collect charges for the use and services of the system for the benefit of which such revenue bonds were issued, sufficient to pay the cost of maintenance and operation thereof, to pay the principal of and the interest on all revenue bonds or other obligations issued or incurred by such city, town or village or sewer district chargeable to the revenues of such system and to provide funds ample to meet all valid and reasonable requirements of the ordinance or resolution by which such revenue bonds have been issued. Such rates shall be from time to time revised so as fully to meet the requirements of this chapter. As long as any bond so issued or the interest thereon shall remain outstanding and unpaid, rates and charges sufficient to meet the requirements of this section shall be maintained and collected by the city, town or village or sewer district which shall have issued such bonds.
+2. Such rates shall be fixed and charged regardless of whether or not the services of the system shall previously have been rendered without charge therefor by the previously existing waterworks system, sewerage system or combined waterworks and sewerage system and regardless of how the acquisition of such system shall have been financed, whether by taxation, special assessment, the issuance of bonds or otherwise.
+3. If the system shall be a combined waterworks and sewerage system, rates and charges may be established, fixed and collected for water services only, for sewer services only or for both services combined and, in such case, the city, town or village shall be and is hereby authorized to discontinue water service upon any failure to pay within a reasonable time the charges fixed for either water service or sewer service or for both services combined.
+4. It shall be lawful for any such city, town or village or sewer district to base its sewerage rates in whole or in part upon the amount of water supplied to the premises charged for sewerage services by any private water company; in such case it shall be the duty of such private water company to furnish to such city, town or village or sewer district such information as is necessary to calculate its charges for sewerage service.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 11)*
+
+### 250.130 Revenue bonds — amount of net revenue pledged to payment of principal and interest.
+
+1. Whenever any such city, town or village or sewer district shall authorize and issue revenue bonds pursuant to this chapter an amount sufficient for the purpose of the net revenues of the sewerage system or of the combined system for the benefit of which such bonds are issued shall by operation of this chapter be pledged to the payment of the principal of and the interest on such bonds as the same shall mature and accrue.
+2. The term "net revenues" shall be construed to mean all revenues derived from the operation of such system less the actual and necessary expenses of operation and maintenance of the system.
+3. It shall be the mandatory duty of the officials of any such city, town or village or sewer district charged with the custody and management of the revenues to be derived from the operation of such system to provide for the prompt payment from such revenues of the principal of and the interest on any such revenue bonds as the same shall mature and accrue.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 13)*
+
+### 250.140 Services deemed furnished both to occupant and owner of premises — payment delinquency, notice of termination sent to both occupant and owner of premises — applicability — unapplied-for utility services, defined.
+
+1. Sewerage services, water services, or water and sewerage services combined shall be deemed to be furnished to both the occupant and owner of the premises receiving such service and, except as otherwise provided in subsection 2 of this section, the city, town, village, or sewer district or water supply district organized and incorporated under chapter 247 rendering such services shall have power to sue the occupant or owner, or both, of such real estate in a civil action to recover any sums due for such services less any deposit that is held by the city, town, village, or sewer district or water supply district organized and incorporated under chapter 247 for such services, plus a reasonable attorney's fee to be fixed by the court.
+2. When the occupant is delinquent in payment for thirty days, the city, town, village, sewer district, or water supply district shall make a good faith effort to notify the owner of the premises receiving such service of the delinquency and the amount thereof. Notwithstanding any other provision of this section to the contrary, when an occupant is delinquent more than ninety days, the owner shall not be liable for sums due for more than ninety days of service; provided, however, that in any city not within a county and any home rule city with more than four hundred thousand inhabitants and located in more than one county, until January 1, 2007, when an occupant is delinquent more than one hundred twenty days the owner shall not be liable for sums due for more than one hundred twenty days of service, and after January 1, 2007, when an occupant is delinquent more than ninety days the owner shall not be liable for sums due for more than ninety days. Any notice of termination of service shall be sent to both the occupant and owner of the premises receiving such service.
+3. The provisions of this section shall apply only to residences that have their own private water and sewer lines. In instances where several residences share a common water or sewer line, the owner of the real property upon which the residences sit shall be liable for water and sewer expenses.
+4. Notwithstanding any other provision of law to the contrary, any water provider who terminates service due to delinquency of payment by a consumer shall not be liable for any civil or criminal damages.
+5. The provisions of this section shall not apply to unapplied-for utility services. As used in this subsection, "unapplied-for utility services" means services requiring application by the property owner and acceptance of such application by the utility prior to the establishment of an account. The property owner is billed directly for the services provided, and as a result, any delinquent payment of a bill becomes the responsibility of the property owner rather than the occupant.
+
+*Effective 8/28/2005 · (L. 1951 p. 638 § 12, A.L. 2002 S.B. 932, A.L. 2005 H.B. 58 merged with S.B. 210)*
+
+### 250.150 Revenues to be kept separate — order of payments — records — transfers.
+
+1. Whenever any such city, town or village or sewer district shall establish and collect rates and charges for the services of any sewerage system or any combined waterworks and sewerage system it shall be the mandatory duty of such city, town or village, or sewer district and of the proper officials thereof:
+(1) To segregate the revenues derived from the operation of such system from all other revenues or funds of such city, town or village or sewer district; to hold such funds separate and distinct from all other funds thereof and, if such funds shall be deposited in any bank, to maintain such deposits as an account separate and distinct from all other bank accounts thereof.
+(2) Such revenues shall be devoted, first, to the payment of the expenses of operating and maintaining such system; second, to the payment of any and all bonds or other obligations payable from such revenues; third, to the establishment of a proper depreciation reserve for the benefit of such system; fourth, to the fulfillment of any covenants or agreements contained in any ordinance which may have authorized outstanding revenue bonds issued for the benefit of such system and, fifth, for the payment of the cost of improvements and extensions to such system.
+(3) To install and maintain proper books of records and accounts (entirely separate from all other records and accounts of the city, town or village or sewer district) in which correct entries shall be made of all dealings or transactions of or in relation to the properties, business and affairs of the sewerage system or of the combined waterworks and sewerage system. Such accounts shall show the amount of revenues received from the system, the application of such revenues and all financial transactions in connection therewith. At least once a year such accounts shall be audited properly by a public accountant employed for that purpose to be paid from the revenues received from the system. Such audits shall at all times, during usual business hours, be open to the examination and inspection by any taxpayer, any user of the services of the system or any holder of any bonds issued pursuant to this chapter or by anyone acting for or on behalf of any such taxpayer, user or bondholder. Such books of records and accounts and such audits shall conform to any reasonable and valid covenant or agreement with respect thereto set out in any ordinance which may authorize the issuance of bonds pursuant to this chapter.
+(4) To perform all duties with respect to the operation of any such sewerage system or combined waterworks and sewerage system or with respect to the revenues derived or to be derived from the operation thereof imposed by law or set out in any reasonable and valid covenant and agreement contained in any ordinance which shall authorize the issuance of revenue bonds under this chapter.
+2. No transfer of any funds derived from the operation of any sewerage system or combined waterworks and sewerage system to any other funds of the city, town or village or sewer district shall be made except by action of the governing body thereof and no such transfer shall be made unless all expenses of operation and maintenance of said system shall have been paid, unless the principal of and the interest on all bonds due at the time of said transfer shall have been paid, and unless all covenants and agreements requiring the payment of money, set out in the ordinance authorizing any outstanding revenue bonds shall have been met and unless all obligations requiring the payment of money payable from such revenues then due shall have been met. No payments of any indebtedness or expenses incurred by any such city, town or village or sewer district other than those above stated in subdivision (2) shall be made from the revenues derived from the operation of any such system unless such revenues shall have been transferred to other funds of the city, town or village or sewer district under the conditions prescribed by this subsection.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 14)*
+
+### 250.160 Ordinance authorizing revenue bonds — classification of accounts.
+
+1. It shall be lawful for any ordinance authorizing the issuance of revenue bonds under the authority of this chapter to provide that periodic allocations of the revenues to be derived from the operation of the system for the benefit of which such bonds are issued shall be made into such separate accounts as shall be deemed to be advisable to assure the proper operation and maintenance of the system and the prompt payment of the indebtedness chargeable to the revenues of such system. Such accounts may include, but shall not be limited to:
+(1) An account for the purpose of providing funds for the operation and maintenance of the system;
+(2) An account to provide funds for the payment of the bonds as to principal and interest as they come due;
+(3) An account to provide an adequate reserve for depreciation, to be expended for replacements of said system;
+(4) An account for the accumulation of a reserve to assure the prompt payment of the bonds and the interest thereon whenever and to the extent that other funds are not available for the purpose;
+(5) An account to provide funds for contingent expenses in the operation of such system;
+(6) An account to provide for the accumulation of funds for the construction of extensions and improvements to the system; and
+(7) Such other accounts as may be desirable in the judgment of the governing body of such city, town or village or sewer district.
+2. It shall be lawful for any city, town or village or sewer district to provide that the sums to be held in any account for the payment of any bonds or the interest thereon or for the establishment of any reserve for that purpose may be held in deposit in a bank or trust company located within or without this state as a trust account for the payment of the bonds and the interest thereon.
+3. Such ordinance may establish such limitations as may be expedient upon the issuance of additional bonds, payable from the revenues of the system, or upon the rights of the holders of such additional bonds. Such ordinance may include other agreements with the holders of the bonds or covenants or restrictions necessary or desirable to safeguard the interests of the bondholder and to secure the payment of the bonds and the interest thereon.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 15)*
+
+### 250.170 Action by bondholder against city or district for neglect of duty.
+
+1. The holder of any bond authorized pursuant to this chapter or of any coupon representing interest accrued thereon may, by a civil action either at law or in equity, by mandamus, injunction or otherwise, compel any city, town or village or sewer district, which may have authorized bonds under this chapter or the officials thereof to perform all duties imposed upon such city, town or village or sewer district or upon such officials by the provisions of the ordinance authorizing such bonds or otherwise imposed by law, including the continued operation of the sewerage system or of the combined waterworks and sewerage system, the fixing and collecting of sufficient rates and charges for the services thereof, the segregation and allocation and disposition of the revenues derived from such system, the payment of any bonds chargeable to the revenues of such system or the interest thereon and the performance of any valid and reasonable covenant set out in the ordinance authorizing any such bonds.
+2. Such suit or action at law or in equity shall lie regardless of whether or not any bond or the interest thereon shall at the time of the filing of such suit be in default in the event that such city, town or village or sewer district or any official thereof shall have neglected or failed to perform any material duty imposed by law or by any valid and reasonable covenant set out in the ordinance authorizing any outstanding bonds pursuant to this chapter.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 16)*
+
+### 250.190 Services outside corporate limits — rates.
+
+Any such city, town or village or sewer district operating a sewerage system or a combined waterworks and sewerage system under this chapter shall have power to supply water services or sewerage services or both such services to premises situated outside its corporate boundaries and for that purpose to extend and improve its sewerage system or its combined waterworks and sewerage system. Rates charged for sewerage services or water services to premises outside the corporate boundaries may exceed those charged for such services to premises within the corporate limits.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 18)*
+
+### 250.200 Rates and charges when city and district systems overlap.
+
+1. Whenever any such city, town or village, which shall embrace within its corporate limits any territory situated in a sewer district directly served by the sewerage system of such city, town or village, shall issue revenue bonds under this chapter, rates and charges for the services of the sewerage system or combined water and sewerage system of such city, town or village shall be imposed and collected against each such lot, parcel of land or premises which shall have any active sewer connection with the sewerage system of such city, town or village, regardless of whether the sewerage or domestic or industrial waste from* such lot, parcel of land or premises is carried also by the sewer lines or facilities of the sewer district.
+2. Whenever any such sewer district, which shall embrace within its corporate limits any territory situated in a city, town or village, shall issue revenue bonds under this chapter, rates and charges for the services of the sewerage system of such sewer district shall be imposed and collected against each such lot, parcel of land or premises which shall have any active sewer connection with the sewerage system of such sewer district, regardless of whether the sewerage or domestic or industrial waste from* such lot, parcel of ground or premises is carried also by the sewer lines or facilities of such city, town or village.
+3. Provided that no lot, parcel of land or premises shall be charged for sewerage services by both such city, town or village and such sewer district; the rates and charges first imposed by any such political subdivision shall exclude rates and charges later imposed by the other subdivision.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 19)
+*Words "waste from" substituted for "was to form" in enrolled bill.*
+
+### 250.210 Sewer districts may contribute funds to city, when.
+
+Any such sewer district may contribute funds, including the proceeds of its bonds, payable from taxes to any such city, town or village for the purpose of paying the cost of the acquisition, construction, extension or improvement of a sewerage system by such city, town or village; any funds so contributed by such sewer district shall be expended by the governing authorities of such city, town or village.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 20)
+CROSS REFERENCE:
+Powers of county commission when sewer district includes city and bonds issued, 249.667*
+
+### 250.220 Two or more municipalities may cooperate to furnish services.
+
+Any two or more municipalities through their respective governing bodies are hereby authorized and empowered to enter into and perform such contracts and agreements as they may deem proper for or concerning the planning, construction, lease or other acquisition and the financing of sewerage facilities, including facilities for the disposal of sewage and the maintenance and operation thereof. Any such municipalities so contracting with each other may also provide in any contract or agreement for a board, commission or such other body as their governing bodies may deem proper for the supervision and general management of the sewerage facilities and for the operation thereof, and may prescribe its powers and duties and fix the compensation of the members thereof.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 21)*
+
+### 250.230 City may contract with industrial establishment to abate stream pollution.
+
+When determined by its governing body to be in the public interest and necessary for the protection of the public health, any municipality is authorized to enter into and perform contracts, whether long-term or short-term, with any industrial establishment for the provision and operation by the municipality of sewerage facilities to abate or reduce the pollution of waters caused by discharges of industrial wastes by the industrial establishment and the payment periodically by the industrial establishment to the municipality of amounts at least sufficient, in the determination of such governing body, to compensate the municipality for the cost of providing (including payment of principal and interest charges, if any), and of operating and maintaining the sewerage facilities serving such industrial establishment.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 22)*
+
+### 250.231 Powers to operate waterworks or sewerage system — rules and regulations, authority.
+
+Any city, town or village operating a waterworks or sewer system shall have all of the powers necessary and convenient to provide for the operation, maintenance, administration and regulation, including the adoption of rules and regulations, of any individual home or business sewerage systems within its jurisdiction.
+
+*Effective 8/28/1983 · (L. 1983 H.B. 371)*
+
+### 250.232 Cities having power of condemnation for sewers and waterworks also to have right to enter private lands for surveying.
+
+Any city, town or village operating a sewerage system or waterworks that has the power to condemn land or other property within the city, town or village for right-of-way for trunk sewers or for any other improvement or structure deemed necessary or advisable in connection with the sewerage and treatment system shall also have the authority to enter upon private lands to survey land or other property before exercise of the condemnation powers.
+
+*Effective 8/28/1983 · (L. 1983 H.B. 371)*
+
+### 250.233 Charges for sewer services — notice and public hearing required.
+
+Any city, town, village, or sewer district operating a sewerage system or waterworks may establish, make and collect charges for sewerage services, including tap-on fees. The charges may be set as a flat fee or based upon the amount of water supplied to the premises and shall be in addition to those charges which may be levied and collected for maintenance, repair and administration, including debt service expenses. Any private water company or public water supply district supplying water to the premises located within said city, town, village, or sewer district shall, at reasonable charge upon reasonable request, make available to such city, town, village, or sewer district its records and books so that such city, town, village, or sewer district may obtain therefrom such data as may be necessary to calculate the charges for sewer service. Prior to establishing any such sewer charges, public hearings shall be held thereon and at least thirty days' notice shall be given thereof.
+
+*Effective 8/28/2010 · (L. 1983 H.B. 371, A.L. 2010 H.B. 1612 merged with S.B. 791)*
+
+### 250.234 Delinquent payment for sewer service, interest due, when — lien against land authorized.
+
+Any user charges, connection fees, or other charges levied by any city, town or village shall be due at such time or times as specified by the governing board of the city, town or village and shall, if not paid by the due date, become delinquent and shall bear interest from the date of delinquency until paid. If such charges become delinquent they shall be a lien upon any land within the corporate limits of the city, town or village so charged, upon the governing board filing with the recorder of deeds in the county where the land is situated a notice of delinquency. The governing board shall file with the recorder of deeds a similar notice when the delinquent amounts, plus interest and any recording fees or attorneys' fees, have been paid in full. The lien hereby created may be enforced by suit or foreclosure.
+
+*Effective 8/28/1983 · (L. 1983 H.B. 371)*
+
+### 250.236 Termination of water services for nonpayment of sewer charges, allowed when.
+
+1. Any city, town or village may contract with a private or public water company to terminate water services, at the direction of the city, because a customer fails to pay his sewer bill. When charges for sewer services are in arrears for more than three months and after the city sends notice to the customer, the city may disconnect the customer's sewer line or request in writing that the private or public water company discontinue water service until such time as the sewer charges and all related costs are paid.
+2. A private or public water company acting pursuant to a written request from the city as provided in subsection 1 of this section is not liable for damages related to termination of water services. All costs related to disconnection and reconnections shall be reimbursed to the private water company by the city.
+
+*Effective 8/28/2011 · (L. 1992 S.B. 470 & 497 § 1, A.L. 2001 H.B. 501, A.L. 2011 S.B. 48)*
+
+### 250.240 Purpose of law.
+
+It is the purpose of this chapter to enable cities, towns and villages and sewer districts to protect the public health and welfare by preventing or abating the pollution of water and creating means for supplying wholesome water, and to these ends every such municipality and sewer district shall have the power to do all things necessary or convenient to carry out such purpose, in addition to the powers conferred in this chapter. This chapter is remedial in nature and the powers hereby granted shall be liberally construed.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 23)*
+
+### 250.250 Construction of law.
+
+This chapter shall be construed as a cumulative and additional grant of power to cities, towns and villages and shall not be construed to repeal or modify any other act or statute nor shall it be construed to repeal or modify any power granted by the Constitution or statutes of the state of Missouri or by any special charter or constitutional charter. This chapter, without reference to any other chapter, shall be deemed sufficient authority for the exercise of any powers granted herein, and all powers necessary to effectuate the purposes of this chapter shall be deemed to be granted hereby.
+
+*Effective 8/28/1951 · (L. 1951 p. 638 § 24)*

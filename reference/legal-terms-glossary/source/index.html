@@ -1,0 +1,502 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Legal Terms Glossary</title>
+<meta name="description" content="Plain-English and verbatim-statutory definitions of the key legal terms across Tyler Garner's matters.">
+<style>
+  :root{
+    --bg:#f4f1e9; --surface:#fffdf8; --raised:#fff; --ink:#1d2430; --soft:#5c6473; --faint:#8b91a0;
+    --border:#ddd4bd; --border-soft:#ebe4d2; --accent:#8a6d2e; --accent-strong:#6f5522; --accent-soft:#f1e4c9;
+    --link:#5c6ac4; --link-soft:#e9eafb; --ok:#2f6b4f; --ok-soft:#e3efe8; --warn:#b3701c; --warn-soft:#f7ead2;
+    --radius:11px; --shadow:0 1px 2px rgba(28,36,49,.06),0 10px 26px -14px rgba(28,36,49,.22);
+    color-scheme:light;
+  }
+  @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+    --bg:#12151b; --surface:#191d25; --raised:#1f2430; --ink:#eae5d8; --soft:#b7b0a0; --faint:#847e70;
+    --border:#333a48; --border-soft:#262c38; --accent:#d3a75a; --accent-strong:#e6c07f; --accent-soft:#332a17;
+    --link:#9aa4f0; --link-soft:#232849; --ok:#5fa47f; --ok-soft:#1b2b22; --warn:#dba043; --warn-soft:#33280f; color-scheme:dark;
+  }}
+  :root[data-theme="dark"]{
+    --bg:#12151b; --surface:#191d25; --raised:#1f2430; --ink:#eae5d8; --soft:#b7b0a0; --faint:#847e70;
+    --border:#333a48; --border-soft:#262c38; --accent:#d3a75a; --accent-strong:#e6c07f; --accent-soft:#332a17;
+    --link:#9aa4f0; --link-soft:#232849; --ok:#5fa47f; --ok-soft:#1b2b22; --warn:#dba043; --warn-soft:#33280f; color-scheme:dark;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,sans-serif}
+  header{background:var(--surface);border-bottom:1px solid var(--border);padding:20px 16px}
+  .wrap{max-width:900px;margin:0 auto}
+  h1{margin:0;font-size:22px;font-family:Georgia,"Times New Roman",serif}
+  .sub{color:var(--faint);font-size:13px;margin-top:6px;line-height:1.6}
+  .sub b{color:var(--soft)}
+  .linkback{display:inline-block;margin-top:10px;font-size:12.5px;color:var(--link)}
+  .controls{max-width:900px;margin:16px auto 0;padding:0 16px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  #q{flex:1;min-width:200px;font-size:15px;padding:11px 13px;border:1px solid var(--border);border-radius:10px;background:var(--raised);color:var(--ink)}
+  #q:focus{outline:2px solid var(--accent);outline-offset:1px}
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{cursor:pointer;font-size:12.5px;font-weight:600;padding:6px 11px;border-radius:99px;border:1px solid var(--border);background:var(--raised);color:var(--soft)}
+  .chip.active{background:var(--accent);border-color:var(--accent-strong);color:#fff}
+  main{max-width:900px;margin:18px auto 60px;padding:0 16px;display:flex;flex-direction:column;gap:12px}
+  .count{color:var(--faint);font-size:12.5px}
+  .cat-heading{font-family:Georgia,serif;font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;color:var(--accent-strong);margin:22px 2px 2px}
+  .cat-heading:first-child{margin-top:2px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);overflow:hidden}
+  .head{padding:14px 16px;cursor:pointer;display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+  .head:hover{background:var(--border-soft)}
+  .term{font-family:"Georgia",serif;font-weight:700;font-size:16px}
+  .cite{color:var(--soft);font-size:12.5px;margin-top:2px}
+  .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:7px}
+  .tag{font-size:11px;font-weight:600;padding:2px 8px;border-radius:99px;background:var(--accent-soft);color:var(--accent-strong)}
+  .badge{flex:none;font-size:10.5px;font-weight:700;letter-spacing:.03em;text-transform:uppercase;padding:3px 8px;border-radius:99px;white-space:nowrap}
+  .badge.statute{background:var(--ok-soft);color:var(--ok)}
+  .badge.general{background:var(--link-soft);color:var(--link)}
+  .body{border-top:1px solid var(--border-soft);padding:16px;background:var(--bg);display:none}
+  .card.open .body{display:block}
+  .text{white-space:pre-wrap;font-size:14px;line-height:1.6}
+  .why{margin-top:14px;font-size:13px;line-height:1.55;background:var(--accent-soft);border-radius:8px;padding:10px 12px;color:var(--ink)}
+  .why b{color:var(--accent-strong)}
+  .meta{margin-top:14px;font-size:12.5px;color:var(--faint);border-top:1px dashed var(--border);padding-top:10px}
+  .meta a{color:var(--link)}
+  .empty{text-align:center;color:var(--faint);padding:40px;border:1px dashed var(--border);border-radius:var(--radius)}
+  .note{max-width:900px;margin:0 auto 30px;padding:12px 16px;font-size:12px;color:var(--faint)}
+  mark{background:var(--accent-soft);color:var(--ink);border-radius:3px}
+  @media(max-width:520px){.head{flex-direction:column}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>Legal Terms Glossary</h1>
+  <div class="sub">The important words across your matters, in two honest kinds: <b>Statutory text</b> — the actual Missouri code language, quoted and cited, wherever an official definition exists — and <b>Legal term</b> — a plain-English explanation for procedural, appellate, and Latin terms that Missouri law defines through case law and court rules rather than a single code section. Nothing here is a "summary" of a statute that has its own definition; where the legislature wrote a definition, it's quoted below.</div>
+  <a class="linkback" href="https://claude.ai/artifact/MrUhWNjSgPV7AqMzbwUjAn">→ Companion artifact: Missouri Statute Browser (full statute text)</a>
+</div></header>
+
+<div class="controls">
+  <input id="q" type="search" placeholder="Search a term, citation, or keyword (e.g. vacatur, special victim, pro se)…" autocomplete="off">
+  <div class="chips" id="chips"></div>
+</div>
+<div class="controls"><div class="count" id="count"></div></div>
+
+<main id="list"></main>
+<div class="note">Not legal advice. Statutory definitions are quoted from the Missouri Revised Statutes and cited to the exact subsection; confirm current text and effective dates on revisor.mo.gov before relying on it in a filing. Plain-English entries explain how Missouri courts and rules generally use a term — they are not themselves quotable "law." Compiled 2026-09-27.</div>
+
+<script>
+const DATA = [
+// ===== DV / ORDER OF PROTECTION — STATUTORY (§ 455.010, § 455.085) =====
+{ term:"Abuse", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(1)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`Includes, but is not limited to, the occurrence of any of the following acts, attempts, or threats against a person who may be protected under this chapter (abuse does NOT include accidental harm to a child by an adult household member, or reasonable discipline including spanking):
+
+"Abusing a pet" — purposely or knowingly causing, attempting to cause, or threatening to cause physical injury to a pet, to control, punish, intimidate, or distress the petitioner.
+
+"Assault" — purposely or knowingly placing or attempting to place another in fear of physical harm.
+
+"Battery" — purposely or knowingly causing physical harm to another, with or without a deadly weapon.
+
+"Coercion" — compelling another by force or threat of force to engage in, or abstain from, conduct they have a right to abstain from or engage in.
+
+"Harassment" — a purposeful or knowing course of conduct (more than one incident) that alarms or causes distress to an adult or child and serves no legitimate purpose; must be conduct that would cause a reasonable person substantial emotional distress, and must actually have caused it — but does not include constitutionally protected activity.
+
+"Sexual assault" — causing or attempting to cause another to engage involuntarily in a sexual act by force, threat of force, duress, or without consent.
+
+"Unlawful imprisonment" — holding, confining, detaining, or abducting another against that person's will.`,
+  why:"Every act under “Abuse” is its own defined term. A petition (or a criminal charge) has to fit the conduct into one of these seven boxes — it can't just be labeled “abuse” in the air." },
+
+{ term:"Adult", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(2)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`Any person seventeen years of age or older, or otherwise emancipated.` },
+
+{ term:"Child", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(3)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`Any person under seventeen years of age, unless otherwise emancipated.` },
+
+{ term:"Court (for chapter 455 purposes)", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(4)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`The circuit or associate circuit judge, or a family court commissioner.` },
+
+{ term:"Domestic Violence", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(5)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`Abuse or stalking committed by a family or household member, as those terms are defined in this section.` },
+
+{ term:"Ex Parte Order of Protection", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(6)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`An order of protection issued by the court before the respondent has received notice of the petition or an opportunity to be heard on it.`,
+  why:"An ex parte order is one side of the story only — it takes effect immediately but only lasts until a hearing is held." },
+
+{ term:"Family or Household Member", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(7)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`Spouses, former spouses, any person related by blood or marriage, persons presently residing together or who have resided together in the past, any person who is or has been in a continuing social relationship of a romantic or intimate nature with the victim, and anyone who has a child in common — regardless of whether they were married or ever lived together.` },
+
+{ term:"Full Order of Protection", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(8)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`An order of protection issued after a hearing on the record where the respondent received notice of the proceedings and had an opportunity to be heard.` },
+
+{ term:"Order of Protection", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(9)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`Either an ex parte order of protection or a full order of protection.` },
+
+{ term:"Pending", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(10)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`Exists, or for which a hearing date has been set.` },
+
+{ term:"Pet", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(11)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`A living creature maintained by a household member for companionship and not for commercial purposes.` },
+
+{ term:"Petitioner", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(12)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`A family or household member who has been a victim of domestic violence, or any person who has been the victim of stalking or sexual assault, or a person filing on behalf of a child under § 455.020 or § 455.505.` },
+
+{ term:"Respondent", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(13)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`The family or household member alleged to have committed an act of domestic violence, or the person alleged to have committed stalking or sexual assault, against whom a verified petition has been filed.` },
+
+{ term:"Sexual Assault (chapter 455)", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(14), incorporating (1)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`As defined under subdivision (1) — see "Abuse" above: causing or attempting to cause another to engage involuntarily in a sexual act by force, threat of force, duress, or without consent.` },
+
+{ term:"Stalking", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.010(15)",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.010",
+  def:`Purposely engaging in an unwanted course of conduct that causes alarm to another person (or to someone residing in the same household as the person seeking the order), when it is reasonable in that person's situation to have been alarmed by the conduct.
+
+"Alarm" means to cause fear of danger of physical harm.
+
+"Course of conduct" means two or more acts that serve no legitimate purpose, including but not limited to acts in which the stalker directly, indirectly, or through a third party follows, monitors, observes, surveils, threatens, or communicates to a person by any action, method, or device.`,
+  why:"This is the definition Point IV of the ED114714 appeal turns on — “course of conduct” requires TWO OR MORE acts. A single incident, without more, does not meet subdivision (15)." },
+
+{ term:"Primary Physical Aggressor", cat:"DV & Order of Protection", source:"statute", cite:"§ 455.085.3",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.085",
+  def:`When both parties claim to have been assaulted, an officer is not required to arrest both — instead the officer must identify and arrest the "primary physical aggressor," described in the statute as the most significant, but not necessarily the first, aggressor, considering: the officer's intent to protect victims of domestic violence, the comparative extent of injuries or threats, and the history of domestic violence between the parties.`,
+  why:"Relevant to Count I of 26MR-CR00032 and to any argument about who the officers should have arrested at the scene." },
+
+// ===== CRIMINAL CULPABILITY & KEY DEFINITIONS — STATUTORY =====
+{ term:"Purposely", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 562.016.2",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=562.016",
+  def:`A person acts "purposely," or with purpose, with respect to his or her conduct or to a result of his or her conduct when it is his or her conscious object to engage in that conduct or to cause that result.` },
+
+{ term:"Knowingly", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 562.016.3",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=562.016",
+  def:`A person "knows" or acts "knowingly": (1) with respect to his or her conduct or to attendant circumstances, when he or she is aware of the nature of his or her conduct or that those circumstances exist; or (2) with respect to a result of his or her conduct, when he or she is aware that his or her conduct is practically certain to cause that result.` },
+
+{ term:"Recklessly", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 562.016.4",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=562.016",
+  def:`A person "acts recklessly" or is reckless when he or she consciously disregards a substantial and unjustifiable risk that circumstances exist or that a result will follow, and this disregard constitutes a gross deviation from the standard of care which a reasonable person would exercise in the situation.` },
+
+{ term:"Criminal Negligence", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 562.016.5",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=562.016",
+  def:`A person "acts with criminal negligence" or is criminally negligent when he or she fails to be aware of a substantial and unjustifiable risk that circumstances exist or that a result will follow, and this failure constitutes a gross deviation from the standard of care which a reasonable person would exercise in the situation.`,
+  why:"These four mental states are the backbone of every charge in your matters — § 565.056 turns on “attempts to cause or recklessly causes.” The line between “recklessly” and “criminal negligence” is whether the person was aware of the risk and disregarded it, or simply failed to notice it at all." },
+
+{ term:"Physical Injury", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 556.061",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=556.061",
+  def:`Slight impairment of any function of the body, or temporary loss of the use of any part of the body.` },
+
+{ term:"Serious Physical Injury", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 556.061",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=556.061",
+  def:`Physical injury that creates a substantial risk of death, or that causes serious disfigurement, or protracted loss or impairment of the function of any part of the body.` },
+
+{ term:"Serious Emotional Injury (criminal code)", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 556.061",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=556.061",
+  def:`An injury that creates a substantial risk of temporary or permanent medical or psychological damage, manifested by impairment of a behavioral, cognitive, or physical condition.`,
+  why:"Don't conflate this with “substantial emotional distress” in the § 455.010 harassment/stalking definitions — that's a different, chapter-455-specific standard, not this criminal-code definition." },
+
+{ term:"Deadly Weapon", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 556.061",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=556.061",
+  def:`Any firearm, loaded or unloaded, or any weapon from which a shot, readily capable of producing death or serious physical injury, may be discharged, or a switchblade knife, dagger, billy club, blackjack, or metal knuckles.` },
+
+{ term:"Dangerous Instrument", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 556.061",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=556.061",
+  def:`Any instrument, article, or substance which, under the circumstances in which it is used, is readily capable of causing death or other serious physical injury.` },
+
+{ term:"Forcible Compulsion", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 556.061",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=556.061",
+  def:`Either: physical force that overcomes reasonable resistance; or a threat, express or implied, that places a person in reasonable fear of death, serious physical injury, or kidnapping.` },
+
+{ term:"Special Victim", cat:"Criminal Culpability & Definitions", source:"statute", cite:"§ 565.002",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=565.002",
+  def:`A defined category of people assaulted while performing official duties — including law enforcement officers, emergency personnel, probation and parole officers, corrections officers, highway workers, utility and cable workers, mass transit employees, and certain elderly, disabled, or otherwise vulnerable persons. Charging a victim as a "special victim" upgrades the grade of some assault offenses (for example, from a class A misdemeanor to a felony).`,
+  why:"This is the term your § 565.056 entry cross-references. Count III is not charged as involving a “special victim,” so the ordinary class A/C misdemeanor grading in § 565.056.2–.3 applies — not an enhanced felony version." },
+
+// ===== OFFENSE CLASSIFICATION — STATUTORY =====
+{ term:"Felony & Misdemeanor Classes — Authorized Terms of Imprisonment", cat:"Offense Classification & Sentencing", source:"statute", cite:"§ 558.011.1",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=558.011",
+  def:`Class A felony — a term of years not less than ten years and not to exceed thirty years, or life imprisonment.
+Class B felony — a term of years not less than five years and not to exceed fifteen years.
+Class C felony — a term of years not less than three years and not to exceed ten years.
+Class D felony — a term of years not to exceed seven years.
+Class E felony — a term of years not to exceed four years.
+
+Class A misdemeanor — a term not to exceed one year.
+Class B misdemeanor — a term not to exceed six months.
+Class C misdemeanor — a term not to exceed fifteen days.
+
+(Missouri's misdemeanor grading currently runs A–C; there is no class D misdemeanor with its own imprisonment term under this section.)`,
+  why:"§ 565.056 and § 455.085 both grade violations by these classes. A class E felony (up to 4 years) is a very different exposure than a class A felony (10–30 years or life) — don't let “felony” alone do the scaring; check which class." },
+
+// ===== APPEALS (ED114714) — GENERAL / PROCEDURAL =====
+{ term:"Appellant", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`The party who lost (in whole or part) in the trial court and is asking the court of appeals to review and change that outcome. In ED114714, that's you.` },
+
+{ term:"Respondent / Appellee (on appeal)", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`The party who won below and is defending the trial court's judgment on appeal. Missouri's appellate rules use "respondent" as the standard label for this party.` },
+
+{ term:"Notice of Appeal", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`The document that starts an appeal, filed with the trial court clerk. Under Missouri Supreme Court Rule 81.04(a), it generally must be filed no later than ten days after the judgment or order appealed from becomes final.`,
+  why:"Missing this deadline is jurisdictional — the court of appeals can lose the power to hear the case at all, so it's worth double-checking the finality date it runs from." },
+
+{ term:"Jurisdictional Statement", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`The opening section of an appellant's brief (required by Rule 84.04(b)) that establishes exactly why the court of appeals has authority to hear this case — which statute or rule allows the appeal, and from which judgment or order.` },
+
+{ term:"Point Relied On", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`A numbered statement in an appellant's brief (governed by Rule 84.04(d)) that identifies: the specific ruling being challenged, why it was legally wrong, and why that error matters to the outcome. Each point is argued separately in the body of the brief.` },
+
+{ term:"Standard of Review", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`The lens the court of appeals uses to evaluate a trial court's ruling. Different kinds of rulings get different standards — see "De Novo Review" and "Abuse-of-Discretion Review."` },
+
+{ term:"De Novo Review", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`Literally "anew." The court of appeals decides the legal question fresh, giving no deference to how the trial court ruled. Used for pure questions of law — like how a statute should be interpreted.`,
+  why:"Whether the § 455.040 renewal clause runs from the expiration date or the hearing date is a statutory-interpretation question — that's the kind of issue reviewed de novo, not for abuse of discretion." },
+
+{ term:"Abuse-of-Discretion Review", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`A more deferential standard used for decisions the law leaves to the trial court's judgment (like how long to make an order, or whether to grant a continuance). The court of appeals will reverse only if the ruling was so unreasonable and arbitrary that it shocks the sense of justice.` },
+
+{ term:"Vacate / Vacatur", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`To void or set aside a judgment or order, so that legally it is treated as if it had never been entered.` },
+
+{ term:"Remand", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`Sending a case back down to the trial court, often with specific instructions about what to do next — hold a new hearing, recalculate a term, enter a corrected judgment, etc.` },
+
+{ term:"Final Judgment", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`A trial court ruling that resolves every claim between the parties and leaves nothing further for the trial court to decide. Generally, only a final judgment can be appealed.` },
+
+{ term:"Appealable Judgments and Orders", cat:"Appeals & Appellate Procedure", source:"statute", cite:"§ 512.020",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=512.020",
+  def:`Any party to a suit "aggrieved" by a trial court judgment may appeal from: an order granting a new trial; certain interlocutory receivership/injunction orders; an order granting or denying class certification (by the court of appeals' discretion); interlocutory partition judgments; or the final judgment in the case (or any special order after final judgment) — and failing to appeal an earlier ruling does not forfeit the right to have it reviewed on appeal from the final judgment.`,
+  why:"This is the statutory basis in the ED114714 jurisdictional statement — the appeal is taken under subdivision (5), from the final judgment renewing the order of protection." },
+
+{ term:"Record on Appeal", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`Everything the court of appeals reviews: the legal file (certified copies of the pleadings, motions, orders, and judgment from the trial court) plus the transcript (the certified word-for-word record of what was said at the hearing). The appellant is responsible for making sure it's complete.` },
+
+{ term:"Brief (Appellant's / Respondent's / Reply)", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`The written argument filed with the court of appeals. The appellant files first, the respondent files a brief defending the judgment, and the appellant may then file a reply brief limited to responding to the respondent's arguments.` },
+
+{ term:"Mandate", cat:"Appeals & Appellate Procedure", source:"general",
+  def:`The court of appeals' official notice to the trial court of its decision, directing what happens next — affirm, reverse, or remand.` },
+
+{ term:"Aggrieved Party", cat:"Appeals & Appellate Procedure", source:"general", cite:"see § 512.020",
+  def:`A party who has suffered a concrete, adverse effect from a judgment — the threshold requirement to have standing to appeal it. Missouri case law holds that even a party whose claim was involuntarily dismissed can remain "aggrieved" for appeal purposes (Aherron v. St. John's Mercy Medical Center, 713 S.W.2d 498 (Mo. banc 1986)).` },
+
+// ===== CRIMINAL PROCESS =====
+{ term:"Arraignment", cat:"Criminal Process", source:"general",
+  def:`The hearing where a defendant is formally informed of the charges against them and enters an initial plea (usually not guilty, pending further proceedings).` },
+
+{ term:"Probable Cause", cat:"Criminal Process", source:"general",
+  def:`A reasonable, fact-based belief that a crime was committed and that a specific person committed it. It's the constitutional minimum needed for an arrest, a search warrant, or filing a charge — well below "beyond a reasonable doubt."` },
+
+{ term:"Information", cat:"Criminal Process", source:"general",
+  def:`The formal written criminal charge a Missouri prosecutor files (without a grand jury) to start a felony or misdemeanor case in state court. This is the standard charging document in Missouri state prosecutions, including yours.` },
+
+{ term:"Indictment", cat:"Criminal Process", source:"general",
+  def:`A formal charge issued by a grand jury. Used far less often than the information in Missouri state court.` },
+
+{ term:"Complaint (criminal)", cat:"Criminal Process", source:"general",
+  def:`An initial charging document, often used to obtain an arrest warrant or summons, that may later be replaced by a formal information.` },
+
+{ term:"Summons", cat:"Criminal Process", source:"general",
+  def:`A court order directing a person to appear in court, used instead of an arrest warrant when immediate custody isn't required.` },
+
+{ term:"Bond / Conditions of Release", cat:"Criminal Process", source:"general",
+  def:`The financial and/or behavioral conditions a court sets to release a defendant while a case is pending — for example, a bond amount, no-contact orders, GPS monitoring, or travel restrictions.` },
+
+{ term:"Plea", cat:"Criminal Process", source:"general",
+  def:`A defendant's formal response to a charge: guilty, not guilty, or (occasionally) an Alford plea — pleading guilty while maintaining innocence, because the evidence would likely lead to a conviction anyway.` },
+
+{ term:"Nolle Prosequi", cat:"Criminal Process", source:"general",
+  def:`The prosecutor's formal decision to drop a charge. Latin for "unwilling to pursue."` },
+
+{ term:"Dismissal With / Without Prejudice", cat:"Criminal Process", source:"general",
+  def:`"With prejudice" means the charge is dismissed permanently and can't be refiled. "Without prejudice" means the State can refile the same charge later, as long as the statute of limitations hasn't run.` },
+
+{ term:"Discovery (criminal)", cat:"Criminal Process", source:"general",
+  def:`The pretrial process of exchanging evidence and information between the prosecution and the defense — police reports, witness lists, video, lab results, and the like.` },
+
+{ term:"Motion to Dismiss", cat:"Criminal Process", source:"general",
+  def:`A request asking the court to throw out a charge or case, typically because of a legal defect — for example, the charge doesn't legally state an offense, or the statute of limitations has run.` },
+
+{ term:"Motion to Suppress", cat:"Criminal Process", source:"general",
+  def:`A request to exclude evidence from trial, typically because it was obtained in violation of a constitutional right — for example, an unlawful stop, search, or interrogation.` },
+
+{ term:"Preliminary Hearing", cat:"Criminal Process", source:"general",
+  def:`A hearing where a judge decides whether there is probable cause to require a defendant to answer to a felony charge.` },
+
+{ term:"Expungement", cat:"Criminal Process", source:"statute", cite:"§ 610.122",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=610.122",
+  def:`The legal process of sealing (not physically destroying) an arrest or court record so it generally no longer shows up on background checks — governed by strict eligibility rules, including that it can be barred while a related civil action is pending (see In re Dyer, 163 S.W.3d 915 (Mo. App. 2005)).`,
+  why:"Tied to 26RL-CV00280, the Ralls County expungement matter." },
+
+// ===== CIVIL PROCEDURE & BURDENS OF PROOF =====
+{ term:"Preponderance of the Evidence", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`The standard of proof used in civil cases, including orders of protection: more likely than not — just over a 50% probability that the claim is true.` },
+
+{ term:"Clear and Convincing Evidence", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`A heightened civil standard, higher than preponderance but lower than beyond a reasonable doubt — the claim must be highly probable or reasonably certain.` },
+
+{ term:"Beyond a Reasonable Doubt", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`The standard used in criminal cases — the highest burden of proof in the legal system, requiring near-certainty of guilt before a conviction.` },
+
+{ term:"Burden of Proof", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`Which party has the job of proving a disputed fact, and to what standard (preponderance, clear and convincing, or beyond a reasonable doubt).` },
+
+{ term:"Service of Process", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`Formally delivering court papers — a petition, summons, or order — to a party, so they have legal notice of the case against them.` },
+
+{ term:"Default Judgment", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`A judgment entered against a party who fails to respond to a petition or appear in court when required.` },
+
+{ term:"Contempt of Court", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`Willful disobedience of a court order. Civil contempt is used to coerce future compliance; criminal contempt is used to punish past disobedience.` },
+
+{ term:"Modification", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`A request to change the terms of an existing order — for example, custody, visitation, or the conditions of a protective order.` },
+
+{ term:"Continuance", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`A postponement of a scheduled hearing or trial date, typically requiring "good cause."` },
+
+{ term:"Evidentiary Hearing", cat:"Civil Procedure & Burdens of Proof", source:"general",
+  def:`A hearing where the court actually receives sworn testimony and other evidence, rather than just hearing argument from the parties or their attorneys.`,
+  why:"This is the distinction the § 455.040 case note (Ehrhart v. Ehrhart) turns on — a proceeding with no witnesses sworn and no evidence offered is not a statutorily required “hearing.”" },
+
+// ===== EMPLOYMENT / EEOC-MCHR (TRUE MFG) =====
+{ term:"Charge of Discrimination", cat:"Employment / EEOC-MCHR", source:"general",
+  def:`The formal complaint filed with the EEOC (or a state agency like the Missouri Commission on Human Rights) that starts the required administrative process before an employment discrimination or retaliation lawsuit can be filed.` },
+
+{ term:"Right-to-Sue Letter", cat:"Employment / EEOC-MCHR", source:"general",
+  def:`The notice that closes the administrative process and starts a limited window to file a lawsuit in court — generally 90 days from receipt, whether issued by the EEOC or by MCHR under Missouri law.`,
+  why:"Once this letter issues, the clock is running — missing the 90-day window can bar the claim entirely, separate from the 180-day filing deadline under § 213.075." },
+
+{ term:"Work-Sharing / Deeming Provision", cat:"Employment / EEOC-MCHR", source:"statute", cite:"§ 213.075.2",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=213.075",
+  def:`A complaint filed with the federal EEOC (or another federal agency with a work-sharing or deferral agreement with the Missouri Commission on Human Rights, or with a certified local commission) is deemed filed with the Missouri Commission on the date the federal agency or local commission received it.`,
+  why:"This is what lets a single EEOC charge preserve both the federal and the state (MCHR) claim without filing twice — relevant to the ~Nov. 5, 2026 True Mfg deadline." },
+
+{ term:"180-Day Filing Deadline (MCHR)", cat:"Employment / EEOC-MCHR", source:"statute", cite:"§ 213.075.1",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=213.075",
+  def:`As a jurisdictional condition precedent to filing a civil action under chapter 213, a person claiming to be aggrieved by an unlawful discriminatory practice must file a verified complaint with the Missouri Commission on Human Rights within 180 days of the alleged act of discrimination. Missing this deadline deprives the Commission of jurisdiction and can be raised as a complete defense at any time.` },
+
+{ term:"Prima Facie Case (employment)", cat:"Employment / EEOC-MCHR", source:"general",
+  def:`The minimum initial showing a plaintiff must make to get a discrimination or retaliation claim in front of a factfinder. For retaliation, this generally means: the person engaged in protected activity, suffered an adverse employment action, and there was a causal connection between the two.` },
+
+{ term:"Protected Activity", cat:"Employment / EEOC-MCHR", source:"general",
+  def:`Conduct the law shields from retaliation — for example, filing a discrimination charge, participating in an investigation, or opposing a practice reasonably believed to be unlawful.` },
+
+{ term:"Adverse Employment Action", cat:"Employment / EEOC-MCHR", source:"general",
+  def:`An action by an employer serious enough that it would dissuade a reasonable employee from engaging in protected activity — for example, firing, demotion, or suspension.` },
+
+{ term:"Retaliation", cat:"Employment / EEOC-MCHR", source:"general",
+  def:`An employer punishing an employee for engaging in protected activity.` },
+
+{ term:"McDonnell Douglas Framework", cat:"Employment / EEOC-MCHR", source:"general",
+  def:`The burden-shifting analysis courts use for discrimination and retaliation claims built on indirect evidence: the employee first makes a prima facie case; the employer then offers a legitimate, non-discriminatory reason for its action; the employee must then show that reason is pretext for the real, unlawful motive.` },
+
+{ term:"Pretext", cat:"Employment / EEOC-MCHR", source:"general",
+  def:`A false or invented reason offered to hide the real (and unlawful) motive behind an employment action.` },
+
+// ===== GENERAL & LATIN LEGAL TERMS =====
+{ term:"Pro Se", cat:"General & Latin Terms", source:"general",
+  def:`Representing yourself in court, without a lawyer. Latin for "for oneself."` },
+
+{ term:"In Forma Pauperis", cat:"General & Latin Terms", source:"general",
+  def:`Permission to proceed in court without paying filing fees, based on a sworn showing of inability to pay. Latin for "in the manner of a pauper."` },
+
+{ term:"Res Judicata", cat:"General & Latin Terms", source:"general",
+  def:`"A thing decided." Once a court issues a final judgment on a claim, the same parties generally can't relitigate that same claim again in a new case.` },
+
+{ term:"Collateral Estoppel", cat:"General & Latin Terms", source:"general",
+  def:`"Issue preclusion." Once a specific factual or legal issue has actually been litigated and decided, the same parties generally can't relitigate that specific issue in a different case, even if the case itself is different.` },
+
+{ term:"Habeas Corpus", cat:"General & Latin Terms", source:"general",
+  def:`"You shall have the body." A proceeding that challenges the legality of a person's detention or imprisonment.` },
+
+{ term:"Amicus Curiae", cat:"General & Latin Terms", source:"general",
+  def:`"Friend of the court." A non-party who submits a brief to offer the court additional information, expertise, or argument relevant to the case.` },
+
+{ term:"Certiorari / Transfer", cat:"General & Latin Terms", source:"general",
+  def:`An order from a higher court agreeing to review a lower court's decision. In Missouri's own courts, after a court of appeals decision, the equivalent step is called "transfer" to the Missouri Supreme Court, not certiorari (which is the U.S. Supreme Court's term).` },
+
+{ term:"Mens Rea / Actus Reus", cat:"General & Latin Terms", source:"general",
+  def:`"Guilty mind" and "guilty act." Most crimes require both: a culpable mental state (see purposely / knowingly / recklessly / criminal negligence, § 562.016) and a physical act or omission.` },
+
+{ term:"Good Cause", cat:"General & Latin Terms", source:"general",
+  def:`A legally sufficient, legitimate reason for doing (or not doing) something. It recurs throughout the DV statutes — for continuances, and as the standard for issuing an ex parte order.` },
+
+{ term:"Good-Faith / Qualified Immunity (officers)", cat:"General & Latin Terms", source:"statute", cite:"§ 455.085.4",
+  url:"https://revisor.mo.gov/main/OneSection.aspx?section=455.085",
+  def:`An officer acting in good-faith reliance on the arrest-for-violation statute, and that officer's employing entity and superiors, are immune from civil liability for false arrest, false imprisonment, or malicious prosecution arising from that action.` },
+];
+
+const cats = [...new Set(DATA.map(d=>d.cat))];
+const chips = document.getElementById('chips');
+let activeCat = null;
+chips.innerHTML = cats.map(c=>`<div class="chip" data-c="${esc(c)}">${esc(c)}</div>`).join('');
+chips.addEventListener('click', e=>{
+  const el = e.target.closest('.chip');
+  if(!el) return;
+  const c = el.dataset.c;
+  activeCat = (activeCat === c) ? null : c;
+  [...chips.children].forEach(ch=>ch.classList.toggle('active', ch.dataset.c===activeCat));
+  render();
+});
+
+const q = document.getElementById('q');
+q.addEventListener('input', render);
+
+function esc(s){ return String(s).replace(/[&<>"']/g, m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m])); }
+function hi(s, term){
+  if(!term) return esc(s);
+  const re = new RegExp('(' + term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&') + ')', 'ig');
+  return esc(s).replace(re, '<mark>$1</mark>');
+}
+
+function render(){
+  const term = q.value.trim();
+  const list = document.getElementById('list');
+  const count = document.getElementById('count');
+  let rows = DATA.filter(d=>{
+    if(activeCat && d.cat !== activeCat) return false;
+    if(!term) return true;
+    const hay = (d.term + ' ' + (d.cite||'') + ' ' + d.def + ' ' + (d.why||'')).toLowerCase();
+    return hay.includes(term.toLowerCase());
+  });
+  count.textContent = rows.length + (rows.length===1 ? ' term' : ' terms') + (activeCat ? ' in ' + activeCat : '') + (term ? ' matching "' + term + '"' : '');
+  if(!rows.length){ list.innerHTML = '<div class="empty">No terms match. Try a different word or clear the filter.</div>'; return; }
+
+  let html = '';
+  let lastCat = null;
+  rows.forEach((d, i)=>{
+    if(d.cat !== lastCat){ html += `<div class="cat-heading">${esc(d.cat)}</div>`; lastCat = d.cat; }
+    const badgeClass = d.source === 'statute' ? 'statute' : 'general';
+    const badgeLabel = d.source === 'statute' ? 'Statutory text' : 'Legal term';
+    html += `<div class="card" data-i="${i}">
+      <div class="head" onclick="this.parentElement.classList.toggle('open')">
+        <div>
+          <div class="term">${hi(d.term, term)}</div>
+          ${d.cite ? `<div class="cite">${esc(d.cite)}</div>` : ''}
+        </div>
+        <div class="badge ${badgeClass}">${badgeLabel}</div>
+      </div>
+      <div class="body">
+        <div class="text">${hi(d.def, term)}</div>
+        ${d.why ? `<div class="why"><b>Why it matters:</b> ${hi(d.why, term)}</div>` : ''}
+        ${d.url ? `<div class="meta">Official text: <a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.url)}</a></div>` : ''}
+      </div>
+    </div>`;
+  });
+  list.innerHTML = html;
+}
+render();
+</script>
+</body>
+</html>
+
+</body></html>
