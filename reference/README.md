@@ -88,3 +88,10 @@ reference/
     constitution.md         Missouri Law Library only
     source/                 the artifact's published files, byte for byte
 ```
+
+## Dashboard
+
+The [Legal Reference Library dashboard](https://claude.ai/artifact/QdUBvmcsUVYabF7YVP4agF) browses this tree:
+every RSMo and constitution section, the LawMind statute, dictionary, Latin, encyclopedia and case volumes,
+the cited authorities and deadlines, plus the newest records in the The7Garner Law4Firm database.
+`python3 scripts/reference-sync/dashboard_extract.py reference out/` rebuilds its data files after a re-sync.
