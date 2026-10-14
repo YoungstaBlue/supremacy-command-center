@@ -386,12 +386,26 @@ def snapshot_files(src: dict, snap: Path) -> list[Path]:
     wanted = ["index.html"] + list(src.get("files", []))
     if src["kind"] == "docs":
         wanted = ["index.html", "doc.xml"]
+
+    relative_files = {}
+    for path in snap.rglob("*"):
+        if path.is_file():
+            relative_files[path.relative_to(snap).as_posix()] = path
+
     files: list[Path] = []
+    seen: set[Path] = set()
     for pattern in wanted:
-        matches = sorted(p for p in snap.rglob("*") if p.is_file() and fnmatch.fnmatch(p.relative_to(snap).as_posix(), pattern))
+        matches = [
+            path
+            for rel_path, path in relative_files.items()
+            if fnmatch.fnmatch(rel_path, pattern)
+        ]
         if not matches:
             raise SystemExit(f"{src['slug']}: snapshot is missing {pattern}")
-        files += matches
+        for match in sorted(matches):
+            if match not in seen:
+                files.append(match)
+                seen.add(match)
     return files
 
 
