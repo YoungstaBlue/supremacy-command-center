@@ -91,7 +91,9 @@ reference/
 
 ## Dashboard
 
-The [Legal Reference Library dashboard](https://claude.ai/artifact/QdUBvmcsUVYabF7YVP4agF) browses this tree:
-every RSMo and constitution section, the LawMind statute, dictionary, Latin, encyclopedia and case volumes,
-the cited authorities and deadlines, plus the newest records in the The7Garner Law4Firm database.
-`python3 scripts/reference-sync/dashboard_extract.py reference out/` rebuilds its data files after a re-sync.
+The [Legal Reference Library dashboard](https://claude.ai/artifact/QdUBvmcsUVYabF7YVP4agF) reads the
+LawMind database live: statutes and regulations, dictionary terms, Latin terms, the thesaurus, encyclopedia
+articles, case summaries, verified authorities and deadline rules, each searched at the database as you type.
+The snapshots in this tree are its backup: every shelf has a "Show library backup" switch, and the backup
+opens on its own when the live read fails. `python3 scripts/reference-sync/dashboard_extract.py reference out/`
+rebuilds the backup data files after a re-sync.
