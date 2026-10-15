@@ -1,0 +1,424 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found]){display:none!important}</style></head><body>
+<title>LawMind Platform Audit</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;700&display=swap">
+<style>
+:root{
+  --paper:#F5F6F9; --surface:#FFFFFF; --sunken:#EDEFF4;
+  --ink:#111827; --ink-2:#3D4657; --ink-3:#6B7488;
+  --rule:#DDE1E9; --rule-2:#C6CCD8;
+  --royal:#1D4ED8; --royal-soft:#E8EEFC; --gold:#9A7412;
+  --crit:#A3201B; --crit-bg:#FBEAE8;
+  --high:#B5540C; --high-bg:#FCEFE3;
+  --med:#7A5D10; --med-bg:#F8F1DC;
+  --ok:#166149; --ok-bg:#E4F1EB;
+  --shadow:0 1px 2px rgba(16,24,40,.05),0 1px 3px rgba(16,24,40,.04);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0D1017; --surface:#141821; --sunken:#1B2029;
+  --ink:#E9ECF2; --ink-2:#B2BAC9; --ink-3:#828B9D;
+  --rule:#262C38; --rule-2:#333B4A;
+  --royal:#7FA3F5; --royal-soft:#1A2438; --gold:#D6AE55;
+  --crit:#F0918B; --crit-bg:#2E1614;
+  --high:#EDA76B; --high-bg:#2C1D11;
+  --med:#DCC077; --med-bg:#282111;
+  --ok:#6FC9A5; --ok-bg:#12261F;
+  --shadow:0 1px 2px rgba(0,0,0,.4);
+}}
+:root[data-theme="dark"]{
+  --paper:#0D1017; --surface:#141821; --sunken:#1B2029;
+  --ink:#E9ECF2; --ink-2:#B2BAC9; --ink-3:#828B9D;
+  --rule:#262C38; --rule-2:#333B4A;
+  --royal:#7FA3F5; --royal-soft:#1A2438; --gold:#D6AE55;
+  --crit:#F0918B; --crit-bg:#2E1614;
+  --high:#EDA76B; --high-bg:#2C1D11;
+  --med:#DCC077; --med-bg:#282111;
+  --ok:#6FC9A5; --ok-bg:#12261F;
+  --shadow:0 1px 2px rgba(0,0,0,.4);
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);
+  font-family:"Source Sans 3",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:60rem;margin:0 auto;padding:0 1.5rem 6rem}
+code,.mono{font-family:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace}
+
+/* masthead */
+.mast{padding:3.5rem 0 1.75rem;border-bottom:2px solid var(--ink)}
+.eyebrow{font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);
+  font-weight:700;margin:0 0 .9rem}
+h1{font-family:Spectral,Georgia,serif;font-weight:700;font-size:clamp(2.1rem,5vw,3.1rem);
+  line-height:1.08;margin:0 0 .6rem;text-wrap:balance;letter-spacing:-.015em}
+.dek{font-size:1.075rem;color:var(--ink-2);margin:0;max-width:44rem}
+.metaline{display:flex;flex-wrap:wrap;gap:.5rem 1.75rem;margin-top:1.5rem;
+  font-size:.8rem;color:var(--ink-3)}
+.metaline b{color:var(--ink-2);font-weight:600}
+
+.readonly{display:flex;gap:.75rem;align-items:flex-start;margin-top:1.5rem;padding:.8rem 1rem;
+  background:var(--ok-bg);border-left:3px solid var(--ok);border-radius:0 4px 4px 0;font-size:.9rem}
+.readonly b{color:var(--ok)}
+
+h2{font-family:Spectral,Georgia,serif;font-size:1.6rem;font-weight:600;letter-spacing:-.01em;
+  margin:3.5rem 0 .4rem;padding-top:1.5rem;border-top:1px solid var(--rule);text-wrap:balance}
+h2:first-of-type{border-top:none}
+.sub{color:var(--ink-3);font-size:.92rem;margin:0 0 1.5rem;max-width:44rem}
+
+/* inventory */
+.inv{display:grid;grid-template-columns:repeat(auto-fit,minmax(7.5rem,1fr));gap:1px;
+  background:var(--rule);border:1px solid var(--rule);border-radius:5px;overflow:hidden;margin:1.5rem 0}
+.inv div{background:var(--surface);padding:.9rem 1rem}
+.inv .n{font-family:Spectral,serif;font-size:1.75rem;font-weight:600;line-height:1;
+  font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.inv .l{font-size:.72rem;text-transform:uppercase;letter-spacing:.09em;color:var(--ink-3);
+  margin-top:.35rem;font-weight:600}
+
+/* live status */
+.live{border:1px solid var(--crit);border-radius:5px;overflow:hidden;margin:1.5rem 0}
+.live-h{background:var(--crit-bg);color:var(--crit);padding:.7rem 1.1rem;font-weight:700;
+  font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;
+  border-bottom:1px solid var(--crit);display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}
+.live-h span{font-weight:400;letter-spacing:.02em;text-transform:none;color:var(--ink-2)}
+.tbl-scroll{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:.85rem;background:var(--surface)}
+th{text-align:left;font-size:.68rem;text-transform:uppercase;letter-spacing:.09em;
+  color:var(--ink-3);font-weight:700;padding:.6rem .9rem;border-bottom:1px solid var(--rule);
+  background:var(--sunken);white-space:nowrap}
+td{padding:.6rem .9rem;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:last-child td{border-bottom:none}
+td.num{font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
+.dead{color:var(--crit);font-weight:700}
+
+/* findings */
+.finding{background:var(--surface);border:1px solid var(--rule);border-left-width:4px;
+  border-radius:0 5px 5px 0;padding:1.15rem 1.35rem;margin:0;box-shadow:var(--shadow)}
+.stack{display:flex;flex-direction:column;gap:.9rem;margin:1.5rem 0}
+.f-crit{border-left-color:var(--crit)} .f-high{border-left-color:var(--high)}
+.f-med{border-left-color:var(--med)}
+.f-head{display:flex;gap:.6rem;align-items:baseline;flex-wrap:wrap;margin-bottom:.5rem}
+.id{font-family:"JetBrains Mono",monospace;font-size:.72rem;font-weight:700;
+  padding:.15rem .45rem;border-radius:3px;letter-spacing:.03em}
+.f-crit .id{background:var(--crit-bg);color:var(--crit)}
+.f-high .id{background:var(--high-bg);color:var(--high)}
+.f-med .id{background:var(--med-bg);color:var(--med)}
+.f-title{font-family:Spectral,serif;font-size:1.12rem;font-weight:600;line-height:1.3;
+  flex:1;min-width:14rem;text-wrap:balance}
+.finding p{margin:.5rem 0;font-size:.94rem;color:var(--ink-2)}
+.finding p:last-child{margin-bottom:0}
+.finding b{color:var(--ink);font-weight:600}
+.ev{background:var(--sunken);border-radius:4px;padding:.65rem .8rem;margin:.7rem 0;
+  font-family:"JetBrains Mono",monospace;font-size:.775rem;line-height:1.55;
+  color:var(--ink-2);overflow-x:auto;white-space:pre;border-left:2px solid var(--rule-2)}
+.src{font-family:"JetBrains Mono",monospace;font-size:.73rem;color:var(--ink-3);
+  display:block;margin-top:.55rem}
+.src::before{content:"↳ ";color:var(--rule-2)}
+p code,li code,td code{background:var(--sunken);padding:.08em .35em;border-radius:3px;
+  font-size:.86em;color:var(--ink)}
+
+/* good */
+.good{background:var(--ok-bg);border:1px solid var(--ok);border-radius:5px;padding:1.25rem 1.4rem;margin:1.5rem 0}
+.good h3{margin:0 0 .7rem;font-family:Spectral,serif;font-size:1.15rem;font-weight:600;color:var(--ok)}
+.good ul{margin:0;padding-left:1.1rem}
+.good li{margin:.45rem 0;font-size:.93rem;color:var(--ink-2)}
+.good li b{color:var(--ink)}
+
+/* fix order */
+ol.fix{list-style:none;counter-reset:s;padding:0;margin:1.5rem 0;
+  display:flex;flex-direction:column;gap:1px;background:var(--rule);
+  border:1px solid var(--rule);border-radius:5px;overflow:hidden}
+ol.fix li{counter-increment:s;background:var(--surface);padding:.9rem 1.1rem .9rem 3.2rem;
+  position:relative;font-size:.94rem;color:var(--ink-2)}
+ol.fix li::before{content:counter(s);position:absolute;left:1.1rem;top:.9rem;
+  font-family:"JetBrains Mono",monospace;font-size:.78rem;font-weight:700;color:var(--royal);
+  background:var(--royal-soft);width:1.5rem;height:1.5rem;border-radius:3px;
+  display:grid;place-items:center}
+ol.fix b{color:var(--ink);font-weight:600}
+.eff{font-size:.75rem;color:var(--ink-3);display:block;margin-top:.2rem}
+
+/* bars */
+.bar{height:.4rem;background:var(--sunken);border-radius:2px;overflow:hidden;min-width:4.5rem}
+.bar i{display:block;height:100%;background:var(--royal);border-radius:2px}
+
+.note{font-size:.85rem;color:var(--ink-3);border-top:1px solid var(--rule);
+  margin-top:3.5rem;padding-top:1.25rem}
+.note b{color:var(--ink-2)}
+a{color:var(--royal)}
+:focus-visible{outline:2px solid var(--royal);outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+@media(max-width:600px){.wrap{padding:0 1rem 4rem}.mast{padding-top:2.25rem}}
+</style>
+
+<div class="wrap">
+
+<header class="mast">
+  <p class="eyebrow">Read-only audit · Base44 workspace</p>
+  <h1>LawMind Platform Audit</h1>
+  <p class="dek">Security, data-integrity and automation review of 🔯The7Garner🔱Law4Firm🔯 — the Missouri legal case-management platform, its 16 super-agents, and the 76 workflows running behind them.</p>
+  <div class="metaline">
+    <span><b>App</b> 6a53429210c1ce40398a53a8</span>
+    <span><b>Audited</b> 3 September 2026</span>
+    <span><b>Method</b> static read + live entity queries</span>
+  </div>
+  <div class="readonly"><div><b>Nothing was changed.</b> Every tool call in this audit was a read. No entity, function, workflow, agent or file was created, edited or deleted. Fixes below are recommendations only, pending your go-ahead.</div></div>
+</header>
+
+<h2>What's in the system</h2>
+<p class="sub">Two smaller apps (PayloadForge, Untitled) were inventoried but not audited — this report covers the legal platform only.</p>
+<div class="inv">
+  <div><div class="n">54</div><div class="l">Entities</div></div>
+  <div><div class="n">164</div><div class="l">Backend fns</div></div>
+  <div><div class="n">76</div><div class="l">Workflows</div></div>
+  <div><div class="n">16</div><div class="l">Agents</div></div>
+  <div><div class="n">17</div><div class="l">Connectors</div></div>
+  <div><div class="n">~1,184</div><div class="l">Sched. runs/day</div></div>
+</div>
+
+<h2>Broken right now</h2>
+<p class="sub">Live <code>SyncHeartbeat</code> state, queried directly. Five sources have been dead for 20 days and the system has stopped reporting it — <code>sync-watchdog</code> skips any source at 5 consecutive stalls, and <code>system-health</code> doubles the alert threshold on each repeat, so these rows have escalated themselves into silence.</p>
+<div class="live">
+  <div class="live-h">Sync sources down<span>last heartbeat 2026-08-14 · verified 2026-09-03</span></div>
+  <div class="tbl-scroll"><table>
+    <thead><tr><th>Source</th><th>Recovery fn</th><th class="num">Stalls</th><th class="num">Threshold</th><th>Last error</th></tr></thead>
+    <tbody>
+      <tr><td class="dead">court_docket_sync</td><td><code>sync-court-dockets</code></td><td class="num">5</td><td class="num">720m</td><td>HTTP 524</td></tr>
+      <tr><td class="dead">library_scraper</td><td><code>bulk-scrape-library</code></td><td class="num">5</td><td class="num">720m</td><td>HTTP 524</td></tr>
+      <tr><td class="dead">echo_system</td><td><code>echo-orchestrator</code></td><td class="num">5</td><td class="num">720m</td><td>HTTP 524</td></tr>
+      <tr><td class="dead">drive_backup</td><td><code>backup-library-to-drive</code></td><td class="num">5</td><td class="num">1440m</td><td>HTTP 524</td></tr>
+      <tr><td class="dead">superagent_sync</td><td><code>superagent-sync</code></td><td class="num">5</td><td class="num">720m</td><td>HTTP 502</td></tr>
+      <tr><td>pending_sync_queue</td><td><code>process-pending-sync-queue</code></td><td class="num">0</td><td class="num">15m</td><td>reports <b>active</b> — see W-4</td></tr>
+    </tbody>
+  </table></div>
+</div>
+<p class="sub" style="margin-top:-.5rem"><b style="color:var(--crit)">court_docket_sync is the feed for court deadlines.</b> It has not run since 14 August. Anything downstream that assumes docket freshness — deadline monitors, calendar sync, the urgent drafter — has been working from three-week-old data.</p>
+
+<h2>Critical</h2>
+<p class="sub">Ordered by what a competent attacker or a bad day reaches first. Each finding cites the file and line it came from.</p>
+<div class="stack">
+
+  <div class="finding f-crit">
+    <div class="f-head"><span class="id">SEC-1</span><span class="f-title">The email intake endpoint has no authentication</span></div>
+    <p><code>email-case-intake</code> has no <code>base44.auth.me()</code> call anywhere in the file. A comment asserts it "runs as service role — triggered by workflows, not end users," but nothing enforces that. It then reads arbitrary Gmail message IDs as service role and returns sender, subject and an LLM summary of the body in the HTTP response.</p>
+    <div class="ev">export default async function (req: Request): Promise&lt;Response&gt; {
+    const base44 = createClientFromRequest(req);
+    const body = await req.json().catch(() =&gt; ({}));
+    const messageIds: string[] = body.message_ids || [];</div>
+    <p><b>Why it's certain:</b> <code>approve-pending-email</code> uses the identical function shape and <i>does</i> check auth and admin — which proves this shape is HTTP-routable and that auth is the function's own job.</p>
+    <p><b>Impact:</b> unauthenticated read of privileged attorney-client email, plus service-role writes to <code>CaseDocument</code> and <code>Notification</code>.</p>
+    <span class="src">base44/functions/email-case-intake/entry.ts:75-79</span>
+  </div>
+
+  <div class="finding f-crit">
+    <div class="f-head"><span class="id">AI-1</span><span class="f-title">A scheduled job writes AI-invented case law into the research library</span></div>
+    <p><code>AutoCaseGenerator</code> runs <b>every 5 minutes</b> and asks an LLM for "20 real, accurate appellate case summaries," then bulk-creates the result straight into <code>CaseSummary</code> with <b>no citation verification</b> — even though <code>verify-citations-courtlistener</code> exists in this same codebase.</p>
+    <p>Those rows are indistinguishable from genuinely scraped CourtListener records. They feed <code>link-casesummary-findings</code>, <code>evidence-precedent-match</code>, and document drafting. At full rate that is <b>5,760 synthetic case summaries per day</b>.</p>
+    <p>Your own <code>PROJECT_KNOWLEDGE.txt</code> forbids exactly this: <i>"Prioritize Retrieval-Augmented Generation over free-form generative text for factual accuracy"</i> and <i>"never hallucinate attorneys/parties."</i></p>
+    <p><b>This is the finding I would act on first.</b> Fabricated authority sitting in the library is how a bad citation reaches a filed pleading.</p>
+    <span class="src">base44/workflows/AutoCaseGenerator.jsonc · functions/auto-generate-cases/entry.ts</span>
+  </div>
+
+  <div class="finding f-crit">
+    <div class="f-head"><span class="id">AI-2</span><span class="f-title">An LLM silently rewrites statutory text every morning</span></div>
+    <p><code>LibraryContentVerification</code> fires daily at 09:00 and runs <code>verify-library-content</code> with <code>auto_fix: true</code>. On medium-or-high model confidence it writes <code>verdict.corrected_content</code> directly into <code>Statute.body</code>, <code>CaseSummary.summary</code>, <code>LegalTerm.definition</code> and <code>EncyclopediaArticle.body</code> — then sends a notification after the fact.</p>
+    <p>It also calls <code>InvokeLLM</code> directly rather than <code>guardedInvokeLLM</code>, so this spend is uncapped and invisible to the credit ledger.</p>
+    <p><b>Fix shape:</b> corrections should queue for human review, not overwrite primary law in place.</p>
+    <span class="src">base44/functions/verify-library-content/entry.ts</span>
+  </div>
+
+  <div class="finding f-crit">
+    <div class="f-head"><span class="id">AG-1</span><span class="f-title">The one agent with no honesty guardrails is the one with drafting tools</span></div>
+    <p>Fifteen of your sixteen agents carry an explicit anti-fabrication rule. <code>library_curator</code> carries none — no "never fabricate a citation," no retrieval-first rule, no verbatim-quote rule, no disclaimer. Its only honesty instruction concerns ingestion bookkeeping.</p>
+    <p>It nonetheless holds <code>generate-legal-document</code>, <code>generateAffidavit</code>, <code>legalAnalysis</code> and <code>organize-case-docs</code>.</p>
+    <div class="ev">legal_research   "NEVER invent a statute, case name, citation, date, or definition"
+chief_justice    "NEVER fabricate a date, citation, party, or fact"
+god_drafter      "Never invent citations — cite only retrieved records verbatim"
+library_curator  — none —</div>
+    <span class="src">base44/agents/library_curator.jsonc</span>
+  </div>
+
+  <div class="finding f-crit">
+    <div class="f-head"><span class="id">AG-2</span><span class="f-title">No prompt-injection defense exists, and the scraper agent is told to act on what it ingests</span></div>
+    <p>A grep of the entire repository for <code>ignore previous</code>, <code>prompt injection</code>, <code>untrusted</code> and <code>injection</code> returns two hits, both unrelated. There is no injection handling anywhere.</p>
+    <p><code>library_curator</code> scrapes untrusted external text at scale — Cornell LII, govinfo, CourtListener, the ~6.7M-case Caselaw Access Project — and is then instructed:</p>
+    <div class="ev">"NEVER ask the user 'should I continue?' between scrapers — just chain them"
+
+"use your new cross-node tools (legalAnalysis, generate-legal-document,
+ organize-case-docs) to kick off analysis/drafting/organization on the
+ freshly ingested material... without handing back to the user between steps."</div>
+    <p>Combined with AG-1, that is untrusted third-party text flowing into a drafting tool with no adversarial handling and no guardrails in between. The filing gate (below) stops it becoming a filing — but it will poison the library that every other agent treats as ground truth.</p>
+  </div>
+
+  <div class="finding f-crit">
+    <div class="f-head"><span class="id">OPS-1</span><span class="f-title">Synthetic case generation is eating the credit budget the deadline drafter needs</span></div>
+    <p>Live <code>CreditUsage</code> shows repeated cap breaches: <code>2026-09-01</code> at 105/100 with <b>398 blocked calls</b>; also 08-21 (103/100), 08-17 (101/50), 08-14 (103/100), 08-10 (109/100). A code comment in <code>system-health</code> cites 1,046 blocked calls on 2026-07-24.</p>
+    <p>The mechanism is a timezone mismatch. <code>AutoCaseGenerator</code> runs on <b>UTC</b> 5-minute intervals and the cap resets on UTC date, so it drains the budget from 00:00 UTC. <code>UrgentDeadlineDrafter</code> (06:00 Chicago) and <code>BlackAndBlueCannons</code> (12:00 Chicago) both fire <i>after</i> the money is gone and throw <code>CreditLimitError</code>.</p>
+    <p><b>A court-deadline drafting system is being starved by a workflow that invents case law.</b> Both critical findings resolve with the same switch.</p>
+    <p><i>Currently mitigated:</i> no CreditUsage rows for 09-02 or 09-03 and the watchdog reads 0/100, so AutoCaseGenerator appears paused — but the configuration is intact and will recur if re-enabled.</p>
+  </div>
+
+  <div class="finding f-crit">
+    <div class="f-head"><span class="id">OPS-2</span><span class="f-title">Failure alerting is structurally disabled after five stalls</span></div>
+    <p>Once a sync source reaches 5 consecutive stalls, <code>sync-watchdog</code> skips it permanently and never alerts again:</p>
+    <div class="ev">if (hb.status === 'error' &amp;&amp; hb.consecutive_stalls &gt;= 5) continue; // exhausted</div>
+    <p><code>system-health</code> compounds it by doubling the alert threshold on each repeat — <code>Math.min((h.threshold_minutes || 15) * 2, 720)</code> — which is why the dead rows now sit at 720 and 1440 minutes. The system is currently incapable of telling you that docket sync is down.</p>
+    <span class="src">base44/functions/sync-watchdog/entry.ts:36 · functions/system-health/entry.ts</span>
+  </div>
+
+</div>
+
+<h2>High</h2>
+<div class="stack">
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">SEC-2</span><span class="f-title">PACER and eFiling passwords are stored in plaintext and sent to the browser</span></div>
+    <p>Both credential entities declare the password as a bare <code>"type": "string"</code> — no encryption, no hashing, no write-only marker. The frontend then reads them back on every Settings load and renders them into an input with a reveal toggle.</p>
+    <div class="ev">pacer_password: list[0].pacer_password || '',   // PacerCredentialsSettings.jsx:27
+mo_efile_password: ...                          // MoEfileCredentialsSettings.jsx:21</div>
+    <p><b>Correctly scoped, wrongly stored.</b> RLS on both entities is owner-only on all four operations — <code>{"read": {"created_by_id": "{{user.id}}"}}</code> — so this is not cross-user exposure. But the secret never needs to leave the server.</p>
+  </div>
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">SEC-3</span><span class="f-title">The MCP server's write denylist is defeated on the read path</span></div>
+    <p><code>mcp-server</code> defines <code>ALL_ENTITIES</code> and a <code>WRITE_DENYLIST</code> that explicitly protects <code>PacerCredential</code> and <code>MoEfileCredential</code>. But <code>ALL_ENTITIES</code> is never used for validation — its only reference in the file is <code>total: ALL_ENTITIES.size</code>. The read tools accept any entity name:</p>
+    <div class="ev">const ent = base44.entities[entity];
+if (!ent) return err(`Unknown entity "${entity}". ...`);</div>
+    <p>Any connected MCP client calling <code>lawmind_query_entity({entity:"PacerCredential"})</code> gets the row back with the password in cleartext — into a third-party model's context and transcript.</p>
+    <span class="src">base44/functions/mcp-server/entry.ts:36,39,162</span>
+  </div>
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">SEC-4</span><span class="f-title">Inbound email can exfiltrate the case roster and misfile itself</span></div>
+    <p><code>email-intake-utils.ts</code> loads 300 Cases and 500 CaseRosters into the classification prompt alongside attacker-controlled body text, then uses the model's <code>matched_case_id</code> and <code>summary</code> without validation. A crafted email can instruct the model to emit the roster into <code>summary</code> (stored as <code>ai_summary</code>, echoed into a Notification) or route hostile content into any case.</p>
+    <p>Independent of SEC-1 — this survives fixing the auth hole.</p>
+    <span class="src">base44/shared/email-intake-utils.ts:9-30,50-66</span>
+  </div>
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">SEC-5</span><span class="f-title">Server-side request forgery driven by uploaded zip contents</span></div>
+    <p><code>run-repo-scripts</code> correctly allowlists the zip source, then fetches URLs an LLM extracted from the uploaded Python files with <b>no allowlist at all</b>. The prompt instructs it to "extract them verbatim from the code," so a zip containing a link to cloud instance metadata steers the server there. Up to 15 scripts × 3 URLs per run; failures echo the URL back.</p>
+    <p>Admin-gated, which caps blast radius — but the URL is chosen by untrusted zip content, not the admin. (Note the name misleads: it does not execute scripts.)</p>
+    <span class="src">base44/functions/run-repo-scripts/entry.ts:38-45,99</span>
+  </div>
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">SEC-6</span><span class="f-title">Two bridges share one static, unrotatable secret named PROMO_CODE</span></div>
+    <div class="ev">const BRIDGE_KEY = process.env.PROMO_CODE;
+return key === BRIDGE_KEY;   // non-constant-time</div>
+    <p>That single header value grants full <code>asServiceRole</code> access bypassing RLS: list all cases, read any case with evidence and arguments, update <code>case_number</code> and <code>factual_allegations</code>, dispatch faxes. <code>fax-bridge-queue</code> reuses the same secret and hands out full document <code>body_content</code>.</p>
+    <p>Setup docs tell users to paste it into a plaintext local file. The name is inherited from a removed promo-code feature — <b>if the deployed value was ever shown to a user, treat this as critical.</b></p>
+    <span class="src">functions/termux-bridge/entry.ts:25-30 · functions/fax-bridge-queue/entry.ts:30,102,126</span>
+  </div>
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">AG-3</span><span class="f-title">Affidavits bypass the entire filing-safety architecture</span></div>
+    <p><code>generateAffidavit</code> runs no citation guard and creates a <b><code>CaseDocument</code></b>, not a <code>GeneratedDocument</code>. Every export gate keys on <code>GeneratedDocument</code> fields — so none of them apply to it.</p>
+    <p>It also misfiles by design. For case number <code>23-CV-1234</code>, <code>split('-')[0]</code> is <code>"23"</code>:</p>
+    <div class="ev">const fuzzyMatches = userCases.filter(c =&gt;
+  c.case_number &amp;&amp; c.case_number.toLowerCase().includes(case_number.toLowerCase().split('-')[0])
+);</div>
+    <p>An LLM-drafted sworn document — perjury exposure — auto-attached to every case whose number contains "23".</p>
+    <span class="src">base44/functions/generateAffidavit/entry.ts:113</span>
+  </div>
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">AG-4</span><span class="f-title">strategy_engine is told to suspend factual scrutiny</span></div>
+    <div class="ev">"GROUND-TRUTH INGESTION: Treat every statement in the user's
+ affidavits and factual narrative as INDISPUTABLE FACT."</div>
+    <p>This agent drafts affidavits and pleadings. Rule 11 and Missouri Rule 55.03 sanctions attach to false <i>factual</i> contentions, not only bad citations. Its citation guardrails are strong; its factual ones are inverted. An agent told the client's narrative is indisputable cannot flag the drift <code>review-draft</code> is nominally checking for.</p>
+    <span class="src">base44/agents/strategy_engine.jsonc</span>
+  </div>
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">AG-5</span><span class="f-title">The 6 AM drafter produces ungrounded documents and tells a human to file them</span></div>
+    <p><code>UrgentDeadlineDrafter</code> fires on <code>0 6 * * *</code> with no human in the loop, builds a draft from a raw LLM prompt — no library retrieval, no statute lookup, no citation guard — then emails the attorney <i>"Review, finalize, and FILE it before the deadline."</i></p>
+    <p><b>The technical gate holds:</b> the draft lands with <code>citation_verification_status</code> unset, so <code>mayExport()</code> refuses it. It cannot be faxed or exported. But the design deliberately puts an unverified draft in front of a person under maximum time pressure with an instruction to file — which is exactly when approval gates get rubber-stamped.</p>
+  </div>
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">SEC-7</span><span class="f-title">chief_justice can mint access credentials</span></div>
+    <p>It holds <code>Invite</code> read/create/update — an LLM agent able to create access to a live system holding privileged client material. Its instructions claim permissions "mirror the requesting user's role," which is the right design, but that is asserted in a prompt and could not be verified platform-side from the repo. Access-control mutation should not sit behind a prompt-level assertion.</p>
+    <p>Related: <code>validate-invite</code> is an unauthenticated oracle — distinct messages for invalid / revoked / used / expired, no rate limiting, codes brute-forceable.</p>
+  </div>
+
+  <div class="finding f-high">
+    <div class="f-head"><span class="id">OPS-3</span><span class="f-title">Three functions bypass the credit circuit breaker entirely</span></div>
+    <p><code>verify-library-content</code>, <code>auto-index-repo</code> and <code>generate-case-highlights</code> call <code>base44.asServiceRole.integrations.Core.InvokeLLM</code> directly instead of <code>guardedInvokeLLM</code>. Their spend is uncapped, uncounted, and absent from the <code>CreditUsage</code> ledger — so the Credit Watchdog under-reports real spend by an unknown margin.</p>
+  </div>
+
+</div>
+
+<h2>Automation load</h2>
+<p class="sub">49 scheduled workflows produce ~1,184 runs/day. Four of them account for 81% of it. Several are outright redundant — <code>sync-watchdog</code> already invokes <code>process-pending-sync-queue</code> at 3× the rate the separate schedule does, and <code>system-health</code> invokes both watchdogs hourly on top of their own 5-minute crons.</p>
+<div class="tbl-scroll"><table>
+  <thead><tr><th>Workflow</th><th>Schedule</th><th class="num">Runs/day</th><th>Share</th></tr></thead>
+  <tbody>
+    <tr><td>AutoCaseGenerator</td><td><code>*/5 min</code> UTC</td><td class="num">288</td><td><span class="bar"><i style="width:100%"></i></span></td></tr>
+    <tr><td>SyncWatchdog</td><td><code>*/5 * * * *</code> UTC</td><td class="num">288</td><td><span class="bar"><i style="width:100%"></i></span></td></tr>
+    <tr><td>PipelineWatchdog</td><td><code>*/5 * * * *</code> UTC</td><td class="num">288</td><td><span class="bar"><i style="width:100%"></i></span></td></tr>
+    <tr><td>EightTitleScraperRotation</td><td><code>hourly</code> ×9 fns</td><td class="num">216</td><td><span class="bar"><i style="width:75%"></i></span></td></tr>
+    <tr><td>ProcessPendingSyncQueue</td><td><code>*/15 * * * *</code></td><td class="num">96</td><td><span class="bar"><i style="width:33%"></i></span></td></tr>
+    <tr><td>BulkLibraryScraper</td><td><code>hourly</code> ×4 fns</td><td class="num">96</td><td><span class="bar"><i style="width:33%"></i></span></td></tr>
+  </tbody>
+</table></div>
+<p class="sub" style="margin-top:1rem"><b>Consolidation available:</b> retiring <code>AutoCaseGenerator</code>, merging the two 5-minute watchdogs, dropping the redundant queue schedule, and folding the scraper, health-check, backup, deadline and SuperAgent families into single drivers takes you from ~1,184 to ~357 runs/day — a <b>70% reduction</b>, 49 scheduled workflows down to about 22.</p>
+
+<div class="stack">
+  <div class="finding f-med">
+    <div class="f-head"><span class="id">W-4</span><span class="f-title">A permanent recovery loop reports success 288 times a day</span></div>
+    <p><code>pending_sync_queue</code> shows <code>status: active, consecutive_stalls: 0</code> with <code>last_recovered_at</code> of today — but <code>last_heartbeat</code> still reads <b>2026-08-14T10:55</b>. <code>process-pending-sync-queue</code> never writes the heartbeat back, so every 5-minute watchdog run finds it stalled, "recovers" it, and marks it active again.</p>
+  </div>
+  <div class="finding f-med">
+    <div class="f-head"><span class="id">W-5</span><span class="f-title">One uploaded document triggers roughly three uncapped LLM calls</span></div>
+    <p><code>InstantDriveMatterRouting</code> and <code>RouteDriveFileToMatter</code> call the same function on the same trigger — only the second has a guard condition. Each update re-fires <code>GenerateCaseHighlights</code>, which has no trigger condition and calls <code>InvokeLLM</code> unguarded. The loop terminates only because <code>route-drive-file-to-matter</code> checks <code>drive_organized</code> — an idempotency check inside a function is the sole thing preventing an infinite entity-trigger loop.</p>
+  </div>
+  <div class="finding f-med">
+    <div class="f-head"><span class="id">W-6</span><span class="f-title">The repo indexer duplicates itself into the library daily</span></div>
+    <p><code>auto-index-repo</code> de-dupes only within a batch and never checks existing records before <code>bulkCreate</code>. Every day at 10:00 it re-creates the same Statute / LegalTerm / CaseSummary / GeneratedDocument rows. Each new GeneratedDocument then fires backup <i>and</i> calendar workflows — so duplicate junk becomes Google Calendar events.</p>
+  </div>
+  <div class="finding f-med">
+    <div class="f-head"><span class="id">DATA-1</span><span class="f-title">Loose ends in the data model</span></div>
+    <p><code>User</code> is the only entity with <b>no RLS block at all</b>, and it carries the <code>role</code> field. Worth confirming platform-side that role is not user-writable — that would be privilege escalation to admin.</p>
+    <p><code>ToolRequest</code> and <code>tool-request</code> are duplicate entities with identical 12-field shapes. 25 fields across the schema store JSON inside string columns — the same pattern that silently lost 159 documents per your own notes; <code>Case.linked_articles</code> still uses it (capped at 15, which mitigates it).</p>
+    <p>The <code>CreditUsage</code> ledger is polluted: rows with <code>date: "llm_cache:gemini_3_1_pro:1m8etpw"</code> — cache keys written into the date field. <code>purge-credit-usage-duplicates</code> exists but is wired to no workflow.</p>
+  </div>
+  <div class="finding f-med">
+    <div class="f-head"><span class="id">W-7</span><span class="f-title">Documented dead ends still running</span></div>
+    <p><code>PROJECT_KNOWLEDGE.txt</code> lists SuperAgent as <i>"DO NOT RETRY"</i>, yet three workflows plus <code>system-health</code> still call it and its heartbeat has been erroring since 14 August. <code>DailyMissouriCaseNetCheck</code> runs daily against a source your notes record as permanently CAPTCHA-blocked — 365 guaranteed failures a year.</p>
+  </div>
+</div>
+
+<h2>What's built well</h2>
+<div class="good">
+  <h3>The filing gate is the strongest thing in this system</h3>
+  <ul>
+    <li><b>Nothing reaches a court without a human click.</b> <code>send-fax</code> and <code>fax-bridge-queue</code> are the only paths out, and <b>neither appears in any of the 16 agents' tool configs</b> — no agent can fax. Both enforce four conditions: <code>ready_to_file</code>, empty <code>unverified_citations</code>, <code>mayExport()</code> passing, and <code>human_approved_at</code> set.</li>
+    <li><b><code>human_approved_at</code> is written in exactly one place in the entire codebase</b> — <code>DraftReview.jsx:178</code>, a person clicking approve. No backend function and no agent can set it.</li>
+    <li><b>The citation guard fails closed.</b> <code>citation-guard.ts</code> uses exact structured-key matching rather than substring, pages the full corpus, treats <code>corpus_incomplete</code> as unverified, and documents its own contract: <i>"A guard that throws means UNVERIFIED, never clean."</i> It's also honest about its limit — it checks a citation exists, not that it says what the draft claims.</li>
+    <li><b>The gate was hardened after a real bypass.</b> A comment in <code>fax-bridge-queue</code> records the fix: <i>"A draft could be queued and printed at a clerk's office without a person ever reading it."</i></li>
+    <li><b>No fabricated odds.</b> A grep for probability, odds, likelihood and win-rate language across all 16 agents returns nothing. The only quantitative legal output is <code>tort_law</code>'s Low/Mid/High damages ranges, and sourcing is required against RSMo § 538 caps. For legal software this is the right call and it looks deliberate.</li>
+    <li><b>The 8 specialty lenses are correctly scoped</b> — read-only on every entity, zero backend functions, zero write access, each carrying a retrieval-first rule and a disclaimer.</li>
+    <li><b>Clean on the usual suspects:</b> no hardcoded secrets (both matches are placeholders), no zip-slip, no SQL/NoSQL injection across 108 template-literal fetches, and the PACER password is never logged and only ever sent to <code>pacer.login.uscourts.gov</code> over TLS.</li>
+    <li><b>Real resilience where it counts:</b> <code>scrape-courtlistener</code> handles 429 with pre-flight quota checks and inter-request sleeps; <code>bulk-scrape-cap</code> is time-budgeted with resumable cursors; <code>master-legal-pipeline</code> uses circuit breakers.</li>
+  </ul>
+</div>
+
+<h2>Suggested fix order</h2>
+<p class="sub">Sequenced by risk removed per unit of effort. Nothing here has been done — say the word on any line and I'll take it.</p>
+<ol class="fix">
+  <li><b>Disable AutoCaseGenerator.</b> One toggle. Stops fabricated case law entering the library, frees the credit budget the deadline drafter needs, and removes 288 runs/day.<span class="eff">Resolves AI-1 and OPS-1</span></li>
+  <li><b>Reset the five exhausted heartbeats and fix the <code>continue</code>-past-exhausted logic</b> so failures alert again. Court docket sync has been dark for 20 days.<span class="eff">Resolves OPS-2, restores visibility on the deadline feed</span></li>
+  <li><b>Add an auth check to <code>email-case-intake</code>.</b> A few lines, matching the pattern already in <code>approve-pending-email</code>.<span class="eff">Resolves SEC-1</span></li>
+  <li><b>Set <code>auto_fix: false</code> on LibraryContentVerification</b> and queue corrections for review instead of overwriting statutes.<span class="eff">Resolves AI-2</span></li>
+  <li><b>Enforce <code>ALL_ENTITIES</code> as a read allowlist in <code>mcp-server</code></b> and exclude both credential entities.<span class="eff">Resolves SEC-3</span></li>
+  <li><b>Make the two password fields write-only server-side</b> and stop the Settings components reading them back.<span class="eff">Resolves SEC-2</span></li>
+  <li><b>Give <code>library_curator</code> the anti-fabrication block the other fifteen agents have</b> — or remove its drafting tools. Either closes it.<span class="eff">Resolves AG-1, reduces AG-2</span></li>
+  <li><b>Point <code>generateAffidavit</code> at <code>GeneratedDocument</code></b> so the filing gate applies, and fix the <code>split('-')[0]</code> case match.<span class="eff">Resolves AG-3</span></li>
+  <li><b>Rotate the bridge secret off <code>PROMO_CODE</code></b> to a dedicated, rotatable key with constant-time comparison.<span class="eff">Resolves SEC-6</span></li>
+  <li><b>Route the three unguarded functions through <code>guardedInvokeLLM</code></b> so the credit ledger tells the truth.<span class="eff">Resolves OPS-3</span></li>
+  <li><b>Then the structural merges</b> — watchdogs, scrapers, backups, deadline family. Lower risk, 70% fewer scheduled runs.<span class="eff">~827 runs/day saved</span></li>
+</ol>
+
+<p class="note"><b>Coverage, stated honestly.</b> Read in full: all 54 entity schemas, all 16 agent definitions, all 76 workflows, 25 high-risk backend functions, <code>citation-guard.ts</code>, <code>email-intake-utils.ts</code>, <code>silent-sync.ts</code>, <code>credit-guard.ts</code>, and the settings components. Grepped across the remaining ~135 functions for auth presence, secrets, credential handling, <code>mayExport</code> enforcement and unsanitized URL interpolation — their business logic was not read line by line. Live queries against <code>SyncHeartbeat</code>, <code>CreditUsage</code>, <code>PendingEmailApproval</code> and <code>CaseSummary</code>. Not examined: <code>src/</code> beyond the two settings components, the connector configs, and the two other apps in the workspace. One item I could not verify from the repo and flag as open: whether <code>User.role</code> is writable by its owner, and whether the four highest-privilege agents' <code>include_other_conversation_context</code> key is a real schema field or an inert typo — both need a platform-side check.</p>
+
+</div>
+
+</body></html>
