@@ -88,3 +88,12 @@ reference/
     constitution.md         Missouri Law Library only
     source/                 the artifact's published files, byte for byte
 ```
+
+## Dashboard
+
+The [Legal Reference Library dashboard](https://claude.ai/artifact/QdUBvmcsUVYabF7YVP4agF) reads the
+LawMind database live: statutes and regulations, dictionary terms, Latin terms, the thesaurus, encyclopedia
+articles, case summaries, verified authorities and deadline rules, each searched at the database as you type.
+The snapshots in this tree are its backup: every shelf has a "Show library backup" switch, and the backup
+opens on its own when the live read fails. `python3 scripts/reference-sync/dashboard_extract.py reference out/`
+rebuilds the backup data files after a re-sync.

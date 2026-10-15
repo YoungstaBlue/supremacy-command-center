@@ -4,3 +4,6 @@ cases/
 
 # Raw artifact downloads used by scripts/reference-sync/build.py (regenerable)
 snapshots/
+
+# Session chat transcripts written by a local hook (not project content)
+.claude/chat-exports/
