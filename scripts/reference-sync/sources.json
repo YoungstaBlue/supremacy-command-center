@@ -31,7 +31,10 @@
       "url": "https://claude.ai/artifact/KbFR8VxXTgxyK8FpGXE5Ma",
       "kind": "slides",
       "shelf": "Hubs and indexes",
-      "files": ["project/deck.json", "project/slides/*.html"],
+      "files": [
+        "project/deck.json",
+        "project/slides/*.html"
+      ],
       "note": "Slide deck tying the dictionaries, encyclopedia, statutes, case summaries and audits together."
     },
     {
@@ -44,7 +47,6 @@
       "docs_node": "6eae884d-aa61",
       "note": "Claude Doc: where every Missouri and federal source stands, gaps, and the ingestion order."
     },
-
     {
       "slug": "dictionary-a-c",
       "title": "LawMind Dictionary A–C",
@@ -141,14 +143,17 @@
       "shelf": "LawMind Reference Library",
       "volume": "Vol. 10"
     },
-
     {
       "slug": "missouri-law-library",
       "title": "Missouri Law Library",
       "url": "https://claude.ai/artifact/VDHKvXbCV8VG68xufvh8vL",
       "kind": "rsmo",
       "shelf": "Missouri primary law",
-      "files": ["data/index.json", "data/constitution.json", "data/t/*.json"],
+      "files": [
+        "data/index.json",
+        "data/constitution.json",
+        "data/t/*.json"
+      ],
       "note": "Every RSMo section and every Missouri Constitution section as captured from revisor.mo.gov."
     },
     {
@@ -198,6 +203,42 @@
       "kind": "jsdata",
       "shelf": "Glossaries",
       "note": "Statutory and plain-English definitions of the key terms across the matters."
+    },
+    {
+      "slug": "motions-deadlines-deskbook",
+      "title": "Motions & Deadlines Deskbook",
+      "url": "https://claude.ai/artifact/XiN8n3bJhAYAPdzeZZZfyU",
+      "kind": "html",
+      "shelf": "LawMind Reference Library",
+      "note": "254 motions and deadline-bearing procedures across Missouri civil, criminal and appellate practice and the federal courts: what each is, when it is used, the deadline and the rule."
+    },
+    {
+      "slug": "missouri-law-library-2",
+      "title": "Missouri Law Library (chapter edition)",
+      "url": "https://claude.ai/artifact/GG1qriy1x5fGeU74obGNuf",
+      "kind": "rsmo-chapters",
+      "shelf": "Missouri primary law",
+      "files": [
+        "data/toc.json",
+        "data/c/*.json"
+      ],
+      "note": "Second capture of every RSMo section and Missouri Constitution section from revisor.mo.gov, stored one file per chapter with history, source notes and case annotations."
+    },
+    {
+      "slug": "lawmind-architecture-deep-dive",
+      "title": "LawMind Architecture Deep Dive",
+      "url": "https://claude.ai/artifact/4GiGKsgVugXafS6Ui39HND",
+      "kind": "html",
+      "shelf": "LawMind platform notes",
+      "note": "Research memo on the September 2026 sync and watchdog repairs, the blueprint sheets, OCR and dedup heuristics for the dictionary import, and five scoped proposals."
+    },
+    {
+      "slug": "lawmind-platform-audit",
+      "title": "LawMind Platform Audit",
+      "url": "https://claude.ai/artifact/XJF4CBRr46iBWfT1s3BPjo",
+      "kind": "html",
+      "shelf": "LawMind platform notes",
+      "note": "Read-only security, data-integrity and automation review of the LawMind Base44 app, its agents, workflows and connectors (3 September 2026)."
     }
   ]
 }

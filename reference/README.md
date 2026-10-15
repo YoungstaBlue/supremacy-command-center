@@ -20,11 +20,11 @@ In a Claude Code session on this repository:
 3. Commit the result. `python3 scripts/reference-sync/build.py --verify` checks the tree against the manifest.
 
 To add a volume, append an entry to `sources.json` with a `kind` of `html`, `jsdata`, `jsonblock`,
-`slides`, `docs` or `rsmo` and repeat the steps above.
+`slides`, `docs`, `rsmo` or `rsmo-chapters` and repeat the steps above.
 
 ## Contents
 
-24 artifacts · 121.9 MB of published source files · 109.3 MB of generated Markdown and JSON · last sync 2026-10-06
+28 artifacts · 182.7 MB of published source files · 164.9 MB of generated Markdown and JSON · last sync 2026-10-15
 
 ### Hubs and indexes
 
@@ -52,6 +52,7 @@ To add a volume, append an entry to `sources.json` with a `kind` of `html`, `jsd
 | Vol. 8·III | **LawMind Federal Statutes III** | [federal-statutes-3.md](federal-statutes-3/federal-statutes-3.md) | [open](https://claude.ai/artifact/5F9pi1TM343tpfwEx55oz1) | 7.8 MB |
 | Vol. 9 | **LawMind Case Summaries A–L** | [case-summaries-a-l.md](case-summaries-a-l/case-summaries-a-l.md) | [open](https://claude.ai/artifact/8xfTaeco1b4VQdFN3wK9qu) | 5.4 MB |
 | Vol. 10 | **LawMind Case Summaries M–Z** | [case-summaries-m-z.md](case-summaries-m-z/case-summaries-m-z.md) | [open](https://claude.ai/artifact/9vuqGv67JcEAp4snfQwEpz) | 5.9 MB |
+|  | **Motions & Deadlines Deskbook** — 254 motions and deadline-bearing procedures across Missouri civil, criminal and appellate practice and the federal courts: what each is, when it is used, the deadline and the rule. | [motions-deadlines-deskbook.md](motions-deadlines-deskbook/motions-deadlines-deskbook.md) | [open](https://claude.ai/artifact/XiN8n3bJhAYAPdzeZZZfyU) | 595.5 KB |
 
 ### Missouri primary law
 
@@ -62,6 +63,7 @@ To add a volume, append an entry to `sources.json` with a `kind` of `html`, `jsd
 |  | **The Statute Shelf** — Five books: Missouri statutes, legal dictionary, thesaurus, Latin phrasebook, RSMo chapter catalog. | [statute-shelf.md](statute-shelf/statute-shelf.md) | [open](https://claude.ai/artifact/KgpnZbDueKbwyx8JY8xvkA) | 212.7 KB |
 |  | **Missouri Statute Browser** — Full-text statutes cited across the matters, with revisor.mo.gov links. | [missouri-statute-browser.md](missouri-statute-browser/missouri-statute-browser.md) | [open](https://claude.ai/artifact/MrUhWNjSgPV7AqMzbwUjAn) | 56.1 KB |
 |  | **Missouri Statutes, Cited Sections** — Master Doc 007, Missouri part: the fifteen RSMo sections cited in filings, checked against the citation log. | [missouri-statutes-cited.md](missouri-statutes-cited/missouri-statutes-cited.md) | [open](https://claude.ai/artifact/U2s6nSvToqLjdYCptWwU4p) | 89.1 KB |
+|  | **Missouri Law Library (chapter edition)** — Second capture of every RSMo section and Missouri Constitution section from revisor.mo.gov, stored one file per chapter with history, source notes and case annotations. | [missouri-law-library-2.md](missouri-law-library-2/missouri-law-library-2.md) | [open](https://claude.ai/artifact/GG1qriy1x5fGeU74obGNuf) | 59.6 MB |
 
 ### Federal primary law
 
@@ -74,6 +76,13 @@ To add a volume, append an entry to `sources.json` with a `kind` of `html`, `jsd
 | Volume | Title | Read | Live artifact | Source size |
 | --- | --- | --- | --- | --- |
 |  | **Legal Terms Glossary** — Statutory and plain-English definitions of the key terms across the matters. | [legal-terms-glossary.md](legal-terms-glossary/legal-terms-glossary.md) | [open](https://claude.ai/artifact/S2zZ3h9Kj1iahnREptHKMt) | 42.2 KB |
+
+### LawMind platform notes
+
+| Volume | Title | Read | Live artifact | Source size |
+| --- | --- | --- | --- | --- |
+|  | **LawMind Architecture Deep Dive** — Research memo on the September 2026 sync and watchdog repairs, the blueprint sheets, OCR and dedup heuristics for the dictionary import, and five scoped proposals. | [lawmind-architecture-deep-dive.md](lawmind-architecture-deep-dive/lawmind-architecture-deep-dive.md) | [open](https://claude.ai/artifact/4GiGKsgVugXafS6Ui39HND) | 622.1 KB |
+|  | **LawMind Platform Audit** — Read-only security, data-integrity and automation review of the LawMind Base44 app, its agents, workflows and connectors (3 September 2026). | [lawmind-platform-audit.md](lawmind-platform-audit/lawmind-platform-audit.md) | [open](https://claude.ai/artifact/XJF4CBRr46iBWfT1s3BPjo) | 38.7 KB |
 
 ## Layout
 

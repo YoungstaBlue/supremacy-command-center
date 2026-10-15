@@ -284,6 +284,62 @@ def convert_rsmo(src: dict, snap: Path, out: Path) -> list[Path]:
     return produced
 
 
+def convert_rsmo_chapters(src: dict, snap: Path, out: Path) -> list[Path]:
+    """Chapter-file edition of the Missouri Law Library: data/toc.json lists title
+    groups and chapters; data/c/<key>.json holds one chapter (or constitution
+    article) as a list of {n, h, b, hi, ef, src, an, no, d} sections."""
+    data = snap / "data"
+    toc = json.loads((data / "toc.json").read_text(encoding="utf-8"))
+    counts = toc.get("counts", {})
+    produced: list[Path] = []
+
+    def group_slug(group: dict) -> str:
+        match = re.match(r"Title\s+([IVXLC]+)", group.get("name", ""))
+        return f"title-{match.group(1)}" if match else "constitution"
+
+    index = [frontmatter(src), "# Missouri Law Library (chapter edition)\n",
+             f"Captured from revisor.mo.gov {toc.get('captured', '?')}. "
+             f"{counts.get('rsmo', 0):,} RSMo sections in {counts.get('chapters', 0)} chapters, "
+             f"plus {counts.get('const', 0)} Missouri Constitution sections "
+             f"({counts.get('versions', 0)} sections carry a pending future version).\n",
+             "## Titles\n"]
+    for group in toc["groups"]:
+        index.append(f"- [{group['name']}](rsmo/{group_slug(group)}.md) ({group.get('range', '')}) · {len(group['chapters'])} chapters")
+    index_path = out / f"{src['slug']}.md"
+    write(index_path, "\n".join(index) + "\n")
+    produced.append(index_path)
+
+    for group in toc["groups"]:
+        lines = [f"# {group['name']} ({group.get('range', '')})\n",
+                 f"Source: {src['url']} (`data/c/<chapter>.json`). Verify any section against revisor.mo.gov before citing.\n"]
+        for chapter in group["chapters"]:
+            sections = json.loads((data / "c" / f"{chapter['key']}.json").read_text(encoding="utf-8"))
+            lines.append(f"\n## {chapter.get('title') or chapter.get('name', chapter['key'])}\n")
+            if not sections:
+                lines.append("*No sections captured for this chapter.*\n")
+            for section in sections:
+                lines.append(f"\n### {section.get('n', '')} {section.get('h', '').strip()}\n")
+                body = (section.get("b") or "").strip()
+                if body:
+                    lines.append(body + "\n")
+                meta_bits = [bit.strip() for key in ("hi", "ef", "src") for bit in section.get(key) or [] if bit.strip()]
+                if section.get("d"):
+                    meta_bits.append(f"Revisor date {section['d']}")
+                if meta_bits:
+                    lines.append("*" + " · ".join(meta_bits) + "*\n")
+                for note in section.get("no") or []:
+                    lines.append(f"> {note.strip()}\n")
+                annotations = [a.strip() for a in section.get("an") or [] if a.strip()]
+                if annotations:
+                    lines.append("Annotations:\n")
+                    lines += [f"- {a}" for a in annotations]
+                    lines.append("")
+        path = out / "rsmo" / f"{group_slug(group)}.md"
+        write(path, tidy_md("\n".join(lines)))
+        produced.append(path)
+    return produced
+
+
 CONVERTERS = {
     "html": convert_html,
     "jsdata": convert_jsdata,
@@ -291,6 +347,7 @@ CONVERTERS = {
     "slides": convert_slides,
     "docs": convert_docs,
     "rsmo": convert_rsmo,
+    "rsmo-chapters": convert_rsmo_chapters,
 }
 
 
@@ -465,7 +522,7 @@ def render_readme(manifest: dict) -> str:
     position = {src["slug"]: index for index, src in enumerate(SOURCES)}
     for slug, entry in sorted(manifest["artifacts"].items(), key=lambda kv: position.get(kv[0], len(position))):
         shelves.setdefault(entry.get("shelf") or "Other", []).append((slug, entry))
-    order = ["Hubs and indexes", "LawMind Reference Library", "Missouri primary law", "Federal primary law", "Glossaries"]
+    order = ["Hubs and indexes", "LawMind Reference Library", "Missouri primary law", "Federal primary law", "Glossaries", "LawMind platform notes"]
     lines = [
         "# Reference Library",
         "",
@@ -489,7 +546,7 @@ def render_readme(manifest: dict) -> str:
         "3. Commit the result. `python3 scripts/reference-sync/build.py --verify` checks the tree against the manifest.",
         "",
         "To add a volume, append an entry to `sources.json` with a `kind` of `html`, `jsdata`, `jsonblock`,",
-        "`slides`, `docs` or `rsmo` and repeat the steps above.",
+        "`slides`, `docs`, `rsmo` or `rsmo-chapters` and repeat the steps above.",
         "",
     ]
     total_src = sum(e["source_bytes"] for e in manifest["artifacts"].values())
