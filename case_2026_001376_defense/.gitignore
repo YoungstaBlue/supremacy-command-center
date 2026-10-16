@@ -1,0 +1,29 @@
+# Evidence files are confidential and must never be committed to this repository.
+# Only the folder scaffold, scripts, index and READMEs are tracked.
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.m4v
+*.wav
+*.mp3
+*.pdf
+*.PDF
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.docx
+*.doc
+*.xlsx
+*.csv
+*.zip
+*.7z
+*.rar
+*.log
+05_EXHIBIT_VIDEO_CLIPS/checksums_sha256_exhibits.txt
+05_EXHIBIT_VIDEO_CLIPS/clip_run_*.txt
+05_EXHIBIT_VIDEO_CLIPS/ffprobe_*.txt
+!README.md
+!.gitkeep
